@@ -28,7 +28,7 @@
 *   **Shifting Sliver:** The ultimate evasion. Makes all Slivers unblockable unless the defending player also controls a Sliver.
 *   **Horned Sliver:** Gives all Slivers Trample.
 *   **Heart Sliver / Blur Sliver:** Give all Slivers Haste.
-*   **Spiteful Sliver:** A strange form of offense. Whenever a Sliver is dealt damage, it deals that much damage to a target player. A great deterrent for blockers.
+*   **Sliver Queen:** Creates 1/1 Sliver tokens for {2}. A massive army generator and infinite mana outlet.
 
 ## 4. Defensive Slivers: Protection & Resilience
 *These slivers protect your board from removal and make combat difficult for your opponents.*
@@ -52,7 +52,7 @@
 *   **Lazotep Sliver:** Gives your Slivers "Afflict," causing opponents to lose life even when they block.
 *   **Quick Sliver:** Allows you to cast Sliver spells as though they had flash.
 *   **Synapse Sliver:** Lets you draw a card whenever a Sliver deals combat damage to a player.
-*   **Virulent Sliver:** Gives all Slivers "Poisonous 1," putting you on an alternate win condition.
+*   **Dregscape Sliver:** Gives all your Slivers "Unearth" ({2}), allowing you to return them from the graveyard for a final, hasty attack.
 
 ## 6. Non-Sliver Support: Value & Tutors
 *   **Vanquisher's Banner / Herald's Horn / Urza's Incubator:** Tribal support artifacts that make your Slivers cheaper and/or draw you cards.
@@ -86,7 +86,8 @@
 *   **Distant Melody / Beast Whisperer:** Additional card draw engines.
 *   **Training Grounds / Heartstone:** Reduce the cost of Sliver Overlord's tutoring ability.
 *   **An Offer You Can't Refuse / Swan Song:** Cheap counterspells to protect your combos.
-*   **Sliver Queen:** Include in the 99 if you want a token-making subtheme.
+*   **Spiteful Sliver:** Good deterrent against damage-based decks.
+*   **Virulent Sliver:** Alternative win condition (Poison), though weak without dedication.
 
 ## Wishlist / Upgrade Path
 *The most powerful and expensive upgrades for the deck.*
@@ -118,6 +119,7 @@ MAIN DECK:
 1 Crystalline Sliver
 1 Cultivate
 1 Descendants' Path
+1 Dregscape Sliver
 1 Diffusion Sliver
 1 Eladamri's Call
 1 Exotic Orchard
@@ -170,9 +172,9 @@ MAIN DECK:
 1 Sliver Hive
 1 Sliver Hivelord
 1 Sliver Overlord
+1 Sliver Queen
 1 Sol Ring
 1 Spara's Headquarters
-1 Spiteful Sliver
 1 Steely Resolve
 1 Stomping Ground
 2 Swamp
@@ -187,7 +189,6 @@ MAIN DECK:
 1 Vanquisher's Banner
 1 Venom Sliver
 1 Verdant Catacombs
-1 Virulent Sliver
 1 Ward Sliver
 1 Windswept Heath
 1 Winged Sliver
