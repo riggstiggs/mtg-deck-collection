@@ -9,6 +9,7 @@ This file contains the instructions to resume the deck formatting task.
 *   Markdown compatible with Windows 11 Notepad (no `---` or ` ``` `).
 *   Windows-style line endings (`\r\n`).
 *   A plain text copy/paste section at the end of the file.
+*   A "## Deck Changelog" section (example format in `commander_decks/OmnathLocusOfCreation/omnath_locus_of_creation_landfall.md`) for tracking all modifications.
 
 **To Resume:**
 To resume, simply ask me to continue the deck formatting task. I will pick up where I left off based on the TODO list below.

@@ -37,6 +37,8 @@ Dedicated folder for MTG Arena (60-card formats like Standard, Historic, Timeles
 *   **History:** Check `history.md` before making suggestions to ensure consistency with previous advice (e.g., don't suggest a deck the user already rejected).
 *   **Updates:** If the user crafts cards or changes a deck, update the corresponding `.md` file to reflect the new "Current State".
 
+*   **Deck Changelog:** For all deck files, maintain a `## Deck Changelog` section (typically placed before the "Plain Text Copy/Paste" section). Document all card changes (In/Out) with a date and a brief reason. The format should match the example found in `commander_decks/OmnathLocusOfCreation/omnath_locus_of_creation_landfall.md`.
+
 ## 4. User Preferences (Inferred)
 *   **Formats:** Paper Commander (EDH) and MTG Arena (Standard/Historic).
 *   **Playstyle:** Enjoys complex interactions (Cascade, Landfall), Tribal strategies (Slivers), and Midrange/Control (Dimir). Dislikes linear Aggro (Mono-Red).
