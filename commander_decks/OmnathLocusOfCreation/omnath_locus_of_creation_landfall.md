@@ -26,7 +26,7 @@
 *   Felidar Retreat
 *   Moraug, Fury of Akoum
 *   Omnath, Locus of the Roil
-*   Rampaging Baloths
+*   Kodama of the East Tree
 *   Scute Swarm
 *   Tireless Provisioner
 
@@ -82,6 +82,11 @@
 *   **Staples (2):** Command Tower, Exotic Orchard
 *   **Basics (11):** Forest (3), Island (3), Mountain (2), Plains (3)
 
+## Deck Changelog
+*   **2026-01-31:**
+    *   **Out:** Rampaging Baloths
+    *   **In:** Kodama of the East Tree
+    *   *Reason: Kodama provides a much higher potential for value and explosive, game-ending turns compared to the more linear token generation of Baloths. This leans more into the deck's combo potential.*
 
 ## Plain Text Copy/Paste
 
@@ -140,7 +145,7 @@ DECK:
 3 Plains
 1 Prismatic Vista
 1 Ramunap Excavator
-1 Rampaging Baloths
+1 Kodama of the East Tree
 1 Raugrin Triome
 1 Reliquary Tower
 1 Rhystic Study
