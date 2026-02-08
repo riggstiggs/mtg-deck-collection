@@ -34,96 +34,96 @@
 
 ## Copy/Paste Decklist (Moxfield Format)
 
-1 Captain America, First Avenger
-1 Academy Ruins
-1 Akiri, Fearless Voyager
-1 Archway of Innovation
-1 Ardenn, Intrepid Archaeologist
-1 Arid Mesa
-1 Axgard Armory
-1 Battlefield Improvisation
-1 Blasphemous Act
-1 Bureau Headmaster
-1 Buried Ruin
-1 Captain America's Aid
-1 Chaos Warp
-1 Clifftop Retreat
-1 Codsworth, Handy Helper
-1 Colossus Hammer
-1 Command Tower
-1 Commander's Plate
-1 Counterspell
-1 Cyclonic Rift
-1 Dalakos, Crafter of Wonders
-1 Danitha Capashen, Paragon
-1 Deserted Beach
-1 Dovin's Veto
-1 Earth's Mightiest Emblem
-1 Embercleave
-1 Esper Sentinel
-1 Excalibur, Sword of Eden
-1 Exotic Orchard
-1 Fabled Passage
-1 Fabricate
-1 Fellwar Stone
-1 Fiery Emancipation
-1 Fighter Class
-1 Flawless Maneuver
-1 Flooded Strand
-1 Forge Anew
-1 Glacial Fortress
-1 Godo, Bandit Warlord
-1 Grafted Exoskeleton
-1 Hallowed Fountain
-1 Halvar, God of Battle
-1 Hammer of Nazahn
-1 Helm of the Host
-1 Hexplate Wallbreaker
-1 In the Trenches
-1 Inventors' Fair
-1 Inventory Management
-3 Island
-1 Jhoira, Weatherlight Captain
-1 Kaldra Compleat
-1 Lightning Greaves
-1 Lion Sash
-1 Lizard Blades
-1 Mithril Coat
-1 Mjölnir, Storm Hammer
-3 Mountain
-1 Ornithopter of Paradise
-1 Path to Exile
-4 Plains
-1 Puresteel Paladin
-1 Raugrin Triome
-1 Reliquary Tower
-1 Rhystic Study
-1 Rogue's Passage
-1 Sacred Foundry
-1 Scalding Tarn
-1 Sea of Clouds
-1 Shield of War and Peace
-1 Sol Ring
-1 Spectator Seating
-1 Sram, Senior Edificer
-1 Steam Vents
-1 Steelshaper's Gift
-1 Stoneforge Mystic
-1 Stonehewer Giant
-1 Stormcarved Coast
-1 Stroke of Midnight
-1 Sulfur Falls
-1 Sundown Pass
-1 Swiftfoot Boots
-1 Sword of Feast and Famine
-1 Swords to Plowshares
-1 Talisman of Conviction
-1 Talisman of Creativity
-1 Talisman of Progress
-1 The Reaver Cleaver
-1 Thought Vessel
-1 Thoughtcast
-1 Thran Power Suit
-1 Training Center
-1 Training Grounds
-1 Whispersilk Cloak
+1 Captain America, First Avenger  
+1 Academy Ruins  
+1 Akiri, Fearless Voyager  
+1 Archway of Innovation  
+1 Ardenn, Intrepid Archaeologist  
+1 Arid Mesa  
+1 Axgard Armory  
+1 Battlefield Improvisation  
+1 Blasphemous Act  
+1 Bureau Headmaster  
+1 Buried Ruin  
+1 Captain America's Aid  
+1 Chaos Warp  
+1 Clifftop Retreat  
+1 Codsworth, Handy Helper  
+1 Colossus Hammer  
+1 Command Tower  
+1 Commander's Plate  
+1 Counterspell  
+1 Cyclonic Rift  
+1 Dalakos, Crafter of Wonders  
+1 Danitha Capashen, Paragon  
+1 Deserted Beach  
+1 Dovin's Veto  
+1 Earth's Mightiest Emblem  
+1 Embercleave  
+1 Esper Sentinel  
+1 Excalibur, Sword of Eden  
+1 Exotic Orchard  
+1 Fabled Passage  
+1 Fabricate  
+1 Fellwar Stone  
+1 Fiery Emancipation  
+1 Fighter Class  
+1 Flawless Maneuver  
+1 Flooded Strand  
+1 Forge Anew  
+1 Glacial Fortress  
+1 Godo, Bandit Warlord  
+1 Grafted Exoskeleton  
+1 Hallowed Fountain  
+1 Halvar, God of Battle  
+1 Hammer of Nazahn  
+1 Helm of the Host  
+1 Hexplate Wallbreaker  
+1 In the Trenches  
+1 Inventors' Fair  
+1 Inventory Management  
+3 Island  
+1 Jhoira, Weatherlight Captain  
+1 Kaldra Compleat  
+1 Lightning Greaves  
+1 Lion Sash  
+1 Lizard Blades  
+1 Mithril Coat  
+1 Mjölnir, Storm Hammer  
+3 Mountain  
+1 Ornithopter of Paradise  
+1 Path to Exile  
+4 Plains  
+1 Puresteel Paladin  
+1 Raugrin Triome  
+1 Reliquary Tower  
+1 Rhystic Study  
+1 Rogue's Passage  
+1 Sacred Foundry  
+1 Scalding Tarn  
+1 Sea of Clouds  
+1 Shield of War and Peace  
+1 Sol Ring  
+1 Spectator Seating  
+1 Sram, Senior Edificer  
+1 Steam Vents  
+1 Steelshaper's Gift  
+1 Stoneforge Mystic  
+1 Stonehewer Giant  
+1 Stormcarved Coast  
+1 Stroke of Midnight  
+1 Sulfur Falls  
+1 Sundown Pass  
+1 Swiftfoot Boots  
+1 Sword of Feast and Famine  
+1 Swords to Plowshares  
+1 Talisman of Conviction  
+1 Talisman of Creativity  
+1 Talisman of Progress  
+1 The Reaver Cleaver  
+1 Thought Vessel  
+1 Thoughtcast  
+1 Thran Power Suit  
+1 Training Center  
+1 Training Grounds  
+1 Whispersilk Cloak  

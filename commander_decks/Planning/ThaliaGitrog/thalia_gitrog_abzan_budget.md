@@ -64,91 +64,91 @@
 
 ## Plain Text Copy/Paste
 
-1 Thalia and The Gitrog Monster
-1 Toxic Deluge
-1 Damn
-1 Assassin's Trophy
-1 Anguished Unmaking
-1 Despark
-1 Drana and Linvala
-1 Opposition Agent
-1 Dauthi Voidwalker
-1 Authority of the Consuls
-1 Ramunap Excavator
-1 Crucible of Worlds
-1 Ancient Greenwarden
-1 Azusa, Lost but Seeking
-1 The Gitrog Monster
-1 Titania, Protector of Argoth
-1 Ob Nixilis, the Fallen
-1 Rampaging Baloths
-1 Scute Swarm
-1 Avenger of Zendikar
-1 Tireless Provisioner
-1 Lotus Cobra
-1 Tireless Tracker
-1 Braids, Arisen Nightmare
-1 Elesh Norn, Grand Cenobite
-1 Felidar Retreat
-1 Luminarch Aspirant
-1 Toski, Bearer of Secrets
-1 Guardian Project
-1 Sol Ring
-1 Arcane Signet
-1 Talisman of Hierarchy
-1 Talisman of Resilience
-1 Talisman of Unity
-1 Birds of Paradise
-1 Deathrite Shaman
-1 Elves of Deep Shadow
-1 Avacyn's Pilgrim
-1 Three Visits
-1 Nature's Lore
-1 Farseek
-1 Smothering Tithe
-1 Swords to Plowshares
-1 Path to Exile
-1 Teferi's Protection
-1 Heroic Intervention
-1 Diabolic Intent
-1 Demonic Tutor
-1 Eladamri's Call
-1 Verdant Catacombs
-1 Windswept Heath
-1 Marsh Flats
-1 Fabled Passage
-1 Temple Garden
-1 Overgrown Tomb
-1 Godless Shrine
-1 Ghost Quarter
-1 Takenuma, Abandoned Mire
-1 Bojuka Bog
-1 Urborg, Tomb of Yawgmoth
-1 Yavimaya, Cradle of Growth
-1 Indatha Triome
-1 Command Tower
-1 Murmuring Bosk
-6 Forest
-4 Swamp
-4 Plains
-1 Harrow
-1 Roiling Regrowth
-1 Springbloom Druid
-1 Crop Rotation
-1 Manglehorn
-1 Collector Ouphe
-1 Deafening Silence
-1 Blind Obedience
-1 Kambal, Consul of Allocation
-1 Painful Quandary
-1 Undergrowth Stadium
-1 Vault of Champions
-1 Sandsteppe Citadel
-1 Woodland Cemetery
-1 Isolated Chapel
-1 Sunpetal Grove
-1 Llanowar Wastes
-1 Caves of Koilos
-1 Brushland
-1 Sylvan Safekeeper
-1 Knight of the Reliquary
+1 Thalia and The Gitrog Monster  
+1 Toxic Deluge  
+1 Damn  
+1 Assassin's Trophy  
+1 Anguished Unmaking  
+1 Despark  
+1 Drana and Linvala  
+1 Opposition Agent  
+1 Dauthi Voidwalker  
+1 Authority of the Consuls  
+1 Ramunap Excavator  
+1 Crucible of Worlds  
+1 Ancient Greenwarden  
+1 Azusa, Lost but Seeking  
+1 The Gitrog Monster  
+1 Titania, Protector of Argoth  
+1 Ob Nixilis, the Fallen  
+1 Rampaging Baloths  
+1 Scute Swarm  
+1 Avenger of Zendikar  
+1 Tireless Provisioner  
+1 Lotus Cobra  
+1 Tireless Tracker  
+1 Braids, Arisen Nightmare  
+1 Elesh Norn, Grand Cenobite  
+1 Felidar Retreat  
+1 Luminarch Aspirant  
+1 Toski, Bearer of Secrets  
+1 Guardian Project  
+1 Sol Ring  
+1 Arcane Signet  
+1 Talisman of Hierarchy  
+1 Talisman of Resilience  
+1 Talisman of Unity  
+1 Birds of Paradise  
+1 Deathrite Shaman  
+1 Elves of Deep Shadow  
+1 Avacyn's Pilgrim  
+1 Three Visits  
+1 Nature's Lore  
+1 Farseek  
+1 Smothering Tithe  
+1 Swords to Plowshares  
+1 Path to Exile  
+1 Teferi's Protection  
+1 Heroic Intervention  
+1 Diabolic Intent  
+1 Demonic Tutor  
+1 Eladamri's Call  
+1 Verdant Catacombs  
+1 Windswept Heath  
+1 Marsh Flats  
+1 Fabled Passage  
+1 Temple Garden  
+1 Overgrown Tomb  
+1 Godless Shrine  
+1 Ghost Quarter  
+1 Takenuma, Abandoned Mire  
+1 Bojuka Bog  
+1 Urborg, Tomb of Yawgmoth  
+1 Yavimaya, Cradle of Growth  
+1 Indatha Triome  
+1 Command Tower  
+1 Murmuring Bosk  
+6 Forest  
+4 Swamp  
+4 Plains  
+1 Harrow  
+1 Roiling Regrowth  
+1 Springbloom Druid  
+1 Crop Rotation  
+1 Manglehorn  
+1 Collector Ouphe  
+1 Deafening Silence  
+1 Blind Obedience  
+1 Kambal, Consul of Allocation  
+1 Painful Quandary  
+1 Undergrowth Stadium  
+1 Vault of Champions  
+1 Sandsteppe Citadel  
+1 Woodland Cemetery  
+1 Isolated Chapel  
+1 Sunpetal Grove  
+1 Llanowar Wastes  
+1 Caves of Koilos  
+1 Brushland  
+1 Sylvan Safekeeper  
+1 Knight of the Reliquary  

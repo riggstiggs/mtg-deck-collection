@@ -47,30 +47,30 @@
 ## Copy/Paste Decklist (MTG Arena Format)
 
 Deck
-4 Kona, Rescue Beastie (EOE) 182
-4 Omniscience (M19) 65
-4 Uthros, Titanic Godcore (EOE) 210
-4 Roiling Dragonstorm (EOE) 195
-4 Marang River Regent (EOE) 52
-4 Consult the Star Charts (EOE) 45
-4 Stock Up (EOE) 198
-4 Unauthorized Exit (OTJ) 72
-4 Dispelling Exhale (EOE) 48
-3 Lost in the Maze (LCI) 63
-2 Monument to Endurance (EOE) 230
-4 Breeding Pool (RNA) 246
-4 Willowrush Verge (FDN) 280
-4 Evendo, Waking Haven (EOE) 245
-3 Cavern of Souls (LCI) 269
-4 Island (FDN) 265
-4 Forest (FDN) 270
+4 Kona, Rescue Beastie (EOE) 182  
+4 Omniscience (M19) 65  
+4 Uthros, Titanic Godcore (EOE) 210  
+4 Roiling Dragonstorm (EOE) 195  
+4 Marang River Regent (EOE) 52  
+4 Consult the Star Charts (EOE) 45  
+4 Stock Up (EOE) 198  
+4 Unauthorized Exit (OTJ) 72  
+4 Dispelling Exhale (EOE) 48  
+3 Lost in the Maze (LCI) 63  
+2 Monument to Endurance (EOE) 230  
+4 Breeding Pool (RNA) 246  
+4 Willowrush Verge (FDN) 280  
+4 Evendo, Waking Haven (EOE) 245  
+3 Cavern of Souls (LCI) 269  
+4 Island (FDN) 265  
+4 Forest (FDN) 270  
 
 Sideboard
-2 Tishana's Tidebinder (LCI) 81
-2 Negate (STA) 18
-2 Unable to Scream (DSK) 82
-1 Soul-Guide Lantern (BRR) 54
-2 Hide on the Ceiling (DSK) 16
-2 Origin of Metalbending (EOE) 58
-1 Spell Pierce (XLN) 81
-1 Vivien Reid (M19) 208
+2 Tishana's Tidebinder (LCI) 81  
+2 Negate (STA) 18  
+2 Unable to Scream (DSK) 82  
+1 Soul-Guide Lantern (BRR) 54  
+2 Hide on the Ceiling (DSK) 16  
+2 Origin of Metalbending (EOE) 58  
+1 Spell Pierce (XLN) 81  
+1 Vivien Reid (M19) 208  

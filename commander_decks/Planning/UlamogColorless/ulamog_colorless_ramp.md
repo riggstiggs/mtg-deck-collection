@@ -55,87 +55,87 @@
 
 ## Plain Text Copy/Paste
 
-1 Ulamog, the Ceaseless Hunger
-1 Kozilek, the Great Distortion
-1 Platinum Angel
-1 Roaming Throne
-1 Metalwork Colossus
-1 Akroma's Memorial
-1 Cityscape Leveler
-1 Steel Hellkite
-1 Wurmcoil Engine
-1 Myr Battlesphere
-1 The Mightstone and Weakstone
-1 Mazemind Tome
-1 Stonecoil Serpent
-1 Portal to Phyrexia
-1 Forsaken Monument
-1 Ugin, the Ineffable
-1 Mystic Forge
-1 Liberator, Urza's Battlethopter
-1 Foundry Inspector
-1 Jhoira's Familiar
-1 Palladium Myr
-1 Solemn Simulacrum
-1 Burnished Hart
-1 Introduction to Annihilation
-1 Unstable Obelisk
-1 Environmental Sciences
-1 Chromatic Orrery
-1 Lithoform Engine
-1 Mirage Mirror
-1 Karn, Scion of Urza
-1 Karn, the Great Creator
-1 Cloud Key
-1 Arcane Signet
-1 Mind Stone
-1 Moonsilver Key
-1 Coldsteel Heart
-1 Guardian Idol
-1 Collector's Vault
-1 Letter of Acceptance
-1 Worn Powerstone
-1 Hedron Archive
-1 Replicating Ring
-1 Gilded Lotus
-1 Dreamstone Hedron
-1 Network Terminal
-1 Firemind Vessel
-2 Relic of Legends
-1 Energy Refractor
-1 Chaos Wand
-1 Transmogrifying Wand
-1 Key to the Archive
-1 Palantir of Orthanc
-1 Staff of Domination
-1 The Stasis Coffin
-1 The Immortal Sun
-1 It That Heralds the End
-1 Swiftfoot Boots
-1 Lightning Greaves
-1 Mirror Shield
-1 Soul-Guide Lantern
-1 Relic of Progenitus
-1 Ratchet Bomb
-1 Kozilek, the Broken Reality
-1 Perilous Vault
-1 Blast Zone
-1 Mirrex
-1 Temple of the False God
-1 Tomb of the Spirit Dragon
-1 Zhalfirin Void
-1 Rogue's Passage
-1 Bonder's Enclave
-1 Arch of Orazca
-1 Scavenger Grounds
-1 Buried Ruin
-1 Tocasia's Dig Site
-1 Inventors' Fair
-1 Darksteel Citadel
-1 Radiant Fountain
-1 Labyrinth of Skophos
-1 Crawling Barrens
-1 Faceless Haven
-1 Field of Ruin
-1 Demolition Field
-18 Wastes
+1 Ulamog, the Ceaseless Hunger  
+1 Kozilek, the Great Distortion  
+1 Platinum Angel  
+1 Roaming Throne  
+1 Metalwork Colossus  
+1 Akroma's Memorial  
+1 Cityscape Leveler  
+1 Steel Hellkite  
+1 Wurmcoil Engine  
+1 Myr Battlesphere  
+1 The Mightstone and Weakstone  
+1 Mazemind Tome  
+1 Stonecoil Serpent  
+1 Portal to Phyrexia  
+1 Forsaken Monument  
+1 Ugin, the Ineffable  
+1 Mystic Forge  
+1 Liberator, Urza's Battlethopter  
+1 Foundry Inspector  
+1 Jhoira's Familiar  
+1 Palladium Myr  
+1 Solemn Simulacrum  
+1 Burnished Hart  
+1 Introduction to Annihilation  
+1 Unstable Obelisk  
+1 Environmental Sciences  
+1 Chromatic Orrery  
+1 Lithoform Engine  
+1 Mirage Mirror  
+1 Karn, Scion of Urza  
+1 Karn, the Great Creator  
+1 Cloud Key  
+1 Arcane Signet  
+1 Mind Stone  
+1 Moonsilver Key  
+1 Coldsteel Heart  
+1 Guardian Idol  
+1 Collector's Vault  
+1 Letter of Acceptance  
+1 Worn Powerstone  
+1 Hedron Archive  
+1 Replicating Ring  
+1 Gilded Lotus  
+1 Dreamstone Hedron  
+1 Network Terminal  
+1 Firemind Vessel  
+2 Relic of Legends  
+1 Energy Refractor  
+1 Chaos Wand  
+1 Transmogrifying Wand  
+1 Key to the Archive  
+1 Palantir of Orthanc  
+1 Staff of Domination  
+1 The Stasis Coffin  
+1 The Immortal Sun  
+1 It That Heralds the End  
+1 Swiftfoot Boots  
+1 Lightning Greaves  
+1 Mirror Shield  
+1 Soul-Guide Lantern  
+1 Relic of Progenitus  
+1 Ratchet Bomb  
+1 Kozilek, the Broken Reality  
+1 Perilous Vault  
+1 Blast Zone  
+1 Mirrex  
+1 Temple of the False God  
+1 Tomb of the Spirit Dragon  
+1 Zhalfirin Void  
+1 Rogue's Passage  
+1 Bonder's Enclave  
+1 Arch of Orazca  
+1 Scavenger Grounds  
+1 Buried Ruin  
+1 Tocasia's Dig Site  
+1 Inventors' Fair  
+1 Darksteel Citadel  
+1 Radiant Fountain  
+1 Labyrinth of Skophos  
+1 Crawling Barrens  
+1 Faceless Haven  
+1 Field of Ruin  
+1 Demolition Field  
+18 Wastes  

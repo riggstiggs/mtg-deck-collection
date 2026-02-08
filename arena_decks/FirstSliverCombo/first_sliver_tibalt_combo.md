@@ -59,70 +59,70 @@
 ## Copy/Paste Decklist (MTG Arena Format)
 
 Commander
-1 The First Sliver
+1 The First Sliver  
 
 Deck
-1 Tibalt's Trickery
-1 Etali, Primal Conqueror
-1 Imoti, Celebrant of Bounty
-1 Trumpeting Carnosaur
-1 Atraxa, Grand Unifier
-1 Emrakul, the Promised End
-1 Ulamog, the Ceaseless Hunger
-1 Emergent Ultimatum
-1 Omniscience
-1 One with the Multiverse
-1 Ugin's Labyrinth
-1 Etali, Primal Storm
-1 Brass's Bounty
-1 Gilded Lotus
-1 Chromatic Orrery
-1 Sea Gate Restoration
-1 Turntimber Symbiosis
-1 Shatterskull Smashing
-1 Emeria's Call
-1 Annoyed Altisaur
-1 Maelstrom Colossus
-1 Boarding Party
-1 Beanstalk Giant
-1 Command Tower
-1 Mana Confluence
-1 Cavern of Souls
-1 The World Tree
-1 Plaza of Heroes
-1 Fabled Passage
-1 Indatha Triome
-1 Ketria Triome
-1 Raugrin Triome
-1 Savai Triome
-1 Zagoth Triome
-1 Jetmir's Garden
-1 Raffine's Tower
-1 Spara's Headquarters
-1 Xander's Lounge
-1 Ziatora's Proving Ground
-1 Blood Crypt
-1 Breeding Pool
-1 Godless Shrine
-1 Hallowed Fountain
-1 Overgrown Tomb
-1 Sacred Foundry
-1 Steam Vents
-1 Stomping Ground
-1 Temple Garden
-1 Watery Grave
-1 Polluted Delta
-1 Flooded Strand
-1 Windswept Heath
-1 Wooded Foothills
-1 Bloodstained Mire
-1 Arid Mesa
-1 Scalding Tarn
-1 Misty Rainforest
-1 Verdant Catacombs
-1 Marsh Flats
-1 Snow-Covered Plains
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
+1 Tibalt's Trickery  
+1 Etali, Primal Conqueror  
+1 Imoti, Celebrant of Bounty  
+1 Trumpeting Carnosaur  
+1 Atraxa, Grand Unifier  
+1 Emrakul, the Promised End  
+1 Ulamog, the Ceaseless Hunger  
+1 Emergent Ultimatum  
+1 Omniscience  
+1 One with the Multiverse  
+1 Ugin's Labyrinth  
+1 Etali, Primal Storm  
+1 Brass's Bounty  
+1 Gilded Lotus  
+1 Chromatic Orrery  
+1 Sea Gate Restoration  
+1 Turntimber Symbiosis  
+1 Shatterskull Smashing  
+1 Emeria's Call  
+1 Annoyed Altisaur  
+1 Maelstrom Colossus  
+1 Boarding Party  
+1 Beanstalk Giant  
+1 Command Tower  
+1 Mana Confluence  
+1 Cavern of Souls  
+1 The World Tree  
+1 Plaza of Heroes  
+1 Fabled Passage  
+1 Indatha Triome  
+1 Ketria Triome  
+1 Raugrin Triome  
+1 Savai Triome  
+1 Zagoth Triome  
+1 Jetmir's Garden  
+1 Raffine's Tower  
+1 Spara's Headquarters  
+1 Xander's Lounge  
+1 Ziatora's Proving Ground  
+1 Blood Crypt  
+1 Breeding Pool  
+1 Godless Shrine  
+1 Hallowed Fountain  
+1 Overgrown Tomb  
+1 Sacred Foundry  
+1 Steam Vents  
+1 Stomping Ground  
+1 Temple Garden  
+1 Watery Grave  
+1 Polluted Delta  
+1 Flooded Strand  
+1 Windswept Heath  
+1 Wooded Foothills  
+1 Bloodstained Mire  
+1 Arid Mesa  
+1 Scalding Tarn  
+1 Misty Rainforest  
+1 Verdant Catacombs  
+1 Marsh Flats  
+1 Snow-Covered Plains  
+1 Snow-Covered Island  
+1 Snow-Covered Swamp  
+1 Snow-Covered Mountain  
+1 Snow-Covered Forest  

@@ -98,100 +98,100 @@
 ## Plain Text Copy/Paste
 
 COMMANDER:
-1 The First Sliver
+1 The First Sliver  
 
 MAIN DECK:
-1 Arcane Signet
-1 Arid Mesa
-1 Beast Within
-1 Birds of Paradise
-1 Blasphemous Act
-1 Blood Crypt
-1 Bloodstained Mire
-1 Blur Sliver
-1 Bonescythe Sliver
-1 Breeding Pool
-1 Brood Sliver
-1 Chromatic Lantern
-1 Cloudshredder Sliver
-1 Command Tower
-1 Crypt Sliver
-1 Crystalline Sliver
-1 Cultivate
-1 Descendants' Path
-1 Dregscape Sliver
-1 Diffusion Sliver
-1 Eladamri's Call
-1 Exotic Orchard
-1 Fabled Passage
-1 Farseek
-1 Flooded Strand
-2 Forest
-1 Galerider Sliver
-1 Gemhide Sliver
-1 Guardian Project
-1 Harmonic Sliver
-1 Hatchery Sliver
-1 Heart Sliver
-1 Herald's Horn
-1 Heroic Intervention
-1 Hibernation Sliver
-1 Homing Sliver
-1 Horned Sliver
-2 Island
-1 Jetmir's Garden
-1 Ketria Triome
-1 Kodama's Reach
-1 Lavabelly Sliver
-1 Lazotep Sliver
-1 Manaweft Sliver
-1 Marsh Flats
-1 Megantic Sliver
-1 Misty Rainforest
-2 Mountain
-1 Muscle Sliver
-1 Nature's Lore
-1 Necrotic Sliver
-1 Overgrown Tomb
-1 Path of Ancestry
-1 Path to Exile
-1 Patriarch's Bidding
-1 Pillar of Origins
-2 Plains
-1 Polluted Delta
-1 Predatory Sliver
-1 Quick Sliver
-1 Reflections of Littjara
-1 Rhythm of the Wild
-1 Root Sliver
-1 Scalding Tarn
-1 Sentinel Sliver
-1 Shifting Sliver
-1 Sinew Sliver
-1 Sliver Gravemother
-1 Sliver Hive
-1 Sliver Hivelord
-1 Sliver Overlord
-1 Sliver Queen
-1 Sol Ring
-1 Spara's Headquarters
-1 Steely Resolve
-1 Stomping Ground
-2 Swamp
-1 Swords to Plowshares
-1 Synapse Sliver
-1 Syphon Sliver
-1 Temple Garden
-1 Three Visits
-1 Toxin Sliver
-1 Unclaimed Territory
-1 Urza's Incubator
-1 Vanquisher's Banner
-1 Venom Sliver
-1 Verdant Catacombs
-1 Ward Sliver
-1 Windswept Heath
-1 Winged Sliver
-1 Wooded Foothills
-1 Zagoth Triome
-1 Ziatora's Proving Ground
+1 Arcane Signet  
+1 Arid Mesa  
+1 Beast Within  
+1 Birds of Paradise  
+1 Blasphemous Act  
+1 Blood Crypt  
+1 Bloodstained Mire  
+1 Blur Sliver  
+1 Bonescythe Sliver  
+1 Breeding Pool  
+1 Brood Sliver  
+1 Chromatic Lantern  
+1 Cloudshredder Sliver  
+1 Command Tower  
+1 Crypt Sliver  
+1 Crystalline Sliver  
+1 Cultivate  
+1 Descendants' Path  
+1 Dregscape Sliver  
+1 Diffusion Sliver  
+1 Eladamri's Call  
+1 Exotic Orchard  
+1 Fabled Passage  
+1 Farseek  
+1 Flooded Strand  
+2 Forest  
+1 Galerider Sliver  
+1 Gemhide Sliver  
+1 Guardian Project  
+1 Harmonic Sliver  
+1 Hatchery Sliver  
+1 Heart Sliver  
+1 Herald's Horn  
+1 Heroic Intervention  
+1 Hibernation Sliver  
+1 Homing Sliver  
+1 Horned Sliver  
+2 Island  
+1 Jetmir's Garden  
+1 Ketria Triome  
+1 Kodama's Reach  
+1 Lavabelly Sliver  
+1 Lazotep Sliver  
+1 Manaweft Sliver  
+1 Marsh Flats  
+1 Megantic Sliver  
+1 Misty Rainforest  
+2 Mountain  
+1 Muscle Sliver  
+1 Nature's Lore  
+1 Necrotic Sliver  
+1 Overgrown Tomb  
+1 Path of Ancestry  
+1 Path to Exile  
+1 Patriarch's Bidding  
+1 Pillar of Origins  
+2 Plains  
+1 Polluted Delta  
+1 Predatory Sliver  
+1 Quick Sliver  
+1 Reflections of Littjara  
+1 Rhythm of the Wild  
+1 Root Sliver  
+1 Scalding Tarn  
+1 Sentinel Sliver  
+1 Shifting Sliver  
+1 Sinew Sliver  
+1 Sliver Gravemother  
+1 Sliver Hive  
+1 Sliver Hivelord  
+1 Sliver Overlord  
+1 Sliver Queen  
+1 Sol Ring  
+1 Spara's Headquarters  
+1 Steely Resolve  
+1 Stomping Ground  
+2 Swamp  
+1 Swords to Plowshares  
+1 Synapse Sliver  
+1 Syphon Sliver  
+1 Temple Garden  
+1 Three Visits  
+1 Toxin Sliver  
+1 Unclaimed Territory  
+1 Urza's Incubator  
+1 Vanquisher's Banner  
+1 Venom Sliver  
+1 Verdant Catacombs  
+1 Ward Sliver  
+1 Windswept Heath  
+1 Winged Sliver  
+1 Wooded Foothills  
+1 Zagoth Triome  
+1 Ziatora's Proving Ground  

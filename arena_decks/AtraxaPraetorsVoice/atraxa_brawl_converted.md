@@ -113,99 +113,99 @@
 ## Copy/Paste Decklist (MTG Arena Format)
 
 Commander
-1 Atraxa, Praetors' Voice
+1 Atraxa, Praetors' Voice  
 
 Deck
-1 Arcane Signet
-1 Astral Cornucopia
-1 Birds of Paradise
-1 Bloated Contaminator
-1 Bloom Tender
-1 Breeding Pool
-1 Brokers Ascendancy
-1 Cankerbloom
-1 Carth the Lion
-1 Chromatic Lantern
-1 City of Brass
-1 Command Tower
-1 Contagion Engine
-1 Counterspell
-1 Cyclonic Rift
-1 Delighted Halfling
-1 Demonic Tutor
-1 Doubling Season
-1 Dreamtide Whale
-1 Enlightened Tutor
-1 Esper Sentinel
-1 Everflowing Chalice
-1 Evolution Sage
-1 Exotic Orchard
-1 Ezuri, Stalker of Spheres
-1 Farewell
-1 Farseek
-1 Fellwar Stone
-1 Flooded Strand
-1 Flux Channeler
-3 Forest
-1 Godless Shrine
-1 Hallowed Fountain
-1 Ichormoon Gauntlet
-1 Indatha Triome
-1 Inexorable Tide
-1 Infectious Inquiry
-3 Island
-1 Ixhel, Scion of Atraxa
-1 Karn's Bastion
-1 Lightning Greaves
-1 Mana Confluence
-1 Marsh Flats
-1 Misty Rainforest
-1 Narset, Parter of Veils
-1 Oath of Teferi
-1 Overgrown Tomb
-1 Path to Exile
-1 Phyresis Outbreak
-2 Plains
-1 Polluted Delta
-1 Prologue to Phyresis
-1 Raffine's Tower
-1 Reflecting Pool
-1 Rhystic Study
-1 Skithiryx, the Blight Dragon
-1 Skrelv, Defector Mite
-1 Smothering Tithe
-1 Spara's Headquarters
-2 Swamp
-1 Swords to Plowshares
-1 Tamiyo, Field Researcher
-1 Teferi, Hero of Dominaria
-1 Teferi, Master of Time
-1 Tekuthal, Inquiry Dominus
-1 Temple Garden
-1 Tezzeret's Gambit
-1 Three Visits
-1 Thrummingbird
-1 Ugin, the Spirit Dragon
-1 Venerated Rotpriest
-1 Verdant Catacombs
-1 Vorinclex, Monstrous Raider
-1 Vraska's Fall
-1 Vraska, Betrayal's Sting
-1 Watery Grave
-1 Windswept Heath
-1 Zagoth Triome
-1 The Wandering Emperor
-1 Mind Stone
-1 Fynn, the Fangbearer
-1 Branchloft Pathway
-1 Kami of Whispered Hopes
-1 Dovin's Veto
-1 Grateful Apparition
-1 Syncopate
-1 Growth Spiral
-1 Archon of Absolution
-1 Clearwater Pathway
-1 Hengegate Pathway
-1 Settle the Wreckage
-1 Darkbore Pathway
-1 Profane Tutor
+1 Arcane Signet  
+1 Astral Cornucopia  
+1 Birds of Paradise  
+1 Bloated Contaminator  
+1 Bloom Tender  
+1 Breeding Pool  
+1 Brokers Ascendancy  
+1 Cankerbloom  
+1 Carth the Lion  
+1 Chromatic Lantern  
+1 City of Brass  
+1 Command Tower  
+1 Contagion Engine  
+1 Counterspell  
+1 Cyclonic Rift  
+1 Delighted Halfling  
+1 Demonic Tutor  
+1 Doubling Season  
+1 Dreamtide Whale  
+1 Enlightened Tutor  
+1 Esper Sentinel  
+1 Everflowing Chalice  
+1 Evolution Sage  
+1 Exotic Orchard  
+1 Ezuri, Stalker of Spheres  
+1 Farewell  
+1 Farseek  
+1 Fellwar Stone  
+1 Flooded Strand  
+1 Flux Channeler  
+3 Forest  
+1 Godless Shrine  
+1 Hallowed Fountain  
+1 Ichormoon Gauntlet  
+1 Indatha Triome  
+1 Inexorable Tide  
+1 Infectious Inquiry  
+3 Island  
+1 Ixhel, Scion of Atraxa  
+1 Karn's Bastion  
+1 Lightning Greaves  
+1 Mana Confluence  
+1 Marsh Flats  
+1 Misty Rainforest  
+1 Narset, Parter of Veils  
+1 Oath of Teferi  
+1 Overgrown Tomb  
+1 Path to Exile  
+1 Phyresis Outbreak  
+2 Plains  
+1 Polluted Delta  
+1 Prologue to Phyresis  
+1 Raffine's Tower  
+1 Reflecting Pool  
+1 Rhystic Study  
+1 Skithiryx, the Blight Dragon  
+1 Skrelv, Defector Mite  
+1 Smothering Tithe  
+1 Spara's Headquarters  
+2 Swamp  
+1 Swords to Plowshares  
+1 Tamiyo, Field Researcher  
+1 Teferi, Hero of Dominaria  
+1 Teferi, Master of Time  
+1 Tekuthal, Inquiry Dominus  
+1 Temple Garden  
+1 Tezzeret's Gambit  
+1 Three Visits  
+1 Thrummingbird  
+1 Ugin, the Spirit Dragon  
+1 Venerated Rotpriest  
+1 Verdant Catacombs  
+1 Vorinclex, Monstrous Raider  
+1 Vraska's Fall  
+1 Vraska, Betrayal's Sting  
+1 Watery Grave  
+1 Windswept Heath  
+1 Zagoth Triome  
+1 The Wandering Emperor  
+1 Mind Stone  
+1 Fynn, the Fangbearer  
+1 Branchloft Pathway  
+1 Kami of Whispered Hopes  
+1 Dovin's Veto  
+1 Grateful Apparition  
+1 Syncopate  
+1 Growth Spiral  
+1 Archon of Absolution  
+1 Clearwater Pathway  
+1 Hengegate Pathway  
+1 Settle the Wreckage  
+1 Darkbore Pathway  
+1 Profane Tutor  

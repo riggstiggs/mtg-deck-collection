@@ -40,78 +40,78 @@
 
 ## Copy/Paste Decklist (Moxfield Format)
 
-1 Captain N'ghathrod
-1 Consuming Aberration
-1 Sludge Monster
-1 Hullbreaker Horror
-1 Overseer of the Damned
-1 Nemesis of Reason
-1 Guiltfeeder
-1 Brainstealer Dragon
-1 Aboleth Spawn
-1 Uchuulon
-1 Grell Philosopher
-1 Mind Flayer
-1 Nighthowler
-1 Sewer Nemesis
-1 Zellix, Sanity Flayer
-1 Ravenous Chupacabra
-1 Phyrexian Revoker
-1 Wharf Infiltrator
-1 Changeling Outcast
-1 Elder Brain
-1 Intellect Devourer
-1 Arvinox, the Mind Flail
-1 Maddening Cacophony
-1 Fractured Sanity
-1 Cut Your Losses
-1 Mindcrank
-1 Court of Cunning
-1 Mesmeric Orb
-1 Extract from Darkness
-1 Breach the Multiverse
-1 Counterspell
-1 Negate
-1 Arcane Denial
-1 Feed the Swarm
-1 Infernal Grasp
-1 Pongify
-1 Reality Shift
-1 Swiftfoot Boots
-1 Lightning Greaves
-1 Propaganda
-1 Sol Ring
-1 Arcane Signet
-1 Dimir Signet
-1 Talisman of Dominance
-1 Mind Stone
-1 Fellwar Stone
-1 Commander's Sphere
-1 Wayfarer's Bauble
-1 Nephalia Drownyard
-1 Geier Reach Sanitarium
-1 Bojuka Bog
-1 Rogue's Passage
-1 Command Tower
-1 Dimir Aqueduct
-1 Sunken Hollow
-1 Choked Estuary
-1 Darkwater Catacombs
-1 Temple of Deceit
-13 Island
-13 Swamp
-1 Psionic Ritual
-1 Memory Plunder
-1 Dredge the Mire
-1 Endless Evil
-1 From the Catacombs
-1 Spellskite
-1 Dauthi Voidwalker
-1 Ruin Crab
-1 Tasha, the Witch Queen
-1 Gonti, Lord of Luxury
-1 Hostile Negotiator
-1 Hunted Horror
-1 Plague Spitter
-1 Woe Strider
-1 Ashiok, Nightmare Muse
+1 Captain N'ghathrod  
+1 Consuming Aberration  
+1 Sludge Monster  
+1 Hullbreaker Horror  
+1 Overseer of the Damned  
+1 Nemesis of Reason  
+1 Guiltfeeder  
+1 Brainstealer Dragon  
+1 Aboleth Spawn  
+1 Uchuulon  
+1 Grell Philosopher  
+1 Mind Flayer  
+1 Nighthowler  
+1 Sewer Nemesis  
+1 Zellix, Sanity Flayer  
+1 Ravenous Chupacabra  
+1 Phyrexian Revoker  
+1 Wharf Infiltrator  
+1 Changeling Outcast  
+1 Elder Brain  
+1 Intellect Devourer  
+1 Arvinox, the Mind Flail  
+1 Maddening Cacophony  
+1 Fractured Sanity  
+1 Cut Your Losses  
+1 Mindcrank  
+1 Court of Cunning  
+1 Mesmeric Orb  
+1 Extract from Darkness  
+1 Breach the Multiverse  
+1 Counterspell  
+1 Negate  
+1 Arcane Denial  
+1 Feed the Swarm  
+1 Infernal Grasp  
+1 Pongify  
+1 Reality Shift  
+1 Swiftfoot Boots  
+1 Lightning Greaves  
+1 Propaganda  
+1 Sol Ring  
+1 Arcane Signet  
+1 Dimir Signet  
+1 Talisman of Dominance  
+1 Mind Stone  
+1 Fellwar Stone  
+1 Commander's Sphere  
+1 Wayfarer's Bauble  
+1 Nephalia Drownyard  
+1 Geier Reach Sanitarium  
+1 Bojuka Bog  
+1 Rogue's Passage  
+1 Command Tower  
+1 Dimir Aqueduct  
+1 Sunken Hollow  
+1 Choked Estuary  
+1 Darkwater Catacombs  
+1 Temple of Deceit  
+13 Island  
+13 Swamp  
+1 Psionic Ritual  
+1 Memory Plunder  
+1 Dredge the Mire  
+1 Endless Evil  
+1 From the Catacombs  
+1 Spellskite  
+1 Dauthi Voidwalker  
+1 Ruin Crab  
+1 Tasha, the Witch Queen  
+1 Gonti, Lord of Luxury  
+1 Hostile Negotiator  
+1 Hunted Horror  
+1 Plague Spitter  
+1 Woe Strider  
+1 Ashiok, Nightmare Muse  

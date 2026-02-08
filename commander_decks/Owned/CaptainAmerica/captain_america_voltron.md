@@ -50,90 +50,90 @@
 
 ## Copy/Paste Decklist (Moxfield Format)
 
-1 Captain America, First Avenger
-1 Argentum Armor
-1 Dissection Tools
-1 Leyline Axe
-1 Excalibur, Sword of Eden
-1 Loxodon Warhammer
-1 Blackblade Reforged
-1 Colossus Hammer
-1 Basilisk Collar
-1 Sunforger
-1 Masterwork of Ingenuity
-1 Swiftfoot Boots
-1 Lightning Greaves
-1 Sword of the Animist
-1 Anduril, Flame of the West
-1 Robe of Stars
-1 Mithril Coat
-1 Akiri, Fearless Voyager
-1 Sram, Senior Edificer
-1 Puresteel Paladin
-1 Ardenn, Intrepid Archaeologist
-1 Danitha Capashen, Paragon
-1 Starnheim Courser
-1 Etherium Sculptor
-1 Foundry Inspector
-1 Dalakos, Crafter of Wonders
-1 Bruenor Battlehammer
-1 Mantle of the Ancients
-1 Stonehewer Giant
-1 Trophy Mage
-1 Tribute Mage
-1 Open the Armory
-1 Swords to Plowshares
-1 Path to Exile
-1 Generous Gift
-1 Chaos Warp
-1 Boros Charm
-1 Deflecting Palm
-1 Dovin's Veto
-1 Wear // Tear
-1 Sejiri Shelter
-1 Negate
-1 Blasphemous Act
-1 Vandalblast
-1 Austere Command
-1 Rip Apart
-1 Brainstorm
-1 Ponder
-1 Preordain
-1 Valduk, Keeper of the Flame
-1 Kediss, Emberclaw Familiar
-1 Sol Ring
-1 Arcane Signet
-1 Azorius Signet
-1 Boros Signet
-1 Izzet Signet
-1 Talisman of Conviction
-1 Talisman of Creativity
-1 Talisman of Progress
-1 Mind Stone
-1 Rogue's Passage
-1 Slayers' Stronghold
-1 Axgard Armory
-1 Buried Ruin
-1 Inventors' Fair
-1 Command Tower
-1 Exotic Orchard
-1 Mystic Monastery
-1 Prairie Stream
-1 Glacial Fortress
-1 Sulfur Falls
-1 Clifftop Retreat
-1 Battlefield Forge
-1 Adarkar Wastes
-1 Shivan Reef
-1 Sundown Pass
-1 Deserted Beach
-1 Stormcarved Coast
-6 Plains
-5 Island
-5 Mountain
-1 Sigarda's Aid
-1 Forge Anew
-1 Fighter Class
-1 All That Glitters
-1 Dispatch
-1 Hammer of Nazahn
+1 Captain America, First Avenger  
+1 Argentum Armor  
+1 Dissection Tools  
+1 Leyline Axe  
+1 Excalibur, Sword of Eden  
+1 Loxodon Warhammer  
+1 Blackblade Reforged  
+1 Colossus Hammer  
+1 Basilisk Collar  
+1 Sunforger  
+1 Masterwork of Ingenuity  
+1 Swiftfoot Boots  
+1 Lightning Greaves  
+1 Sword of the Animist  
+1 Anduril, Flame of the West  
+1 Robe of Stars  
+1 Mithril Coat  
+1 Akiri, Fearless Voyager  
+1 Sram, Senior Edificer  
+1 Puresteel Paladin  
+1 Ardenn, Intrepid Archaeologist  
+1 Danitha Capashen, Paragon  
+1 Starnheim Courser  
+1 Etherium Sculptor  
+1 Foundry Inspector  
+1 Dalakos, Crafter of Wonders  
+1 Bruenor Battlehammer  
+1 Mantle of the Ancients  
+1 Stonehewer Giant  
+1 Trophy Mage  
+1 Tribute Mage  
+1 Open the Armory  
+1 Swords to Plowshares  
+1 Path to Exile  
+1 Generous Gift  
+1 Chaos Warp  
+1 Boros Charm  
+1 Deflecting Palm  
+1 Dovin's Veto  
+1 Wear // Tear  
+1 Sejiri Shelter  
+1 Negate  
+1 Blasphemous Act  
+1 Vandalblast  
+1 Austere Command  
+1 Rip Apart  
+1 Brainstorm  
+1 Ponder  
+1 Preordain  
+1 Valduk, Keeper of the Flame  
+1 Kediss, Emberclaw Familiar  
+1 Sol Ring  
+1 Arcane Signet  
+1 Azorius Signet  
+1 Boros Signet  
+1 Izzet Signet  
+1 Talisman of Conviction  
+1 Talisman of Creativity  
+1 Talisman of Progress  
+1 Mind Stone  
+1 Rogue's Passage  
+1 Slayers' Stronghold  
+1 Axgard Armory  
+1 Buried Ruin  
+1 Inventors' Fair  
+1 Command Tower  
+1 Exotic Orchard  
+1 Mystic Monastery  
+1 Prairie Stream  
+1 Glacial Fortress  
+1 Sulfur Falls  
+1 Clifftop Retreat  
+1 Battlefield Forge  
+1 Adarkar Wastes  
+1 Shivan Reef  
+1 Sundown Pass  
+1 Deserted Beach  
+1 Stormcarved Coast  
+6 Plains  
+5 Island  
+5 Mountain  
+1 Sigarda's Aid  
+1 Forge Anew  
+1 Fighter Class  
+1 All That Glitters  
+1 Dispatch  
+1 Hammer of Nazahn  

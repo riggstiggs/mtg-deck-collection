@@ -56,84 +56,84 @@
 
 ## Plain Text Copy/Paste
 
-1 Karametra, God of Harvests
-1 Elesh Norn, Grand Cenobite
-1 Linvala, Keeper of Silence
-1 Authority of the Consuls
-1 Aura Shards
-1 Archangel of Tithes
-1 Giada, Font of Hope
-1 Avacyn, Angel of Hope
-1 Sigarda, Font of Blessings
-1 Shalai, Voice of Plenty
-1 Lyra Dawnbringer
-1 Angel of Vitality
-1 Righteous Valkyrie
-1 Bishop of Wings
-1 Angel of Serenity
-1 Admonition Angel
-1 Platinum Angel
-1 Emeria Shepherd
-1 Battle Angels of Tyr
-1 Sunblast Angel
-1 Avenger of Zendikar
-1 Scute Swarm
-1 Lotus Cobra
-1 Tireless Provisioner
-1 Birds of Paradise
-1 Avacyn's Pilgrim
-1 Sanctum Weaver
-1 Sol Ring
-1 Arcane Signet
-1 Zendikar Resurgent
-1 Mirari's Wake
-1 Swords to Plowshares
-1 Path to Exile
-1 Beast Within
-1 Generous Gift
-1 Farewell
-1 Austere Command
-1 Perch Protection
-1 Heroic Intervention
-1 Akroma's Will
-1 Eladamri's Call
-1 Three Visits
-1 Nature's Lore
-1 Abundance
-1 Tocasia's Welcome
-1 Tribute to the World Tree
-1 Guardian Project
-1 Luminarch Aspirant
-1 Worldly Tutor
-1 Harmonize
-1 Ghost Quarter
-1 Mosswort Bridge
-1 Reliquary Tower
-1 Selesnya Sanctuary
-1 Windswept Heath
-1 Temple Garden
-1 Bountiful Promenade
-1 Overgrown Farmland
-1 Canopy Vista
-1 Brushland
-1 Command Tower
-11 Snow-Covered Plains
-10 Snow-Covered Forest
-1 Cultivate
-1 Kodama's Reach
-1 Farseek
-1 Rampant Growth
-1 Starnheim Aspirant
-1 Resplendent Angel
-1 Herald of War
-1 Segovian Angel
-1 Eternal Witness
-1 Bala Ged Recovery
-1 Wooded Bastion
-1 Yavimaya, Cradle of Growth
-1 Gavony Township
-1 Krosan Verge
-1 Swiftfoot Boots
-1 Lightning Greaves
-1 Angelic Arbiter
-1 Serra's Emissary
+1 Karametra, God of Harvests  
+1 Elesh Norn, Grand Cenobite  
+1 Linvala, Keeper of Silence  
+1 Authority of the Consuls  
+1 Aura Shards  
+1 Archangel of Tithes  
+1 Giada, Font of Hope  
+1 Avacyn, Angel of Hope  
+1 Sigarda, Font of Blessings  
+1 Shalai, Voice of Plenty  
+1 Lyra Dawnbringer  
+1 Angel of Vitality  
+1 Righteous Valkyrie  
+1 Bishop of Wings  
+1 Angel of Serenity  
+1 Admonition Angel  
+1 Platinum Angel  
+1 Emeria Shepherd  
+1 Battle Angels of Tyr  
+1 Sunblast Angel  
+1 Avenger of Zendikar  
+1 Scute Swarm  
+1 Lotus Cobra  
+1 Tireless Provisioner  
+1 Birds of Paradise  
+1 Avacyn's Pilgrim  
+1 Sanctum Weaver  
+1 Sol Ring  
+1 Arcane Signet  
+1 Zendikar Resurgent  
+1 Mirari's Wake  
+1 Swords to Plowshares  
+1 Path to Exile  
+1 Beast Within  
+1 Generous Gift  
+1 Farewell  
+1 Austere Command  
+1 Perch Protection  
+1 Heroic Intervention  
+1 Akroma's Will  
+1 Eladamri's Call  
+1 Three Visits  
+1 Nature's Lore  
+1 Abundance  
+1 Tocasia's Welcome  
+1 Tribute to the World Tree  
+1 Guardian Project  
+1 Luminarch Aspirant  
+1 Worldly Tutor  
+1 Harmonize  
+1 Ghost Quarter  
+1 Mosswort Bridge  
+1 Reliquary Tower  
+1 Selesnya Sanctuary  
+1 Windswept Heath  
+1 Temple Garden  
+1 Bountiful Promenade  
+1 Overgrown Farmland  
+1 Canopy Vista  
+1 Brushland  
+1 Command Tower  
+11 Snow-Covered Plains  
+10 Snow-Covered Forest  
+1 Cultivate  
+1 Kodama's Reach  
+1 Farseek  
+1 Rampant Growth  
+1 Starnheim Aspirant  
+1 Resplendent Angel  
+1 Herald of War  
+1 Segovian Angel  
+1 Eternal Witness  
+1 Bala Ged Recovery  
+1 Wooded Bastion  
+1 Yavimaya, Cradle of Growth  
+1 Gavony Township  
+1 Krosan Verge  
+1 Swiftfoot Boots  
+1 Lightning Greaves  
+1 Angelic Arbiter  
+1 Serra's Emissary  

@@ -114,99 +114,99 @@
 ## Plain Text Copy/Paste
 
 COMMANDER:
-1 Omnath, Locus of Creation
+1 Omnath, Locus of Creation  
 
 DECK:
-1 Aesi, Tyrant of Gyre Strait
-1 Ancient Greenwarden
-1 Arcane Signet
-1 Arid Mesa
-1 Avenger of Zendikar
-1 Azusa, Lost but Seeking
-1 Beast Within
-1 Birds of Paradise
-1 Boseiju, Who Endures
-1 Bountiful Promenade
-1 Breeding Pool
-1 Command Tower
-1 Counterspell
-1 Crop Rotation
-1 Cultivate
-1 Cyclonic Rift
-1 Dovin's Veto
-1 Dryad of the Ilysian Grove
-1 Eladamri's Call
-1 Emeria Shepherd
-1 Entish Restoration
-1 Escape to the Wilds
-1 Eternal Witness
-1 Exotic Orchard
-1 Exploration
-1 Farseek
-1 Felidar Retreat
-1 Fierce Guardianship
-1 Finale of Devastation
-1 Flooded Strand
-1 Force of Vigor
-3 Forest
-1 Generous Gift
-1 Gruul Turf
-1 Hallowed Fountain
-1 Harrow
-1 Heroic Intervention
-3 Island
-1 Jetmir's Garden
-1 Ketria Triome
-1 Knight of Autumn
-1 Kodama's Reach
-1 Kodama of the East Tree
-1 Lotus Cobra
-1 Mina and Denn, Wildborn
-1 Misty Rainforest
-1 Moraug, Fury of Akoum
-2 Mountain
-1 Multani, Yavimaya's Avatar
-1 Nature's Lore
-1 Omnath, Locus of Rage
-1 Omnath, Locus of the Roil
-1 Oracle of Mul Daya
-1 Otawara, Soaring City
-1 Path to Exile
-2 Plains
-1 Phylath, World Sculptor
-1 Prismatic Vista
-1 Ramunap Excavator
-1 Raugrin Triome
-1 Rejuvenating Springs
-1 Reliquary Tower
-1 Return of the Wildspeaker
-1 Risen Reef
-1 Sakura-Tribe Elder
-1 Scalding Tarn
-1 Scute Swarm
-1 Selesnya Sanctuary
-1 Sol Ring
-1 Spelunking
-1 Spire Garden
-1 Steam Vents
-1 Stomping Ground
-1 Strip Mine
-1 Supreme Verdict
-1 Swords to Plowshares
-1 Tannuk, Memorial Ensign
-1 Tatyova, Benthic Druid
-1 Teferi's Protection
-1 Temple Garden
-1 The Great Henge
-1 Three Visits
-1 Tireless Provisioner
-1 Tireless Tracker
-1 Training Center
-1 Uro, Titan of Nature's Wrath
-1 Valakut Exploration
-1 Verdant Catacombs
-1 Wayward Swordtooth
-1 Wrenn and Seven
-1 Windswept Heath
-1 Wooded Foothills
-1 Yavimaya, Cradle of Growth
+1 Aesi, Tyrant of Gyre Strait  
+1 Ancient Greenwarden  
+1 Arcane Signet  
+1 Arid Mesa  
+1 Avenger of Zendikar  
+1 Azusa, Lost but Seeking  
+1 Beast Within  
+1 Birds of Paradise  
+1 Boseiju, Who Endures  
+1 Bountiful Promenade  
+1 Breeding Pool  
+1 Command Tower  
+1 Counterspell  
+1 Crop Rotation  
+1 Cultivate  
+1 Cyclonic Rift  
+1 Dovin's Veto  
+1 Dryad of the Ilysian Grove  
+1 Eladamri's Call  
+1 Emeria Shepherd  
+1 Entish Restoration  
+1 Escape to the Wilds  
+1 Eternal Witness  
+1 Exotic Orchard  
+1 Exploration  
+1 Farseek  
+1 Felidar Retreat  
+1 Fierce Guardianship  
+1 Finale of Devastation  
+1 Flooded Strand  
+1 Force of Vigor  
+3 Forest  
+1 Generous Gift  
+1 Gruul Turf  
+1 Hallowed Fountain  
+1 Harrow  
+1 Heroic Intervention  
+3 Island  
+1 Jetmir's Garden  
+1 Ketria Triome  
+1 Knight of Autumn  
+1 Kodama's Reach  
+1 Kodama of the East Tree  
+1 Lotus Cobra  
+1 Mina and Denn, Wildborn  
+1 Misty Rainforest  
+1 Moraug, Fury of Akoum  
+2 Mountain  
+1 Multani, Yavimaya's Avatar  
+1 Nature's Lore  
+1 Omnath, Locus of Rage  
+1 Omnath, Locus of the Roil  
+1 Oracle of Mul Daya  
+1 Otawara, Soaring City  
+1 Path to Exile  
+2 Plains  
+1 Phylath, World Sculptor  
+1 Prismatic Vista  
+1 Ramunap Excavator  
+1 Raugrin Triome  
+1 Rejuvenating Springs  
+1 Reliquary Tower  
+1 Return of the Wildspeaker  
+1 Risen Reef  
+1 Sakura-Tribe Elder  
+1 Scalding Tarn  
+1 Scute Swarm  
+1 Selesnya Sanctuary  
+1 Sol Ring  
+1 Spelunking  
+1 Spire Garden  
+1 Steam Vents  
+1 Stomping Ground  
+1 Strip Mine  
+1 Supreme Verdict  
+1 Swords to Plowshares  
+1 Tannuk, Memorial Ensign  
+1 Tatyova, Benthic Druid  
+1 Teferi's Protection  
+1 Temple Garden  
+1 The Great Henge  
+1 Three Visits  
+1 Tireless Provisioner  
+1 Tireless Tracker  
+1 Training Center  
+1 Uro, Titan of Nature's Wrath  
+1 Valakut Exploration  
+1 Verdant Catacombs  
+1 Wayward Swordtooth  
+1 Wrenn and Seven  
+1 Windswept Heath  
+1 Wooded Foothills  
+1 Yavimaya, Cradle of Growth  
