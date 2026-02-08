@@ -1,35 +1,62 @@
 # Magic: The Gathering Deck Project
 
-This repository manages deck lists, analysis, and upgrade plans for both Paper Magic (Commander/EDH) and MTG Arena.
+This repository manages deck lists, analysis, and upgrade plans for both Paper Magic (Commander/EDH) and MTG Arena. It tracks deck evolution, power level compliance, and collection data.
 
-## Project Structure
+## 🛠️ Key Project Features
 
-### 📂 `/commander_decks`
-Contains deck lists and guides for Paper Commander (EDH).
+*   **Commander Bracket System:** All Commander decks are categorized into 5 Brackets (Exhibition to cEDH) to ensure balanced gameplay.
+*   **Game Changers Tracking:** Monitoring high-impact staples as defined in `COMMANDER_DECKBUILDING_RULES.md`.
+*   **Deck Changelogs:** Every deck maintains a chronological history of card changes and the reasoning behind them.
+*   **Arena Optimization:** Leveraging Untapped.gg data and Wildcard management to maintain Tier 1 performance.
 
-*   **`TheHive/TheHive-Slivers.md`**: Your primary 5-color Sliver deck (Commander: *The First Sliver*). Includes main deck, sideboard, and a "Wishlist" of upgrades (Dual Lands, Sliver Legion).
-*   **`ThaliaGitrog/thalia_gitrog_abzan.md`**: Abzan Landfall & Hatebears deck (Commander: *Thalia and The Gitrog Monster*). Designed to counter Haste/Tribal strategies.
-*   **`YidrisChaos/yidris_chaos_cascade.md`**: A high-power "Value Cascade" deck (Commander: *Yidris, Maelstrom Wielder*). Optimized for combat damage and cascading into 0-cost suspend spells.
-*   **`YidrisChaos/yidris_deck_guide.md`**: A detailed strategy guide for the Yidris deck, explaining specific card interactions (like the *Blasphemous Act* cascade trick).
-*   **`KarametraAngels/karametra_angels_ramp_premium.md`**: Analysis of your wife's Selesnya Angels deck (Commander: *Karametra*). Used for power-level comparison.
-*   **`Reference_DrillersHive/TheDrillersHives-Slivers.md`**: A reference deck list found online used for comparison against *The Hive*.
-*   **`HenzieBlitz/henzie_toolbox_budget.md`**: Budget Jund Blitz deck (Commander: *Henzie "Toolbox" Torre*). Designed as a fast, interactive "Angel Killer" using sacrifice effects.
-*   **`MerenGolgari/meren_reanimator_budget.md`**: Budget Golgari Reanimator deck (Commander: *Meren of Clan Nel Toth*). A resilient "Generalist" build focusing on attrition, graveyard value, and draining life totals.
-*   **`CaptainAmerica/captain_america_voltron.md`**: Jeskai Equipment Voltron deck (Commander: *Captain America, First Avenger*). Focuses on "Throwing" heavy equipment for damage and cheating equip costs.
-*   **`CaptainNghathrod/horrors_mill_budget.md`**: Budget Dimir Horror/Mill deck (Commander: *Captain N'ghathrod*). Steals artifacts and creatures from opponents' graveyards.
-*   **`RafiqBant/rafiq_voltron_exalted.md`**: Bant Voltron/Exalted deck (Commander: *Rafiq of the Many*). Focused on delivering lethal commander damage through Exalted triggers and Double Strike.
-*   **`UlamogColorless/ulamog_colorless_ramp.md`**: Colorless Ramp deck (Commander: *Ulamog, the Ceaseless Hunger*). Legal in both Paper Commander and MTG Arena (Historic Brawl).
-*   **`budget_commander_options.md`**: Research on the top 5 budget commanders to counter Karametra Angels.
+---
 
-### 📂 `/arena_decks`
-Contains 60-card format decks for MTG Arena (Standard, Alchemy, Historic, etc.).
+## 📂 Project Structure
 
-*   **`dimir_midrange.md`**: Blue/Black control/midrange list.
-*   **`golgari_foundations.md`**: Black/Green value list.
-*   **`jeskai_artifacts.md`**: Blue/Red/White artifact synergy list.
-*   **`simic_omniscience.md`**: Green/Blue ramp combo list.
-*   **`temur_omniscience.md`**: Green/Blue/Red ramp combo list.
-*   **`arena_collection.csv`**: Database of your MTG Arena card collection.
+### 📜 Root Files
+*   **`COMMANDER_DECKBUILDING_RULES.md`**: The source of truth for power level brackets and "Game Changers".
+*   **`GEMINI.md`**: Context and instructions for AI agents.
+*   **`history.md`**: Chronological log of major decisions and match history.
+*   **`collection.csv`**: Database of card collection data.
 
-### 📄 Root Files
-*   **`history.md`**: Log of changes or match history.
+### 🛡️ `/commander_decks`
+Organized by ownership status and project type.
+
+#### 📁 `/Owned`
+Decks physically built and ready for play.
+*   **The Hive (Slivers):** 5-Color tribal (The First Sliver).
+*   **Karametra Angels:** Selesnya ramp and tribal synergy.
+*   **Captain America:** Jeskai Equipment Voltron.
+*   **Meren Reanimator:** Golgari graveyard value.
+*   **Rafiq Voltron:** Bant Exalted/Commander damage.
+
+#### 📁 `/Planning`
+Decks under development, research, or being optimized.
+*   **Omnath Landfall:** 4-Color value engine (Locus of Creation).
+*   **Thalia & Gitrog:** Abzan Landfall & Hatebears.
+*   **Yidris Cascade:** 4-Color "Value Cascade".
+*   **Henzie Blitz:** Jund sacrifice and aggro.
+*   **Ulamog Ramp:** Colorless high-power ramp.
+
+#### 📁 `/PreCons`
+Original and upgraded preconstructed deck lists.
+*   *Includes: Ashling, Auntie Ool, Bello, Cloud Ex-SOLDIER, Disa, Hazel, Ms. Bumbleflower, Satya, Ulalek, and more.*
+
+### 🎮 `/arena_decks`
+Optimized lists for MTG Arena formats (Standard, Brawl, Timeless).
+*   **Dimir Midrange:** Current Tier 1 Standard engine.
+*   **The First Sliver:** Various Brawl and Combo builds.
+*   **Glarb Brawl:** Sultai value.
+*   **Omniscience Combo:** Simic and Temur variations.
+*   **Golgari Foundations & Jeskai Artifacts:** Synergy-focused builds.
+
+---
+
+## 🔄 Maintenance & Synchronization
+
+**CRITICAL:** All changes made to this project must be committed and pushed to the [GitHub repository](https://github.com/chayde/mtg-deck-collection) to maintain synchronization across environments.
+
+When updating decks, ensure:
+1.  **Changelog is updated** with the date and reason for changes.
+2.  **Bracket compliance** is verified against the ruleset.
+3.  **Moxfield Import** sections are updated for easy export.
