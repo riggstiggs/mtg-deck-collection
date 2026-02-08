@@ -1,45 +1,54 @@
 # Project Context: Magic: The Gathering Deck Collection
 
 ## 1. Project Overview
-This directory serves as a knowledge base and tracker for the user's Magic: The Gathering activities. It contains deck lists, strategy guides, upgrade paths, and collection data for both Paper Magic (Commander/EDH) and MTG Arena.
+This project serves as a comprehensive knowledge base and tracker for the user's Magic: The Gathering (MTG) activities. It manages deck lists, strategy guides, upgrade paths, and collection data for both **Paper Magic (Commander/EDH)** and **MTG Arena** (Standard, Historic, Timeless, Brawl).
 
-**Primary Goal:** To organize deck ideas, track meta changes, and plan card crafting/purchasing decisions.
+**Primary Goals:**
+*   Organize and refine deck ideas and lists.
+*   Track meta changes and deck evolution over time.
+*   Plan card crafting (Arena Wildcards) and purchasing (Paper) decisions.
+*   Ensure Commander decks adhere to specific power-level constraints (The Bracket System).
+
+**GitHub Repository:** [mtg-deck-collection](https://github.com/chayde/mtg-deck-collection)
 
 ## 2. Directory Structure & Key Files
 
 ### 📂 Root Directory
-*   **`README.md`**: The primary index of the project (Note: may need updates as new decks are added).
-*   **`history.md`**: A chronological log of conversations, decisions, and match history. **Crucial** for understanding recent user choices (e.g., "Why did we pick Dimir Midrange?").
+*   **`README.md`**: The primary index of the project, listing all active and planned decks.
+*   **`history.md`**: A chronological log of conversations, major decisions, and match history. **Always check this first** to understand recent choices.
+*   **`COMMANDER_DECKBUILDING_RULES.md`**: Source of truth for power-level compliance and the "Game Changers" list.
 *   **`GEMINI.md`**: This file. Context for AI agents.
-*   **`thalia_gitrog_abzan*.md`**: A series of deck lists (Budget, Premium, Final) for a "Thalia and The Gitrog Monster" Commander deck. (Note: These are currently in the root, unlike other Commander decks).
+*   **`collection.csv`**: Database of the user's digital/physical card collection.
 
 ### 📂 `/commander_decks`
-Dedicated folder for Paper Commander (EDH) lists.
-*   **`TheHive-Slivers.md`**: 5-Color Slivers (User's main deck).
-*   **`yidris_chaos_cascade.md`**: Yidris Cascade strategy.
-*   **`karametra_angels_ramp_premium.md`**: Reference list for a Selesnya Angels deck.
+*   **`/Owned`**: Decks the user physically owns (e.g., `TheHive-Slivers.md`, `KarametraAngels`).
+*   **`/Planning`**: Decks under development (e.g., `OmnathLocusOfCreation`, `ThaliaGitrog`).
+*   **`/PreCons`**: Original and modified Preconstructed deck lists.
 
 ### 📂 `/arena_decks`
-Dedicated folder for MTG Arena (60-card formats like Standard, Historic, Timeless).
-*   **`dimir_midrange.md`**: Current active Standard deck project.
-*   **`arena_collection.csv`**: A CSV export or tracked list of the user's digital card collection.
-*   **`*.md`**: Various other archetype lists (Simic Omniscience, Jeskai Artifacts, etc.).
+*   **`dimir_midrange.md`**: Current primary Standard deck.
+*   **`*.md`**: Archetypes like `GlarbBrawl`, `JeskaiArtifacts`, `Omniscience`.
 
-## 3. Usage Guidelines
+## 3. Usage & Maintenance Guidelines
 
-### Reading Deck Lists
-*   Deck files are typically Markdown (`.md`).
-*   They often contain a "Moxfield Import" section at the bottom for easy copying.
-*   They track "Budget" vs "Premium" versions to help with financial planning (Gold/Gems/Cash).
+### Reading & Creating Deck Lists
+*   **Format:** Deck files are Markdown (`.md`).
+*   **Structure:** Typically include strategy, categorized card lists (Core, Payoffs, Interaction), Mana Base, and a **Moxfield Import** section for easy copying.
+*   **Versions:** Track **"Budget" vs "Premium"** versions to assist with financial/wildcard planning.
 
-### Maintenance
-*   **New Decks:** When creating a new deck list, prefer placing it in the appropriate subdirectory (`/commander_decks` or `/arena_decks`) rather than the root.
-*   **History:** Check `history.md` before making suggestions to ensure consistency with previous advice (e.g., don't suggest a deck the user already rejected).
-*   **Updates:** If the user crafts cards or changes a deck, update the corresponding `.md` file to reflect the new "Current State".
+### Maintenance Conventions
+*   **GitHub Synchronization:** **CRITICAL:** All changes made to this project must be committed and pushed to the GitHub repository to maintain synchronization across environments.
+*   **Deck Changelog:** Maintain a `## Deck Changelog` section in every deck file. Document all card changes (In/Out) with a date and a brief reason. Format must match `commander_decks/Planning/OmnathLocusOfCreation/omnath_locus_of_creation_landfall.md`.
+*   **Bracket Compliance:** When modifying Commander decks, verify the "Game Changers" count against `COMMANDER_DECKBUILDING_RULES.md`.
+*   **History Updates:** Summarize significant decisions or deck overhauls in `history.md`.
 
-*   **Deck Changelog:** For all deck files, maintain a `## Deck Changelog` section (typically placed before the "Plain Text Copy/Paste" section). Document all card changes (In/Out) with a date and a brief reason. The format should match the example found in `commander_decks/OmnathLocusOfCreation/omnath_locus_of_creation_landfall.md`.
+## 4. User Preferences & Context
 
-## 4. User Preferences (Inferred)
-*   **Formats:** Paper Commander (EDH) and MTG Arena (Standard/Historic).
-*   **Playstyle:** Enjoys complex interactions (Cascade, Landfall), Tribal strategies (Slivers), and Midrange/Control (Dimir). Dislikes linear Aggro (Mono-Red).
-*   **Resources:** "Wildcard Rich" on Arena, willing to optimize.
+### MTG Preferences
+*   **Playstyle:** Enjoys complex interactions (Cascade, Landfall), Tribal strategies (Slivers), and Midrange/Control (Dimir).
+*   **Dislikes:** Linear Aggro (e.g., Mono-Red).
+*   **Resources:** "Wildcard Rich" on Arena. Has a **paid subscription to Untapped.gg** for gathering decklists and meta information.
+
+### Broader Gaming Context
+*   **D&D:** Kram Gor (originally Barbarian, now Conquest Paladin tank).
+*   **Character Preferences:** For Level 9 Dark/Horror sessions, the user prefers archetypes *other than* their usual Tank, Paladin, or Necromancer roles.
