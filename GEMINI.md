@@ -17,6 +17,7 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 *   **`README.md`**: The primary index of the project, listing all active and planned decks.
 *   **`history.md`**: A chronological log of conversations, major decisions, and match history. **Always check this first** to understand recent choices.
 *   **`COMMANDER_DECKBUILDING_RULES.md`**: Source of truth for power-level compliance and the "Game Changers" list.
+*   **`COMMANDER_TEMPLATE.md`**: Standard card category ratios (The "New Era" Template) for building consistent decks.
 *   **`GEMINI.md`**: This file. Context for AI agents.
 *   **`collection.csv`**: Database of the user's digital/physical card collection.
 
