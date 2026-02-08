@@ -1,11 +1,20 @@
-# Deck Guide: Sauron, the Dark Lord (Optimized Bracket 2)
+# Deck Guide: Sauron, the Dark Lord (Optimized & Budget-Corrected)
 
 ## Commander Strategy
 **Sauron, the Dark Lord**
 *   **Archetype:** Grixis (UBR) Midrange / Amass / Ring Temptation
 *   **Bracket:** 2 (Core)
-*   **Budget:** ~$250
-*   **Goal:** Leverage Sauron's Ward and high toughness to stay on the board. Trigger his "Wheel" ability (Discard/Draw 4) through Ring Temptation and Amass Orcs to build an unstoppable army.
+*   **Budget:** ~$200 (Under the $250 limit)
+*   **Goal:** Use the "Ring Tempts You" mechanic to trigger Sauron's discard-draw-4 ability. Build a massive Orc Army and protect your commander with built-in Ward and targeted equipment.
+
+## 📊 Category Counts (100 Cards Total)
+*   **Commander:** 1
+*   **Lands:** 38
+*   **Ramp:** 11
+*   **Card Advantage:** 12
+*   **Targeted Disruption:** 12
+*   **Mass Disruption:** 6
+*   **Plan/Synergy:** 20
 
 ## 1. The Army & Wraiths (10)
 *   Saruman, the White Hand  
@@ -19,19 +28,21 @@
 *   Mordor Muster  
 *   Shadow of the Enemy  
 
-## 2. The Ring & Artifacts (10)
+## 2. The Ring & Protection (11)
 *   Palantír of Orthanc  
 *   Call of the Ring  
 *   In the Darkness Bind Them  
 *   Birthday Escape  
 *   Ringsight  
-*   Mithril Coat  
+*   Ring of Evos Isle (Budget-friendly protection)  
 *   Lightning Greaves  
 *   Inherited Envelope  
 *   Claim the Precious  
 *   Bombadil's Song  
+*   Soothing of Smeagol  
 
-## 3. Ramp (10)
+## 3. Ramp (11)
+*   Relic of Sauron (Amass + Ramp + Filter)  
 *   Sol Ring  
 *   Arcane Signet  
 *   Talisman of Dominance  
@@ -44,7 +55,7 @@
 *   Mind Stone  
 
 ## 4. Card Advantage (12)
-*   Windfall (High synergy with Sauron's trigger)  
+*   Windfall  
 *   Fact or Fiction  
 *   Night's Whisper  
 *   Frantic Search  
@@ -83,16 +94,14 @@
 *   Watery Grave  
 *   Steam Vents  
 *   Blood Crypt  
-*   Morphic Pool  
+*   Sunken Hollow (Budget Swap)  
+*   Smoldering Marsh (Budget Swap)  
 *   Training Center  
-*   Luxury Suite  
 *   Mount Doom  
 *   Barad-dûr  
 *   Command Tower  
 *   Exotic Orchard  
 *   Crumbling Necropolis  
-*   Smoldering Marsh  
-*   Sunken Hollow  
 *   Shivan Reef  
 *   Sulfurous Springs  
 *   Underground River  
@@ -103,9 +112,9 @@
 *   Temple of Malice  
 *   Evolving Wilds  
 *   Terramorphic Expanse  
-*   7 Swamp  
+*   8 Swamp  
 *   5 Island  
-*   3 Mountain  
+*   4 Mountain  
 
 ## Plain Text Copy/Paste
 
@@ -128,11 +137,13 @@ DECK:
 1 In the Darkness Bind Them    
 1 Birthday Escape    
 1 Ringsight    
-1 Mithril Coat    
+1 Ring of Evos Isle    
 1 Lightning Greaves    
 1 Inherited Envelope    
 1 Claim the Precious    
 1 Bombadil's Song    
+1 Soothing of Smeagol    
+1 Relic of Sauron    
 1 Sol Ring    
 1 Arcane Signet    
 1 Talisman of Dominance    
@@ -176,16 +187,14 @@ DECK:
 1 Watery Grave    
 1 Steam Vents    
 1 Blood Crypt    
-1 Morphic Pool    
+1 Sunken Hollow    
+1 Smoldering Marsh    
 1 Training Center    
-1 Luxury Suite    
 1 Mount Doom    
 1 Barad-dûr    
 1 Command Tower    
 1 Exotic Orchard    
 1 Crumbling Necropolis    
-1 Smoldering Marsh    
-1 Sunken Hollow    
 1 Shivan Reef    
 1 Sulfurous Springs    
 1 Underground River    
@@ -196,6 +205,6 @@ DECK:
 1 Temple of Malice    
 1 Evolving Wilds    
 1 Terramorphic Expanse    
-7 Swamp    
+8 Swamp    
 5 Island    
-3 Mountain    
+4 Mountain  
