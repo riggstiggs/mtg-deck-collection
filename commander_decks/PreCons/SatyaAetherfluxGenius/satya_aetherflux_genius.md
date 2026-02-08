@@ -44,10 +44,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Satya, Aetherflux Genius  
 
-DECK:
+DECK:  
 1 Aethergeode Miner  
 1 Aethersquall Ancient  
 1 Aetherstorm Roc  

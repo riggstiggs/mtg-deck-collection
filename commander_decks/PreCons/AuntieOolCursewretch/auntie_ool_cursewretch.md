@@ -43,10 +43,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Auntie Ool, Cursewretch  
 
-DECK:
+DECK:  
 1 Archfiend of Ifnir  
 1 Carnifex Demon  
 1 Channeler Initiate  

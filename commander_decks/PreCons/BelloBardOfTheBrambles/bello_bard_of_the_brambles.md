@@ -43,10 +43,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Bello, Bard of the Brambles  
 
-DECK:
+DECK:  
 1 Brightcap Badger // Fungus Frolic  
 1 Burnished Hart  
 1 Etali, Primal Storm  

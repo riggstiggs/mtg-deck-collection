@@ -42,10 +42,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Y'shtola, Night's Blessed  
 
-DECK:
+DECK:  
 1 Alisaie Leveilleur  
 1 Alphinaud Leveilleur  
 1 Archmage Emeritus  

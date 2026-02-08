@@ -97,10 +97,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 The First Sliver  
 
-MAIN DECK:
+MAIN DECK:  
 1 Arcane Signet  
 1 Arid Mesa  
 1 Beast Within  

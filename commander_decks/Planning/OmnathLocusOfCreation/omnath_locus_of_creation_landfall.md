@@ -113,10 +113,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Omnath, Locus of Creation  
 
-DECK:
+DECK:  
 1 Aesi, Tyrant of Gyre Strait  
 1 Ancient Greenwarden  
 1 Arcane Signet  

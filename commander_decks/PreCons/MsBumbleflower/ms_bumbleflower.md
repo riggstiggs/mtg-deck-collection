@@ -44,10 +44,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Ms. Bumbleflower  
 
-DECK:
+DECK:  
 1 Baird, Steward of Argive  
 1 Bloodroot Apothecary  
 1 Body of Knowledge  

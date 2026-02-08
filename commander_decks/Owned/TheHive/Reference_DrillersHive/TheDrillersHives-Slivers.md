@@ -76,10 +76,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 The First Sliver  
 
-MAIN DECK:
+MAIN DECK:  
 1 Adarkar Wastes  
 1 Aerith's Curaga Magic  
 1 An Offer You Can't Refuse  

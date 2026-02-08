@@ -42,10 +42,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Omo, Queen of Vesuva  
 
-DECK:
+DECK:  
 1 Acidic Slime  
 1 Apex Devastator  
 1 Avenger of Zendikar  

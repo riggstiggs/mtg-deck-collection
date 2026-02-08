@@ -45,10 +45,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Tidus, Yuna's Guardian  
 
-DECK:
+DECK:  
 1 Altered Ego  
 1 Auron, Venerated Guardian  
 1 Bane of Progress  

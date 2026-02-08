@@ -45,10 +45,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Hazel of the Rootbloom  
 
-DECK:
+DECK:  
 1 Academy Manufactor  
 1 Arasta of the Endless Web  
 1 Beledros Witherbloom  

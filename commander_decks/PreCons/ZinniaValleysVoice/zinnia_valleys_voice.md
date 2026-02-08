@@ -41,10 +41,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Zinnia, Valley's Voice  
 
-DECK:
+DECK:  
 1 Aether Channeler  
 1 Agate Instigator  
 1 Angel of the Ruins  

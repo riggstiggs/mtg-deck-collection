@@ -45,10 +45,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Cloud, Ex-SOLDIER  
 
-DECK:
+DECK:  
 1 Aerith, Last Ancient  
 1 Armory Automaton  
 1 Avalanche of Sector 7  

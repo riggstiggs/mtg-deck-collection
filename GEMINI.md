@@ -36,7 +36,7 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 *   **Format:** Deck files are Markdown (`.md`).
 *   **Structure:** Typically include strategy, categorized card lists (Core, Payoffs, Interaction), Mana Base, and a **Moxfield Import** section for easy copying.
 *   **Versions:** Track **"Budget" vs "Premium"** versions to assist with financial/wildcard planning.
-*   **GFM Line Breaks:** **CRITICAL:** In the "Plain Text Copy/Paste" section, add **two spaces** at the end of every card line (before the line break) to ensure GitHub renders them as individual lines instead of a single paragraph.
+*   **GFM Line Breaks:** **CRITICAL:** In the "Plain Text Copy/Paste" section, add **two spaces** at the end of every line (including "COMMANDER:", "DECK:", and every card name) to ensure GitHub renders them as individual lines instead of a single paragraph.
 
 ### Maintenance Conventions
 *   **GitHub Synchronization:** **CRITICAL:** All changes made to this project must be committed and pushed to the GitHub repository to maintain synchronization across environments.

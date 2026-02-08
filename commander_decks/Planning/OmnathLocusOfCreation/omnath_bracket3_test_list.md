@@ -4,10 +4,10 @@ This is a "Standard Bracket 3" list sourced from EDHREC for testing and comparis
 
 ## Deck List
 
-COMMANDER:
+COMMANDER:  
 1 Omnath, Locus of Creation  
 
-DECK:
+DECK:  
 1 Aesi, Tyrant of Gyre Strait  
 1 Ancient Greenwarden  
 1 Arcane Signet  

@@ -42,10 +42,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Ulalek, Fused Atrocity  
 
-DECK:
+DECK:  
 1 Angelic Aberration  
 1 Artisan of Kozilek  
 1 Azlask, the Swelling Scourge  

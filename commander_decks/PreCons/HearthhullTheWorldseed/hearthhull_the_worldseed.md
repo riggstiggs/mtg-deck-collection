@@ -43,10 +43,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Hearthhull, the Worldseed  
 
-DECK:
+DECK:  
 1 Aftermath Analyst  
 1 Augur of Autumn  
 1 Baloth Prime  

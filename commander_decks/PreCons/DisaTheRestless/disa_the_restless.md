@@ -45,10 +45,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Disa the Restless  
 
-DECK:
+DECK:  
 1 Accursed Marauder  
 1 Anger  
 1 Archon of Cruelty  

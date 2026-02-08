@@ -45,10 +45,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Ashling, the Limitless  
 
-DECK:
+DECK:  
 1 Avenger of Zendikar  
 1 Bane of Progress  
 1 Belonging  

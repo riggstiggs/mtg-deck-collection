@@ -49,10 +49,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Terra, Herald of Hope  
 
-DECK:
+DECK:  
 1 Angel of the Ruins  
 1 Anger  
 1 Archfiend of Depravity  
