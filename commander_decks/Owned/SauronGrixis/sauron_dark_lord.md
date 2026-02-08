@@ -88,6 +88,15 @@
 9.  **Kindred Discovery** (Replace: *Faithless Looting*)
 10. **Cyclonic Rift** (Replace: *Summons of Saruman*)
 
+## 🃏 Sideboard (Ordered but Unused)
+*These cards were ordered but cut to reach the 100-card limit or to prioritize creature synergy.*
+
+*   **Consider / Opt / Frantic Search:** Standard selection, but cut to prioritize high-synergy creatures.  
+*   **Deep Analysis / Preordain / Expressive Iteration:** High-quality draw, but the deck has sufficient card flow from Sauron.  
+*   **Commander's Sphere / Mind Stone:** Cut to keep the ramp count at a healthy 9 while making room for creatures.  
+*   **Sunken Hollow / Smoldering Marsh (Duplicates):** Second copies from the two separate orders are not needed.  
+*   **Mountain / Swamp (Extras):** Surplus basic lands from the order bundles.  
+
 ---
 
 ## Plain Text Copy/Paste
