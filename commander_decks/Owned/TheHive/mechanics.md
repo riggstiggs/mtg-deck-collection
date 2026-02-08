@@ -45,4 +45,4 @@ This file serves as a reference for keywords and abilities encountered in the "T
 *   **Slivercycling [Cost]:** [Cost], Discard this card: Search your library for a Sliver card, reveal it, put it into your hand, then shuffle. (Source: *Homing Sliver*)
 
 ## V
-*   **Vigilance:** Attacking doesn't cause this creature to tap. (Source: *Sentinel Sliver*)
+*   **Vigilance:** Attacking doesn't cause this creature to tap. (Source: *Sentinel Sliver*)

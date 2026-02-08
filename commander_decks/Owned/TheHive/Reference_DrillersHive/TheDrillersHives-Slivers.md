@@ -173,4 +173,4 @@ MAIN DECK:
 1 Underground River
 1 Vanquisher's Banner
 1 Wild Rose Rebellion
-1 Yavimaya Coast
+1 Yavimaya Coast

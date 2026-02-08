@@ -135,4 +135,4 @@
 1 Swiftfoot Boots
 1 Lightning Greaves
 1 Angelic Arbiter
-1 Serra's Emissary
+1 Serra's Emissary

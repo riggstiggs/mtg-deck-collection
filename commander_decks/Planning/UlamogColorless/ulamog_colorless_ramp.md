@@ -138,4 +138,4 @@
 1 Faceless Haven
 1 Field of Ruin
 1 Demolition Field
-18 Wastes
+18 Wastes

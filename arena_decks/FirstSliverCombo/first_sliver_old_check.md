@@ -101,4 +101,4 @@
 // 1. Replaced 'Sweet-Gum Recluse', 'Etherium-Horn Sorcerer', and 'Enigma Sphinx' (Not on Arena)
 //    with 'Imoti', 'Trumpeting Carnosaur', and 'Etali, Primal Conqueror'.
 // 2. Replaced invalid 'Mercadian Masques' storage lands with a full Fetch/Shock/Triome base.
-// 3. Tibalt's Trickery IS legal in Historic Brawl (only banned in Historic Bo1).
+// 3. Tibalt's Trickery IS legal in Historic Brawl (only banned in Historic Bo1).

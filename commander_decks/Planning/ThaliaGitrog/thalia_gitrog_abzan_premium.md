@@ -147,4 +147,4 @@
 1 Caves of Koilos
 1 Brushland
 1 Sylvan Safekeeper
-1 Knight of the Reliquary
+1 Knight of the Reliquary

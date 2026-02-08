@@ -167,4 +167,4 @@ Since this deck was designed to compete with *The Hive* (Slivers), you have spec
 1 Swiftfoot Boots
 1 Lightning Greaves
 1 Angelic Arbiter
-1 Serra's Emissary
+1 Serra's Emissary
