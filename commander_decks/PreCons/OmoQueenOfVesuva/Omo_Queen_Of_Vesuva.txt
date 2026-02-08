@@ -1,0 +1,110 @@
+Commander
+1x Omo, Queen of Vesuva (m3c) 2
+
+Artifact
+1x Arcane Signet (m3c) 283
+1x Chromatic Lantern (m3c) 285
+1x Expedition Map (m3c) 292
+1x Mirage Mirror (m3c) 300
+1x Oblivion Stone (m3c) 303
+1x Seer's Sundial (m3c) 304
+1x Sol Ring (m3c) 305
+
+Creature
+1x Acidic Slime (m3c) 218
+1x Apex Devastator (m3c) 220
+1x Avenger of Zendikar (m3c) 221
+1x Dryad of the Ilysian Grove (m3c) 225
+1x Elvish Rejuvenator (m3c) 226
+1x Floriferous Vinewall (m3c) 228
+1x Fog Bank (m3c) 186
+1x Hydra Broodmaster (m3c) 233
+1x Hydroid Krasis (m3c) 266
+1x Jyoti, Moag Ancient (m3c) 8
+1x Magus of the Candelabra (m3c) 236
+1x Poison Dart Frog (m3c) 238
+1x Rampaging Baloths (m3c) 239
+1x Rampant Frogantua (m3c) 118
+1x Ramunap Excavator (m3c) 241
+1x Sage of the Maze (m3c) 119
+1x Satyr Wayfinder (m3c) 244
+1x Scute Swarm (m3c) 245
+1x Skullwinder (m3c) 247
+1x Tatyova, Benthic Druid (m3c) 273
+1x Terastodon (m3c) 249
+1x Ulvenwald Hydra (m3c) 250
+1x Uro, Titan of Nature's Wrath (m3c) 277
+1x Wonderscape Sage (m3c) 101
+
+Enchantment
+1x Copy Land (m3c) 99
+1x Desert Warfare (m3c) 116
+1x Mana Reflection (m3c) 237
+1x Propaganda (m3c) 191
+
+Instant
+1x Arcane Denial (m3c) 176
+1x Beast Within (m3c) 223
+1x Drown in Dreams (m3c) 181
+1x Eureka Moment (m3c) 260
+1x Evacuation (m3c) 184
+1x Growth Spiral (m3c) 265
+1x Pongify (m3c) 190
+1x Summary Dismissal (m3c) 193
+
+Land
+1x Basilisk Gate (m3c) 320
+1x Blast Zone (m3c) 322
+1x Cloudpost (m3c) 330
+1x Command Tower (m3c) 331
+1x Dark Depths (m3c) 334
+1x Desert of the Indomitable (m3c) 336
+1x Desert of the Mindful (m3c) 337
+1x Dreamroot Cascade (m3c) 338
+1x Flooded Grove (m3c) 342
+4x Forest (mh3) 319
+1x Glimmerpost (m3c) 346
+1x Hashep Oasis (m3c) 347
+1x Hidden Cataract (m3c) 348
+1x Hidden Nursery (m3c) 349
+1x Horizon of Progress (m3c) 130
+3x Island (mh3) 312
+1x Lair of the Hydra (m3c) 353
+1x Lazotep Quarry (m3c) 131
+1x Lumbering Falls (m3c) 355
+1x Lush Oasis (m3c) 356
+1x Overflowing Basin (m3c) 362
+1x Planar Nexus (m3c) 132
+1x Quandrix Campus (m3c) 366
+1x Simic Growth Chamber (m3c) 377
+1x Simic Guildgate (m3c) 378
+1x Sunken Palace (m3c) 133
+1x Talon Gates of Madara (m3c) 134
+1x Temple of Mystery (m3c) 390
+1x Thespian's Stage (m3c) 395
+1x Thornwood Falls (m3c) 396
+1x Trenchpost (m3c) 135
+1x Urza's Mine (m3c) 401
+1x Urza's Power Plant (m3c) 402
+1x Urza's Tower (m3c) 403
+1x Vesuva (m3c) 404
+1x Vineglimmer Snarl (m3c) 405
+1x Volatile Fault (m3c) 407
+1x Yavimaya Coast (m3c) 410
+1x Yavimaya, Cradle of Growth (m3c) 409
+
+Planeswalker
+1x Nissa, Steward of Elements (m3c) 270
+1x Vivien Reid (m3c) 252
+
+Sorcery
+1x Aggressive Biomancy (m3c) 121
+1x Curse of the Swine (m3c) 179
+1x Finale of Revelation (m3c) 185
+1x Harmonize (m3c) 231
+1x Hour of Promise (m3c) 232
+1x March from Velis Vel (m3c) 100
+1x Replication Technique (m3c) 192
+1x Sylvan Scrying (m3c) 248
+1x Treasure Cruise (m3c) 195
+1x Urban Evolution (m3c) 276

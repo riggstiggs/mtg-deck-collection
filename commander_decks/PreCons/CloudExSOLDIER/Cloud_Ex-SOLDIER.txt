@@ -1,0 +1,107 @@
+Commander
+1x Cloud, Ex-SOLDIER (fic) 2
+
+Artifact
+1x Arcane Signet (fic) 333
+1x Behemoth Sledge (fic) 320
+1x Champion's Helm (fic) 337
+1x Colossus Hammer (fic) 338
+1x Conformer Shuriken (fic) 98
+1x Conqueror's Flail (fic) 340
+1x Darksteel Plate (fic) 342
+1x Explorer's Scope (fic) 344
+1x Hero's Blade (fic) 345
+1x Hero's Heirloom (fic) 346
+1x Inspiring Statuary (fic) 347
+1x Lightning Greaves (fic) 349
+1x Mask of Memory (fic) 350
+1x Skullclamp (fic) 355
+1x Sol Ring (fic) 357
+1x Summoning Materia (fic) 72
+1x Sword of the Animist (fic) 362
+1x Trailblazer's Boots (fic) 370
+1x Wrecking Ball Arm (fic) 100
+
+Creature
+1x Aerith, Last Ancient (fic) 76
+1x Armory Automaton (fic) 336
+1x Avalanche of Sector 7 (fic) 53
+1x Barret Wallace (fin) 129
+1x Barret, Avalanche Leader (fic) 79
+1x Bastion Protector (fic) 233
+1x Bronze Guardian (fic) 234
+1x Bugenhagen, Wise Elder (fic) 66
+1x Cait Sith, Fortune Teller (fic) 54
+1x Cid, Freeflier Pilot (fic) 13
+1x Elena, Turk Recruit (fic) 18
+1x Heidegger, Shinra Executive (fic) 21
+1x Helitrooper (fic) 22
+1x Hellkite Tyrant (fic) 295
+1x Professional Face-Breaker (fic) 296
+1x Professor Hojo (fic) 69
+1x Puresteel Paladin (fic) 250
+1x Red XIII, Proud Warrior (fic) 91
+1x Sephiroth, Fallen Hero (fic) 92
+1x Summon: Kujata (fic) 61
+1x Tifa, Martial Artist (fic) 6
+1x Vincent, Vengeful Atoner (fic) 64
+1x Yuffie, Materia Hunter (fic) 65
+1x Zack Fair (fin) 45
+
+Enchantment
+1x Furious Rise (fic) 294
+1x SOLDIER Military Program (fic) 25
+
+Instant
+1x Chaos Warp (fic) 291
+1x Clever Concealment (fic) 236
+1x Cloud's Limit Break (fic) 14
+1x Dispatch (fic) 241
+1x Lifestream's Blessing (fic) 67
+1x Ultimate Magic: Holy (fic) 32
+
+Land
+1x Ash Barrens (fic) 374
+1x Battlefield Forge (fic) 375
+1x Bonders' Enclave (fic) 376
+1x Brushland (fic) 377
+1x Canopy Vista (fic) 378
+1x Cinder Glade (fic) 380
+1x Clifftop Retreat (fic) 381
+1x Command Tower (fic) 485
+1x Evolving Wilds (fic) 389
+1x Exotic Orchard (fic) 390
+1x Fire-Lit Thicket (fic) 392
+3x Forest (fin) 306
+1x Fortified Village (fic) 396
+1x Furycalm Snarl (fic) 397
+1x Game Trail (fic) 398
+1x Jungle Shrine (fic) 406
+1x Mossfire Valley (fic) 407
+3x Mountain (fin) 303
+1x Path of Ancestry (fic) 411
+3x Plains (fin) 295
+1x Radiant Grove (fic) 414
+1x Rootbound Crag (fic) 416
+1x Rugged Prairie (fic) 417
+1x Sacred Peaks (fic) 418
+1x Scavenger Grounds (fic) 419
+1x Slayers' Stronghold (fic) 424
+1x Spire of Industry (fic) 426
+1x Sungrass Prairie (fic) 428
+1x Sunpetal Grove (fic) 432
+1x Sunscorched Divide (fic) 433
+1x Wooded Ridgeline (fic) 441
+
+Sorcery
+1x Austere Command (fic) 231
+1x Cultivate (fic) 300
+1x Decimate (fic) 323
+1x Harmonize (fic) 308
+1x Nature's Lore (fic) 311
+1x Rampant Growth (fic) 313
+1x Secret Rendezvous (fic) 217
+1x Ultimate Magic: Meteor (fic) 62
+1x Unfinished Business (fic) 259
+1x Vandalblast (fic) 298
+1x Vanquish the Horde (fic) 260

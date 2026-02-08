@@ -1,0 +1,96 @@
+Commander
+1x Satya, Aetherflux Genius (m3c) 3
+
+Artifact
+1x Aether Refinery (m3c) 106
+1x Aethersphere Harvester (m3c) 280
+1x Aetherworks Marvel (m3c) 281
+1x Arcane Signet (m3c) 283
+1x Bespoke Battlewagon (mh3) 52
+1x Bident of Thassa (m3c) 177
+1x Coalition Relic (m3c) 286
+1x Conversion Apparatus (m3c) 128
+1x Coveted Jewel (m3c) 287
+1x Decoction Module (m3c) 288
+1x Filigree Racer (m3c) 108
+1x Gonti's Aether Heart (m3c) 294
+1x Hourglass of the Lost (m3c) 92
+1x Izzet Generatorium (mh3) 191
+1x Midnight Clock (m3c) 189
+1x Sol Ring (m3c) 305
+1x Solar Transformer (mh3) 211
+1x Stone Idol Generator (m3c) 129
+1x Talisman of Conviction (m3c) 307
+1x Talisman of Creativity (m3c) 308
+1x Talisman of Progress (m3c) 313
+1x Unstable Amulet (mh3) 142
+1x Wayfarer's Bauble (m3c) 315
+
+Creature
+1x Aethergeode Miner (m3c) 163
+1x Aethersquall Ancient (m3c) 174
+1x Aetherstorm Roc (m3c) 164
+1x Aethertide Whale (m3c) 175
+1x Amped Raptor (mh3) 114
+1x Angel of Invention (m3c) 166
+1x Aurora Shifter (m3c) 97
+1x Blaster Hulk (m3c) 107
+1x Brudiclad, Telchor Engineer (m3c) 257
+1x Burnished Hart (m3c) 284
+1x Cayth, Famed Mechanist (m3c) 6
+1x Combustible Gearhulk (m3c) 210
+1x Goldspan Dragon (m3c) 212
+1x Grenzo, Havoc Raiser (m3c) 213
+1x Lightning Runner (m3c) 215
+1x Myr Battlesphere (m3c) 301
+1x Overclocked Electromancer (m3c) 110
+1x Professional Face-Breaker (m3c) 216
+1x Razorfield Ripper (m3c) 94
+1x Roil Cartographer (mh3) 67
+1x Salvation Colossus (m3c) 95
+1x Silverquill Lecturer (m3c) 96
+1x Skyclave Apparition (m3c) 172
+1x Solemn Simulacrum (m3c) 306
+1x Sphinx of the Revelation (m3c) 127
+1x Whirler Virtuoso (m3c) 278
+
+Enchantment
+1x Era of Innovation (m3c) 183
+1x Legion Loyalty (m3c) 171
+1x Scurry of Gremlins (mh3) 203
+
+Instant
+1x Akroma's Will (m3c) 165
+1x Glimmer of Genius (m3c) 187
+1x Swords to Plowshares (m3c) 173
+
+Land
+1x Adarkar Wastes (m3c) 316
+1x Aether Hub (m3c) 317
+1x Azorius Chancery (m3c) 319
+1x Battlefield Forge (m3c) 321
+1x Castle Vantress (m3c) 327
+1x Command Tower (m3c) 331
+1x Demolition Field (m3c) 335
+1x Frostboil Snarl (m3c) 344
+1x Furycalm Snarl (m3c) 345
+5x Island (mh3) 312
+1x Izzet Boilerworks (m3c) 350
+5x Mountain (mh3) 504
+1x Mystic Gate (m3c) 359
+1x Mystic Monastery (m3c) 360
+10x Plains (mh3) 310
+1x Port Town (m3c) 364
+1x Prairie Stream (m3c) 365
+1x Shivan Reef (m3c) 375
+1x Temple of Enlightenment (m3c) 386
+1x Temple of Epiphany (m3c) 387
+1x Temple of Triumph (m3c) 392
+
+Sorcery
+1x Austere Command (m3c) 167
+1x Confiscation Coup (m3c) 178
+1x Farewell (m3c) 170
+1x Jolted Awake (mh3) 33
+1x Localized Destruction (m3c) 93
+1x Tezzeret's Gambit (m3c) 194

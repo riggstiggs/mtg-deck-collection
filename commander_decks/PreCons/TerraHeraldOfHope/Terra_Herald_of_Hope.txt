@@ -1,0 +1,104 @@
+Commander
+1x Terra, Herald of Hope (fic) 4
+
+Artifact
+1x Arcane Signet (fic) 332
+1x Coin of Fate (fic) 15
+1x Commander's Sphere (fic) 339
+1x Key to the City (fic) 348
+1x Mind Stone (fic) 353
+1x Phoenix Down (fin) 29
+1x Sol Ring (fic) 356
+1x Swiftfoot Boots (fic) 361
+1x Talisman of Conviction (fic) 363
+1x Talisman of Indulgence (fic) 366
+1x The Falcon, Airship Restored (fic) 45
+1x Wayfarer's Bauble (fic) 372
+
+Creature
+1x Angel of the Ruins (fic) 229
+1x Anger (fic) 289
+1x Archfiend of Depravity (fic) 273
+1x Banon, the Returners' Leader (fic) 78
+1x Celes, Rune Knight (fic) 1
+1x Combustible Gearhulk (fic) 292
+1x Cyan, Vengeful Samurai (fic) 16
+1x Edgar, Master Machinist (fic) 80
+1x Flayer of the Hatebound (fic) 293
+1x Gau, Feral Youth (fic) 55
+1x General Leo Cristophe (fic) 20
+1x Gogo, Mysterious Mime (fic) 56
+1x Interceptor, Shadow's Hound (fic) 47
+1x Kefka, Dancing Mad (fic) 84
+1x Locke, Treasure Hunter (fic) 87
+1x Meteor Golem (fic) 351
+1x Millikin (fic) 352
+1x Mog, Moogle Warrior (fic) 89
+1x Morbid Opportunist (fic) 278
+1x Palace Jailer (fic) 247
+1x Pitiless Plunderer (fic) 281
+1x Priest of Fell Rites (fic) 328
+1x Ruin Grinder (fic) 297
+1x Sabin, Master Monk (fic) 57
+1x Sepulchral Primordial (fic) 284
+1x Setzer, Wandering Gambler (fic) 93
+1x Shadow, Mysterious Assassin (fic) 50
+1x Siegfried, Famed Swordsman (fic) 51
+1x Solemn Simulacrum (fic) 360
+1x Stitcher's Supplier (fic) 287
+1x Strago and Relm (fic) 59
+1x Summon: Esper Valigarmanda (fic) 60
+1x Sun Titan (fic) 254
+1x The Warring Triad (fic) 99
+1x Umaro, Raging Yeti (fic) 63
+
+Instant
+1x Bedevil (fic) 319
+1x Big Score (fic) 290
+1x Crackling Doom (fic) 322
+1x Espers to Magicite (fic) 43
+1x Laughing Mad (fin) 143
+1x Mortify (fic) 327
+
+Land
+1x Ash Barrens (fic) 374
+1x Battlefield Forge (fic) 375
+1x Clifftop Retreat (fic) 381
+1x Command Tower (fic) 484
+1x Demolition Field (fic) 385
+1x Desolate Mire (fic) 386
+1x Dragonskull Summit (fic) 387
+1x Evolving Wilds (fic) 389
+1x Exotic Orchard (fic) 390
+1x Fetid Heath (fic) 391
+1x Foreboding Ruins (fic) 394
+1x Furycalm Snarl (fic) 397
+1x Geothermal Bog (fic) 399
+1x Graven Cairns (fic) 401
+1x High Market (fic) 402
+1x Isolated Chapel (fic) 405
+3x Mountain (fin) 304
+1x Nomad Outpost (fic) 409
+1x Path of Ancestry (fic) 411
+4x Plains (fin) 294
+1x Rogue's Passage (fic) 415
+1x Rugged Prairie (fic) 417
+1x Sacred Peaks (fic) 418
+1x Shadowblood Ridge (fic) 421
+1x Shineshadow Snarl (fic) 422
+1x Smoldering Marsh (fic) 425
+1x Sulfurous Springs (fic) 427
+1x Sunlit Marsh (fic) 431
+1x Sunscorched Divide (fic) 433
+3x Swamp (fin) 301
+
+Sorcery
+1x Legions to Ashes (fic) 326
+1x Night's Whisper (fic) 280
+1x Reanimate (fic) 282
+1x Rejoin the Fight (fic) 49
+1x Rise of the Dark Realms (fic) 283
+1x Ruinous Ultimatum (fic) 329
+1x Snort (fic) 58
+1x Stitch Together (fic) 286
+1x Tragic Arrogance (fic) 258

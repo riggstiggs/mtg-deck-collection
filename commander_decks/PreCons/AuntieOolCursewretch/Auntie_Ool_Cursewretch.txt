@@ -1,0 +1,100 @@
+Commander
+1x Auntie Ool, Cursewretch (ecc) 2
+
+Artifact
+1x Arcane Signet (ecc) 55
+1x Chimil, the Inner Sun (ecc) 137
+1x Commander's Sphere (ecc) 139
+1x Contagion Clasp (ecc) 140
+1x Sol Ring (ecc) 58
+1x Wickersmith's Tools (ecc) 21
+
+Creature
+1x Archfiend of Ifnir (ecc) 70
+1x Carnifex Demon (ecc) 72
+1x Channeler Initiate (ecc) 101
+1x Devoted Druid (ecc) 104
+1x Dread Tiller (ecc) 20
+1x Dusk Urchins (ecc) 73
+1x Evolution Sage (ecc) 105
+1x Ferrafor, Young Yew (ecc) 16
+1x Glissa Sunslayer (ecc) 122
+1x Grave Titan (ecc) 74
+1x Grim Poppet (ecc) 142
+1x Hapatra, Vizier of Poisons (ecc) 123
+1x Ignoble Hierarch (ecc) 52
+1x Kulrath Knight (ecc) 126
+1x Massacre Girl, Known Killer (ecc) 79
+1x Midnight Banshee (ecc) 80
+1x Necroskitter (ecc) 48
+1x Oft-Nabbed Goat (ecc) 11
+1x Puppeteer Clique (ecc) 84
+1x Sinister Gnarlbark (ecc) 12
+1x Skinrender (ecc) 86
+1x Soul Snuffers (ecc) 87
+1x The Reaper, King No More (ecc) 4
+1x The Scorpion God (ecc) 133
+1x Tree of Perdition (ecc) 49
+1x Village Pillagers (ecc) 14
+1x Wickerbough Elder (ecc) 118
+
+Enchantment
+1x Binding the Old Gods (ecc) 120
+1x Blowfly Infestation (ecc) 46
+1x Everlasting Torment (ecc) 121
+1x Flourishing Defenses (ecc) 107
+1x Grave Venerations (ecc) 9
+1x Lasting Tarfire (ecl) 149
+1x Puca's Covenant (ecc) 18
+
+Instant
+1x Assassin's Trophy (ecc) 119
+1x Cathartic Pyre (ecc) 90
+1x Fire Covenant (ecc) 54
+1x Infernal Grasp (ecc) 77
+1x Putrefy (ecc) 131
+1x Terminate (ecc) 134
+
+Land
+1x Canyon Slough (ecc) 145
+1x Cinder Glade (ecc) 146
+1x Command Tower (ecc) 60
+1x Dragonskull Summit (ecc) 147
+1x Evolving Wilds (ecl) 264
+1x Exotic Orchard (ecc) 148
+1x Festering Thicket (ecc) 61
+6x Forest (ecl) 273
+1x Golgari Rot Farm (ecc) 151
+1x Gruul Turf (ecc) 152
+1x Ifnir Deadlands (ecc) 153
+4x Mountain (ecl) 272
+1x Nesting Grounds (ecc) 155
+1x Path of Ancestry (ecc) 158
+1x Rakdos Carnarium (ecc) 161
+1x Riveteers Overlook (ecc) 162
+1x Rootbound Crag (ecc) 163
+1x Savage Lands (ecc) 165
+1x Sheltered Thicket (ecc) 167
+1x Smoldering Marsh (ecc) 168
+8x Swamp (ecl) 271
+1x Terramorphic Expanse (ecc) 169
+1x Vernal Fen (ecc) 63
+1x Woodland Cemetery (ecc) 176
+
+Planeswalker
+1x Liliana, Death Wielder (ecc) 78
+1x Vraska, Betrayal's Sting (ecc) 88
+
+Sorcery
+1x Aberrant Return (ecc) 7
+1x Black Sun's Zenith (ecc) 71
+1x Burning Curiosity (ecl) 129
+1x Cathartic Reunion (ecc) 91
+1x Chain Reaction (ecc) 92
+1x Eventide's Shadow (ecc) 8
+1x Harmonize (ecc) 111
+1x Hoarder's Greed (ecc) 47
+1x Incremental Blight (ecc) 76
+1x Night's Whisper (ecc) 81
+1x Painful Truths (ecc) 82
+1x Persist (ecc) 83

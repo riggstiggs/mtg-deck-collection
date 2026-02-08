@@ -1,0 +1,106 @@
+Commander
+1x Disa the Restless (m3c) 1
+
+Artifact
+1x Altar of the Goyf (m3c) 282
+1x Arcane Signet (m3c) 283
+1x Lightning Greaves (m3c) 298
+1x Maskwood Nexus (m3c) 299
+1x Sol Ring (m3c) 305
+1x Talisman of Impulse (m3c) 311
+1x Talisman of Indulgence (m3c) 312
+1x Talisman of Resilience (m3c) 314
+1x The Reaver Cleaver (m3c) 217
+
+Creature
+1x Accursed Marauder (mh3) 80
+1x Anger (m3c) 208
+1x Archon of Cruelty (m3c) 197
+1x Barrowgoyf (m3c) 50
+1x Bloodbraid Challenger (m3c) 122
+1x Bloodbraid Elf (m3c) 256
+1x Brawn (m3c) 224
+1x Broodmate Tyrant (m3c) 71
+1x Burnished Hart (m3c) 284
+1x Coram, the Undertaker (m3c) 7
+1x Eternal Witness (m3c) 227
+1x Exterminator Magmarch (m3c) 72
+1x Gluttonous Hellkite (m3c) 73
+1x Graveshifter (m3c) 198
+1x Ignoble Hierarch (m3c) 234
+1x Infested Thrinax (m3c) 74
+1x Izoni, Thousand-Eyed (m3c) 267
+1x Junji, the Midnight Sky (m3c) 199
+1x Lhurgoyf (m3c) 235
+1x Mortivore (m3c) 201
+1x Necrogoyf (m3c) 202
+1x Polygoyf (m3c) 65
+1x Pyrogoyf (m3c) 59
+1x Sakura-Tribe Elder (m3c) 243
+1x Sawhorn Nemesis (m3c) 60
+1x Selvala, Heart of the Wilds (m3c) 246
+1x Siege-Gang Lieutenant (m3c) 113
+1x Stitcher's Supplier (m3c) 204
+1x Syr Konrad, the Grim (m3c) 207
+1x Yavimaya Elder (m3c) 254
+1x Ziatora, the Incinerator (m3c) 279
+
+Enchantment
+1x Deadbridge Chant (m3c) 258
+1x Deathreap Ritual (m3c) 259
+1x Tarmogoyf Nest (m3c) 68
+
+Instant
+1x Bituminous Blast (m3c) 255
+1x Grapple with the Past (m3c) 230
+1x Grisly Salvage (m3c) 263
+1x Kolaghan's Command (m3c) 268
+1x Riveteers Charm (m3c) 271
+1x Tempt with Mayhem (m3c) 62
+1x Terminate (m3c) 274
+
+Land
+1x Canyon Slough (m3c) 325
+1x Cinder Glade (m3c) 329
+1x Command Tower (m3c) 331
+1x Dakmor Salvage (m3c) 333
+1x Demolition Field (m3c) 335
+1x Evolving Wilds (m3c) 340
+1x Exotic Orchard (m3c) 341
+5x Forest (mh3) 319
+1x Forgotten Cave (m3c) 343
+1x Kessig Wolf Run (m3c) 352
+1x Mossfire Valley (m3c) 357
+3x Mountain (mh3) 503
+1x Myriad Landscape (m3c) 358
+1x Path of Ancestry (m3c) 363
+1x Raging Ravine (m3c) 367
+1x Riveteers Overlook (m3c) 369
+1x Savage Lands (m3c) 371
+1x Shadowblood Ridge (m3c) 373
+1x Sheltered Thicket (m3c) 374
+1x Smoldering Marsh (m3c) 379
+4x Swamp (mh3) 314
+1x Tainted Peak (m3c) 382
+1x Tainted Wood (m3c) 383
+1x Temple of Abandon (m3c) 385
+1x Temple of Malady (m3c) 388
+1x Temple of Malice (m3c) 389
+1x Terramorphic Expanse (m3c) 394
+1x Tranquil Thicket (m3c) 398
+1x Twisted Landscape (mh3) 232
+1x Viridescent Bog (m3c) 406
+
+Planeswalker
+1x Garruk, Apex Predator (m3c) 262
+1x Grist, the Hunger Tide (m3c) 264
+1x Liliana, Death's Majesty (m3c) 200
+
+Sorcery
+1x Chandra's Ignition (m3c) 209
+1x Faithless Looting (m3c) 211
+1x Final Act (m3c) 104
+1x Find // Finality (m3c) 261
+1x Maelstrom Pulse (m3c) 269
+1x Rampant Growth (m3c) 240
+1x Syphon Mind (m3c) 206

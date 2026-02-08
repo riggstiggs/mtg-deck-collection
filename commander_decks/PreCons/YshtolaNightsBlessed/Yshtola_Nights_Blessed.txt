@@ -1,0 +1,105 @@
+Commander
+1x Y'shtola, Night's Blessed (fic) 7
+
+Artifact
+1x Arcane Signet (fic) 335
+1x Archaeomancer's Map (fic) 230
+1x Astrologian's Planisphere (fin) 46
+1x Blue Mage's Cane (fic) 35
+1x Coveted Jewel (fic) 341
+1x Dancer's Chakrams (fic) 17
+1x Reaper's Scythe (fic) 48
+1x Relic of Legends (fic) 354
+1x Sage's Nouliths (fin) 70
+1x Sol Ring (fic) 359
+1x Talisman of Dominance (fic) 364
+1x Talisman of Hierarchy (fic) 365
+1x Talisman of Progress (fic) 367
+1x Thought Vessel (fic) 368
+1x Tome of Legends (fic) 369
+1x White Auracite (fin) 41
+
+Creature
+1x Alisaie Leveilleur (fic) 9
+1x Alphinaud Leveilleur (fic) 33
+1x Archmage Emeritus (fic) 261
+1x Ardbert, Warrior of Darkness (fic) 77
+1x Baleful Strix (fic) 318
+1x Emet-Selch of the Third Seat (fic) 81
+1x Estinien Varlineau (fic) 82
+1x Fandaniel, Telophoroi Ascian (fic) 46
+1x G'raha Tia, Scion Reborn (fic) 3
+1x Hermes, Overseer of Elpis (fic) 36
+1x Hildibrand Manderville // Gentleman's Rise (fic) 83
+1x Hraesvelgr of the First Brood (fic) 37
+1x Hypnotic Sprite // Mesmeric Glare (fic) 264
+1x Krile Baldesion (fic) 86
+1x Lyse Hext (fic) 88
+1x Murderous Rider // Swift End (fic) 279
+1x Papalymo Totolymo (fic) 90
+1x Summon: Good King Mog XII (fic) 26
+1x Tataru Taru (fic) 30
+1x Thancred Waters (fic) 31
+1x Torrential Gearhulk (fic) 272
+1x Urianger Augurelt (fic) 96
+
+Enchantment
+1x Authority of the Consuls (fic) 232
+1x Bastion of Remembrance (fic) 274
+1x Champions from Beyond (fic) 11
+1x Eye of Nidhogg (fic) 44
+1x Observed Stasis (fic) 40
+1x Propaganda (fic) 268
+
+Instant
+1x Dig Through Time (fic) 263
+1x Into the Story (fic) 266
+1x Lethal Scheme (fic) 277
+1x Snuff Out (fic) 285
+1x Sublime Epiphany (fic) 271
+1x Swords to Plowshares (fic) 256
+1x Transpose (fic) 52
+1x Void Rend (fic) 331
+
+Land
+1x Arcane Sanctum (fic) 373
+1x Ash Barrens (fic) 374
+1x Choked Estuary (fic) 379
+1x Command Tower (fic) 382
+1x Contaminated Aquifer (fic) 383
+1x Darkwater Catacombs (fic) 384
+1x Demolition Field (fic) 385
+1x Desolate Mire (fic) 386
+1x Drowned Catacomb (fic) 388
+1x Evolving Wilds (fic) 389
+1x Exotic Orchard (fic) 390
+1x Fetid Heath (fic) 391
+1x Glacial Fortress (fic) 400
+1x Idyllic Beachfront (fic) 404
+3x Island (fin) 297
+1x Isolated Chapel (fic) 405
+1x Path of Ancestry (fic) 411
+4x Plains (fin) 296
+1x Port Town (fic) 412
+1x Prairie Stream (fic) 413
+1x Scavenger Grounds (fic) 419
+1x Shineshadow Snarl (fic) 422
+1x Skycloud Expanse (fic) 423
+1x Sunken Hollow (fic) 429
+1x Sunken Ruins (fic) 430
+1x Sunlit Marsh (fic) 431
+4x Swamp (fin) 300
+1x Temple of the False God (fic) 438
+1x Underground River (fic) 439
+
+Sorcery
+1x Circle of Power (fin) 92
+1x Cleansing Nova (fic) 235
+1x Crux of Fate (fic) 275
+1x Cut a Deal (fic) 238
+1x Exsanguinate (fic) 276
+1x Final Judgment (fic) 243
+1x Lingering Souls (fic) 245
+1x Rite of Replication (fic) 270
+1x Syphon Mind (fic) 288
+1x Vindicate (fic) 330

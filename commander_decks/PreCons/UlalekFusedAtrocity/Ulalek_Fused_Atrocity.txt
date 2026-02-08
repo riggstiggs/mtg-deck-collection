@@ -1,0 +1,115 @@
+Commander
+1x Ulalek, Fused Atrocity (m3c) 4
+
+Artifact
+1x Arcane Signet (m3c) 283
+1x Dreamstone Hedron (m3c) 289
+1x Eldrazi Monument (m3c) 290
+1x Everflowing Chalice (m3c) 291
+1x Forsaken Monument (m3c) 293
+1x Hedron Archive (m3c) 295
+1x Herald's Horn (m3c) 296
+1x Idol of Oblivion (m3c) 297
+1x Mystic Forge (m3c) 302
+1x Sol Ring (m3c) 305
+1x Talisman of Curiosity (m3c) 309
+1x Talisman of Dominance (m3c) 310
+1x Talisman of Impulse (m3c) 311
+1x Talisman of Resilience (m3c) 314
+
+Creature
+1x Angelic Aberration (m3c) 39
+1x Artisan of Kozilek (m3c) 153
+1x Azlask, the Swelling Scourge (m3c) 5
+1x Benthic Anomaly (m3c) 46
+1x Bismuth Mindrender (m3c) 51
+1x Chittering Dispatcher (m3c) 63
+1x Deepfathom Skulker (m3c) 180
+1x Drowner of Hope (m3c) 182
+1x Elder Deep-Fiend (m3c) 154
+1x Eldrazi Displacer (m3c) 169
+1x Endbringer (m3c) 156
+1x Glaring Fleshraker (mh3) 7
+1x Hideous Taskmaster (m3c) 57
+1x Inversion Behemoth (m3c) 34
+1x Morophon, the Boundless (m3c) 157
+1x Mutated Cultist (m3c) 53
+1x Oblivion Sower (m3c) 158
+1x Sifter of Skulls (m3c) 203
+1x Sire of Stagnation (m3c) 272
+1x Snapping Voidcraw (mh3) 204
+1x Spawnbed Protector (m3c) 36
+1x Titans' Vanguard (mh3) 206
+1x Twins of Discord (m3c) 37
+1x Ulamog's Crusher (m3c) 161
+1x Ulamog's Dreadsire (m3c) 38
+1x Ulamog's Nullifier (m3c) 275
+1x Vile Redeemer (m3c) 251
+1x Wastescape Battlemage (mh3) 17
+1x World Breaker (m3c) 253
+
+Enchantment
+1x Awakening Zone (m3c) 222
+1x Eldrazi Conscription (m3c) 155
+1x Garruk's Uprising (m3c) 229
+1x Imprisoned in the Moon (m3c) 188
+
+Instant
+1x Crib Swap (m3c) 168
+1x Eldrazi Confluence (m3c) 32
+1x Eldritch Immunity (m3c) 33
+1x Kozilek's Return (m3c) 214
+1x Return of the Wildspeaker (m3c) 242
+1x Suffer the Past (m3c) 205
+1x Warping Wail (m3c) 162
+
+Land
+1x Adarkar Wastes (m3c) 316
+1x Ash Barrens (m3c) 318
+1x Battlefield Forge (m3c) 321
+1x Bonders' Enclave (m3c) 323
+1x Brushland (m3c) 324
+1x Cascading Cataracts (m3c) 326
+1x Caves of Koilos (m3c) 328
+1x Command Tower (m3c) 331
+1x Corrupted Crossroads (m3c) 332
+1x Eldrazi Temple (m3c) 339
+1x Exotic Orchard (m3c) 341
+1x Forest (mh3) 319
+1x Island (mh3) 312
+1x Karplusan Forest (m3c) 351
+1x Llanowar Wastes (m3c) 354
+1x Mountain (mh3) 503
+1x Opal Palace (m3c) 361
+1x Path of Ancestry (m3c) 363
+1x Plains (mh3) 310
+1x Reliquary Tower (m3c) 368
+1x Ruins of Oran-Rief (m3c) 370
+1x Secluded Courtyard (m3c) 372
+1x Shivan Reef (m3c) 375
+1x Shrine of the Forsaken Gods (m3c) 376
+1x Spawning Bed (m3c) 380
+1x Sulfurous Springs (m3c) 381
+1x Swamp (mh3) 315
+1x Tectonic Edge (m3c) 384
+1x Temple of Malady (m3c) 388
+1x Temple of Silence (m3c) 391
+1x Tendo Ice Bridge (m3c) 393
+1x Tomb of the Spirit Dragon (m3c) 397
+1x Tranquil Landscape (mh3) 231
+1x Twisted Landscape (mh3) 232
+1x Unclaimed Territory (m3c) 399
+1x Underground River (m3c) 400
+1x Wastes (m3c) 408
+1x Yavimaya Coast (m3c) 410
+
+Planeswalker
+1x Ugin, the Ineffable (m3c) 160
+
+Sorcery
+1x All Is Dust (m3c) 152
+1x Ancient Stirrings (m3c) 219
+1x Rishkar's Expertise (m3c) 411
+1x Selective Obliteration (m3c) 35
+1x Skittering Invasion (m3c) 159
+1x Ugin's Insight (m3c) 196

@@ -1,0 +1,100 @@
+Commander
+1x Hearthhull, the Worldseed (eoc) 1
+
+Artifact
+1x Arcane Signet (eoc) 53
+1x Exploration Broodship (eoc) 14
+1x Hammer of Purphoros (eoc) 88
+1x Sol Ring (eoc) 57
+
+Creature
+1x Szarel, Genesis Shepherd (eoc) 4
+1x Aftermath Analyst (eoc) 91
+1x Augur of Autumn (eoc) 92
+1x Baloth Prime (eoc) 13
+1x Braids, Arisen Nightmare (eoc) 82
+1x Centaur Vinecrasher (eoc) 94
+1x Eumidian Wastewaker (eoc) 8
+1x Evendo Brushrazer (eoc) 10
+1x God-Eternal Bontu (eoc) 83
+1x Groundskeeper (eoc) 97
+1x Horizon Explorer (eoc) 15
+1x Juri, Master of the Revue (eoc) 119
+1x Korvold, Fae-Cursed King (eoc) 120
+1x Loamcrafter Faun (eoc) 99
+1x Mayhem Devil (eoc) 121
+1x Mazirek, Kraul Death Priest (eoc) 122
+1x Moraug, Fury of Akoum (eoc) 89
+1x Multani, Yavimaya's Avatar (eoc) 100
+1x Omnath, Locus of Rage (eoc) 123
+1x Oracle of Mul Daya (eoc) 102
+1x Rampaging Baloths (eoc) 104
+1x Satyr Wayfinder (eoc) 106
+1x Scouring Swarm (eoc) 16
+1x Soul of Windgrace (eoc) 126
+1x Springbloom Druid (eoc) 51
+1x Sprouting Goblin (eoc) 90
+1x The Gitrog Monster (eoc) 117
+1x Tireless Tracker (eoc) 110
+1x Titania, Protector of Argoth (eoc) 111
+1x Uurg, Spawn of Turg (eoc) 127
+1x World Breaker (eoc) 112
+
+Enchantment
+1x Binding the Old Gods (eoc) 52
+
+Instant
+1x Beast Within (eoc) 93
+1x Harrow (eoc) 98
+1x Infernal Grasp (eoc) 84
+1x Putrefy (eoc) 124
+1x Rakdos Charm (eoc) 125
+1x Roiling Regrowth (eoc) 105
+1x Tear Asunder (eoc) 109
+1x Windgrace's Judgment (eoc) 129
+
+Land
+1x Bojuka Bog (eoc) 149
+1x Cabaretti Courtyard (eoc) 151
+1x Canyon Slough (eoc) 152
+1x Cinder Glade (eoc) 154
+1x Command Tower (eoc) 59
+1x Dakmor Salvage (eoc) 156
+1x Escape Tunnel (eoc) 157
+1x Eumidian Hatchery (eoc) 20
+1x Evolving Wilds (eoc) 158
+1x Fabled Passage (eoc) 60
+1x Festering Thicket (eoc) 21
+8x Forest (eoe) 276
+1x Karplusan Forest (eoc) 164
+1x Llanowar Wastes (eoc) 165
+1x Maestros Theater (eoc) 167
+3x Mountain (eoe) 273
+1x Mountain Valley (eoc) 61
+1x Myriad Landscape (eoc) 169
+1x Riveteers Overlook (eoc) 172
+1x Rocky Tar Pit (eoc) 173
+1x Sheltered Thicket (eoc) 178
+1x Smoldering Marsh (eoc) 182
+1x Sulfurous Springs (eoc) 185
+5x Swamp (eoe) 271
+1x Terramorphic Expanse (eoc) 62
+1x Twilight Mire (eoc) 189
+1x Vernal Fen (eoc) 24
+1x Viridescent Bog (eoc) 190
+1x Wastes (ogw) 184a
+
+Sorcery
+1x Blasphemous Act (eoc) 86
+1x Cultivate (eoc) 95
+1x Escape to the Wilds (eoc) 115
+1x Farseek (eoc) 50
+1x Formless Genesis (eoc) 96
+1x Gaze of Granite (eoc) 116
+1x Nature's Lore (eoc) 101
+1x Night's Whisper (eoc) 85
+1x Pest Infestation (eoc) 103
+1x Planetary Annihilation (eoc) 12
+1x Skyshroud Claim (eoc) 107
+1x Splendid Reclamation (eoc) 108
+1x Worldsoul's Rage (eoc) 130

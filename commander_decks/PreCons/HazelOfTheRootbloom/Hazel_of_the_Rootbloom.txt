@@ -1,0 +1,100 @@
+Commander
+1x Hazel of the Rootbloom (blc) 2
+
+Artifact
+1x Arcane Signet (blc) 127
+1x Chitterspitter (blc) 211
+1x Golgari Signet (blc) 272
+1x Idol of Oblivion (blc) 277
+1x Maskwood Nexus (blc) 279
+1x Skullclamp (blc) 283
+1x Sol Ring (blc) 129
+1x Sword of the Squeak (blc) 40
+1x Talisman of Resilience (blc) 288
+
+Creature
+1x Academy Manufactor (blc) 264
+1x Arasta of the Endless Web (blc) 205
+1x Beledros Witherbloom (blc) 247
+1x Chatterfang, Squirrel General (blc) 209
+1x Chittering Witch (blc) 180
+1x Deep Forest Hermit (blc) 213
+1x End-Raze Forerunners (blc) 214
+1x Gilded Goose (blc) 221
+1x Haywire Mite (blc) 274
+1x Hazel's Brewmaster (blc) 17
+1x Honored Dreyleader (blb) 178
+1x Insatiable Frugivore (blc) 18
+1x Moonstone Eulogist (blc) 19
+1x Morbid Opportunist (blc) 183
+1x Nadier's Nightblade (blc) 184
+1x Nested Shambler (blc) 185
+1x Ogre Slumlord (blc) 186
+1x Plaguecrafter (blc) 187
+1x Poison-Tip Archer (blc) 256
+1x Prosperous Innkeeper (blc) 121
+1x Ravenous Squirrel (blc) 258
+1x Scurry of Squirrels (blc) 33
+1x Skyfisher Spider (blc) 261
+1x Squirrel Sovereign (blc) 240
+1x The Odd Acorn Gang (blc) 7
+1x Tireless Provisioner (blc) 243
+1x Toski, Bearer of Secrets (blc) 244
+1x Woe Strider (blc) 189
+1x Zulaport Cutthroat (blc) 190
+
+Enchantment
+1x Bastion of Remembrance (blc) 179
+1x Beastmaster Ascension (blc) 118
+1x Binding the Old Gods (blc) 248
+1x Gourmand's Talent (blc) 31
+1x Moldervine Reclamation (blc) 255
+1x Squirrel Nest (blc) 239
+1x Wolfwillow Haven (blc) 246
+
+Instant
+1x Cache Grab (blb) 167
+1x Deadly Dispute (blc) 181
+1x Plumb the Forbidden (blc) 188
+1x Putrefy (blc) 257
+1x Saw in Half (blc) 113
+1x Second Harvest (blc) 123
+1x Tear Asunder (blc) 241
+1x Windgrace's Judgment (blc) 263
+
+Land
+1x Barren Moor (blc) 292
+1x Bojuka Bog (blc) 294
+1x Command Tower (blc) 130
+1x Evolving Wilds (blc) 302
+1x Exotic Orchard (blc) 131
+9x Forest (blb) 378
+1x Golgari Rot Farm (blc) 308
+1x Grim Backwoods (blc) 309
+1x Haunted Mire (blc) 311
+1x Jungle Hollow (blc) 313
+1x Llanowar Wastes (blc) 315
+1x Necroblossom Snarl (blc) 319
+1x Oran-Rief, the Vastwood (blc) 320
+1x Path of Ancestry (blc) 322
+8x Swamp (blb) 373
+1x Swarmyard (blc) 133
+1x Tainted Wood (blc) 337
+1x Temple of Malady (blc) 341
+1x Terramorphic Expanse (blc) 345
+1x Tranquil Thicket (blc) 350
+1x Twilight Mire (blc) 351
+1x Viridescent Bog (blc) 352
+1x Woodland Cemetery (blc) 354
+
+Planeswalker
+1x Garruk, Cursed Huntsman (blc) 99
+
+Sorcery
+1x Casualties of War (blc) 125
+1x Chatterstorm (blc) 210
+1x Decree of Pain (blc) 182
+1x Maelstrom Pulse (blc) 126
+1x Rootcast Apprenticeship (blc) 32
+1x Shamanic Revelation (blc) 237
+1x Swarmyard Massacre (blc) 20

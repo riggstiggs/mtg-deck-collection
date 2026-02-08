@@ -1,0 +1,105 @@
+Commander
+1x Zinnia, Valley's Voice (blc) 4
+
+Artifact
+1x Arcane Signet (blc) 127
+1x Azorius Signet (blc) 265
+1x Bident of Thassa (blc) 162
+1x Boros Signet (blc) 128
+1x Fellwar Stone (blc) 269
+1x Helm of the Host (blc) 276
+1x Izzet Signet (blc) 278
+1x Mind Stone (blc) 280
+1x Sol Ring (blc) 129
+
+Creature
+1x Aether Channeler (blc) 160
+1x Agate Instigator (blc) 21
+1x Angel of the Ruins (blc) 134
+1x Arthur, Marigold Knight (blc) 5
+1x Blade Splicer (blc) 136
+1x Boss's Chauffeur (blc) 137
+1x Circuit Mender (blc) 267
+1x Cloudblazer (blc) 249
+1x Combat Celebrant (blc) 194
+1x Curiosity Crafter (blc) 165
+1x Devilish Valet (blc) 195
+1x Hanged Executioner (blc) 139
+1x Illusory Ambusher (blc) 167
+1x Inferno Titan (blc) 198
+1x Inspiring Overseer (blc) 141
+1x Jacked Rabbit (blc) 9
+1x Jazal Goldmane (blc) 142
+1x Junk Winder (blc) 169
+1x Loyal Warhound (blc) 107
+1x Luminous Broodmoth (blc) 144
+1x Ornithopter of Paradise (blc) 281
+1x Plumecreed Escort (blb) 65
+1x Pollywog Prodigy (blc) 15
+1x Rapid Augmenter (blc) 38
+1x Restoration Angel (blc) 150
+1x Rose Room Treasurer (blc) 201
+1x Selfless Spirit (blc) 153
+1x Shield Broker (blc) 174
+1x Siege-Gang Commander (blc) 202
+1x Skyclave Apparition (blc) 154
+1x Solemn Simulacrum (blc) 284
+1x Spirited Companion (blc) 155
+1x Sun Titan (blc) 157
+1x Tetsuko Umezawa, Fugitive (blc) 177
+1x Thopter Engineer (blc) 204
+
+Enchantment
+1x Echoing Assault (blc) 24
+1x Fortune Teller's Talent (blc) 14
+1x Murmuration (blc) 10
+
+Instant
+1x Aetherize (blc) 161
+1x Path to Exile (blc) 147
+1x Pull from Tomorrow (blc) 172
+1x Rapid Hybridization (blc) 111
+1x Rowdy Research (blc) 173
+
+Land
+1x Adarkar Wastes (blc) 291
+1x Battlefield Forge (blc) 293
+1x Cascade Bluffs (blc) 297
+1x Castle Ardenvale (blc) 298
+1x Clifftop Retreat (blc) 300
+1x Command Tower (blc) 130
+1x Evolving Wilds (blc) 302
+1x Exotic Orchard (blc) 131
+1x Ferrous Lake (blc) 303
+1x Glacial Fortress (blc) 307
+4x Island (blb) 372
+4x Mountain (blb) 375
+1x Mystic Monastery (blc) 318
+1x Path of Ancestry (blc) 322
+5x Plains (blb) 369
+1x Rugged Prairie (blc) 327
+1x Seachrome Coast (blc) 328
+1x Shivan Reef (blc) 331
+1x Skycloud Expanse (blc) 332
+1x Sulfur Falls (blc) 333
+1x Sunscorched Divide (blc) 336
+1x Temple of Enlightenment (blc) 339
+1x Temple of Epiphany (blc) 340
+1x Temple of Triumph (blc) 344
+1x Terramorphic Expanse (blc) 345
+1x Thriving Bluff (blc) 346
+1x Thriving Heath (blc) 348
+1x Thriving Isle (blc) 349
+
+Planeswalker
+1x Elspeth, Sun's Champion (blc) 97
+
+Sorcery
+1x Calamity of Cinders (blc) 23
+1x Chart a Course (blc) 110
+1x Cut a Deal (blc) 105
+1x Dusk // Dawn (blc) 138
+1x Martial Coup (blc) 146
+1x Stolen by the Fae (blc) 176
+1x Storm of Souls (blc) 156
+1x Time Wipe (blc) 262
