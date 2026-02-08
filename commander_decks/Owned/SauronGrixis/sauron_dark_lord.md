@@ -77,16 +77,16 @@
 
 ## 📈 Upgrade Path (Top 10 Recommendations)
 
-1.  **Mithril Coat** (Replace: *Ring of Evos Isle*)
-2.  **Raise the Palisade** (Replace: *Languish*)
-3.  **Phyrexian Arena** (Replace: *Big Score*)
-4.  **Herald's Horn** (Replace: *Dimir Signet*)
-5.  **Witch-king, Bringer of Ruin** (Replace: *Shadow of the Enemy*)
-6.  **Swan Song** (Replace: *Negate*)
-7.  **Baleful Strix** (Replace: *Haunt of the Dead Marshes*)
-8.  **Oubliette** (Replace: *Go for the Throat*)
-9.  **Kindred Discovery** (Replace: *Faithless Looting*)
-10. **Cyclonic Rift** (Replace: *Summons of Saruman*)
+1.  **Lazotep Chancellor** (Replace: *Uglúk of the White Hand*) - **CRITICAL SYNERGY.** Amasses every time you discard via Sauron's wheel ability.
+2.  **Mirkwood Bats** (Replace: *Shadow of the Enemy*) - A premier win condition that drains opponents whenever you Amass or create/sacrifice Treasures.
+3.  **Gleaming Overseer** (Replace: *Orcish Medicine*) - Provides your Orc Army with permanent **Hexproof** and **Menace**.
+4.  **The Black Gate** (Replace: *Temple of Malice*) - The best utility land for the deck, allowing your massive Army to become unblockable.
+5.  **Mithril Coat** (Replace: *Ring of Evos Isle*) - Instant-speed indestructible protection for Sauron.
+6.  **Sauron's Ransom** (Replace: *Big Score*) - Flavorful card advantage that triggers a Ring temptation.
+7.  **Widespread Brutality** (Replace: *Languish*) - An asymmetrical board wipe that uses your Army's power to clear the field.
+8.  **Herald's Horn** (Replace: *Dimir Signet*) - Tribal support that reduces costs and provides pseudo-draw.
+9.  **Vizier of the Scorpion** (Replace: *Moria Scavenger*) - Provides redundancy for Deathtouch on your tokens.
+10. **Phyrexian Arena** (Replace: *Faithless Looting*) - Consistent turn-by-turn card advantage.
 
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or to prioritize creature synergy.*
@@ -102,91 +102,91 @@
 ## Plain Text Copy/Paste
 
 COMMANDER:    
-1 Sauron, the Dark Lord    
+1 Sauron, the Dark Lord      
 
 DECK:    
-1 Saruman, the White Hand    
-1 Saruman the White    
-1 Lord of the Nazgûl    
-1 Witch-king of Angmar    
-1 Mauhúr, Uruk-hai Captain    
-1 Warg Rider    
-1 Gothmog, Morgul Lieutenant    
-1 Grishnákh, Brash Instigator    
-1 Nazgûl    
-1 Uglúk of the White Hand    
-1 Moria Scavenger    
-1 Gloin, Dwarf Emissary    
-1 Dunland Crebain    
-1 Gollum, Patient Plotter    
-1 Haunt of the Dead Marshes    
-1 Orcish Medicine    
-1 Shadow of the Enemy    
-1 March from the Black Gate    
-1 Palantír of Orthanc    
-1 Call of the Ring    
-1 In the Darkness Bind Them    
-1 Birthday Escape    
-1 Ringsight    
-1 Ring of Evos Isle    
-1 Lightning Greaves    
-1 Claim the Precious    
-1 Bombadil's Song    
-1 Soothing of Smeagol    
-1 Relic of Sauron    
-1 Sol Ring    
-1 Arcane Signet    
-1 Talisman of Dominance    
-1 Talisman of Creativity    
-1 Talisman of Indulgence    
-1 Dimir Signet    
-1 Izzet Signet    
-1 Rakdos Signet    
-1 Windfall    
-1 Fact or Fiction    
-1 Night's Whisper    
-1 Faithless Looting    
-1 Treasure Cruise    
-1 Big Score    
-1 Terminate    
-1 Bedevil    
-1 Counterspell    
-1 Arcane Denial    
-1 Negate    
-1 Drown in the Loch    
-1 Bitter Triumph    
-1 Go for the Throat    
-1 Chaos Warp    
-1 Cast into the Fire    
-1 Abrade    
-1 Pongify    
-1 Blasphemous Act    
-1 Toxic Deluge    
-1 One Ring to Rule Them All    
-1 Languish    
-1 Summons of Saruman    
-1 Extract from Darkness    
-1 Watery Grave    
-1 Steam Vents    
-1 Blood Crypt    
-1 Sunken Hollow    
-1 Smoldering Marsh    
-1 Training Center    
-1 Mount Doom    
-1 Barad-dûr    
-1 Command Tower    
-1 Exotic Orchard    
-1 Crumbling Necropolis    
-1 Shivan Reef    
-1 Sulfurous Springs    
-1 Underground River    
-1 Choked Estuary    
-1 Foreboding Ruins    
-1 Temple of Epiphany    
-1 Temple of Deceit    
-1 Temple of Malice    
-1 Evolving Wilds    
-1 Terramorphic Expanse    
-8 Swamp    
-5 Island    
-4 Mountain  
+1 Saruman, the White Hand      
+1 Saruman the White      
+1 Lord of the Nazgûl      
+1 Witch-king of Angmar      
+1 Mauhúr, Uruk-hai Captain      
+1 Warg Rider      
+1 Gothmog, Morgul Lieutenant      
+1 Grishnákh, Brash Instigator      
+1 Nazgûl      
+1 Uglúk of the White Hand      
+1 Moria Scavenger      
+1 Gloin, Dwarf Emissary      
+1 Dunland Crebain      
+1 Gollum, Patient Plotter      
+1 Haunt of the Dead Marshes      
+1 Orcish Medicine      
+1 Shadow of the Enemy      
+1 March from the Black Gate      
+1 Palantír of Orthanc      
+1 Call of the Ring      
+1 In the Darkness Bind Them      
+1 Birthday Escape      
+1 Ringsight      
+1 Ring of Evos Isle      
+1 Lightning Greaves      
+1 Claim the Precious      
+1 Bombadil's Song      
+1 Soothing of Smeagol      
+1 Relic of Sauron      
+1 Sol Ring      
+1 Arcane Signet      
+1 Talisman of Dominance      
+1 Talisman of Creativity      
+1 Talisman of Indulgence      
+1 Dimir Signet      
+1 Izzet Signet      
+1 Rakdos Signet      
+1 Windfall      
+1 Fact or Fiction      
+1 Night's Whisper      
+1 Faithless Looting      
+1 Treasure Cruise      
+1 Big Score      
+1 Terminate      
+1 Bedevil      
+1 Counterspell      
+1 Arcane Denial      
+1 Negate      
+1 Drown in the Loch      
+1 Bitter Triumph      
+1 Go for the Throat      
+1 Chaos Warp      
+1 Cast into the Fire      
+1 Abrade      
+1 Pongify      
+1 Blasphemous Act      
+1 Toxic Deluge      
+1 One Ring to Rule Them All      
+1 Languish      
+1 Summons of Saruman      
+1 Extract from Darkness      
+1 Watery Grave      
+1 Steam Vents      
+1 Blood Crypt      
+1 Sunken Hollow      
+1 Smoldering Marsh      
+1 Training Center      
+1 Mount Doom      
+1 Barad-dûr      
+1 Command Tower      
+1 Exotic Orchard      
+1 Crumbling Necropolis      
+1 Shivan Reef      
+1 Sulfurous Springs      
+1 Underground River      
+1 Choked Estuary      
+1 Foreboding Ruins      
+1 Temple of Epiphany      
+1 Temple of Deceit      
+1 Temple of Malice      
+1 Evolving Wilds      
+1 Terramorphic Expanse      
+8 Swamp      
+5 Island      
+4 Mountain    
