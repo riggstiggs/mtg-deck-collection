@@ -19,3 +19,7 @@ This template is based on research and recommendations from *The Command Zone* (
 *   **GFM Formatting:** When listing the "Plain Text Copy/Paste" section, ensure every card line ends with **two spaces** to force correct line breaks on GitHub.
 *   **Flexibility:** These numbers are guidelines. A deck with a very low average CMC might shave a land for a plan card, or a dedicated ramp deck might increase the ramp count.
 *   **Bracket Compliance:** Always cross-reference the inclusion of "Game Changers" with the target power level bracket in `COMMANDER_DECKBUILDING_RULES.md`.
+
+## 🔗 References
+
+*   [The Command Zone #658: Commander Deckbuilding Template for the New Era](https://www.youtube.com/watch?v=OSNV6224cHg)
