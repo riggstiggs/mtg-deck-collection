@@ -29,6 +29,7 @@ Decks physically built and ready for play.
 *   **Captain America:** Jeskai Equipment Voltron.
 *   **Meren Reanimator:** Golgari graveyard value.
 *   **Rafiq Voltron:** Bant Exalted/Commander damage.
+*   **Sauron Midrange:** Grixis Amass and Ring Temptation.
 
 #### 📁 `/Planning`
 Decks under development, research, or being optimized.
