@@ -101,10 +101,10 @@
 
 ## Plain Text Copy/Paste
 
-COMMANDER:
+COMMANDER:  
 1 Sauron, the Dark Lord    
 
-DECK:
+DECK:  
 1 Saruman, the White Hand    
 1 Saruman the White    
 1 Lord of the Nazgûl    
