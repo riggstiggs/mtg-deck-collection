@@ -47,7 +47,7 @@
 COMMANDER:
 1 Ms. Bumbleflower
 
-Creature:
+DECK:
 1 Baird, Steward of Argive
 1 Bloodroot Apothecary
 1 Body of Knowledge
@@ -74,8 +74,6 @@ Creature:
 1 Sunscorch Regent
 1 Triskaidekaphile
 1 Twenty-Toed Toad
-
-Artifact:
 1 Arcane Signet
 1 Coveted Jewel
 1 Fellwar Stone
@@ -84,8 +82,6 @@ Artifact:
 1 Sol Ring
 1 Swiftfoot Boots
 1 Thought Vessel
-
-Enchantment:
 1 Communal Brewing
 1 Fisher's Talent
 1 Hoofprints of the Stag
@@ -94,8 +90,6 @@ Enchantment:
 1 Simic Ascendancy
 1 Tenuous Truce
 1 Wizard Class
-
-Instant:
 1 An Offer You Can't Refuse
 1 Broken Wings
 1 Generous Gift
@@ -107,8 +101,6 @@ Instant:
 1 Perplexing Test
 1 Riot Control
 1 Swords to Plowshares
-
-Sorcery:
 1 Cultivate
 1 Farseek
 1 Promise of Loyalty
@@ -116,11 +108,7 @@ Sorcery:
 1 Tempt with Bunnies
 1 Tempt with Discovery
 1 Wear Down
-
-Planeswalker:
 1 Tamiyo, Field Researcher
-
-Land:
 1 Adarkar Wastes
 1 Brushland
 1 Canopy Vista

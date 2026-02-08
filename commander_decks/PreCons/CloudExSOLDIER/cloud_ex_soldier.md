@@ -48,7 +48,7 @@
 COMMANDER:
 1 Cloud, Ex-SOLDIER
 
-Creature:
+DECK:
 1 Aerith, Last Ancient
 1 Armory Automaton
 1 Avalanche of Sector 7
@@ -73,8 +73,6 @@ Creature:
 1 Vincent, Vengeful Atoner
 1 Yuffie, Materia Hunter
 1 Zack Fair
-
-Artifact:
 1 Arcane Signet
 1 Behemoth Sledge
 1 Champion's Helm
@@ -94,20 +92,14 @@ Artifact:
 1 Sword of the Animist
 1 Trailblazer's Boots
 1 Wrecking Ball Arm
-
-Enchantment:
 1 Furious Rise
 1 SOLDIER Military Program
-
-Instant:
 1 Chaos Warp
 1 Clever Concealment
 1 Cloud's Limit Break
 1 Dispatch
 1 Lifestream's Blessing
 1 Ultimate Magic: Holy
-
-Sorcery:
 1 Austere Command
 1 Cultivate
 1 Decimate
@@ -119,8 +111,6 @@ Sorcery:
 1 Unfinished Business
 1 Vandalblast
 1 Vanquish the Horde
-
-Land:
 1 Ash Barrens
 1 Battlefield Forge
 1 Bonders' Enclave

@@ -47,7 +47,7 @@
 COMMANDER:
 1 Satya, Aetherflux Genius
 
-Creature:
+DECK:
 1 Aethergeode Miner
 1 Aethersquall Ancient
 1 Aetherstorm Roc
@@ -74,8 +74,6 @@ Creature:
 1 Solemn Simulacrum
 1 Sphinx of the Revelation
 1 Whirler Virtuoso
-
-Artifact:
 1 Aether Refinery
 1 Aethersphere Harvester
 1 Aetherworks Marvel
@@ -99,26 +97,18 @@ Artifact:
 1 Talisman of Progress
 1 Unstable Amulet
 1 Wayfarer's Bauble
-
-Enchantment:
 1 Era of Innovation
 1 Legion Loyalty
 1 Scurry of Gremlins
-
-Instant:
 1 Akroma's Will
 1 Glimmer of Genius
 1 Swords to Plowshares
-
-Sorcery:
 1 Austere Command
 1 Confiscation Coup
 1 Farewell
 1 Jolted Awake
 1 Localized Destruction
 1 Tezzeret's Gambit
-
-Land:
 1 Adarkar Wastes
 1 Aether Hub
 1 Azorius Chancery

@@ -44,7 +44,7 @@
 COMMANDER:
 1 Zinnia, Valley's Voice
 
-Creature:
+DECK:
 1 Aether Channeler
 1 Agate Instigator
 1 Angel of the Ruins
@@ -80,8 +80,6 @@ Creature:
 1 Sun Titan
 1 Tetsuko Umezawa, Fugitive
 1 Thopter Engineer
-
-Artifact:
 1 Arcane Signet
 1 Azorius Signet
 1 Bident of Thassa
@@ -91,20 +89,14 @@ Artifact:
 1 Izzet Signet
 1 Mind Stone
 1 Sol Ring
-
-Enchantment:
 1 Echoing Assault
 1 Fortune Teller's Talent
 1 Murmuration
-
-Instant:
 1 Aetherize
 1 Path to Exile
 1 Pull from Tomorrow
 1 Rapid Hybridization
 1 Rowdy Research
-
-Sorcery:
 1 Calamity of Cinders
 1 Chart a Course
 1 Cut a Deal
@@ -113,11 +105,7 @@ Sorcery:
 1 Stolen by the Fae
 1 Storm of Souls
 1 Time Wipe
-
-Planeswalker:
 1 Elspeth, Sun's Champion
-
-Land:
 1 Adarkar Wastes
 1 Battlefield Forge
 1 Cascade Bluffs

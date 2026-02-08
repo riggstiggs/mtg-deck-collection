@@ -52,7 +52,7 @@
 COMMANDER:
 1 Terra, Herald of Hope
 
-Creature:
+DECK:
 1 Angel of the Ruins
 1 Anger
 1 Archfiend of Depravity
@@ -88,8 +88,6 @@ Creature:
 1 Sun Titan
 1 The Warring Triad
 1 Umaro, Raging Yeti
-
-Artifact:
 1 Arcane Signet
 1 Coin of Fate
 1 Commander's Sphere
@@ -102,19 +100,13 @@ Artifact:
 1 Talisman of Indulgence
 1 The Falcon, Airship Restored
 1 Wayfarer's Bauble
-
-Enchantment:
 1 Binding the Old Gods
-
-Instant:
 1 Bedevil
 1 Big Score
 1 Crackling Doom
 1 Espers to Magicite
 1 Laughing Mad
 1 Mortify
-
-Sorcery:
 1 Legions to Ashes
 1 Night's Whisper
 1 Reanimate
@@ -124,8 +116,6 @@ Sorcery:
 1 Snort
 1 Stitch Together
 1 Tragic Arrogance
-
-Land:
 1 Ash Barrens
 1 Battlefield Forge
 1 Clifftop Retreat

@@ -45,7 +45,7 @@
 COMMANDER:
 1 Ulalek, Fused Atrocity
 
-Creature:
+DECK:
 1 Angelic Aberration
 1 Artisan of Kozilek
 1 Azlask, the Swelling Scourge
@@ -75,8 +75,6 @@ Creature:
 1 Vile Redeemer
 1 Wastescape Battlemage
 1 World Breaker
-
-Artifact:
 1 Arcane Signet
 1 Dreamstone Hedron
 1 Eldrazi Monument
@@ -91,14 +89,10 @@ Artifact:
 1 Talisman of Dominance
 1 Talisman of Impulse
 1 Talisman of Resilience
-
-Enchantment:
 1 Awakening Zone
 1 Eldrazi Conscription
 1 Garruk's Uprising
 1 Imprisoned in the Moon
-
-Instant:
 1 Crib Swap
 1 Eldrazi Confluence
 1 Eldritch Immunity
@@ -106,19 +100,13 @@ Instant:
 1 Return of the Wildspeaker
 1 Suffer the Past
 1 Warping Wail
-
-Sorcery:
 1 All Is Dust
 1 Ancient Stirrings
 1 Rishkar's Expertise
 1 Selective Obliteration
 1 Skittering Invasion
 1 Ugin's Insight
-
-Planeswalker:
 1 Ugin, the Ineffable
-
-Land:
 1 Adarkar Wastes
 1 Ash Barrens
 1 Battlefield Forge

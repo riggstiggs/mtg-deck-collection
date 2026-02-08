@@ -48,7 +48,7 @@
 COMMANDER:
 1 Ashling, the Limitless
 
-Creature:
+DECK:
 1 Avenger of Zendikar
 1 Bane of Progress
 1 Belonging
@@ -84,15 +84,11 @@ Creature:
 1 Titan of Industry
 1 Vernal Sovereign
 1 Yarok, the Desecrated
-
-Artifact:
 1 Arcane Signet
 1 Chromatic Lantern
 1 Fellwar Stone
 1 Sol Ring
 1 Timeless Lotus
-
-Enchantment:
 1 Abundant Growth
 1 Cream of the Crop
 1 Descendants' Fury
@@ -100,15 +96,11 @@ Enchantment:
 1 Garruk's Uprising
 1 Hoofprints of the Stag
 1 Springleaf Parade
-
-Instant:
 1 Crib Swap
 1 Kindred Summons
 1 Path to Exile
 1 Reality Shift
 1 Return of the Wildspeaker
-
-Sorcery:
 1 Blasphemous Act
 1 Cultivate
 1 Distant Melody
@@ -116,8 +108,6 @@ Sorcery:
 1 Haunting Voyage
 1 Kodama's Reach
 1 Shatter the Sky
-
-Land:
 1 Abundant Countryside
 1 Ancient Ziggurat
 1 Command Tower

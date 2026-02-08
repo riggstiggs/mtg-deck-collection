@@ -45,7 +45,7 @@
 COMMANDER:
 1 Omo, Queen of Vesuva
 
-Creature:
+DECK:
 1 Acidic Slime
 1 Apex Devastator
 1 Avenger of Zendikar
@@ -70,8 +70,6 @@ Creature:
 1 Ulvenwald Hydra
 1 Uro, Titan of Nature's Wrath
 1 Wonderscape Sage
-
-Artifact:
 1 Arcane Signet
 1 Chromatic Lantern
 1 Expedition Map
@@ -79,14 +77,10 @@ Artifact:
 1 Oblivion Stone
 1 Seer's Sundial
 1 Sol Ring
-
-Enchantment:
 1 Copy Land
 1 Desert Warfare
 1 Mana Reflection
 1 Propaganda
-
-Instant:
 1 Arcane Denial
 1 Beast Within
 1 Drown in Dreams
@@ -95,8 +89,6 @@ Instant:
 1 Growth Spiral
 1 Pongify
 1 Summary Dismissal
-
-Sorcery:
 1 Aggressive Biomancy
 1 Curse of the Swine
 1 Finale of Revelation
@@ -107,12 +99,8 @@ Sorcery:
 1 Sylvan Scrying
 1 Treasure Cruise
 1 Urban Evolution
-
-Planeswalker:
 1 Nissa, Steward of Elements
 1 Vivien Reid
-
-Land:
 1 Basilisk Gate
 1 Blast Zone
 1 Cloudpost

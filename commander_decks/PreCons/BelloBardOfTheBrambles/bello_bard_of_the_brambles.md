@@ -46,7 +46,7 @@
 COMMANDER:
 1 Bello, Bard of the Brambles
 
-Creature:
+DECK:
 1 Brightcap Badger // Fungus Frolic
 1 Burnished Hart
 1 Etali, Primal Storm
@@ -68,8 +68,6 @@ Creature:
 1 Trailtracker Scout
 1 Wandertale Mentor
 1 Wildsear, Scouring Maw
-
-Artifact:
 1 Arcane Signet
 1 Bootleggers' Stash
 1 Esika's Chariot
@@ -84,8 +82,6 @@ Artifact:
 1 Talisman of Impulse
 1 Thought Vessel
 1 Thran Dynamo
-
-Enchantment:
 1 Alchemist's Talent
 1 Berserkers' Onslaught
 1 Garruk's Uprising
@@ -99,15 +95,11 @@ Enchantment:
 1 Thickest in the Thicket
 1 Unnatural Growth
 1 Warstorm Surge
-
-Instant:
 1 Abrade
 1 Beast Within
 1 Big Score
 1 Chaos Warp
 1 Starstorm
-
-Sorcery:
 1 Blasphemous Act
 1 Cultivate
 1 Decimate
@@ -115,11 +107,7 @@ Sorcery:
 1 Farseek
 1 Harmonize
 1 Rampant Growth
-
-Planeswalker:
 1 Domri, Anarch of Bolas
-
-Land:
 1 Cinder Glade
 1 Command Tower
 1 Copperline Gorge

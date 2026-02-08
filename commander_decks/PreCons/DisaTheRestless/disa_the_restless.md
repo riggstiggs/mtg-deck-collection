@@ -48,7 +48,7 @@
 COMMANDER:
 1 Disa the Restless
 
-Creature:
+DECK:
 1 Accursed Marauder
 1 Anger
 1 Archon of Cruelty
@@ -80,8 +80,6 @@ Creature:
 1 Syr Konrad, the Grim
 1 Yavimaya Elder
 1 Ziatora, the Incinerator
-
-Artifact:
 1 Altar of the Goyf
 1 Arcane Signet
 1 Lightning Greaves
@@ -91,13 +89,9 @@ Artifact:
 1 Talisman of Indulgence
 1 Talisman of Resilience
 1 The Reaver Cleaver
-
-Enchantment:
 1 Deadbridge Chant
 1 Deathreap Ritual
 1 Tarmogoyf Nest
-
-Instant:
 1 Bituminous Blast
 1 Grapple with the Past
 1 Grisly Salvage
@@ -105,8 +99,6 @@ Instant:
 1 Riveteers Charm
 1 Tempt with Mayhem
 1 Terminate
-
-Sorcery:
 1 Chandra's Ignition
 1 Faithless Looting
 1 Final Act
@@ -114,13 +106,9 @@ Sorcery:
 1 Maelstrom Pulse
 1 Rampant Growth
 1 Syphon Mind
-
-Planeswalker:
 1 Garruk, Apex Predator
 1 Grist, the Hunger Tide
 1 Liliana, Death's Majesty
-
-Land:
 1 Canyon Slough
 1 Cinder Glade
 1 Command Tower

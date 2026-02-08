@@ -46,7 +46,7 @@
 COMMANDER:
 1 Hearthhull, the Worldseed
 
-Creature:
+DECK:
 1 Aftermath Analyst
 1 Augur of Autumn
 1 Baloth Prime
@@ -78,17 +78,11 @@ Creature:
 1 Titania, Protector of Argoth
 1 Uurg, Spawn of Turg
 1 World Breaker
-
-Artifact:
 1 Arcane Signet
 1 Exploration Broodship
 1 Hammer of Purphoros
 1 Sol Ring
-
-Enchantment:
 1 Binding the Old Gods
-
-Instant:
 1 Beast Within
 1 Harrow
 1 Infernal Grasp
@@ -97,8 +91,6 @@ Instant:
 1 Roiling Regrowth
 1 Tear Asunder
 1 Windgrace's Judgment
-
-Sorcery:
 1 Blasphemous Act
 1 Cultivate
 1 Escape to the Wilds
@@ -112,8 +104,6 @@ Sorcery:
 1 Skyshroud Claim
 1 Splendid Reclamation
 1 Worldsoul's Rage
-
-Land:
 1 Bojuka Bog
 1 Cabaretti Courtyard
 1 Canyon Slough

@@ -45,7 +45,7 @@
 COMMANDER:
 1 Y'shtola, Night's Blessed
 
-Creature:
+DECK:
 1 Alisaie Leveilleur
 1 Alphinaud Leveilleur
 1 Archmage Emeritus
@@ -68,8 +68,6 @@ Creature:
 1 Thancred Waters
 1 Torrential Gearhulk
 1 Urianger Augurelt
-
-Artifact:
 1 Arcane Signet
 1 Archaeomancer's Map
 1 Astrologian's Planisphere
@@ -86,16 +84,12 @@ Artifact:
 1 Thought Vessel
 1 Tome of Legends
 1 White Auracite
-
-Enchantment:
 1 Authority of the Consuls
 1 Bastion of Remembrance
 1 Champions from Beyond
 1 Eye of Nidhogg
 1 Observed Stasis
 1 Propaganda
-
-Instant:
 1 Dig Through Time
 1 Into the Story
 1 Lethal Scheme
@@ -104,8 +98,6 @@ Instant:
 1 Swords to Plowshares
 1 Transpose
 1 Void Rend
-
-Sorcery:
 1 Circle of Power
 1 Cleansing Nova
 1 Crux of Fate
@@ -116,8 +108,6 @@ Sorcery:
 1 Rite of Replication
 1 Syphon Mind
 1 Vindicate
-
-Land:
 1 Arcane Sanctum
 1 Ash Barrens
 1 Choked Estuary

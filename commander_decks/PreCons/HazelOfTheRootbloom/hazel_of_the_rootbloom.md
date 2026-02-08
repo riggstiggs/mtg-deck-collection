@@ -48,7 +48,7 @@
 COMMANDER:
 1 Hazel of the Rootbloom
 
-Creature:
+DECK:
 1 Academy Manufactor
 1 Arasta of the Endless Web
 1 Beledros Witherbloom
@@ -78,8 +78,6 @@ Creature:
 1 Toski, Bearer of Secrets
 1 Woe Strider
 1 Zulaport Cutthroat
-
-Artifact:
 1 Arcane Signet
 1 Chitterspitter
 1 Golgari Signet
@@ -89,8 +87,6 @@ Artifact:
 1 Sol Ring
 1 Sword of the Squeak
 1 Talisman of Resilience
-
-Enchantment:
 1 Bastion of Remembrance
 1 Beastmaster Ascension
 1 Binding the Old Gods
@@ -98,8 +94,6 @@ Enchantment:
 1 Moldervine Reclamation
 1 Squirrel Nest
 1 Wolfwillow Haven
-
-Instant:
 1 Cache Grab
 1 Deadly Dispute
 1 Plumb the Forbidden
@@ -108,8 +102,6 @@ Instant:
 1 Second Harvest
 1 Tear Asunder
 1 Windgrace's Judgment
-
-Sorcery:
 1 Casualties of War
 1 Chatterstorm
 1 Decree of Pain
@@ -117,11 +109,7 @@ Sorcery:
 1 Rootcast Apprenticeship
 1 Shamanic Revelation
 1 Swarmyard Massacre
-
-Planeswalker:
 1 Garruk, Cursed Huntsman
-
-Land:
 1 Barren Moor
 1 Bojuka Bog
 1 Command Tower

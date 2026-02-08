@@ -46,7 +46,7 @@
 COMMANDER:
 1 Auntie Ool, Cursewretch
 
-Creature:
+DECK:
 1 Archfiend of Ifnir
 1 Carnifex Demon
 1 Channeler Initiate
@@ -75,16 +75,12 @@ Creature:
 1 Village Pillagers
 1 Wickerbough Elder
 1 Zulaport Cutthroat
-
-Artifact:
 1 Arcane Signet
 1 Chimil, the Inner Sun
 1 Commander's Sphere
 1 Contagion Clasp
 1 Sol Ring
 1 Wickersmith's Tools
-
-Enchantment:
 1 Binding the Old Gods
 1 Blowfly Infestation
 1 Everlasting Torment
@@ -92,16 +88,12 @@ Enchantment:
 1 Grave Venerations
 1 Lasting Tarfire
 1 Puca's Covenant
-
-Instant:
 1 Assassin's Trophy
 1 Cathartic Pyre
 1 Fire Covenant
 1 Infernal Grasp
 1 Putrefy
 1 Terminate
-
-Sorcery:
 1 Aberrant Return
 1 Black Sun's Zenith
 1 Burning Curiosity
@@ -114,12 +106,8 @@ Sorcery:
 1 Night's Whisper
 1 Painful Truths
 1 Persist
-
-Planeswalker:
 1 Liliana, Death Wielder
 1 Vraska, Betrayal's Sting
-
-Land:
 1 Canyon Slough
 1 Cinder Glade
 1 Command Tower

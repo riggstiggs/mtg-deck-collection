@@ -48,7 +48,7 @@
 COMMANDER:
 1 Tidus, Yuna's Guardian
 
-Creature:
+DECK:
 1 Altered Ego
 1 Auron, Venerated Guardian
 1 Bane of Progress
@@ -83,25 +83,19 @@ Creature:
 1 Wakka, Devoted Guardian
 1 Walking Ballista
 1 Yuna, Grand Summoner
-
-Artifact:
 1 Arcane Signet
 1 Blitzball Stadium
 1 Everflowing Chalice
 1 Sol Ring
-
-Enchantment:
 1 Bred for the Hunt
 1 Fight Rigging
 1 Hardened Scales
-1 Inexorable Tide
+1 Inexpensive Tide
 1 Path of Discovery
 1 Resourceful Defense
 1 Sphere Grid
 1 Summoner's Sending
 1 Together Forever
-
-Instant:
 1 An Offer You Can't Refuse
 1 Destroy Evil
 1 Endless Detour
@@ -110,8 +104,6 @@ Instant:
 1 Protection Magic
 1 Pull from Tomorrow
 1 Yuna's Whistle
-
-Sorcery:
 1 Collective Effort
 1 Damning Verdict
 1 Farewell
@@ -119,8 +111,6 @@ Sorcery:
 1 Promise of Loyalty
 1 Three Visits
 1 Yuna's Decision
-
-Land:
 1 Ash Barrens
 1 Brushland
 1 Canopy Vista
