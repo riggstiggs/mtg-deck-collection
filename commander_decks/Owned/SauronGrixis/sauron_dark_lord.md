@@ -24,11 +24,11 @@
 *   **Uglúk of the White Hand:** Grows larger whenever your other Orcs or Goblins die.
 *   **Moria Scavenger:** Recycles cards from your graveyard while Amassing.
 *   **Gloin, Dwarf Emissary:** Generates Treasures whenever you cast a legendary spell.
-*   **Dunland Crebain:** Provides a flying body and Amasses.
+*   **Dreadhorde Invasion:** Steady Amass engine and late-game Lifelink for your Army.
 *   **Gollum, Patient Plotter:** A recurring source of Ring temptation.
 *   **Haunt of the Dead Marshes:** A cheap flyer that lets you Scry.
 *   **Orcish Medicine:** Instant speed protection and Amass.
-*   **Shadow of the Enemy:** Reanimates creatures from opponents' graveyards.
+*   **Faith of the Devoted:** Turns every discard into life drain for opponents.
 *   **March from the Black Gate:** Consistent Amass on every attack.
 
 ### 💍 The Ring & Protection (10)
@@ -42,6 +42,7 @@
 *   **Claim the Precious:** Removal + temptation.
 *   **Bombadil's Song:** Protection + temptation.
 *   **Soothing of Smeagol:** Bounce + temptation.
+*   **Faith of the Devoted:** Turns every discard from Ring temptation into direct life drain and gain.
 
 ### 💎 Ramp (9)
 *   **Relic of Sauron:** Flavorful ramp, Amass, and filtering.
@@ -52,15 +53,15 @@
 ### 📚 Card Advantage & Selection (6)
 *   **Windfall:** Refills your hand after Sauron's discard.
 *   **Fact or Fiction:** Premier instant-speed selection.
-*   **Night's Whisper:** Efficient 2-mana draw.
+*   **Whispering Madness:** Repeatable wheel with Cipher for massive synergy.
 *   **Faithless Looting:** Cheap filtering and graveyard setup.
 *   **Treasure Cruise:** High-value late-game draw.
-*   **Big Score:** Mana and card advantage.
+*   **Dark Deal:** Disruptive mini-wheel that triggers discard synergies.
 
 ### ⚔️ Disruption & Board Control (12 Targeted / 6 Mass)
 *   **Terminate / Bedevil / Bitter Triumph / Go for the Throat:** Efficient removal.
 *   **Counterspell / Arcane Denial / Negate / Drown in the Loch:** Protection and interaction.
-*   **Chaos Warp / Abrade / Pongify / Cast into the Fire:** Flexible answers.
+*   **Chaos Warp / Sedraxis Alchemist / Pongify / Cast into the Fire:** Flexible answers. Sedraxis Alchemist provides a cheap bounce for any nonland permanent.
 *   **Blasphemous Act / Toxic Deluge / Languish:** Premier wipes.
 *   **One Ring to Rule Them All / Summons of Saruman:** Thematic board resets.
 *   **Extract from Darkness:** Mill and reanimation.
@@ -78,24 +79,35 @@
 ## 📈 Upgrade Path (Top 10 Recommendations)
 
 1.  **Lazotep Chancellor** (Replace: *Uglúk of the White Hand*) - **CRITICAL SYNERGY.** Amasses every time you discard via Sauron's wheel ability.
-2.  **Mirkwood Bats** (Replace: *Shadow of the Enemy*) - A premier win condition that drains opponents whenever you Amass or create/sacrifice Treasures.
+2.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - A premier win condition that drains opponents whenever you Amass or create/sacrifice Treasures. (Note: Faith of the Devoted was just added, but Mirkwood Bats is a higher-tier upgrade).
 3.  **Gleaming Overseer** (Replace: *Orcish Medicine*) - Provides your Orc Army with permanent **Hexproof** and **Menace**.
 4.  **The Black Gate** (Replace: *Temple of Malice*) - The best utility land for the deck, allowing your massive Army to become unblockable.
 5.  **Mithril Coat** (Replace: *Ring of Evos Isle*) - Instant-speed indestructible protection for Sauron.
-6.  **Sauron's Ransom** (Replace: *Big Score*) - Flavorful card advantage that triggers a Ring temptation.
+6.  **Sauron's Ransom** (Replace: *Dark Deal*) - Flavorful card advantage that triggers a Ring temptation.
 7.  **Widespread Brutality** (Replace: *Languish*) - An asymmetrical board wipe that uses your Army's power to clear the field.
 8.  **Herald's Horn** (Replace: *Dimir Signet*) - Tribal support that reduces costs and provides pseudo-draw.
 9.  **Vizier of the Scorpion** (Replace: *Moria Scavenger*) - Provides redundancy for Deathtouch on your tokens.
 10. **Phyrexian Arena** (Replace: *Faithless Looting*) - Consistent turn-by-turn card advantage.
 
 ## 🃏 Sideboard (Ordered but Unused)
-*These cards were ordered but cut to reach the 100-card limit or to prioritize creature synergy.*
+*These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*
 
+*   **Dunland Crebain:** Replaced by Dreadhorde Invasion for consistent Amass.  
+*   **Big Score:** Replaced by Dark Deal for higher synergy and lower CMC.  
+*   **Night's Whisper:** Replaced by Whispering Madness for repeatable wheels.  
+*   **Shadow of the Enemy:** Replaced by Faith of the Devoted for a consistent drain win-con.  
+*   **Abrade:** Replaced by Sedraxis Alchemist for more versatile permanent bounce.  
 *   **Consider / Opt / Frantic Search:** Standard selection, but cut to prioritize high-synergy creatures.  
 *   **Deep Analysis / Preordain / Expressive Iteration:** High-quality draw, but the deck has sufficient card flow from Sauron.  
 *   **Commander's Sphere / Mind Stone:** Cut to keep the ramp count at a healthy 9 while making room for creatures.  
 *   **Sunken Hollow / Smoldering Marsh (Duplicates):** Second copies from the two separate orders are not needed.  
 *   **Mountain / Swamp (Extras):** Surplus basic lands from the order bundles.  
+
+## 📜 Deck Changelog
+*   **2026-02-08:** Added 5 underrated synergy cards:
+    *   **In:** Dreadhorde Invasion, Dark Deal, Whispering Madness, Faith of the Devoted, Sedraxis Alchemist.
+    *   **Out:** Dunland Crebain, Big Score, Night's Whisper, Shadow of the Enemy, Abrade.
+    *   **Reason:** Increased synergy with Sauron's discard/draw engine and improved interaction flexibility.
 
 ---
 
@@ -117,11 +129,11 @@ DECK:
 1 Uglúk of the White Hand      
 1 Moria Scavenger      
 1 Gloin, Dwarf Emissary      
-1 Dunland Crebain      
+1 Dreadhorde Invasion      
 1 Gollum, Patient Plotter      
 1 Haunt of the Dead Marshes      
 1 Orcish Medicine      
-1 Shadow of the Enemy      
+1 Faith of the Devoted      
 1 March from the Black Gate      
 1 Palantír of Orthanc      
 1 Call of the Ring      
@@ -144,10 +156,10 @@ DECK:
 1 Rakdos Signet      
 1 Windfall      
 1 Fact or Fiction      
-1 Night's Whisper      
+1 Whispering Madness      
 1 Faithless Looting      
 1 Treasure Cruise      
-1 Big Score      
+1 Dark Deal      
 1 Terminate      
 1 Bedevil      
 1 Counterspell      
@@ -158,7 +170,7 @@ DECK:
 1 Go for the Throat      
 1 Chaos Warp      
 1 Cast into the Fire      
-1 Abrade      
+1 Sedraxis Alchemist      
 1 Pongify      
 1 Blasphemous Act      
 1 Toxic Deluge      
