@@ -19,7 +19,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ### 🗡️ The Commanders & The Army (18 Cards)
 *   **Sauron, the Dark Lord:** The engine. Protection (Ward), constant Amass, and a massive discard-draw engine.
-*   **The Ring:** Special Emblem card used to track temptation levels and Ring-bearer status.
+*   **The Ring // The Ring Tempts You (Emblem Token):** Special card used to track temptation levels and Ring-bearer status.
 *   **Saruman, the White Hand:** Amasses whenever you cast any noncreature spell.
 *   **Saruman the White:** Amasses and provides Ward to your other creatures.
 *   **Lord of the Nazgûl:** Buffs your Wraiths (and your Orc Army) to base 9/9.
@@ -41,7 +41,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ### 💍 The Ring & Protection (10)
 *   **Palantír of Orthanc:** Powerful card draw/burn engine.
-*   **Call of the Ring:** The most consistent source of Ring Temptation.
+*   **Call of the Ring:** The most consistent source of Ring temptation.
 *   **In the Darkness Bind Them:** Saga that Amasses and steals creatures.
 *   **Birthday Escape:** Cheap cantrip + temptation.
 *   **Ringsight:** Tutor + temptation.
@@ -50,7 +50,6 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Claim the Precious:** Removal + temptation.
 *   **Bombadil's Song:** Protection + temptation.
 *   **Soothing of Smeagol:** Bounce + temptation.
-*   **Faith of the Devoted:** Turns every discard from Ring temptation into direct life drain and gain.
 
 ### 💎 Ramp (9)
 *   **Relic of Sauron:** Flavorful ramp, Amass, and filtering.
@@ -100,6 +99,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*
 
+*   **Inherited Envelope:** Flavorful 3-mana rock that provides Ring temptation; cut for more efficient 2-mana ramp.
 *   **Mordor Muster:** Unknown why this card was cut, it is in the sideboard now.
 *   **Dunland Crebain:** Replaced by Dreadhorde Invasion for consistent Amass.  
 *   **Big Score:** Replaced by Dark Deal for higher synergy and lower CMC.  
@@ -126,7 +126,7 @@ COMMANDER:
 1 Sauron, the Dark Lord      
 
 DECK:    
-1 The Ring (Emblem)      
+1 The Ring // The Ring Tempts You (Emblem Token)      
 1 Saruman, the White Hand      
 1 Saruman the White      
 1 Lord of the Nazgûl      
