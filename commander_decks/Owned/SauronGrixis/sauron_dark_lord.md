@@ -92,6 +92,7 @@
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*
 
+*   **Mordor Muster:** Unknown why this card was cut, it is in the sideboard now.
 *   **Dunland Crebain:** Replaced by Dreadhorde Invasion for consistent Amass.  
 *   **Big Score:** Replaced by Dark Deal for higher synergy and lower CMC.  
 *   **Night's Whisper:** Replaced by Whispering Madness for repeatable wheels.  
