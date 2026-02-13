@@ -6,12 +6,20 @@
 *   **Bracket:** 2 (Core)
 *   **Core Goal:** Utilize the "Ring Tempts You" mechanic to trigger Sauron's discard-draw-4 ability. Build a massive Orc Army and protect your commander with built-in Ward and targeted equipment. This version is optimized to use the exact 100 cards ordered.
 
+### 💍 The Ring Mechanic Explained
+Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and you designate a Ring-bearer. Abilities are cumulative:
+1.  **Level 1:** Your Ring-bearer is **Legendary** and **cannot be blocked by creatures with greater power**.
+2.  **Level 2:** Whenever your Ring-bearer attacks, **draw a card, then discard a card**.
+3.  **Level 3:** Whenever your Ring-bearer becomes blocked by a creature, that creature's controller **sacrifices it at the end of combat**.
+4.  **Level 4:** Whenever your Ring-bearer deals combat damage to a player, **each opponent loses 3 life**.
+
 ---
 
 ## 🛠️ Card Explanations
 
 ### 🗡️ The Commanders & The Army (18 Cards)
 *   **Sauron, the Dark Lord:** The engine. Protection (Ward), constant Amass, and a massive discard-draw engine.
+*   **The Ring:** Special Emblem card used to track temptation levels and Ring-bearer status.
 *   **Saruman, the White Hand:** Amasses whenever you cast any noncreature spell.
 *   **Saruman the White:** Amasses and provides Ward to your other creatures.
 *   **Lord of the Nazgûl:** Buffs your Wraiths (and your Orc Army) to base 9/9.
@@ -118,6 +126,7 @@ COMMANDER:
 1 Sauron, the Dark Lord      
 
 DECK:    
+1 The Ring (Emblem)      
 1 Saruman, the White Hand      
 1 Saruman the White      
 1 Lord of the Nazgûl      
