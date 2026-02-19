@@ -9,24 +9,48 @@ This file tracks the physical status of cards for the Sauron deck.
 *   [x] Saruman, the White Hand
 *   [x] Lord of the Nazgûl
 *   [x] Mauhúr, Uruk-hai Captain
+*   [x] Gothmog, Morgul Lieutenant
 *   [x] Dreadhorde Invasion
 *   [x] March from the Black Gate
 *   [x] Faith of the Devoted
+*   [x] Saruman the White
+*   [x] Nazgûl
+*   [x] Uglúk of the White Hand
+*   [x] Moria Scavenger
+*   [x] Glóin, Dwarf Emissary
+*   [x] Gollum, Patient Plotter
+*   [x] Haunt of the Dead Marshes
+*   [x] The Ring // The Ring Tempts You (Emblem Token)
+*   [x] Sauron, the Dark Lord
+*   [x] Witch-king of Angmar
+*   [x] Warg Rider
 
 ### 💍 The Ring & Protection
 *   [x] Call of the Ring
 *   [x] Birthday Escape
 *   [x] Ring of Evos Isle
+*   [x] Lightning Greaves
 *   [x] Claim the Precious
-*   [x] Bombadil's Song
+*   [x] Inherited Envelope
 *   [x] Ringsight
 *   [x] In the Darkness Bind Them
+*   [x] Orcish Medicine
+*   [x] Soothing of Sméagol
+*   [x] Palantír of Orthanc
 
 ### 💎 Ramp
+*   [x] Sol Ring
+*   [x] Arcane Signet
 *   [x] Dimir Signet
+*   [x] Izzet Signet
 *   [x] Rakdos Signet
+*   [x] Talisman of Dominance
+*   [x] Talisman of Creativity
+*   [x] Talisman of Indulgence
+*   [x] Relic of Sauron
 
 ### 📚 Card Advantage & Selection
+*   [x] Windfall
 *   [x] Fact or Fiction
 *   [x] Faithless Looting
 *   [x] Treasure Cruise
@@ -34,10 +58,19 @@ This file tracks the physical status of cards for the Sauron deck.
 *   [x] Dark Deal
 
 ### ⚔️ Disruption & Board Control
+*   [x] Drown in the Loch
+*   [x] Counterspell
+*   [x] Negate
+*   [x] Chaos Warp
 *   [x] Terminate
 *   [x] Bitter Triumph
+*   [x] Go for the Throat
+*   [x] Arcane Denial
+*   [x] Pongify
+*   [x] Bedevil
 *   [x] Sedraxis Alchemist
 *   [x] Toxic Deluge
+*   [x] Blasphemous Act
 *   [x] Languish
 *   [x] One Ring to Rule Them All
 *   [x] Summons of Saruman
@@ -47,111 +80,62 @@ This file tracks the physical status of cards for the Sauron deck.
 ### 🗺️ Lands
 *   [x] Steam Vents
 *   [x] Exotic Orchard
+*   [x] Barad-dûr
+*   [x] Command Tower
+*   [x] Crumbling Necropolis
+*   [x] Shivan Reef
+*   [x] Sulfurous Springs
+*   [x] Underground River
+*   [x] Choked Estuary
+*   [x] Foreboding Ruins
 *   [x] Temple of Epiphany
 *   [x] Temple of Deceit
+*   [x] Temple of Malice
 *   [x] Evolving Wilds
 *   [x] Terramorphic Expanse
+*   [x] Sunken Hollow (1x)
 *   [x] Smoldering Marsh (1x)
-*   [x] Swamp (1x)
+*   [x] Swamp (8x)
+*   [x] Mountain (4x)
 *   [x] Island (5x)
-*   [x] Mountain (2x)
+*   [x] Blood Crypt
+*   [x] Watery Grave
+*   [x] Training Center
+*   [x] Mount Doom
 
 ### 🃏 Extras / Sideboard (Received)
+*   [x] Dread Return
+*   [x] Bombadil's Song (Illegal - Green)
+*   [x] Expansion // Explosion (Error for Expressive Iteration)
+*   [x] Inherited Envelope
+*   [x] Mind Stone
+*   [x] Abrade
+*   [x] Consider
+*   [x] Frantic Search
+*   [x] Preordain
+*   [x] Big Score
 *   [x] Mordor Muster
 *   [x] Shadow of the Enemy
 *   [x] Night's Whisper
 *   [x] Deep Analysis
 *   [x] Commander's Sphere
 *   [x] Opt
-*   [x] Smoldering Marsh (Duplicate)
+*   [x] Sunken Hollow (Extras x2)
+*   [x] Smoldering Marsh (Extras x2)
+*   [x] Dunland Crebain
+*   [x] Snarling Warg
+
+---
+
+## ⚠️ Shipping Errors / Missing from Packages
+*   [ ] Expressive Iteration (Ordered but received Expansion // Explosion instead)
 
 ---
 
 ## 🚢 Shipped (In Transit)
-*These cards are in Packages #191316-704187, #191316-704189, & #191338-704269 and are on their way.*
-
-### 🗡️ The Army & Commanders
-*   [ ] Sauron, the Dark Lord
-*   [ ] The Ring // The Ring Tempts You (Emblem Token)
-*   [ ] Saruman the White
-*   [ ] Witch-king of Angmar
-*   [ ] Warg Rider
-*   [ ] Nazgûl
-*   [ ] Uglúk of the White Hand
-*   [ ] Gothmog, Morgul Lieutenant
-*   [ ] Moria Scavenger
-*   [ ] Gloin, Dwarf Emissary
-*   [ ] Gollum, Patient Plotter
-*   [ ] Haunt of the Dead Marshes
-
-### 💍 The Ring & Protection
-*   [ ] Lightning Greaves
-*   [ ] Palantír of Orthanc
-*   [ ] Soothing of Smeagol
-*   [ ] Orcish Medicine
-
-### 💎 Ramp
-*   [ ] Relic of Sauron
-*   [ ] Sol Ring
-*   [ ] Arcane Signet
-*   [ ] Izzet Signet
-*   [ ] Talisman of Dominance
-*   [ ] Talisman of Creativity
-*   [ ] Talisman of Indulgence
-
-### 📚 Card Advantage & Selection
-*   [ ] Windfall
-
-### ⚔️ Disruption & Board Control
-*   [ ] Drown in the Loch
-*   [ ] Counterspell
-*   [ ] Negate
-*   [ ] Chaos Warp
-*   [ ] Go for the Throat
-*   [ ] Arcane Denial
-*   [ ] Pongify
-*   [ ] Bedevil
-*   [ ] Blasphemous Act
-
-### 🗺️ Lands
-*   [ ] Blood Crypt
-*   [ ] Watery Grave
-*   [ ] Training Center
-*   [ ] Mount Doom
-*   [ ] Barad-dûr
-*   [ ] Command Tower
-*   [ ] Crumbling Necropolis
-*   [ ] Shivan Reef
-*   [ ] Sulfurous Springs
-*   [ ] Underground River
-*   [ ] Choked Estuary
-*   [ ] Foreboding Ruins
-*   [ ] Sunken Hollow (Duplicate #2)
-*   [ ] Temple of Malice
-*   [ ] Swamp (7x)
-*   [ ] Mountain (2x)
-
-### 🃏 Extras / Sideboard (Shipped)
-*   [ ] Inherited Envelope
-*   [ ] Mind Stone
-*   [ ] Abrade
-*   [ ] Consider
-*   [ ] Expressive Iteration
-*   [ ] Frantic Search
-*   [ ] Preordain
-*   [ ] Big Score
-*   [ ] Dunland Crebain
-*   [ ] Snarling Warg
-*   [ ] Smoldering Marsh (Duplicate #2)
+*   (All cards arrived!)
 
 ---
 
 ## ⏳ Missing (Not Yet Shipped/Ordered)
 *   (All maindeck cards accounted for!)
-
----
-
-## 📬 Pending (Recently Ordered)
-*These cards were ordered recently and have not yet been marked as shipped.*
-
-*   [ ] The Ring // The Ring Tempts You (Emblem Token)

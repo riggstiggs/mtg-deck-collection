@@ -67,6 +67,23 @@
 
 ---
 
+# Conversation Context: Sauron, the Dark Lord (Paper MTG)
+**Date:** February 18, 2026
+**Topic:** Physical Card Arrival & Final Deck Construction
+**Goal:** Confirm receipt of all ordered cards and finalize the 100-card list for sleeving.
+
+## Status Summary
+* **Sauron, the Dark Lord:** 100% Received and Sleeved.
+* **Sideboard:** 19 unique cards (21 total including duplicates) accounted for.
+* **Compliance:** Replaced illegal *Bombadil's Song* (Green) with *Inherited Envelope* to maintain "New Era" template ratios (10 Ramp).
+
+## Major Changes
+* **In:** Inherited Envelope (from Sideboard).
+* **Out:** Bombadil's Song (Illegal Green Identity).
+* **Confirmed:** All major pieces (Sauron, Witch-king, Palantír, Shocks) arrived and are in the main deck.
+
+---
+
 ## Current State: The Selected Deck
 **Deck Name:** Dimir Midrange (Untapped Tier 1)
 **Status:** Validated as legal and craftable with user's current resources.

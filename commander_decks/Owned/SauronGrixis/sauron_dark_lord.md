@@ -46,9 +46,9 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Birthday Escape:** Cheap cantrip + temptation.
 *   **Ringsight:** Tutor + temptation.
 *   **Ring of Evos Isle:** Hexproof protection for Sauron.
+*   **Inherited Envelope:** Flavorful 3-mana rock that provides Ring temptation and hits our 10th ramp slot.
 *   **Lightning Greaves:** Haste and Shroud.
 *   **Claim the Precious:** Removal + temptation.
-*   **Bombadil's Song:** Protection + temptation.
 *   **Soothing of Smeagol:** Bounce + temptation.
 
 ### 💎 Ramp (9)
@@ -99,7 +99,8 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*
 
-*   **Inherited Envelope:** Flavorful 3-mana rock that provides Ring temptation; cut for more efficient 2-mana ramp.
+*   **Dread Return:** High-synergy reanimation that can be cast for its Flashback cost by sacrificing Orc Army tokens.
+*   **Bombadil's Song:** Illegal in Grixis (Green identity); held in collection but not for this deck.
 *   **Mordor Muster:** Unknown why this card was cut, it is in the sideboard now.
 *   **Dunland Crebain:** Replaced by Dreadhorde Invasion for consistent Amass.  
 *   **Big Score:** Replaced by Dark Deal for higher synergy and lower CMC.  
@@ -153,7 +154,7 @@ DECK:
 1 Ring of Evos Isle      
 1 Lightning Greaves      
 1 Claim the Precious      
-1 Bombadil's Song      
+1 Inherited Envelope      
 1 Soothing of Smeagol      
 1 Relic of Sauron      
 1 Sol Ring      
