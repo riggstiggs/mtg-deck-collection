@@ -29,7 +29,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Gothmog, Morgul Lieutenant:** Grants the Orc Army Deathtouch.
 *   **Grishnákh, Brash Instigator:** Steals creatures based on Army power.
 *   **Nazgûl:** Consistent Ring temptation and Deathtouch.
-*   **Uglúk of the White Hand:** Grows larger whenever your other Orcs or Goblins die.
+*   **Dread Return:** Discard-proof recursion that can be cast for its Flashback cost by sacrificing tokens.
 *   **Moria Scavenger:** Recycles cards from your graveyard while Amassing.
 *   **Gloin, Dwarf Emissary:** Generates Treasures whenever you cast a legendary spell.
 *   **Dreadhorde Invasion:** Steady Amass engine and late-game Lifelink for your Army.
@@ -85,7 +85,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ## 📈 Upgrade Path (Top 10 Recommendations)
 
-1.  **Lazotep Chancellor** (Replace: *Uglúk of the White Hand*) - **CRITICAL SYNERGY.** Amasses every time you discard via Sauron's wheel ability.
+1.  **Lazotep Chancellor** (Replace: *Haunt of the Dead Marshes*) - **CRITICAL SYNERGY.** Amasses every time you discard via Sauron's wheel ability.
 2.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - A premier win condition that drains opponents whenever you Amass or create/sacrifice Treasures. (Note: Faith of the Devoted was just added, but Mirkwood Bats is a higher-tier upgrade).
 3.  **Gleaming Overseer** (Replace: *Orcish Medicine*) - Provides your Orc Army with permanent **Hexproof** and **Menace**.
 4.  **The Black Gate** (Replace: *Temple of Malice*) - The best utility land for the deck, allowing your massive Army to become unblockable.
@@ -99,9 +99,9 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*
 
-*   **Dread Return:** High-synergy reanimation that can be cast for its Flashback cost by sacrificing Orc Army tokens.
+*   **Uglúk of the White Hand:** Cut for Dread Return to increase the deck's resilience against Sauron's forced discards.
 *   **Bombadil's Song:** Illegal in Grixis (Green identity); held in collection but not for this deck.
-*   **Mordor Muster:** Unknown why this card was cut, it is in the sideboard now.
+*   **Mordor Muster:** Replaced by other Amass effects.
 *   **Dunland Crebain:** Replaced by Dreadhorde Invasion for consistent Amass.  
 *   **Big Score:** Replaced by Dark Deal for higher synergy and lower CMC.  
 *   **Night's Whisper:** Replaced by Whispering Madness for repeatable wheels.  
@@ -114,6 +114,10 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Mountain / Swamp (Extras):** Surplus basic lands from the order bundles.  
 
 ## 📜 Deck Changelog
+*   **2026-02-20:** Swapped Uglúk for Dread Return.
+    *   **In:** Dread Return
+    *   **Out:** Uglúk of the White Hand
+    *   **Reason:** Increased deck resilience. Dread Return can be cast from the graveyard if discarded by Sauron's mandatory wheel.
 *   **2026-02-08:** Added 5 underrated synergy cards:
     *   **In:** Dreadhorde Invasion, Dark Deal, Whispering Madness, Faith of the Devoted, Sedraxis Alchemist.
     *   **Out:** Dunland Crebain, Big Score, Night's Whisper, Shadow of the Enemy, Abrade.
@@ -137,7 +141,7 @@ DECK:
 1 Gothmog, Morgul Lieutenant      
 1 Grishnákh, Brash Instigator      
 1 Nazgûl      
-1 Uglúk of the White Hand      
+1 Dread Return      
 1 Moria Scavenger      
 1 Gloin, Dwarf Emissary      
 1 Dreadhorde Invasion      

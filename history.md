@@ -84,6 +84,17 @@
 
 ---
 
+**Date:** February 20, 2026
+**Topic:** Increasing Deck Resilience (Sauron, the Dark Lord)
+**Goal:** Improve the deck's ability to handle Sauron's mandatory discard-draw ability.
+
+## Major Changes
+* **In:** Dread Return (from Sideboard).
+* **Out:** Uglúk of the White Hand.
+* **Reasoning:** Sauron's "wheel" effect is mandatory. If high-value creatures are discarded, the deck needs a way to recover them. Dread Return's Flashback cost allows it to be cast from the graveyard even if it was discarded, making it more resilient than Uglúk, who was a low-impact creature.
+
+---
+
 ## Current State: The Selected Deck
 **Deck Name:** Dimir Midrange (Untapped Tier 1)
 **Status:** Validated as legal and craftable with user's current resources.
