@@ -106,7 +106,7 @@ DECK:
 1 Tainted Isle  
 1 Temple of Deceit  
 1 Underground River  
-13 Island  
+12 Island  
 10 Swamp  
 
 ---
