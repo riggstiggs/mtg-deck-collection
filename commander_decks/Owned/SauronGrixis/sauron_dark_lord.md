@@ -91,7 +91,7 @@ These 10 upgrades focus on turning Sauron's discard-draw-4 trigger into a high-v
 2.  **Anger** (Replace: *Haunt of the Dead Marshes*) - **Permanent Haste.** Once discarded to the graveyard via Sauron, it grants your entire board Haste for the rest of the game.
 3.  **The Black Gate** (Replace: *Temple of Malice*) - **The Finisher.** Utility land that makes your massive Army unblockable.
 4.  **Living Death** (Replace: *Summons of Saruman*) - **Mass Reanimation.** After discarding multiple creatures to Sauron, this brings them all back while clearing the opponents' boards.
-5.  **Archfiend of Ifnir** (Replace: *Claim the Precious*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard. Replacing a lower-impact sorcery-speed removal spell while keeping high-synergy reanimation like Extract from Darkness.
+5.  **Archfiend of Ifnir** (Replace: *Sedraxis Alchemist*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard. Replacing a situational bounce creature to keep high-impact removal like Claim the Precious and reanimation like Extract from Darkness.
 6.  **Bone Miser** (Replace: *Gloin, Dwarf Emissary*) - **The Engine.** Generates mana, tokens, and cards based on what you discard to Sauron.
 7.  **Whispersilk Cloak** (Replace: *Ring of Evos Isle*) - **Finisher #2 + Protection.** Grants Shroud and Unblockable status to your Orc Army or Sauron.
 8.  **Rogue's Passage** (Replace: *Terramorphic Expanse*) - **Evasion Redundancy.** A second utility land to ensure your massive Army can connect for lethal damage.

@@ -77,7 +77,7 @@
 ## Major Decisions
 *   **Strategy Pivot:** Shifted focus toward "Discard & Graveyard Synergy" to turn Sauron's hand-dumping trigger into a value engine.
 *   **Priority Upgrades:** Finalized a Top 10 list incorporating EDHREC staples (*Anger*, *Living Death*) and Evasion tools (*The Black Gate*, *Rogue's Passage*).
-*   **New Purchase:** Ordered 8 cards from the priority list. Planned replacements target *Moria Scavenger*, *Haunt*, *Temple of Malice*, *Summons of Saruman*, *Claim the Precious*, *Gloin*, *Ring of Evos Isle*, and *Terramorphic Expanse*. *Languish* and *Extract from Darkness* are both retained per user preference.
+*   **New Purchase:** Ordered 8 cards from the priority list. Planned replacements target *Moria Scavenger*, *Haunt*, *Temple of Malice*, *Summons of Saruman*, *Sedraxis Alchemist*, *Gloin*, *Ring of Evos Isle*, and *Terramorphic Expanse*. *Languish*, *Extract from Darkness*, and *Claim the Precious* are all retained.
 *   **Maindeck Swap:** Confirmed *Dread Return* as the first major swap into the main deck.
 
 ---
