@@ -114,18 +114,27 @@ DECK:
 11 Island  
 11 Swamp  
 
----
+## 🛠️ Notable Budget Swaps (Price-Checked)
 
-## 🛠️ Notable Budget Swaps
-
-| Original (Expensive) | Budget Replacement | Reason |
+| Original (Expensive) | Budget Replacement | Estimated Savings |
 | :--- | :--- | :--- |
-| **Bitterblossom** | **Alela / Feywild Visitor** | Alela already generates tokens; extra $17 isn't needed. |
-| **Deadly Rollick** | **Rapid Hybridization** | $20 vs $1. Instant speed removal at a fraction of the cost. |
-| **Black Market Connections**| **Coastal Piracy** | $15 vs $1. We have enough tokens to draw cards via combat. |
-| **Morphic Pool** | **Tainted Isle / Sunken Hollow** | $15 vs $1. Great budget duals that enter untapped often. |
-| **Sword of Feast & Famine** | **Sword of the Animist** | $40 vs $5. Provides ramp instead of untap, better for budget. |
-| **Faerie Mastermind** | **Nymris, Oona's Trickster** | $12 vs $0.25. Similar value engine for flash decks. |
+| **Bitterblossom** ($31) | **Feywild Visitor** ($0.25) | **$30.75** |
+| **Faerie Mastermind** ($28) | **Nymris, Oona's Trickster** ($0.32) | **$27.68** |
+| **Sword of Feast & Famine** ($36) | **Sword of the Animist** ($5.40) | **$30.60** |
+| **Morphic Pool** ($24) | **Tainted Isle / Sunken Hollow** ($0.50) | **$23.50** |
+| **Otawara, Soaring City** ($23) | **Island** ($0.15) | **$22.85** |
+| **Deadly Rollick** ($22) | **Rapid Hybridization** ($0.20) | **$21.80** |
+| **Polluted Delta** ($18) | **Evolving Wilds** ($0.15) | **$17.85** |
+| **Grim Hireling** ($17) | **Prosperous Thief** ($0.22) | **$16.78** |
+| **Black Market Connections** ($14) | **Coastal Piracy** ($1.00) | **$13.00** |
+
+## 💰 Further Budget Optimization (Optional)
+
+If Christina needs to cut even more from the current $80 list, consider these "Luxury Budget" cuts:
+1.  **Spellstutter Sprite ($6.00):** While a staple, she can swap this for **Counterspell ($1.75)** or **Negate ($0.25)** to save $4-5.
+2.  **Reliquary Tower ($3.45):** In a budget deck without massive draw-X spells, a **Basic Land ($0.15)** is often better to ensure mana consistency.
+3.  **Tegwyll, Duke of Splendor ($9.68):** Our most expensive non-commander creature. If needed, swap for **Obyra, Dreaming Duelist ($0.36)** for a similar tribal payoff.
+4.  **Blightwing Bandit ($9.99):** Great for card advantage, but can be replaced with **Distant Melody ($0.22)** for a one-time burst.
 
 ---
 
@@ -135,4 +144,5 @@ DECK:
 *   Initial deck creation.
 *   Focused on a sub-$100 budget for Christina.
 *   Included **Shadow Puppeteers** as requested.
+*   **V2 Update:** Refined budget swaps using Manapool.com reference pricing ($500 shell reduced to ~$80).
 *   Verified against **Bracket 2** rules (No "Game Changers" or infinite combos).
