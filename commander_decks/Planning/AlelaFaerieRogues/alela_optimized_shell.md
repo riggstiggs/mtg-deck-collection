@@ -1,10 +1,10 @@
 # Alela, Cunning Conqueror: Optimized Shell ($150-$200 Target)
 
-This is the **finalized 100-card version** of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$182**, preserving high-impact cards like *Toxic Deluge* and *Kindred Discovery* while maintaining a high spell count for Alela triggers.
+This is the **finalized 100-card version** of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$182**, preserving high-impact cards like *Toxic Deluge* while maintaining a high spell count for Alela triggers.
 
 ## 🏹 Strategy & Playstyle
 *   **Flash Engine:** Over 20 instants and flash creatures to ensure Alela triggers on every opponent's turn.
-*   **High Power Floor:** Retains *Toxic Deluge* and *Kindred Discovery* to give Christina a fighting chance in higher-powered pods.
+*   **High Power Floor:** Retains *Toxic Deluge* to give Christina a fighting chance in higher-powered pods.
 *   **Dragon Finisher:** **Shadow Puppeteers** remains the primary win condition for the token swarm.
 *   **Optimized Mana:** 38 lands with an upgraded budget mana base for consistent color access.
 
@@ -14,7 +14,7 @@ This is the **finalized 100-card version** of Christina's Alela deck. It has bee
 | :--- | :---: | :--- |
 | **Lands** | 38 | ✅ Optimized (Shocks removed, high-value duals kept) |
 | **Ramp** | 10 | ✅ Sol Ring, Signets, Talisman, Sword |
-| **Card Advantage** | 12 | ✅ Kindred Discovery, Nymris, Hippocamp, Emeritus |
+| **Card Advantage** | 12 | ✅ Nymris, Hippocamp, Emeritus, Archmage |
 | **Targeted Disruption** | 12 | ✅ Counterspell, Go for the Throat, Infernal Grasp |
 | **Mass Disruption** | 2 | ✅ Toxic Deluge, Soul Shatter |
 | **Plan Cards** | 25 | ✅ Faeries, Rogues, Finishers |
@@ -34,6 +34,7 @@ DECK:
 1 Arcane Denial  
 1 Arcane Signet  
 1 Archmage Emeritus  
+1 Archmage of Echoes  
 1 Ayara, First of Locthwain  
 1 Bident of Thassa  
 1 Blightwing Bandit  
@@ -54,9 +55,7 @@ DECK:
 1 Glen Elendra Liege  
 1 Go for the Throat  
 1 Infernal Grasp  
-1 Kindred Discovery  
 1 Liquimetal Torque  
-1 Malleable Impostor  
 1 Midnight Clock  
 1 Mind Stone  
 1 Narset's Reversal  
@@ -68,6 +67,7 @@ DECK:
 1 Plumb the Forbidden  
 1 Pongify  
 1 Prosperous Thief  
+1 Rankle, Master of Pranks  
 1 Rapid Hybridization  
 1 Reality Shift  
 1 Reconnaissance Mission  
@@ -116,6 +116,7 @@ DECK:
 | Phase | Focus | Status |
 | :--- | :--- | :--- |
 | **1-6** | Budget Optimization | Completed ($530 -> $182) |
+| **7** | Final High-Cost Swaps | Completed (Malleable/Kindred removed) |
 | **Final** | Deck Count Cleanup | Finalized (100 Cards) |
 
 ---
@@ -124,6 +125,8 @@ DECK:
 
 ### 2026-02-21
 *   Finalized the "Optimized Shell" for Christina.
+*   Replaced **Malleable Impostor** with **Rankle, Master of Pranks** (High utility).
+*   Replaced **Kindred Discovery** with **Archmage of Echoes** (Board force multiplier).
 *   Total budget reduced to ~$182 (sub-$200 goal met).
 *   Confirmed 38-land count and 100-card total.
-*   Retained high-impact spells (*Toxic Deluge*, *Kindred Discovery*) for deck resilience.
+*   Retained high-impact spells (*Toxic Deluge*) for deck resilience.
