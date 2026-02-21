@@ -57,7 +57,6 @@ DECK:
 1 Heraldic Banner  
 1 Infernal Grasp  
 1 Liquimetal Torque  
-1 Malleable Impostor  
 1 Midnight Clock  
 1 Mind Stone  
 1 Narset's Reversal  
@@ -107,7 +106,7 @@ DECK:
 1 Tainted Isle  
 1 Temple of Deceit  
 1 Underground River  
-12 Island  
+13 Island  
 10 Swamp  
 
 ---
