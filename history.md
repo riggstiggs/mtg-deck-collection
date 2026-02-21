@@ -76,8 +76,8 @@
 
 ## Major Decisions
 *   **Strategy Pivot:** Shifted focus toward "Discard & Graveyard Synergy" to turn Sauron's hand-dumping trigger into a value engine.
-*   **Priority Upgrades:** Identified 10 key cards (Lazotep Chancellor, Archfiend of Ifnir, Bone Miser, etc.) as the primary upgrade path.
-*   **Maindeck Swap:** Identified *Dread Return* as a priority inclusion from the sideboard to improve graveyard recursion efficiency.
+*   **Priority Upgrades:** Finalized a Top 10 list incorporating EDHREC staples (*Anger*, *Living Death*, *Lazotep Plating*) and Evasion tools (*The Black Gate*, *Rogue's Passage*).
+*   **Maindeck Swap:** Confirmed *Dread Return* as the first major swap into the main deck.
 
 ---
 

@@ -85,18 +85,18 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ## 📈 Priority Upgrade List (Discard & Graveyard Synergy)
 
-These 10 upgrades focus on turning Sauron's discard-draw-4 trigger into a high-value engine. None of these are "Game Changers," maintaining the deck's current bracket compliance.
+These 10 upgrades focus on turning Sauron's discard-draw-4 trigger into a high-value engine and ensuring your Orc Army can close out the game.
 
-1.  **Lazotep Chancellor** (Replace: *Haunt of the Dead Marshes*) - **The #1 synergy card.** Amasses 2 every time you discard. One Sauron trigger instantly builds a massive Army.
-2.  **Archfiend of Ifnir** (Replace: *Languish*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard.
-3.  **Containment Construct** (Replace: *Moria Scavenger*) - **Discard value.** Allows you to play the cards you just discarded to Sauron's trigger until the end of the turn.
-4.  **Bone Miser** (Replace: *Gloin, Dwarf Emissary*) - **The Engine.** Generates mana, tokens, and cards based on what you discard to Sauron.
-5.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - **Free Drain.** Drains opponents whenever you Amass or create/sacrifice tokens without needing to pay mana.
-6.  **Gleaming Overseer** (Replace: *Orcish Medicine*) - **Permanent Protection.** Grants the Orc Army permanent Hexproof and Menace.
-7.  **The Black Gate** (Replace: *Temple of Malice*) - **The Finisher.** Utility land that makes your massive Army unblockable.
-8.  **Mithril Coat** (Replace: *Ring of Evos Isle*) - **Indestructible Protection.** Flash-speed protection that makes Sauron immune to most board wipes.
-9.  **Sauron's Ransom** (Replace: *Dark Deal*) - **Card Quality.** Better card selection and Ring temptation compared to the symmetrical hand disruption of Dark Deal.
-10. **Widespread Brutality** (Replace: *Summons of Saruman*) - **Asymmetrical Wipe.** Uses your Army's power to clear the board while leaving your forces intact.
+1.  **Lazotep Chancellor** (Replace: *Moria Scavenger*) - **The #1 synergy card.** Amasses 2 every time you discard. One Sauron trigger instantly builds a massive Army.
+2.  **Anger** (Replace: *Haunt of the Dead Marshes*) - **Permanent Haste.** Once discarded to the graveyard via Sauron, it grants your entire board Haste for the rest of the game.
+3.  **The Black Gate** (Replace: *Temple of Malice*) - **The Finisher.** Utility land that makes your massive Army unblockable.
+4.  **Living Death** (Replace: *Summons of Saruman*) - **Mass Reanimation.** After discarding multiple creatures to Sauron, this brings them all back while clearing the opponents' boards.
+5.  **Archfiend of Ifnir** (Replace: *Languish*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard.
+6.  **Lazotep Plating** (Replace: *Orcish Medicine*) - **Protection + Amass.** Provides Hexproof for you and your board while growing the Army.
+7.  **Bone Miser** (Replace: *Gloin, Dwarf Emissary*) - **The Engine.** Generates mana, tokens, and cards based on what you discard to Sauron.
+8.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - **Free Drain.** Drains opponents whenever you Amass or create/sacrifice tokens without needing to pay mana.
+9.  **Rogue's Passage** (Replace: *Terramorphic Expanse*) - **Evasion Redundancy.** A second utility land to ensure your massive Army can connect for lethal damage.
+10. **Mithril Coat** (Replace: *Ring of Evos Isle*) - **Indestructible Protection.** Flash-speed protection that makes Sauron immune to most board wipes.
 
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*
