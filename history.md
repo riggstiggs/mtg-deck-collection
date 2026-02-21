@@ -110,6 +110,19 @@
 
 ---
 
+# Conversation Context: Alela, Cunning Conqueror (Paper MTG)
+**Date:** February 21, 2026
+**Topic:** Budget Tribal Build for Christina
+**Goal:** Create a high-synergy Faerie and Rogue deck under $100.
+
+## Major Decisions
+*   **Budget Optimization:** Cut ~$400 from the user-provided "interesting shell" by replacing high-end staples (*Deadly Rollick*, *Bitterblossom*, *Sword of Feast and Famine*) with budget-effective alternatives.
+*   **Must-Have Inclusion:** Integrated **Shadow Puppeteers** as the primary win condition, turning 1/1 tokens into 4/4 Dragons.
+*   **Strategy:** Focused on a "Flash" and "Goad" playstyle, leveraging Alela's ability to generate tokens and disrupt opponents on their own turns.
+*   **Compliance:** Verified the list adheres to the "New Era" template (38/10/12/12/6/31) and **Bracket 2** power levels.
+
+---
+
 ## Current State: The Selected Deck
 **Deck Name:** Dimir Midrange (Untapped Tier 1)
 **Status:** Validated as legal and craftable with user's current resources.
