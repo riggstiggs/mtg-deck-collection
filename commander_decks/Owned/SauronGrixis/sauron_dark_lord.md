@@ -83,18 +83,20 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ---
 
-## 📈 Upgrade Path (Top 10 Recommendations)
+## 📈 Priority Upgrade List (Discard & Graveyard Synergy)
 
-1.  **Lazotep Chancellor** (Replace: *Haunt of the Dead Marshes*) - **CRITICAL SYNERGY.** Amasses every time you discard via Sauron's wheel ability.
-2.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - A premier win condition that drains opponents whenever you Amass or create/sacrifice Treasures. (Note: Faith of the Devoted was just added, but Mirkwood Bats is a higher-tier upgrade).
-3.  **Gleaming Overseer** (Replace: *Orcish Medicine*) - Provides your Orc Army with permanent **Hexproof** and **Menace**.
-4.  **The Black Gate** (Replace: *Temple of Malice*) - The best utility land for the deck, allowing your massive Army to become unblockable.
-5.  **Mithril Coat** (Replace: *Ring of Evos Isle*) - Instant-speed indestructible protection for Sauron.
-6.  **Sauron's Ransom** (Replace: *Dark Deal*) - Flavorful card advantage that triggers a Ring temptation.
-7.  **Widespread Brutality** (Replace: *Languish*) - An asymmetrical board wipe that uses your Army's power to clear the field.
-8.  **Herald's Horn** (Replace: *Dimir Signet*) - Tribal support that reduces costs and provides pseudo-draw.
-9.  **Vizier of the Scorpion** (Replace: *Moria Scavenger*) - Provides redundancy for Deathtouch on your tokens.
-10. **Phyrexian Arena** (Replace: *Faithless Looting*) - Consistent turn-by-turn card advantage.
+These 10 upgrades focus on turning Sauron's discard-draw-4 trigger into a high-value engine. None of these are "Game Changers," maintaining the deck's current bracket compliance.
+
+1.  **Lazotep Chancellor** (Replace: *Haunt of the Dead Marshes*) - **The #1 synergy card.** Amasses 2 every time you discard. One Sauron trigger instantly builds a massive Army.
+2.  **Archfiend of Ifnir** (Replace: *Languish*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard.
+3.  **Containment Construct** (Replace: *Moria Scavenger*) - **Discard value.** Allows you to play the cards you just discarded to Sauron's trigger until the end of the turn.
+4.  **Bone Miser** (Replace: *Gloin, Dwarf Emissary*) - **The Engine.** Generates mana, tokens, and cards based on what you discard to Sauron.
+5.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - **Free Drain.** Drains opponents whenever you Amass or create/sacrifice tokens without needing to pay mana.
+6.  **Gleaming Overseer** (Replace: *Orcish Medicine*) - **Permanent Protection.** Grants the Orc Army permanent Hexproof and Menace.
+7.  **The Black Gate** (Replace: *Temple of Malice*) - **The Finisher.** Utility land that makes your massive Army unblockable.
+8.  **Mithril Coat** (Replace: *Ring of Evos Isle*) - **Indestructible Protection.** Flash-speed protection that makes Sauron immune to most board wipes.
+9.  **Sauron's Ransom** (Replace: *Dark Deal*) - **Card Quality.** Better card selection and Ring temptation compared to the symmetrical hand disruption of Dark Deal.
+10. **Widespread Brutality** (Replace: *Summons of Saruman*) - **Asymmetrical Wipe.** Uses your Army's power to clear the board while leaving your forces intact.
 
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*

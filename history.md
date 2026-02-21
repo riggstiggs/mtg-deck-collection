@@ -67,6 +67,20 @@
 
 ---
 
+---
+
+# Conversation Context: Sauron, the Dark Lord (Paper MTG)
+**Date:** February 19, 2026
+**Topic:** Strategy Pivot & Upgrade Prioritization
+**Goal:** Optimize the deck to capitalize on Sauron's discard-draw-4 trigger.
+
+## Major Decisions
+*   **Strategy Pivot:** Shifted focus toward "Discard & Graveyard Synergy" to turn Sauron's hand-dumping trigger into a value engine.
+*   **Priority Upgrades:** Identified 10 key cards (Lazotep Chancellor, Archfiend of Ifnir, Bone Miser, etc.) as the primary upgrade path.
+*   **Maindeck Swap:** Identified *Dread Return* as a priority inclusion from the sideboard to improve graveyard recursion efficiency.
+
+---
+
 # Conversation Context: Sauron, the Dark Lord (Paper MTG)
 **Date:** February 18, 2026
 **Topic:** Physical Card Arrival & Final Deck Construction
