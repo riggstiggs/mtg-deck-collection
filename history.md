@@ -112,14 +112,16 @@
 
 # Conversation Context: Alela, Cunning Conqueror (Paper MTG)
 **Date:** February 21, 2026
-**Topic:** Budget Tribal Build for Christina
-**Goal:** Create a high-synergy Faerie and Rogue deck under $100.
+**Topic:** Finalized Optimized Shell for Christina
+**Goal:** Optimize a $500 shell to $150-$200 while maintaining high-impact power pieces.
 
 ## Major Decisions
-*   **Budget Optimization:** Cut ~$400 from the user-provided "interesting shell" by replacing high-end staples (*Deadly Rollick*, *Bitterblossom*, *Sword of Feast and Famine*) with budget-effective alternatives.
-*   **Must-Have Inclusion:** Integrated **Shadow Puppeteers** as the primary win condition, turning 1/1 tokens into 4/4 Dragons.
-*   **Strategy:** Focused on a "Flash" and "Goad" playstyle, leveraging Alela's ability to generate tokens and disrupt opponents on their own turns.
-*   **Compliance:** Verified the list adheres to the "New Era" template (38/10/12/12/6/31) and **Bracket 2** power levels.
+*   **Budget Optimization:** Cut ~$340 from the original shell by swapping luxury lands (*Watery Grave*, *Polluted Delta*) and high-end staples (*Deadly Rollick*, *Faerie Mastermind*) for efficient budget alternatives.
+*   **Retention:** Kept **Toxic Deluge** and **Kindred Discovery** to ensure the deck has high-end power and catch-up potential.
+*   **Simplification:** Removed complex MDFC cards and tricky interaction (*Chain of Vapor*) to assist a newer player's learning curve.
+*   **Finisher:** Integrated **Shadow Puppeteers** as the primary win condition.
+*   **Consistency:** Adjusted the deck to exactly 100 cards with a 38-land base (New Era Template).
+*   **Compliance:** Verified for **Bracket 2** power levels.
 
 ---
 

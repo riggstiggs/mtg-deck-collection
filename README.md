@@ -33,7 +33,7 @@ Decks physically built and ready for play.
 
 #### 📁 `/Planning`
 Decks under development, research, or being optimized.
-*   **Alela Faerie Rogues:** Dimir budget tribal (Cunning Conqueror) for Christina.
+*   **Alela Faerie Rogues:** Dimir budget "Flash" shell (Cunning Conqueror) for Christina. Optimized to $187.
 *   **Omnath Landfall:** 4-Color value engine (Locus of Creation).
 *   **Thalia & Gitrog:** Abzan Landfall & Hatebears.
 *   **Yidris Cascade:** 4-Color "Value Cascade".
