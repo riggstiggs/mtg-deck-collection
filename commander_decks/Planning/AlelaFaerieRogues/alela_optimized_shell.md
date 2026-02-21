@@ -34,7 +34,7 @@ DECK:
 1 Arcane Denial  
 1 Arcane Signet  
 1 Archmage Emeritus  
-1 Archmage of Echoes  
+1 Faerie Formation  
 1 Ayara, First of Locthwain  
 1 Bident of Thassa  
 1 Blightwing Bandit  
