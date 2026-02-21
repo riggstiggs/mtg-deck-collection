@@ -1,23 +1,23 @@
 # Alela, Cunning Conqueror: Optimized Shell ($150-$200 Target)
 
-This is the finalized version of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$187**, preserving high-impact cards like *Toxic Deluge* and *Kindred Discovery* while simplifying the mana base and complex interactions.
+This is the **finalized 100-card version** of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$182**, preserving high-impact cards like *Toxic Deluge* and *Kindred Discovery* while maintaining a high spell count for Alela triggers.
 
 ## 🏹 Strategy & Playstyle
-*   **Flash Engine:** 20+ instants and flash creatures to ensure Alela triggers on every opponent's turn.
-*   **Simplified Mechanics:** Removed complex MDFC cards and "Chain" effects to help a newer player focus on the board state.
-*   **Dragon Finisher:** **Shadow Puppeteers** is the secret weapon to turn the 1/1 swarm into 4/4 Dragons.
-*   **Resilient Interaction:** A robust suite of counterspells and removal to protect Alela and disrupt opponents.
+*   **Flash Engine:** Over 20 instants and flash creatures to ensure Alela triggers on every opponent's turn.
+*   **High Power Floor:** Retains *Toxic Deluge* and *Kindred Discovery* to give Christina a fighting chance in higher-powered pods.
+*   **Dragon Finisher:** **Shadow Puppeteers** remains the primary win condition for the token swarm.
+*   **Optimized Mana:** 38 lands with an upgraded budget mana base for consistent color access.
 
 ## 📊 Final "New Era" Stats (100 Cards)
 
 | Category | Count | Status |
 | :--- | :---: | :--- |
-| **Lands** | 38 | ✅ Optimized Budget Mana Base |
+| **Lands** | 38 | ✅ Optimized (Shocks removed, high-value duals kept) |
 | **Ramp** | 10 | ✅ Sol Ring, Signets, Talisman, Sword |
-| **Card Advantage** | 13 | ✅ Kindred Discovery, Nymris, Hippocamp, Emeritus |
+| **Card Advantage** | 12 | ✅ Kindred Discovery, Nymris, Hippocamp, Emeritus |
 | **Targeted Disruption** | 12 | ✅ Counterspell, Go for the Throat, Infernal Grasp |
 | **Mass Disruption** | 2 | ✅ Toxic Deluge, Soul Shatter |
-| **Plan Cards** | 24 | ✅ Faeries, Rogues, Finishers |
+| **Plan Cards** | 25 | ✅ Faeries, Rogues, Finishers |
 | **Commander** | 1 | ✅ Alela, Cunning Conqueror |
 
 ---
@@ -34,29 +34,20 @@ DECK:
 1 Arcane Denial  
 1 Arcane Signet  
 1 Archmage Emeritus  
-1 Ash Barrens  
 1 Ayara, First of Locthwain  
 1 Bident of Thassa  
 1 Blightwing Bandit  
 1 Brainstorm  
 1 Brazen Borrower  
 1 Capsize  
-1 Choked Estuary  
-1 Command Tower  
 1 Consider  
-1 Contaminated Aquifer  
 1 Counterspell  
 1 Curiosity Crafter  
 1 Deadly Dispute  
-1 Dimir Aqueduct  
 1 Dimir Signet  
-1 Dismal Backwater  
-1 Drowned Catacomb  
-1 Fabled Passage  
 1 Faerie Vandal  
 1 Farsight Ritual  
 1 Fellwar Stone  
-1 Fetid Pools  
 1 Feywild Visitor  
 1 Fact or Fiction  
 1 Frantic Search  
@@ -68,13 +59,13 @@ DECK:
 1 Malleable Impostor  
 1 Midnight Clock  
 1 Mind Stone  
-1 Myriad Landscape  
 1 Narset's Reversal  
 1 Notorious Throng  
 1 Nymris, Oona's Trickster  
 1 Obyra, Dreaming Duelist  
 1 Oona's Blackguard  
 1 Opt  
+1 Plumb the Forbidden  
 1 Pongify  
 1 Prosperous Thief  
 1 Rapid Hybridization  
@@ -82,6 +73,7 @@ DECK:
 1 Reconnaissance Mission  
 1 Rewind  
 1 Rowan's Grim Search  
+1 Rowdy Research  
 1 Shadow Puppeteers  
 1 Silundi Vision  
 1 Siphon Insight  
@@ -93,40 +85,45 @@ DECK:
 1 Sword of the Animist  
 1 Talisman of Dominance  
 1 Tegwyll, Duke of Splendor  
-1 Temple of Deceit  
 1 Thought Scour  
 1 Thought Vessel  
 1 Toxic Deluge  
-1 Underground River  
 1 Undying Malice  
 1 Verity Circle  
 1 Wavebreak Hippocamp  
-1 Tainted Isle  
+1 Ash Barrens  
+1 Choked Estuary  
+1 Command Tower  
+1 Contaminated Aquifer  
+1 Dimir Aqueduct  
+1 Dismal Backwater  
+1 Drowned Catacomb  
+1 Fabled Passage  
+1 Fetid Pools  
+1 Myriad Landscape  
+1 Rogue's Passage  
 1 Sunken Hollow  
+1 Tainted Isle  
+1 Temple of Deceit  
+1 Underground River  
 13 Island  
-11 Swamp  
+10 Swamp  
 
 ---
 
 ## 🛠️ Optimization Log Summary
 
-| Phase | Focus | Savings |
+| Phase | Focus | Status |
 | :--- | :--- | :--- |
-| **1** | Lands & Ramp (Luxury Cut) | ~$150 |
-| **2** | High-Cost Non-Lands (Rollick/Hireling) | ~$70 |
-| **3** | Enchantments (BMC/Remora) | ~$20 |
-| **4** | Creatures (Mastermind/Scion) | ~$53 |
-| **5** | Instants & MDFCs (Chain/Swan) | ~$27 |
-| **6** | Final Land Polish (Grave/Marsh) | ~$23 |
-| **Total** | **Optimization Complete** | **~$343** |
+| **1-6** | Budget Optimization | Completed ($530 -> $182) |
+| **Final** | Deck Count Cleanup | Finalized (100 Cards) |
 
 ---
 
 ## 📝 Deck Changelog
 
 ### 2026-02-21
-*   Finalized the "Optimized Shell" for Christina ($150-$200 budget).
-*   Corrected deck count to 100 cards with a 38-land base.
-*   Simplified removal and interaction for a smoother learning curve.
-*   Retained **Toxic Deluge** and **Kindred Discovery** as high-impact power pieces.
-*   Verified against **Bracket 2** rules (No Game Changers other than established value pieces).
+*   Finalized the "Optimized Shell" for Christina.
+*   Total budget reduced to ~$182 (sub-$200 goal met).
+*   Confirmed 38-land count and 100-card total.
+*   Retained high-impact spells (*Toxic Deluge*, *Kindred Discovery*) for deck resilience.
