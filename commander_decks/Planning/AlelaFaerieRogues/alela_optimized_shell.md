@@ -1,23 +1,23 @@
 # Alela, Cunning Conqueror: Optimized Shell ($150-$200 Target)
 
-This is the **finalized 100-card version** of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$182**, preserving high-impact cards like *Toxic Deluge* while maintaining a high spell count for Alela triggers.
+This is the **finalized 100-card version** of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$156**, providing a high-synergy "Flash" experience with a simplified learning curve for a newer player.
 
 ## 🏹 Strategy & Playstyle
-*   **Flash Engine:** Over 20 instants and flash creatures to ensure Alela triggers on every opponent's turn.
-*   **High Power Floor:** Retains *Toxic Deluge* to give Christina a fighting chance in higher-powered pods.
-*   **Dragon Finisher:** **Shadow Puppeteers** remains the primary win condition for the token swarm.
-*   **Optimized Mana:** 38 lands with an upgraded budget mana base for consistent color access.
+*   **Flash Engine:** 20+ instants and flash creatures to trigger Alela on every opponent's turn.
+*   **Token Payoffs:** **Gravitational Shift** and **Heraldic Banner** turn 1/1 tokens into significant threats.
+*   **Defensive "Gotchas":** **Aetherize** and **Toxic Deluge** provide powerful resets to keep Christina in the game.
+*   **Resilient Drain:** **Bastion of Remembrance** provides a hard-to-interact-with drain engine to punish opponents for killing her Faeries.
 
 ## 📊 Final "New Era" Stats (100 Cards)
 
 | Category | Count | Status |
 | :--- | :---: | :--- |
-| **Lands** | 38 | ✅ Optimized (Shocks removed, high-value duals kept) |
-| **Ramp** | 10 | ✅ Sol Ring, Signets, Talisman, Sword |
-| **Card Advantage** | 12 | ✅ Nymris, Hippocamp, Emeritus, Archmage |
-| **Targeted Disruption** | 12 | ✅ Counterspell, Go for the Throat, Infernal Grasp |
+| **Lands** | 38 | ✅ Optimized Budget Mana Base |
+| **Ramp** | 10 | ✅ Sol Ring, Signets, Talisman, Banner |
+| **Card Advantage** | 12 | ✅ Nymris, Hippocamp, Emeritus, Skullclamp |
+| **Targeted Disruption** | 12 | ✅ Counterspell, Go for the Throat, Snap, Aetherize |
 | **Mass Disruption** | 2 | ✅ Toxic Deluge, Soul Shatter |
-| **Plan Cards** | 25 | ✅ Faeries, Rogues, Finishers |
+| **Plan Cards** | 25 | ✅ Faeries, Rogues, Finishers, Payoffs |
 | **Commander** | 1 | ✅ Alela, Cunning Conqueror |
 
 ---
@@ -34,12 +34,11 @@ DECK:
 1 Arcane Denial  
 1 Arcane Signet  
 1 Archmage Emeritus  
-1 Faerie Formation  
-1 Ayara, First of Locthwain  
+1 Bastion of Remembrance  
 1 Bident of Thassa  
 1 Blightwing Bandit  
 1 Brainstorm  
-1 Brazen Borrower  
+1 Aetherize  
 1 Capsize  
 1 Consider  
 1 Counterspell  
@@ -54,12 +53,14 @@ DECK:
 1 Frantic Search  
 1 Glen Elendra Liege  
 1 Go for the Throat  
+1 Gravitational Shift  
+1 Heraldic Banner  
 1 Infernal Grasp  
 1 Liquimetal Torque  
+1 Malleable Impostor  
 1 Midnight Clock  
 1 Mind Stone  
 1 Narset's Reversal  
-1 Notorious Throng  
 1 Nymris, Oona's Trickster  
 1 Obyra, Dreaming Duelist  
 1 Oona's Blackguard  
@@ -82,7 +83,6 @@ DECK:
 1 Sol Ring  
 1 Soul Shatter  
 1 Spellstutter Sprite  
-1 Sword of the Animist  
 1 Talisman of Dominance  
 1 Tegwyll, Duke of Splendor  
 1 Thought Scour  
@@ -91,6 +91,7 @@ DECK:
 1 Undying Malice  
 1 Verity Circle  
 1 Wavebreak Hippocamp  
+1 Faerie Formation  
 1 Ash Barrens  
 1 Choked Estuary  
 1 Command Tower  
@@ -115,9 +116,9 @@ DECK:
 
 | Phase | Focus | Status |
 | :--- | :--- | :--- |
-| **1-6** | Budget Optimization | Completed ($530 -> $182) |
-| **7** | Final High-Cost Swaps | Completed (Malleable/Kindred removed) |
-| **Final** | Deck Count Cleanup | Finalized (100 Cards) |
+| **1-7** | Budget Optimization | Completed ($530 -> $182) |
+| **8** | Simplification & Final Pricing | Finalized (~$156) |
+| **Final** | Deck Count Cleanup | 100 Cards Exactly |
 
 ---
 
@@ -125,8 +126,8 @@ DECK:
 
 ### 2026-02-21
 *   Finalized the "Optimized Shell" for Christina.
-*   Replaced **Malleable Impostor** with **Rankle, Master of Pranks** (High utility).
-*   Replaced **Kindred Discovery** with **Archmage of Echoes** (Board force multiplier).
-*   Total budget reduced to ~$182 (sub-$200 goal met).
-*   Confirmed 38-land count and 100-card total.
-*   Retained high-impact spells (*Toxic Deluge*) for deck resilience.
+*   Replaced **Ayara** with **Bastion of Remembrance** (Resilience).
+*   Replaced **Brazen Borrower** with **Aetherize** (Simpler Interaction).
+*   Replaced **Sword of the Animist** with **Heraldic Banner** (Ramp + Anthem).
+*   Replaced **Notorious Throng** with **Gravitational Shift** (Static Win Condition).
+*   Final estimated cost: **~$156**.
