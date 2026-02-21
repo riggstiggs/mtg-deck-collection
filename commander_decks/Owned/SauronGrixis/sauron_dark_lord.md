@@ -85,18 +85,18 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ## 📈 Priority Upgrade List (Discard & Graveyard Synergy)
 
-These 10 upgrades focus on turning Sauron's discard-draw-4 trigger into a high-value engine and ensuring your Orc Army can close out the game.
+These 10 upgrades focus on turning Sauron's discard-draw-4 trigger into a high-value engine. (Languish has been retained per user preference).
 
 1.  **Lazotep Chancellor** (Replace: *Moria Scavenger*) - **The #1 synergy card.** Amasses 2 every time you discard. One Sauron trigger instantly builds a massive Army.
 2.  **Anger** (Replace: *Haunt of the Dead Marshes*) - **Permanent Haste.** Once discarded to the graveyard via Sauron, it grants your entire board Haste for the rest of the game.
 3.  **The Black Gate** (Replace: *Temple of Malice*) - **The Finisher.** Utility land that makes your massive Army unblockable.
 4.  **Living Death** (Replace: *Summons of Saruman*) - **Mass Reanimation.** After discarding multiple creatures to Sauron, this brings them all back while clearing the opponents' boards.
-5.  **Archfiend of Ifnir** (Replace: *Languish*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard.
-6.  **Lazotep Plating** (Replace: *Orcish Medicine*) - **Protection + Amass.** Provides Hexproof for you and your board while growing the Army.
-7.  **Bone Miser** (Replace: *Gloin, Dwarf Emissary*) - **The Engine.** Generates mana, tokens, and cards based on what you discard to Sauron.
-8.  **Mirkwood Bats** (Replace: *Faith of the Devoted*) - **Free Drain.** Drains opponents whenever you Amass or create/sacrifice tokens without needing to pay mana.
-9.  **Rogue's Passage** (Replace: *Terramorphic Expanse*) - **Evasion Redundancy.** A second utility land to ensure your massive Army can connect for lethal damage.
-10. **Mithril Coat** (Replace: *Ring of Evos Isle*) - **Indestructible Protection.** Flash-speed protection that makes Sauron immune to most board wipes.
+5.  **Archfiend of Ifnir** (Replace: *Extract from Darkness*) - **One-sided board wipe.** Puts -1/-1 counters on opponents' creatures whenever you discard. (Maintaining board wipe count by replacing a reanimation spell).
+6.  **Bone Miser** (Replace: *Gloin, Dwarf Emissary*) - **The Engine.** Generates mana, tokens, and cards based on what you discard to Sauron.
+7.  **Whispersilk Cloak** (Replace: *Ring of Evos Isle*) - **Finisher #2 + Protection.** Grants Shroud and Unblockable status to your Orc Army or Sauron.
+8.  **Rogue's Passage** (Replace: *Terramorphic Expanse*) - **Evasion Redundancy.** A second utility land to ensure your massive Army can connect for lethal damage.
+9.  **Psychosis Crawler** (Replace: *Faith of the Devoted*) - **Burn Finisher.** Drains everyone when you draw 4 cards from Sauron's temptation.
+10. **Lazotep Plating** (Replace: *Orcish Medicine*) - **Protection + Amass.** Provides Hexproof for you and your board while growing the Army.
 
 ## 🃏 Sideboard (Ordered but Unused)
 *These cards were ordered but cut to reach the 100-card limit or replaced by higher synergy options.*

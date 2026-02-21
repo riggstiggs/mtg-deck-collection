@@ -76,7 +76,8 @@
 
 ## Major Decisions
 *   **Strategy Pivot:** Shifted focus toward "Discard & Graveyard Synergy" to turn Sauron's hand-dumping trigger into a value engine.
-*   **Priority Upgrades:** Finalized a Top 10 list incorporating EDHREC staples (*Anger*, *Living Death*, *Lazotep Plating*) and Evasion tools (*The Black Gate*, *Rogue's Passage*).
+*   **Priority Upgrades:** Finalized a Top 10 list incorporating EDHREC staples (*Anger*, *Living Death*) and Evasion tools (*The Black Gate*, *Rogue's Passage*).
+*   **New Purchase:** Ordered 8 cards from the priority list. Planned replacements target *Moria Scavenger*, *Haunt*, *Temple of Malice*, *Summons of Saruman*, *Extract from Darkness*, *Gloin*, *Ring of Evos Isle*, and *Terramorphic Expanse*. *Languish* is retained.
 *   **Maindeck Swap:** Confirmed *Dread Return* as the first major swap into the main deck.
 
 ---

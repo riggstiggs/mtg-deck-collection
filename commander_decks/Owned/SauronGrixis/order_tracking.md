@@ -133,7 +133,14 @@ This file tracks the physical status of cards for the Sauron deck.
 ---
 
 ## 🚢 Shipped (In Transit)
-*   (All cards arrived!)
+*   [ ] Anger
+*   [ ] Lazotep Chancellor
+*   [ ] Whispersilk Cloak
+*   [ ] Archfiend of Ifnir
+*   [ ] Living Death
+*   [ ] The Black Gate
+*   [ ] Bone Miser
+*   [ ] Rogue's Passage
 
 ---
 
