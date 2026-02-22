@@ -54,7 +54,7 @@
 
 ### ⚔️ Disruption (Keeping the Engine Safe)
 *   **Cyclonic Rift:** **GAME CHANGER.** A one-sided board wipe that returns everything your opponents own to their hands.
-*   **Aetherize / Aether Spouts / Whelming Wave:** These are defensive resets to protect your board from combat threats.
+*   **Aetherize / Aetherspouts / Whelming Wave:** These are defensive resets to protect your board from combat threats.
 *   **Ezuri's Predation:** A mass removal spell that clears the board and creates a massive beast army for you.
 *   **Beast Within / Reality Shift / Pongify / Rapid Hybridization / Nature's Claim / Resculpt:** A versatile suite of targeted removal for creatures, artifacts, and enchantments.
 *   **Kenrith's Transformation / Imprisoned in the Moon:** Neutralizes problematic Commanders or lands without destroying them.
@@ -130,7 +130,7 @@ DECK:
 1 Boseiju, Who Endures  
 1 Cyclonic Rift  
 1 Aetherize  
-1 Aether Spouts  
+1 Aetherspouts  
 1 Whelming Wave  
 1 Ezuri's Predation  
 1 Curse of the Swine  
@@ -154,9 +154,10 @@ DECK:
 
 ## 📜 Deck Changelog
 ### 2026-02-21
+*   **Correction:** Fixed spelling of *Aetherspouts* for better import compatibility.
 *   **Comprehensive Audit:** Finalized 100-card list and updated all intent summaries.
-*   **Graveyard Engine Overhaul:** Added **Six** and **Conduit of Worlds** for high-impact recursion. Removed *Tireless Tracker* and *Fact or Fiction*.
+*   **Graveyard Engine Overhaul:** Added **Six** and **Conduit of Worlds**.
 *   **Added Artifact Ramp:** Included *Sol Ring*, *Arcane Signet*, *Simic Signet*, and *Thought Vessel*.
 *   **Added Top-End Power:** Included *Exploration*, *Cyclonic Rift*, *Imprisoned in the Moon*, *Reshape the Earth*, and *Adrix and Nev*.
 *   **Engine Refinement:** Added *Zendikar's Roil*, *Case of the Locked Hothouse*, and *Spelunking*.
-*   **Land Base:** Overhauled for speed with fetches (*Misty Rainforest*) and utility return-to-hand lands (*Oboro*, *Ghost Town*).
+*   **Land Base:** Overhauled for speed with fetches (*Misty Rainforest*).
