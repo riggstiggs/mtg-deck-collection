@@ -139,6 +139,7 @@
 *   **Finisher:** Integrated **Shadow Puppeteers** as the primary win condition.
 *   **Consistency:** Adjusted the deck to exactly 100 cards with a 38-land base (New Era Template).
 *   **Compliance:** Verified for **Bracket 2** power levels.
+*   **PROJECT COMPLETE:** The final list was shared with the user's brother, and all cards have been ordered. This project is now closed.
 
 ---
 
