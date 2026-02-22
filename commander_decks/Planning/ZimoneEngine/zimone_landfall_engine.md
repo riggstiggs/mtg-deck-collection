@@ -69,10 +69,10 @@
 ---
 
 ## 🃏 Plain Text Copy/Paste (Moxfield Import)
-COMMANDER:
+COMMANDER:  
 1 Zimone, Quandrix Prodigy  
 
-DECK:
+DECK:  
 1 Zimone, All-Questioning  
 1 Scute Swarm  
 1 Avenger of Zendikar  
