@@ -18,7 +18,7 @@
 ### 🌿 The Landfall Feedback Loop (The "Fuel" Makers)
 *   **Lotus Cobra:** Converts every land drop into 1 mana of any color. This mana can be spent on Zimone's ability to put *another* land into play.
 *   **Tireless Provisioner:** Similar to Lotus Cobra, but creates Treasures. These can be saved up for one massive explosive turn.
-*   **Tatyova, Benthic Druid:** **KEY PIECE.** Every land gives you 1 life and 1 card. This ensures you never run out of lands to play.
+*   **Tatyova, Benthic Druid:** **KEY PIECE.** Every land gives you 1 life and 1 card. This ensures you never out of lands to play.
 *   **Aesi, Tyrant of Gyre Strait:** A "Super-Tatyova." Grants an extra land drop per turn and draws a card on every landfall.
 *   **Kodama of the East Tree:** The ultimate engine piece. Whenever a land (or any permanent) enters, you can put another permanent of equal or lesser cost from your hand onto the field for free.
 *   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse / Exploration / Dryad of the Ilysian Grove:** These provide multiple extra land plays per turn, which is the "fuel" for the entire deck.
@@ -64,7 +64,7 @@
 *   **The "Safety Net" Utility:** Oboro, Palace in the Clouds and Ghost Town. (Self-recycling lands for infinite triggers).
 *   **Duals:** Breeding Pool, Dreamroot Cascade, Rejuvenating Springs, Hinterland Harbor, Yavimaya Coast, Command Tower, Exotic Orchard.
 *   **Utility:** Reliquary Tower (No max hand size) and Boseiju, Who Endures (Land-based removal).
-*   **Basics:** 15 Forest, 10 Island.
+*   **Basics:** 14 Forest, 10 Island.
 
 ---
 
@@ -147,13 +147,14 @@ DECK:
 1 Reliquary Tower  
 1 Command Tower  
 1 Exotic Orchard  
-15 Forest  
+14 Forest  
 10 Island  
 
 ---
 
 ## 📜 Deck Changelog
 ### 2026-02-21
+*   **Audit Update:** Fixed card count to exactly 100 by adjusting Forest count to 14.
 *   **Correction:** Fixed spelling of *Aetherspouts* for better import compatibility.
 *   **Comprehensive Audit:** Finalized 100-card list and updated all intent summaries.
 *   **Graveyard Engine Overhaul:** Added **Six** and **Conduit of Worlds**.
