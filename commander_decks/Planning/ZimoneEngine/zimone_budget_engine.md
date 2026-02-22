@@ -150,7 +150,7 @@ DECK:
 1 Command Tower  
 1 Exotic Orchard  
 1 Blighted Woodland  
-15 Forest  
+14 Forest  
 11 Island  
 
 ---
