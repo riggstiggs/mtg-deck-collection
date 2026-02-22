@@ -3,7 +3,7 @@
 ## 🌀 Commander Strategy
 **Zimone, Quandrix Prodigy**
 *   **Archetype:** Simic Landfall / Value Engine
-*   **Bracket:** 3 (Upgraded) - *Note: Inclusion of Cyclonic Rift moves this to Bracket 3.*
+*   **Bracket:** 2 (Core) - *Note: Removed Cyclonic Rift.*
 *   **Core Goal:** Build a "Feedback Loop" where every resource converts into another. Use extra land-drop effects and Zimone's activation to trigger Landfall, creating tokens and drawing cards to find more lands, effectively using mana as the "starter motor" fuel for a self-sustaining machine.
 *   **How it Wins:** Instead of one big creature, this deck wins through sheer volume. It creates an overwhelming board of tokens (Scute Swarms, Baloths, Plants) that grows every time a land enters the battlefield.
 
@@ -21,10 +21,12 @@
 *   **Tatyova, Benthic Druid:** **KEY PIECE.** Every land gives you 1 life and 1 card. This ensures you never run out of lands to play.
 *   **Aesi, Tyrant of Gyre Strait:** A "Super-Tatyova." Grants an extra land drop per turn and draws a card on every landfall.
 *   **Kodama of the East Tree:** The ultimate engine piece. Whenever a land (or any permanent) enters, you can put another permanent of equal or lesser cost from your hand onto the field for free.
-*   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse / Exploration / Dryad of the Ilysian Grove:** These provide multiple extra land plays per turn, which is the "fuel" for the entire deck.
+*   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse / Dryad of the Ilysian Grove:** These provide multiple extra land plays per turn, which is the "fuel" for the entire deck.
+*   **Growth Spiral:** **BUDGET UPGRADE.** Replaced Exploration. Provides a card draw and a land drop at instant speed.
 *   **Retreat to Coralhelm:** If a land enters, you can untap a creature. This lets you use Zimone’s ability multiple times in a single turn.
+*   **Trade Routes:** **BUDGET UPGRADE.** Replaced Oboro. Allows you to pay {1} to return any land to your hand, ensuring you always have land triggers or can discard lands to draw cards.
 *   **Spelunking:** **SPEED BOOST.** Makes all lands (including fetches) enter untapped, so the engine never has to wait for mana.
-*   **Reshape the Earth:** **GAME ENDER.** Searches for 10 lands and puts them into play. This triggers landfall 10 times at once, usually resulting in a game-winning board state.
+*   **Boundless Realms:** **BUDGET UPGRADE.** Replaced Reshape the Earth. Doubles your current land count for massive landfall triggers at a lower mana cost.
 
 ### ⚰️ The Graveyard Engines (Resilience)
 *   **Ramunap Excavator / Ancient Greenwarden / Conduit of Worlds:** These allow you to play lands directly from your graveyard. This is vital for re-using Fetch lands (Misty Rainforest, etc.) every single turn to get double landfall triggers.
@@ -36,16 +38,17 @@
 *   **Avenger of Zendikar:** Creates a plant for every land you own. Subsequent land drops put +1/+1 counters on all of them.
 *   **Rampaging Baloths / Zendikar's Roil:** Provide consistent 4/4 and 2/2 token generation on every land drop.
 *   **Adrix and Nev, Twincasters:** Doubles every token you create. Works perfectly with all your landfall payoffs.
-*   **Greensleeves, Maro-Sorcerer:** Creates 2/2 Badgers and grows in power based on your land count.
 *   **Doubling Season / Parallel Lives:** These "Force Multipliers" double every token created, making the "Feedback Loop" move twice as fast.
 
 ### 📚 Support & Sustainability
 *   **Court of Bounty:** Introduces "The Monarch" (extra card draw). At the start of your turn, it lets you put a land or a creature into play for free.
-*   **Guardian Project / Beast Whisperer:** Ensure that every creature or token you create keeps your hand full.
+*   **Lifecrafter's Bestiary:** **BUDGET UPGRADE.** Replaced Guardian Project. Allows you to pay {G} to draw cards when you cast creatures and lets you Scry every turn.
+*   **Beast Whisperer:** Ensure that every creature or token you create keeps your hand full.
 *   **Garruk's Uprising:** Gives your large tokens Trample (so they can't be chump-blocked) and draws cards when big creatures enter.
 *   **Evolution Sage:** Proliferates on landfall. This adds counters to your Avenger plants and your Primordial token.
 *   **Blue Sun's Zenith:** A massive card-draw spell. Since this deck makes 15+ mana easily, you can use this to draw 10+ cards in an instant.
 *   **Brainstorm / Sakura-Tribe Elder:** Early game consistency and ramp.
+*   **Fact or Fiction:** **RESTORED.** Jamie's requested draw spell. Provides excellent card selection and fills the graveyard for your recursion engines.
 *   **Greater Good / Rishkar's Expertise:** High-impact draw based on your massive tokens or largest creature.
 
 ### 💎 Artifact Ramp (The Fuel)
@@ -53,18 +56,17 @@
 *   **Thought Vessel:** Provides mana and removes the maximum hand size limit—vital for when the draw engine starts snowballing.
 
 ### ⚔️ Disruption (Keeping the Engine Safe)
-*   **Cyclonic Rift:** **GAME CHANGER.** A one-sided board wipe that returns everything your opponents own to their hands.
 *   **Aetherize / Aetherspouts / Whelming Wave:** These are defensive resets to protect your board from combat threats.
 *   **Ezuri's Predation:** A mass removal spell that clears the board and creates a massive beast army for you.
 *   **Beast Within / Reality Shift / Pongify / Rapid Hybridization / Nature's Claim / Resculpt:** A versatile suite of targeted removal for creatures, artifacts, and enchantments.
 *   **Kenrith's Transformation / Imprisoned in the Moon:** Neutralizes problematic Commanders or lands without destroying them.
 
 ### 🗺️ The Mana Base (38 Lands)
-*   **The "Fast" Fetches:** Misty Rainforest, Prismatic Vista, Fabled Passage. (Double landfall triggers).
-*   **The "Safety Net" Utility:** Oboro, Palace in the Clouds and Ghost Town. (Self-recycling lands for infinite triggers).
-*   **Duals:** Breeding Pool, Dreamroot Cascade, Rejuvenating Springs, Hinterland Harbor, Yavimaya Coast, Command Tower, Exotic Orchard.
-*   **Utility:** Reliquary Tower (No max hand size) and Boseiju, Who Endures (Land-based removal).
-*   **Basics:** 15 Forest, 10 Island.
+*   **The "Double Trigger" Fetches:** Fabled Passage, Evolving Wilds, Terramorphic Expanse, Myriad Landscape. (These provide landfall triggers while being budget-friendly).
+*   **The "Safety Net" Utility:** Ghost Town and Trade Routes (Enchantment).
+*   **Duals:** Simic Guildgate, Dreamroot Cascade, Vineglimmer Snarl, Hinterland Harbor, Yavimaya Coast, Command Tower, Exotic Orchard, Blighted Woodland.
+*   **Utility:** Reliquary Tower (No max hand size).
+*   **Basics:** 15 Forest, 12 Island.
 
 ---
 
@@ -88,7 +90,7 @@ DECK:
 1 Azusa, Lost but Seeking  
 1 Oracle of Mul Daya  
 1 Dryad of the Ilysian Grove  
-1 Exploration  
+1 Growth Spiral  
 1 Case of the Locked Hothouse  
 1 Ramunap Excavator  
 1 Six  
@@ -96,11 +98,10 @@ DECK:
 1 Tireless Provisioner  
 1 Evolution Sage  
 1 Retreat to Coralhelm  
-1 Greensleeves, Maro-Sorcerer  
 1 Ancient Greenwarden  
 1 Spelunking  
-1 Reshape the Earth  
-1 Guardian Project  
+1 Boundless Realms  
+1 Lifecrafter's Bestiary  
 1 Beast Whisperer  
 1 Garruk's Uprising  
 1 Blue Sun's Zenith  
@@ -127,37 +128,42 @@ DECK:
 1 Resculpt  
 1 Kenrith's Transformation  
 1 Imprisoned in the Moon  
-1 Boseiju, Who Endures  
-1 Cyclonic Rift  
+1 Fact or Fiction  
+1 Trade Routes  
 1 Aetherize  
 1 Aetherspouts  
 1 Whelming Wave  
 1 Ezuri's Predation  
 1 Curse of the Swine  
-1 Misty Rainforest  
-1 Prismatic Vista  
+1 Myriad Landscape  
+1 Evolving Wilds  
+1 Terramorphic Expanse  
 1 Fabled Passage  
-1 Oboro, Palace in the Clouds  
 1 Ghost Town  
-1 Breeding Pool  
+1 Simic Guildgate  
 1 Dreamroot Cascade  
-1 Rejuvenating Springs  
+1 Vineglimmer Snarl  
 1 Hinterland Harbor  
 1 Yavimaya Coast  
 1 Reliquary Tower  
 1 Command Tower  
 1 Exotic Orchard  
+1 Blighted Woodland  
 15 Forest  
-10 Island  
+12 Island  
 
 ---
 
 ## 📜 Deck Changelog
-### 2026-02-21
-*   **Correction:** Fixed spelling of *Aetherspouts* for better import compatibility.
-*   **Comprehensive Audit:** Finalized 100-card list and updated all intent summaries.
-*   **Graveyard Engine Overhaul:** Added **Six** and **Conduit of Worlds**.
-*   **Added Artifact Ramp:** Included *Sol Ring*, *Arcane Signet*, *Simic Signet*, and *Thought Vessel*.
-*   **Added Top-End Power:** Included *Exploration*, *Cyclonic Rift*, *Imprisoned in the Moon*, *Reshape the Earth*, and *Adrix and Nev*.
-*   **Engine Refinement:** Added *Zendikar's Roil*, *Case of the Locked Hothouse*, and *Spelunking*.
-*   **Land Base:** Overhauled for speed with fetches (*Misty Rainforest*).
+### 2026-02-21 (BUDGET BRANCH)
+*   **Boseiju Swap:** Removed *Boseiju, Who Endures* ($45) for *Terramorphic Expanse* ($0.10).
+*   **Fetch Swap:** Removed *Prismatic Vista* ($38) for *Evolving Wilds* ($0.10).
+*   **Enchantment Swap:** Removed *Exploration* ($32) for *Growth Spiral* ($0.25).
+*   **Interaction Swap:** Removed *Cyclonic Rift* ($30) for *Fact or Fiction* ($0.35).
+*   **Misty Swap:** Removed *Misty Rainforest* ($29) for *Myriad Landscape* ($0.25).
+*   **Utility Land Swap:** Removed *Oboro, Palace in the Clouds* ($17) for *Trade Routes* ($2.00).
+*   **Token Maker Swap:** Removed *Greensleeves, Maro-Sorcerer* ($14) for *Blighted Woodland* ($0.25).
+*   **Breeding Pool Swap:** Removed *Breeding Pool* ($13) for *Simic Guildgate* ($0.15).
+*   **Guardian Swap:** Removed *Guardian Project* ($12) for *Lifecrafter's Bestiary* ($0.50).
+*   **Dual Land Swap:** Removed *Rejuvenating Springs* ($10) for *Vineglimmer Snarl* ($0.25).
+*   **Reshape Swap:** Removed *Reshape the Earth* ($10) for *Boundless Realms* ($4.00).
