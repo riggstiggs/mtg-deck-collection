@@ -1,11 +1,11 @@
-# Deck Guide: Zimone, Quandrix Prodigy (The Feedback Loop Engine)
+# Deck Guide: Zimone, Quandrix Prodigy (Budget Engine)
 
 ## 🌀 Commander Strategy
 **Zimone, Quandrix Prodigy**
 *   **Archetype:** Simic Landfall / Value Engine
-*   **Bracket:** 2 (Core) - *Note: Removed Cyclonic Rift.*
+*   **Bracket:** 2 (Core) - *Note: High power but lacks "Game Changers".*
 *   **Core Goal:** Build a "Feedback Loop" where every resource converts into another. Use extra land-drop effects and Zimone's activation to trigger Landfall, creating tokens and drawing cards to find more lands, effectively using mana as the "starter motor" fuel for a self-sustaining machine.
-*   **How it Wins:** Instead of one big creature, this deck wins through sheer volume. It creates an overwhelming board of tokens (Scute Swarms, Baloths, Plants) that grows every time a land enters the battlefield.
+*   **The Budget Vision:** This version retains the massive "Token Doubler" power spikes (*Doubling Season*, *Parallel Lives*) but saves over $240 by swapping luxury fetch-lands and generic staples for high-synergy budget alternatives.
 
 ---
 
@@ -29,15 +29,15 @@
 *   **Boundless Realms:** **BUDGET UPGRADE.** Replaced Reshape the Earth. Doubles your current land count for massive landfall triggers at a lower mana cost.
 
 ### ⚰️ The Graveyard Engines (Resilience)
-*   **Ramunap Excavator / Ancient Greenwarden / Conduit of Worlds:** These allow you to play lands directly from your graveyard. This is vital for re-using Fetch lands (Misty Rainforest, etc.) every single turn to get double landfall triggers.
+*   **Ramunap Excavator / Ancient Greenwarden / Conduit of Worlds:** These allow you to play lands directly from your graveyard. This is vital for re-using Fetch lands every single turn to get double landfall triggers.
 *   **Six:** One of the strongest engine pieces. It lets you play lands from your graveyard AND gives all permanents in your graveyard "Retrace," meaning you can discard a land to cast them again.
-*   **Conduit of Worlds (Bonus):** Also lets you cast one non-land spell from your graveyard each turn if you haven't cast other spells.
 
 ### 🛡️ The Token Board (The Win Conditions)
 *   **Scute Swarm:** Exponential growth. Once you have 6 lands, one land drop can turn 10 insects into 20, then 40, then 80.
 *   **Avenger of Zendikar:** Creates a plant for every land you own. Subsequent land drops put +1/+1 counters on all of them.
 *   **Rampaging Baloths / Zendikar's Roil:** Provide consistent 4/4 and 2/2 token generation on every land drop.
 *   **Adrix and Nev, Twincasters:** Doubles every token you create. Works perfectly with all your landfall payoffs.
+*   **Greensleeves, Maro-Sorcerer:** Creates 2/2 Badgers and grows in power based on your land count.
 *   **Doubling Season / Parallel Lives:** These "Force Multipliers" double every token created, making the "Feedback Loop" move twice as fast.
 
 ### 📚 Support & Sustainability
@@ -47,7 +47,6 @@
 *   **Garruk's Uprising:** Gives your large tokens Trample (so they can't be chump-blocked) and draws cards when big creatures enter.
 *   **Evolution Sage:** Proliferates on landfall. This adds counters to your Avenger plants and your Primordial token.
 *   **Blue Sun's Zenith:** A massive card-draw spell. Since this deck makes 15+ mana easily, you can use this to draw 10+ cards in an instant.
-*   **Brainstorm / Sakura-Tribe Elder:** Early game consistency and ramp.
 *   **Fact or Fiction:** **RESTORED.** Jamie's requested draw spell. Provides excellent card selection and fills the graveyard for your recursion engines.
 *   **Greater Good / Rishkar's Expertise:** High-impact draw based on your massive tokens or largest creature.
 
@@ -61,12 +60,12 @@
 *   **Beast Within / Reality Shift / Pongify / Rapid Hybridization / Nature's Claim / Resculpt:** A versatile suite of targeted removal for creatures, artifacts, and enchantments.
 *   **Kenrith's Transformation / Imprisoned in the Moon:** Neutralizes problematic Commanders or lands without destroying them.
 
-### 🗺️ The Mana Base (38 Lands)
+### 🗺️ The Mana Base (39 Lands)
 *   **The "Double Trigger" Fetches:** Fabled Passage, Evolving Wilds, Terramorphic Expanse, Myriad Landscape. (These provide landfall triggers while being budget-friendly).
 *   **The "Safety Net" Utility:** Ghost Town and Trade Routes (Enchantment).
 *   **Duals:** Simic Guildgate, Dreamroot Cascade, Vineglimmer Snarl, Hinterland Harbor, Yavimaya Coast, Command Tower, Exotic Orchard, Blighted Woodland.
 *   **Utility:** Reliquary Tower (No max hand size).
-*   **Basics:** 15 Forest, 12 Island.
+*   **Basics:** 14 Forest, 11 Island.
 
 ---
 
@@ -149,8 +148,8 @@ DECK:
 1 Command Tower  
 1 Exotic Orchard  
 1 Blighted Woodland  
-15 Forest  
-12 Island  
+14 Forest  
+11 Island  
 
 ---
 
@@ -167,3 +166,4 @@ DECK:
 *   **Guardian Swap:** Removed *Guardian Project* ($12) for *Lifecrafter's Bestiary* ($0.50).
 *   **Dual Land Swap:** Removed *Rejuvenating Springs* ($10) for *Vineglimmer Snarl* ($0.25).
 *   **Reshape Swap:** Removed *Reshape the Earth* ($10) for *Boundless Realms* ($4.00).
+*   **Audit Update:** Adjusted land counts to exactly 39 to reach 100-card legal limit.
