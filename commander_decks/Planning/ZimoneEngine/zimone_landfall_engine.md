@@ -22,10 +22,14 @@
 *   **Aesi, Tyrant of Gyre Strait:** A "Super-Tatyova." Grants an extra land drop per turn and draws a card on every landfall.
 *   **Kodama of the East Tree:** The ultimate engine piece. Whenever a land (or any permanent) enters, you can put another permanent of equal or lesser cost from your hand onto the field for free.
 *   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse / Exploration:** These allow you to play multiple lands per turn, turning one "Good" turn into a "Winning" turn.
-*   **Ramunap Excavator / Ancient Greenwarden:** These allow you to play lands from your graveyard. Crucial for re-using Fetch lands every turn to get double triggers.
 *   **Retreat to Coralhelm:** If a land enters, you can untap a creature. This lets you use Zimone’s ability multiple times in a single turn.
 *   **Spelunking:** **SPEED BOOST.** Makes all lands (including fetches) enter untapped, so the engine never has to wait for mana.
 *   **Reshape the Earth:** **GAME ENDER.** Searches for 10 lands and puts them into play. This triggers landfall 10 times at once, usually resulting in a game-winning board state.
+
+### ⚰️ The Graveyard Engines (Resilience)
+*   **Ramunap Excavator / Ancient Greenwarden / Conduit of Worlds:** These allow you to play lands directly from your graveyard. This is vital for re-using Fetch lands (Misty Rainforest, etc.) every single turn to get double landfall triggers.
+*   **Six:** One of the strongest engine pieces. It lets you play lands from your graveyard AND gives all permanents in your graveyard "Retrace," meaning you can discard a land to cast them again.
+*   **Conduit of Worlds (Bonus):** Also lets you cast one non-land spell from your graveyard each turn if you haven't cast other spells.
 
 ### 🛡️ The Token Board (The Win Conditions)
 *   **Scute Swarm:** Exponential growth. Once you have 6 lands, one land drop can turn 10 insects into 20, then 40, then 80.
@@ -84,6 +88,8 @@ DECK:
 1 Exploration  
 1 Case of the Locked Hothouse  
 1 Ramunap Excavator  
+1 Six  
+1 Conduit of Worlds  
 1 Tireless Provisioner  
 1 Evolution Sage  
 1 Retreat to Coralhelm  
@@ -95,9 +101,7 @@ DECK:
 1 Beast Whisperer  
 1 Garruk's Uprising  
 1 Blue Sun's Zenith  
-1 Fact or Fiction  
 1 Brainstorm  
-1 Tireless Tracker  
 1 Greater Good  
 1 Rishkar's Expertise  
 1 Court of Bounty  
@@ -147,7 +151,7 @@ DECK:
 
 ## 📜 Deck Changelog
 ### 2026-02-21
+*   **Graveyard Engine Overhaul:** Swapped *Tireless Tracker* and *Fact or Fiction* for **Six** and **Conduit of Worlds**. This provides Jamie with a much more resilient "Discard-Proof" engine and repeatable permanent recursion.
 *   **Finalized 100-Card List:** Added final 10 cards: *Exploration*, *Cyclonic Rift*, *Imprisoned in the Moon*, *Reshape the Earth*, *Adrix and Nev, Twincasters*, *Sol Ring*, *Arcane Signet*, *Simic Signet*, *Thought Vessel*, and *Ramunap Excavator*.
 *   **Bracket Update:** Deck confirmed at **Bracket 3 (Upgraded)**.
 *   **Engine Optimization:** Added *Zendikar's Roil*, *Case of the Locked Hothouse*, and *Spelunking*.
-*   **Recursion:** Added *Ramunap Excavator* to provide redundancy for playing lands from the graveyard.
