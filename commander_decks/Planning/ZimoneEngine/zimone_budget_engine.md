@@ -5,7 +5,7 @@
 *   **Archetype:** Simic Landfall / Value Engine
 *   **Bracket:** 2 (Core) - *Note: High power but lacks "Game Changers".*
 *   **Core Goal:** Build a "Feedback Loop" where every resource converts into another. Use extra land-drop effects and Zimone's activation to trigger Landfall, creating tokens and drawing cards to find more lands, effectively using mana as the "starter motor" fuel for a self-sustaining machine.
-*   **The Budget Vision:** This version retains the massive "Token Doubler" power spikes (*Doubling Season*, *Parallel Lives*) but saves over $240 by swapping luxury fetch-lands and generic staples for high-synergy budget alternatives.
+*   **The Budget Vision:** This version retains the massive "Token Doubler" power spikes (*Doubling Season*, *Adrix and Nev*) but saves over $250 by swapping luxury fetch-lands and generic staples for high-synergy budget alternatives.
 
 ---
 
@@ -36,9 +36,10 @@
 *   **Scute Swarm:** Exponential growth. Once you have 6 lands, one land drop can turn 10 insects into 20, then 40, then 80.
 *   **Avenger of Zendikar:** Creates a plant for every land you own. Subsequent land drops put +1/+1 counters on all of them.
 *   **Rampaging Baloths / Zendikar's Roil:** Provide consistent 4/4 and 2/2 token generation on every land drop.
+*   **Second Harvest:** **BUDGET UPGRADE.** Replaced Parallel Lives. An instant-speed "surprise" that doubles every token you currently control.
 *   **Adrix and Nev, Twincasters:** Doubles every token you create. Works perfectly with all your landfall payoffs.
 *   **Greensleeves, Maro-Sorcerer:** Creates 2/2 Badgers and grows in power based on your land count.
-*   **Doubling Season / Parallel Lives:** These "Force Multipliers" double every token created, making the "Feedback Loop" move twice as fast.
+*   **Doubling Season:** A permanent "Force Multiplier" that doubles every token and counter created.
 
 ### 📚 Support & Sustainability
 *   **Court of Bounty:** Introduces "The Monarch" (extra card draw). At the start of your turn, it lets you put a land or a creature into play for free.
@@ -47,6 +48,7 @@
 *   **Garruk's Uprising:** Gives your large tokens Trample (so they can't be chump-blocked) and draws cards when big creatures enter.
 *   **Evolution Sage:** Proliferates on landfall. This adds counters to your Avenger plants and your Primordial token.
 *   **Blue Sun's Zenith:** A massive card-draw spell. Since this deck makes 15+ mana easily, you can use this to draw 10+ cards in an instant.
+*   **Brainstorm / Sakura-Tribe Elder:** Early game consistency and ramp.
 *   **Fact or Fiction:** **RESTORED.** Jamie's requested draw spell. Provides excellent card selection and fills the graveyard for your recursion engines.
 *   **Greater Good / Rishkar's Expertise:** High-impact draw based on your massive tokens or largest creature.
 
@@ -65,7 +67,7 @@
 *   **The "Safety Net" Utility:** Ghost Town and Trade Routes (Enchantment).
 *   **Duals:** Simic Guildgate, Dreamroot Cascade, Vineglimmer Snarl, Hinterland Harbor, Yavimaya Coast, Command Tower, Exotic Orchard, Blighted Woodland.
 *   **Utility:** Reliquary Tower (No max hand size).
-*   **Basics:** 14 Forest, 11 Island.
+*   **Basics:** 15 Forest, 11 Island.
 
 ---
 
@@ -81,7 +83,7 @@ DECK:
 1 Zendikar's Roil  
 1 Adrix and Nev, Twincasters  
 1 Doubling Season  
-1 Parallel Lives  
+1 Second Harvest  
 1 Kodama of the East Tree  
 1 Lotus Cobra  
 1 Tatyova, Benthic Druid  
@@ -148,7 +150,7 @@ DECK:
 1 Command Tower  
 1 Exotic Orchard  
 1 Blighted Woodland  
-14 Forest  
+15 Forest  
 11 Island  
 
 ---
@@ -160,10 +162,10 @@ DECK:
 *   **Enchantment Swap:** Removed *Exploration* ($32) for *Growth Spiral* ($0.25).
 *   **Interaction Swap:** Removed *Cyclonic Rift* ($30) for *Fact or Fiction* ($0.35).
 *   **Misty Swap:** Removed *Misty Rainforest* ($29) for *Myriad Landscape* ($0.25).
+*   **Parallel Swap:** Removed *Parallel Lives* ($18) for *Second Harvest* ($4.00).
 *   **Utility Land Swap:** Removed *Oboro, Palace in the Clouds* ($17) for *Trade Routes* ($2.00).
 *   **Token Maker Swap:** Removed *Greensleeves, Maro-Sorcerer* ($14) for *Blighted Woodland* ($0.25).
 *   **Breeding Pool Swap:** Removed *Breeding Pool* ($13) for *Simic Guildgate* ($0.15).
 *   **Guardian Swap:** Removed *Guardian Project* ($12) for *Lifecrafter's Bestiary* ($0.50).
 *   **Dual Land Swap:** Removed *Rejuvenating Springs* ($10) for *Vineglimmer Snarl* ($0.25).
 *   **Reshape Swap:** Removed *Reshape the Earth* ($10) for *Boundless Realms* ($4.00).
-*   **Audit Update:** Adjusted land counts to exactly 39 to reach 100-card legal limit.
