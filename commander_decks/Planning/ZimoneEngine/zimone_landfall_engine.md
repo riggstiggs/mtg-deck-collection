@@ -21,7 +21,7 @@
 *   **Tatyova, Benthic Druid:** **KEY PIECE.** Every land gives you 1 life and 1 card. This ensures you never run out of lands to play.
 *   **Aesi, Tyrant of Gyre Strait:** A "Super-Tatyova." Grants an extra land drop per turn and draws a card on every landfall.
 *   **Kodama of the East Tree:** The ultimate engine piece. Whenever a land (or any permanent) enters, you can put another permanent of equal or lesser cost from your hand onto the field for free.
-*   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse / Exploration:** These allow you to play multiple lands per turn, turning one "Good" turn into a "Winning" turn.
+*   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse / Exploration / Dryad of the Ilysian Grove:** These provide multiple extra land plays per turn, which is the "fuel" for the entire deck.
 *   **Retreat to Coralhelm:** If a land enters, you can untap a creature. This lets you use Zimone’s ability multiple times in a single turn.
 *   **Spelunking:** **SPEED BOOST.** Makes all lands (including fetches) enter untapped, so the engine never has to wait for mana.
 *   **Reshape the Earth:** **GAME ENDER.** Searches for 10 lands and puts them into play. This triggers landfall 10 times at once, usually resulting in a game-winning board state.
@@ -40,11 +40,13 @@
 *   **Doubling Season / Parallel Lives:** These "Force Multipliers" double every token created, making the "Feedback Loop" move twice as fast.
 
 ### 📚 Support & Sustainability
-*   **Court of Bounty:** Introduces "The Monarch" (extra card draw). More importantly, at the start of your turn, it lets you put a land or a creature into play for free.
+*   **Court of Bounty:** Introduces "The Monarch" (extra card draw). At the start of your turn, it lets you put a land or a creature into play for free.
 *   **Guardian Project / Beast Whisperer:** Ensure that every creature or token you create keeps your hand full.
 *   **Garruk's Uprising:** Gives your large tokens Trample (so they can't be chump-blocked) and draws cards when big creatures enter.
 *   **Evolution Sage:** Proliferates on landfall. This adds counters to your Avenger plants and your Primordial token.
 *   **Blue Sun's Zenith:** A massive card-draw spell. Since this deck makes 15+ mana easily, you can use this to draw 10+ cards in an instant.
+*   **Brainstorm / Sakura-Tribe Elder:** Early game consistency and ramp.
+*   **Greater Good / Rishkar's Expertise:** High-impact draw based on your massive tokens or largest creature.
 
 ### 💎 Artifact Ramp (The Fuel)
 *   **Sol Ring / Arcane Signet / Simic Signet:** Efficient mana acceleration to help cast high-CMC engine pieces earlier.
@@ -52,15 +54,16 @@
 
 ### ⚔️ Disruption (Keeping the Engine Safe)
 *   **Cyclonic Rift:** **GAME CHANGER.** A one-sided board wipe that returns everything your opponents own to their hands.
-*   **Aetherize / Aether Spouts:** These are "Defensive Wipes" to protect you from being attacked.
+*   **Aetherize / Aether Spouts / Whelming Wave:** These are defensive resets to protect your board from combat threats.
 *   **Ezuri's Predation:** A mass removal spell that clears the board and creates a massive beast army for you.
-*   **Beast Within / Reality Shift / Imprisoned in the Moon:** Versatile removal to handle any specific threat.
+*   **Beast Within / Reality Shift / Pongify / Rapid Hybridization / Nature's Claim / Resculpt:** A versatile suite of targeted removal for creatures, artifacts, and enchantments.
+*   **Kenrith's Transformation / Imprisoned in the Moon:** Neutralizes problematic Commanders or lands without destroying them.
 
 ### 🗺️ The Mana Base (38 Lands)
 *   **The "Fast" Fetches:** Misty Rainforest, Prismatic Vista, Fabled Passage. (Double landfall triggers).
 *   **The "Safety Net" Utility:** Oboro, Palace in the Clouds and Ghost Town. (Self-recycling lands for infinite triggers).
-*   **Duals:** Breeding Pool, Dreamroot Cascade, Rejuvenating Springs, Hinterland Harbor, Yavimaya Coast.
-*   **Utility:** Reliquary Tower and Boseiju, Who Endures.
+*   **Duals:** Breeding Pool, Dreamroot Cascade, Rejuvenating Springs, Hinterland Harbor, Yavimaya Coast, Command Tower, Exotic Orchard.
+*   **Utility:** Reliquary Tower (No max hand size) and Boseiju, Who Endures (Land-based removal).
 *   **Basics:** 15 Forest, 10 Island.
 
 ---
@@ -151,7 +154,9 @@ DECK:
 
 ## 📜 Deck Changelog
 ### 2026-02-21
-*   **Graveyard Engine Overhaul:** Swapped *Tireless Tracker* and *Fact or Fiction* for **Six** and **Conduit of Worlds**. This provides Jamie with a much more resilient "Discard-Proof" engine and repeatable permanent recursion.
-*   **Finalized 100-Card List:** Added final 10 cards: *Exploration*, *Cyclonic Rift*, *Imprisoned in the Moon*, *Reshape the Earth*, *Adrix and Nev, Twincasters*, *Sol Ring*, *Arcane Signet*, *Simic Signet*, *Thought Vessel*, and *Ramunap Excavator*.
-*   **Bracket Update:** Deck confirmed at **Bracket 3 (Upgraded)**.
-*   **Engine Optimization:** Added *Zendikar's Roil*, *Case of the Locked Hothouse*, and *Spelunking*.
+*   **Comprehensive Audit:** Finalized 100-card list and updated all intent summaries.
+*   **Graveyard Engine Overhaul:** Added **Six** and **Conduit of Worlds** for high-impact recursion. Removed *Tireless Tracker* and *Fact or Fiction*.
+*   **Added Artifact Ramp:** Included *Sol Ring*, *Arcane Signet*, *Simic Signet*, and *Thought Vessel*.
+*   **Added Top-End Power:** Included *Exploration*, *Cyclonic Rift*, *Imprisoned in the Moon*, *Reshape the Earth*, and *Adrix and Nev*.
+*   **Engine Refinement:** Added *Zendikar's Roil*, *Case of the Locked Hothouse*, and *Spelunking*.
+*   **Land Base:** Overhauled for speed with fetches (*Misty Rainforest*) and utility return-to-hand lands (*Oboro*, *Ghost Town*).
