@@ -47,11 +47,11 @@
 *   **Beast Within / Reality Shift:** Flexible removal to handle any specific threat that might stop your engine.
 
 ### 🗺️ The Mana Base (38 Lands)
-*   **The "Fast" Fetches:** Misty Rainforest, Prismatic Vista, Fabled Passage, Verdant Catacombs, Windswept Heath. (These provide **double landfall triggers** and find your colors immediately).
+*   **The "Fast" Fetches:** Misty Rainforest, Prismatic Vista, Fabled Passage. (These provide **double landfall triggers** and find your colors immediately).
 *   **The "Safety Net" Utility:** Oboro, Palace in the Clouds and Ghost Town. (These can return to Jamie's hand, ensuring she *always* has a land to play even if she draws no land cards).
 *   **Duals:** Breeding Pool, Dreamroot Cascade, Rejuvenating Springs, Hinterland Harbor, Yavimaya Coast.
 *   **Utility:** Reliquary Tower (Essential for her large hand size) and Boseiju, Who Endures.
-*   **Basics:** 13 Forest, 9 Island.
+*   **Basics:** 15 Forest, 10 Island.
 
 ---
 
@@ -112,8 +112,6 @@ DECK:
 1 Ezuri's Predation  
 1 Curse of the Swine  
 1 Misty Rainforest  
-1 Verdant Catacombs  
-1 Windswept Heath  
 1 Prismatic Vista  
 1 Fabled Passage  
 1 Oboro, Palace in the Clouds  
@@ -126,5 +124,5 @@ DECK:
 1 Reliquary Tower  
 1 Command Tower  
 1 Exotic Orchard  
-13 Forest  
-9 Island  
+15 Forest  
+10 Island  
