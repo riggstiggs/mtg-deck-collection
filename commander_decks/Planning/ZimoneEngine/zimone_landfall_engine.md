@@ -13,9 +13,6 @@
 ### 🌀 The "Zimone" Council (The Engine Starters)
 *   **Zimone, Quandrix Prodigy (Commander):** The starter motor. Early game, she ramps you. Late game, she turns extra mana into card draw and landfall triggers.
 *   **Zimone, All-Questioning:** Creates a "Primordial" token that acts as a massive blocker/attacker. Its power depends on your land count, making it a natural fit for this deck.
-*   **Zimone, Paradox Sculptor:** Uses the "Manifest Dread" mechanic to put cards from your library onto the field as 2/2s. It provides "free" creatures to trigger your draw engines.
-*   **Zimone, Mystery Unraveler:** Landfall: Manifest Dread. This ensures that every land drop provides a body to protect you while you build your engine.
-*   **Zimone's Hypothesis:** A thematic "Double Draw" spell that helps you dig for your key landfall payoffs.
 
 ### 🌿 The Landfall Feedback Loop (The "Fuel" Makers)
 *   **Lotus Cobra:** Converts every land drop into 1 mana of any color. This mana can be spent on Zimone's ability to put *another* land into play.
@@ -23,20 +20,21 @@
 *   **Tatyova, Benthic Druid:** **KEY PIECE.** Every land gives you 1 life and 1 card. This ensures you never run out of lands to play.
 *   **Aesi, Tyrant of Gyre Strait:** A "Super-Tatyova." Grants an extra land drop per turn and draws a card on every landfall.
 *   **Kodama of the East Tree:** The ultimate engine piece. Whenever a land (or any permanent) enters, you can put another permanent of equal or lesser cost from your hand onto the field for free.
-*   **Oracle of Mul Daya / Azusa, Lost but Seeking:** These allow you to play multiple lands per turn, turning one "Good" turn into a "Winning" turn.
+*   **Oracle of Mul Daya / Azusa, Lost but Seeking / Case of the Locked Hothouse:** These allow you to play multiple lands per turn, turning one "Good" turn into a "Winning" turn.
 *   **Ancient Greenwarden:** Doubles all Landfall triggers and lets you play lands from your graveyard (protecting you from discard).
 *   **Retreat to Coralhelm:** If a land enters, you can untap a creature. This lets you use Zimone’s ability multiple times in a single turn.
+*   **Spelunking:** **SPEED BOOST.** Makes all lands (including fetches) enter untapped, so the engine never has to wait for mana.
 
 ### 🛡️ The Token Board (The Win Conditions)
 *   **Scute Swarm:** Exponential growth. Once you have 6 lands, one land drop can turn 10 insects into 20, then 40, then 80.
 *   **Avenger of Zendikar:** Creates a plant for every land you own. Subsequent land drops put +1/+1 counters on all of them.
-*   **Rampaging Baloths:** Creates 4/4 Beast tokens. Simple, efficient, and lethal.
+*   **Rampaging Baloths / Zendikar's Roil:** Provide consistent 4/4 and 2/2 token generation on every land drop.
 *   **Greensleeves, Maro-Sorcerer:** Creates 2/2 Badgers and grows in power based on your land count.
 *   **Doubling Season / Parallel Lives:** These "Force Multipliers" double every token created, making the "Feedback Loop" move twice as fast.
 
 ### 📚 Support & Sustainability
 *   **Court of Bounty:** Introduces "The Monarch" (extra card draw). More importantly, at the start of your turn, it lets you put a land or a creature into play for free.
-*   **Guardian Project / Beast Whisperer:** Ensure that every creature or token you create (including Manifests) keeps your hand full.
+*   **Guardian Project / Beast Whisperer:** Ensure that every creature or token you create keeps your hand full.
 *   **Garruk's Uprising:** Gives your large tokens Trample (so they can't be chump-blocked) and draws cards when big creatures enter.
 *   **Evolution Sage:** Proliferates on landfall. This adds counters to your Avenger plants, your Primordial token, and your Planeswalkers.
 *   **Blue Sun's Zenith:** A massive card-draw spell. Since this deck makes 15+ mana easily, you can use this to draw 10+ cards in an instant.
@@ -61,12 +59,10 @@ COMMANDER:
 
 DECK:
 1 Zimone, All-Questioning  
-1 Zimone, Paradox Sculptor  
-1 Zimone, Mystery Unraveler  
-1 Zimone's Hypothesis  
 1 Scute Swarm  
 1 Avenger of Zendikar  
 1 Rampaging Baloths  
+1 Zendikar's Roil  
 1 Doubling Season  
 1 Parallel Lives  
 1 Kodama of the East Tree  
@@ -76,11 +72,13 @@ DECK:
 1 Azusa, Lost but Seeking  
 1 Oracle of Mul Daya  
 1 Dryad of the Ilysian Grove  
+1 Case of the Locked Hothouse  
 1 Tireless Provisioner  
 1 Evolution Sage  
 1 Retreat to Coralhelm  
 1 Greensleeves, Maro-Sorcerer  
 1 Ancient Greenwarden  
+1 Spelunking  
 1 Guardian Project  
 1 Beast Whisperer  
 1 Garruk's Uprising  
