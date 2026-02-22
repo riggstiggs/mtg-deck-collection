@@ -110,6 +110,23 @@
 
 ---
 
+# Conversation Context: Sauron Army Fling (Paper MTG)
+**Date:** February 21, 2026
+**Topic:** Land Base Overhaul & Bracket 2 Optimization
+**Goal:** Upgrade the budget $100 list to a high-consistency version while staying in Bracket 2.
+
+## Major Decisions
+*   **Land Base Overhaul:** Replaced budget tapped lands and bounce lands with a full fetch/shock/bond land suite (Polluted Delta, Bloodstained Mire, Scalding Tarn, Watery Grave, Steam Vents, Blood Crypt, Morphic Pool, Luxury Suite, Training Center).
+*   **Utility Integration:** Added Reliquary Tower, Mount Doom, Otawara, Soaring City, and Takenuma, Abandoned Mire.
+*   **Bracket Compliance:** Confirmed the goal of maintaining **Bracket 2** status (no "Game Changers" like Orcish Bowmasters or The One Ring).
+*   **Strategic Direction:** Focused on improving "Amass" protection (Gleaming Overseer) and "Draw" efficiency (Frantic Search, Windfall) to fuel Sauron's discard-draw engine.
+
+## Current Status
+*   **Lands:** 38 (Optimized & Fast).
+*   **Next Steps:** Reviewing Amass and Draw sections for efficiency and protection upgrades.
+
+---
+
 # Conversation Context: Alela, Cunning Conqueror (Paper MTG)
 **Date:** February 21, 2026
 **Topic:** Finalized Optimized Shell for Christina
