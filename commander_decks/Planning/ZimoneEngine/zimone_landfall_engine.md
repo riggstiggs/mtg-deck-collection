@@ -124,3 +124,13 @@ DECK:
 1 Exotic Orchard  
 15 Forest  
 10 Island  
+
+---
+
+## 📜 Deck Changelog
+### 2026-02-21
+*   **Initial Scaffold:** Created the base "Feedback Loop" engine using Jamie's must-have list.
+*   **Engine Expansion:** Added *Tatyova, Benthic Druid*, *Aesi, Tyrant of Gyre Strait*, and *Court of Bounty* to increase card flow and free permanents.
+*   **Land Base Overhaul:** Removed "slow" bounce lands (Simic Growth Chamber) per user preference. Added "Fast" Fetches (*Misty Rainforest*, *Prismatic Vista*, *Fabled Passage*) and "Safety Net" utility lands (*Oboro*, *Ghost Town*) to ensure the engine never stalls.
+*   **The Synergy Pivot:** Removed Manifest Dread sub-theme (*Zimone, Paradox Sculptor* and *Zimone, Mystery Unraveler*) as they felt off-plan. 
+*   **Final Optimization:** Added *Zendikar's Roil* (Tokens), *Case of the Locked Hothouse* (Top-deck engine), and *Spelunking* (Speed/Untap) to maximize the effectiveness of the landfall feedback loop.
