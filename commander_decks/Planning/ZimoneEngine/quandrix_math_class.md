@@ -1,52 +1,57 @@
-# Deck Guide: Zimone's Math Class (Advanced Calculus)
+# Deck Guide: Zimone's Math Class (Quandrix Theme)
 
 ## 📐 Commander Strategy
 **Zimone, Quandrix Prodigy** (The Prodigy Student)
 *   **Archetype:** Simic Landfall Engine / Math Theme
 *   **Theme:** "Nerdy Math." Every card is chosen for its mathematical name, geometric art, or its ability to create exponential growth.
-*   **Goal:** Build a "Feedback Loop" (Equation) where land drops (Inputs) create tokens and cards (Outputs), eventually resulting in an overwhelming board or an alternate win condition (Solving the Exam).
+*   **Goal:** Build a "Feedback Loop" (Equation) where land drops (Inputs) create tokens and cards (Outputs), eventually resulting in an overwhelming board or an alternate win condition (Solving the Final Exam).
 
 ---
 
 ## 🏫 The Syllabus (Card Explanations)
 
-### ➕ Arithmetic & Addition (Extra Land Plays)
+### ➕ Arithmetic & Addition (The Engine Starters)
 *   **Zimone, Quandrix Prodigy:** The starter motor. Turns mana into lands and cards.
-*   **Azusa, Lost but Seeking:** Adds 2 additional land plays. (1 + 2 = 3).
-*   **Exploration:** Adds 1 additional land play. (1 + 1 = 2).
-*   **Dryad of the Ilysian Grove:** Adds 1 land play and fixes all colors (The Universal Constant).
-*   **Case of the Locked Hothouse:** Provides extra lands and lets you play from the top (Probability).
-*   **Oracle of Mul Daya:** Play with the top card revealed (Information Theory).
+*   **Lotus Cobra:** **The Transformer.** Converts land inputs into mana outputs.
+*   **Ramunap Excavator:** **The Recursive Operator.** Allows for re-running land equations from the graveyard.
+*   **Ancient Greenwarden:** **The Double Integral.** It calculates the area under the curve twice (Double triggers).
+*   **Tatyova, Benthic Druid:** **The Constant.** A predictable output for every land input (Land = Card).
+*   **Aesi, Tyrant of Gyre Strait:** **Functional Growth.** Multiplies land plays and card flow.
+*   **Azusa, Lost but Seeking:** Simple addition (+2 land plays).
+*   **Quandrix Cultivator / Quandrix Apprentice:** Literal math students that provide land-based value.
 
-### ✖️ Multiplication & Exponentials (The Win Cons)
-*   **Scute Swarm:** The definition of exponential growth. (2^X).
-*   **Adrix and Nev, Twincasters:** Multiplies all token outputs by 2.
-*   **Doubling Season / Parallel Lives:** Permanent multipliers for the engine.
-*   **Exponential Growth:** A spell that literally doubles power X times.
-*   **Tanazir Quandrix:** Squares the base power of your army.
-*   **Zendikar's Roil:** Adds a 2/2 Fractal (Elemental) for every land.
+### ✖️ Multiplication & Exponentials (Win Conditions)
+*   **Adrix and Nev, Twincasters:** The Professors. They literally multiply your token output by 2.
+*   **Tanazir Quandrix:** The Dean. He squares your creatures' base power.
+*   **Esix, Fractal Bloom:** Demonstrates "Fractal Geometry" by turning tokens into other creatures.
+*   **Double Major:** Multiplication ($1 \times 2$) by copying a creature spell on the stack.
+*   **Quantum Misalignment:** Creates a copy of a creature (and another later).
+*   **Theoretical Duplication:** Multiplication via copying an opponent's play.
+*   **Scute Swarm:** The definition of exponential growth ($2^X$).
+*   **Zendikar's Roil:** **Recursive Geometry.** Adds a 2/2 Fractal (Elemental) for every land.
 *   **Body of Research:** Solves for X, where X is the number of cards in your library. Creates one massive Fractal.
 
-### 📊 Functions: Inputs & Outputs (Draw Engines)
-*   **Tatyova, Benthic Druid:** The Constant. (Land = Card + Life).
-*   **Aesi, Tyrant of Gyre Strait:** The Variable Function. (Land = Card + Extra Land Play).
-*   **Ancient Greenwarden:** The Double Integral. (1 Land = 2 Triggers).
-*   **Lotus Cobra / Tireless Provisioner:** Converts Land inputs into Mana/Treasure outputs.
-*   **Guardian Project:** Every creature input results in a card output.
-*   **Blue Sun's Zenith / Finale of Revelation:** Solving for X to refill the hand.
-
-### ➗ Logic & Division (Interaction)
-*   **Divide by Zero:** Bounces a spell or permanent (Division).
+### ➗ Division & Subtraction (Problem Solving)
+*   **Divide by Zero:** Bounces a spell or permanent (Literal Division).
 *   **Oversimplify:** Exiles everything and gives a simple Fractal (Simplification).
 *   **Solve the Equation:** Tutors for the missing piece of the puzzle.
 *   **Void Winnower:** Ensures opponents "Can't Even" (Blocks even-costed spells).
 *   **Decisive Denial:** Logic-based interaction (Fight or Negate).
+*   **Splendid Reclamation:** **The Summation.** Sums all lands in the graveyard and puts them on the field.
+*   **Trade Routes:** **The Continuous Loop.** Allows returning lands to hand to ensure the engine never stops.
 
 ### 🎓 The Final Exams (Alternate Win Conditions)
-*   **Triskaidekaphile:** Win if you have exactly **13** cards in hand.
-*   **Simic Ascendancy:** Win if you have **20** growth counters.
-*   **Twenty-Toed Toad:** Win if you have **20** counters or cards.
-*   **Helix Pinnacle:** Win if you solve for **100** mana.
+*   **Triskaidekaphile:** You win the game if you have exactly **13** cards in your hand.
+*   **Simic Ascendancy:** You win the game if you have **20** growth counters.
+*   **Strixhaven Stadium:** You win the game if you score **10** points.
+*   **Helix Pinnacle:** You win the game if you solve for **100** mana.
+*   **Twenty-Toed Toad:** You win if you have **20** counters or cards.
+
+### 🔢 Variable Mana & Draw (Solving for X)
+*   **Blue Sun's Zenith:** Solving for X to refill the hand or mill a problem player.
+*   **Eureka Moment:** The "Aha!" moment of solving a problem. Draw 2, play a land.
+*   **Square Up:** Sets a creature's base power/toughness to 4/4 ($4 \times 4$).
+*   **Growth Spiral:** The Golden Spiral. Draws and provides a landfall trigger.
 
 ---
 
@@ -65,7 +70,6 @@ DECK:
 1 Zimone, Paradox Sculptor  
 1 Zimone, Mystery Unraveler  
 1 Body of Research  
-1 Exponential Growth  
 1 Divide by Zero  
 1 Solve the Equation  
 1 Serpentine Curve  
@@ -74,10 +78,10 @@ DECK:
 1 Double Major  
 1 Theoretical Duplication  
 1 Quantum Misalignment  
-1 Fractal Summoning  
 1 Sequence Engine  
 1 Paradox Zone  
 1 Simic Ascendancy  
+1 Strixhaven Stadium  
 1 Helix Pinnacle  
 1 Twenty-Toed Toad  
 1 Void Winnower  
@@ -88,45 +92,18 @@ DECK:
 1 Quandrix Command  
 1 Quandrix Apprentice  
 1 Quandrix Cultivator  
-1 Quandrix Pledgemage  
-1 Koma, Cosmos Serpent  
 1 Scute Swarm  
 1 Avenger of Zendikar  
-1 Master of Symmetries  
 1 Tatyova, Benthic Druid  
 1 Aesi, Tyrant of Gyre Strait  
 1 Azusa, Lost but Seeking  
-1 Oracle of Mul Daya  
-1 Dryad of the Ilysian Grove  
-1 Exploration  
-1 Ancient Greenwarden  
 1 Lotus Cobra  
-1 Tireless Provisioner  
 1 Ramunap Excavator  
-1 Six  
-1 Conduit of Worlds  
+1 Ancient Greenwarden  
 1 Splendid Reclamation  
-1 Case of the Locked Hothouse  
-1 Zendikar's Roil  
-1 Doubling Season  
-1 Parallel Lives  
-1 Spelunking  
-1 Guardian Project  
-1 Beast Whisperer  
-1 Garruk's Uprising  
+1 Trade Routes  
 1 Blue Sun's Zenith  
-1 Finale of Revelation  
-1 Greater Good  
-1 Court of Bounty  
-1 Sakura-Tribe Elder  
-1 Cultivate  
-1 Kodama's Reach  
-1 Three Visits  
-1 Nature's Lore  
-1 Sol Ring  
-1 Arcane Signet  
-1 Simic Signet  
-1 Thought Vessel  
+1 Curiosity Crafter  
 1 Pongify  
 1 Rapid Hybridization  
 1 Nature's Claim  
@@ -134,19 +111,45 @@ DECK:
 1 Reality Shift  
 1 Resculpt  
 1 Imprisoned in the Moon  
-1 Misty Rainforest  
-1 Prismatic Vista  
-1 Fabled Passage  
-1 Oboro, Palace in the Clouds  
-1 Ghost Town  
-1 Breeding Pool  
-1 Dreamroot Cascade  
-1 Rejuvenating Springs  
-1 Hinterland Harbor  
-1 Yavimaya Coast  
+1 Arcane Signet  
+1 Sol Ring  
+1 Simic Signet  
+1 Thought Vessel  
+1 Decanter of Endless Water  
+1 Geometric Nexus  
+1 Midnight Clock  
+1 Replicating Ring  
+1 Doubling Season  
+1 Parallel Lives  
+1 Branching Evolution  
+1 Zendikar's Roil  
 1 Command Tower  
 1 Exotic Orchard  
+1 Yavimaya Coast  
+1 Hinterland Harbor  
+1 Vineglimmer Snarl  
+1 Dreamroot Cascade  
+1 Rejuvenating Springs  
+1 Breeding Pool  
+1 Rimewood Falls  
+1 Simic Guildgate  
+1 Temple of Mystery  
+1 Tangled Islet  
+1 Flooded Grove  
+1 Barkchannel Pathway  
 1 Reliquary Tower  
-1 Boseiju, Who Endures  
-14 Forest  
-10 Island  
+1 Alchemist's Refuge  
+1 Rogue's Passage  
+1 Fabled Passage  
+1 Misty Rainforest  
+11 Forest  
+8 Island  
+
+---
+
+## 📜 Deck Changelog
+### 2026-02-21
+*   **Theme Integration:** Merged "Nerdy Math" theme with "Landfall Engine" mechanics. 
+*   **Engine Update:** Added *Lotus Cobra* (Transformer), *Ramunap Excavator* (Recursive Operator), *Ancient Greenwarden* (Double Integral), *Tatyova* (Constant), and *Blue Sun's Zenith* (Solve for X).
+*   **Thematic Cleanup:** Removed *Koma*, *Vorinclex*, and generic counterspells to reduce control-bloat and maintain nerdy focus.
+*   **Audit Update:** Finalized to exactly 100 cards with a 38-land base.
