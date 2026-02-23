@@ -49,6 +49,7 @@
 
 ### 🔢 Variable Mana & Draw (Solving for X)
 *   **Blue Sun's Zenith:** Solving for X to refill the hand or mill a problem player.
+*   **Geometric Nexus:** Creates fractals and stores numbers. A perfect math-themed engine piece.
 *   **Eureka Moment:** The "Aha!" moment of solving a problem. Draw 2, play a land.
 *   **Square Up:** Sets a creature's base power/toughness to 4/4 ($4 \times 4$).
 *   **Growth Spiral:** The Golden Spiral. Draws and provides a landfall trigger.
@@ -85,7 +86,7 @@ DECK:
 1 Helix Pinnacle  
 1 Twenty-Toed Toad  
 1 Void Winnower  
-1 Hydra's Growth  
+1 Geometric Nexus  
 1 Eureka Moment  
 1 Growth Spiral  
 1 Decisive Denial  
@@ -116,39 +117,39 @@ DECK:
 1 Simic Signet  
 1 Thought Vessel  
 1 Decanter of Endless Water  
-1 Geometric Nexus  
 1 Midnight Clock  
 1 Replicating Ring  
 1 Doubling Season  
 1 Parallel Lives  
 1 Branching Evolution  
 1 Zendikar's Roil  
+1 Myriad Landscape  
+1 Evolving Wilds  
+1 Terramorphic Expanse  
+1 Fabled Passage  
+1 Ghost Town  
+1 Simic Guildgate  
+1 Dreamroot Cascade  
+1 Vineglimmer Snarl  
+1 Hinterland Harbor  
+1 Yavimaya Coast  
 1 Command Tower  
 1 Exotic Orchard  
-1 Yavimaya Coast  
-1 Hinterland Harbor  
-1 Vineglimmer Snarl  
-1 Dreamroot Cascade  
-1 Rejuvenating Springs  
-1 Breeding Pool  
-1 Rimewood Falls  
-1 Simic Guildgate  
-1 Temple of Mystery  
-1 Tangled Islet  
-1 Flooded Grove  
-1 Barkchannel Pathway  
+1 Blighted Woodland  
 1 Reliquary Tower  
 1 Alchemist's Refuge  
 1 Rogue's Passage  
-1 Fabled Passage  
-1 Misty Rainforest  
-11 Forest  
-8 Island  
+15 Forest  
+10 Island  
 
 ---
 
 ## 📜 Deck Changelog
 ### 2026-02-21
+*   **Budget & Theme Update:** Overhauled the land base to use the "Budget Engine" suite (Fabled Passage, Myriad Landscape, etc.) to save $30+.
+*   **Thematic Inclusion:** Added *Geometric Nexus* (Fractal/Math theme).
+*   **Efficiency Swap:** Removed *Hydra's Growth* (Aura/Vulnerable) to make room for Geometric Nexus.
+*   **Color Balance:** Adjusted basics to 15 Forest / 10 Island to match spell density.
 *   **Theme Integration:** Merged "Nerdy Math" theme with "Landfall Engine" mechanics. 
 *   **Engine Update:** Added *Lotus Cobra* (Transformer), *Ramunap Excavator* (Recursive Operator), *Ancient Greenwarden* (Double Integral), *Tatyova* (Constant), and *Blue Sun's Zenith* (Solve for X).
 *   **Thematic Cleanup:** Removed *Koma*, *Vorinclex*, and generic counterspells to reduce control-bloat and maintain nerdy focus.
