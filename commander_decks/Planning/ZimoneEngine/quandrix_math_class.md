@@ -54,6 +54,91 @@
 *   **Square Up:** Sets a creature's base power/toughness to 4/4 ($4 \times 4$).
 *   **Growth Spiral:** The Golden Spiral. Draws and provides a landfall trigger.
 
+## 💰 Price Breakdown (Cheapest Versions - 2/23)
+| Card Name | Price (USD) | Set |
+| :--- | :--- | :--- |
+| Adric, Mathematical Genius | $0.29 | Doctor Who |
+| Adrix and Nev, Twincasters | $8.51 | Murders at Karlov Manor Commander |
+| Aesi, Tyrant of Gyre Strait | $7.80 | Duskmourn: House of Horror Commander |
+| Alchemist's Refuge | $0.58 | The Lost Caverns of Ixalan Commander |
+| Ancient Greenwarden | $12.22 | Outlaws of Thunder Junction Commander |
+| Arcane Signet | $0.46 | Aetherdrift Commander |
+| Avenger of Zendikar | $0.42 | Lorwyn Eclipsed Commander |
+| Azusa, Lost but Seeking | $9.53 | Final Fantasy: Through the Ages |
+| Beast Within | $0.57 | Tarkir: Dragonstorm Commander |
+| Biomathematician | $0.05 | Strixhaven: School of Mages |
+| Blighted Woodland | $0.29 | Commander 2018 |
+| Blue Sun's Zenith | $1.38 | Commander 2013 |
+| Body of Research | $0.75 | Strixhaven: School of Mages |
+| Branching Evolution | $3.72 | Modern Horizons 3 |
+| Command Tower | $0.24 | Outlaws of Thunder Junction Commander |
+| Curiosity Crafter | $0.76 | Bloomburrow Commander |
+| Decanter of Endless Water | $2.09 | Commander Legends: Battle for Baldur's Gate |
+| Decisive Denial | $0.14 | Breaking News |
+| Divide by Zero | $0.09 | The List |
+| Double Major | $1.51 | Strixhaven: School of Mages |
+| Doubling Season | $31.15 | Modern Masters |
+| Dreamroot Cascade | $0.56 | Doctor Who |
+| Esix, Fractal Bloom | $0.29 | Murders at Karlov Manor Commander |
+| Eureka Moment | $0.19 | Modern Horizons 3 Commander |
+| Evolving Wilds | $0.06 | Modern Masters 2015 |
+| Exotic Orchard | $0.19 | Phyrexia: All Will Be One Commander |
+| Fabled Passage | $4.31 | Core Set 2021 |
+| Geometric Nexus | $0.19 | Commander 2021 |
+| Ghost Town | $2.67 | The List |
+| Growth Spiral | $0.21 | Duskmourn: House of Horror Commander |
+| Helix Pinnacle | $3.69 | Special Guests |
+| Hinterland Harbor | $0.28 | Bloomburrow Commander |
+| Imprisoned in the Moon | $0.25 | Foundations |
+| Lotus Cobra | $6.29 | Foundations Jumpstart |
+| Midnight Clock | $0.26 | New Capenna Commander |
+| Myriad Landscape | $0.17 | New Capenna Commander |
+| Nature's Claim | $0.39 | Final Fantasy: Through the Ages |
+| Oversimplify | $0.19 | Duskmourn: House of Horror Commander |
+| Paradox Zone | $0.62 | Commander 2021 |
+| Parallel Lives | $17.68 | Marvel Universe |
+| Pongify | $1.90 | Modern Horizons 3 Commander |
+| Quandrix Apprentice | $0.15 | Strixhaven: School of Mages |
+| Quandrix Command | $0.14 | The Lost Caverns of Ixalan Commander |
+| Quandrix Cultivator | $0.15 | Strixhaven: School of Mages |
+| Quantum Misalignment | $11.27 | Doctor Who |
+| Ramunap Excavator | $3.09 | Modern Horizons 3 Commander |
+| Rapid Hybridization | $0.74 | The Lost Caverns of Ixalan Commander |
+| Reality Shift | $0.21 | Duskmourn: House of Horror Commander |
+| Reliquary Tower | $2.69 | Commander 2016 |
+| Replicating Ring | $0.59 | The List |
+| Resculpt | $0.32 | Strixhaven: School of Mages |
+| Rogue's Passage | $0.31 | Commander 2019 |
+| Scute Swarm | $3.61 | Zendikar Rising Promos |
+| Sequence Engine | $0.14 | Commander 2021 |
+| Serpentine Curve | $0.08 | The List |
+| Simic Ascendancy | $0.30 | The Lost Caverns of Ixalan Commander |
+| Simic Guildgate | $0.06 | Ravnica Allegiance |
+| Simic Signet | $0.20 | Duskmourn: House of Horror Commander |
+| Sol Ring | $1.40 | Commander 2015 |
+| Solve the Equation | $2.27 | Strixhaven: School of Mages |
+| Splendid Reclamation | $0.50 | Edge of Eternities Commander |
+| Square Up | $0.04 | Strixhaven: School of Mages |
+| Strixhaven Stadium | $0.16 | Final Fantasy: Through the Ages |
+| Tanazir Quandrix | $0.92 | Strixhaven: School of Mages |
+| Tatyova, Benthic Druid | $0.14 | Modern Horizons 3 Commander |
+| Terramorphic Expanse | $0.09 | Commander 2013 |
+| Theoretical Duplication | $0.57 | Commander 2021 |
+| Thought Vessel | $1.77 | Commander 2015 |
+| Trade Routes | $2.49 | Eighth Edition |
+| Triskaidekaphile | $0.59 | Innistrad: Midnight Hunt |
+| Twenty-Toed Toad | $2.82 | Bloomburrow Commander |
+| Vineglimmer Snarl | $0.17 | Modern Horizons 3 Commander |
+| Void Winnower | $20.21 | Battle for Zendikar |
+| Yavimaya Coast | $0.27 | The List |
+| Zendikar's Roil | $0.80 | Jumpstart |
+| Zimone, All-Questioning | $0.17 | Duskmourn: House of Horror |
+| Zimone, Mystery Unraveler | $0.45 | Duskmourn: House of Horror Commander |
+| Zimone, Paradox Sculptor | $1.99 | Foundations |
+| Zimone, Quandrix Prodigy | $0.24 | Strixhaven: School of Mages |
+
+**Estimated Total Cost:** $185.05
+
 ---
 
 ## 🃏 Plain Text Copy/Paste (Moxfield Import)
