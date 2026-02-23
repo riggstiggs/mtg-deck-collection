@@ -1,16 +1,28 @@
 import json
 import sys
 import os
+import gzip
 
 def get_cheapest_prices(deck_file, db_file):
     if not os.path.exists(deck_file):
         print(f"Error: Deck file {deck_file} not found.")
         return
-    if not os.path.exists(db_file):
-        print(f"Error: Database file {db_file} not found.")
+    
+    # 1. Detect if we need to use the compressed or uncompressed DB
+    json_db = db_file
+    gz_db = db_file + ".gz"
+    
+    is_gz = False
+    if os.path.exists(json_db):
+        current_db = json_db
+    elif os.path.exists(gz_db):
+        current_db = gz_db
+        is_gz = True
+    else:
+        print(f"Error: Database file not found ({json_db} or {gz_db})")
         return
 
-    # 1. Extract card names from the deck file
+    # 2. Extract card names from the deck file
     with open(deck_file, 'r') as f:
         lines = f.readlines()
 
@@ -34,10 +46,14 @@ def get_cheapest_prices(deck_file, db_file):
                 except ValueError:
                     continue
 
-    # 2. Search Database
+    # 3. Search Database (Handling Compression)
     cheapest_versions = {}
-    with open(db_file, 'r') as f:
-        try:
+    
+    # Open function depends on whether it's gzipped or not
+    open_func = gzip.open if is_gz else open
+    
+    try:
+        with open_func(current_db, 'rt', encoding='utf-8') as f:
             data = json.load(f)
             for card in data:
                 name = card.get('name')
@@ -55,11 +71,11 @@ def get_cheapest_prices(deck_file, db_file):
                             set_name = card.get('set_name')
                             if n not in cheapest_versions or price < cheapest_versions[n]['price']:
                                 cheapest_versions[n] = {'price': price, 'set': set_name}
-        except Exception as e:
-            print(f"Error reading database: {e}")
-            return
+    except Exception as e:
+        print(f"Error reading database: {e}")
+        return
 
-    # 3. Output Markdown Table
+    # 4. Output Markdown Table
     total = 0
     print(f"## 💰 Price Audit for: {os.path.basename(deck_file)}")
     print(f"**Date:** 2/23/2026")
@@ -76,4 +92,5 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python3 scripts/price_audit.py <path_to_deck_file>")
     else:
+        # Default database path
         get_cheapest_prices(sys.argv[1], 'db/mtg_database.json')
