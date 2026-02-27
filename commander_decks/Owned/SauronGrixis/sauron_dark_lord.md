@@ -94,6 +94,8 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Saruman's Trickery ({U}{R}):** **THEMATIC INTERACTION.** A counterspell that "Amasses Orcs 2." This is a direct upgrade to generic counterspells in this deck, as it protects your board while simultaneously growing your Army and triggering any "When you Amass" synergies.
 *   **Lazotep Plating ({1}{U}):** **COMMUNAL PROTECTION.** Gives you and your permanents (including the Army and Sauron) Hexproof until end of turn while also Amassing 1. This is a superior protection spell because it prevents "Exile" effects and protects your graveyard from targeted hate.
 *   **Too Greedily, Too Deep ({2}{B}{R}):** **THEMATIC REANIMATION.** Returns a creature from any graveyard with Haste and Amasses equal to its mana value. It provides a massive board-state swing by combining a threat, a haste enabler, and a large Army boost.
+*   **Wonder ({3}{U}):** **GRAVEYARD EVASION.** As long as Wonder is in your graveyard and you control an Island, all your creatures have Flying. Since you already discard heavily to Sauron and run Anger for Haste, this ensures your massive Army can soar over blockers for lethal damage.
+*   **Norman Osborn // Green Goblin ({1}{U}{B}):** **VALUE & INTERACTION.** Norman creates Serum tokens whenever you draw two or more cards (guaranteed by Sauron's draw-4 trigger). He can transform into the Green Goblin to provide a repeatable, artifact-fueled board wipe and a hasty flying threat.
 
 ---
 
