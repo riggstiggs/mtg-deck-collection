@@ -91,6 +91,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 *   **The Ozolith ({1}):** **RESILIENCE ENGINE.** When your Orc Army is destroyed, all its +1/+1 counters move onto The Ozolith. When you Amass again, you can move all those counters onto the new Army at the start of combat. This makes the deck nearly immune to board wipes and single-target removal.
 *   **Shadowspear ({1}):** **LETHALITY & STABILIZATION.** Grants the Orc Army Trample and Lifelink. Trample ensures your massive Army can't be chump-blocked by a 1/1 token, and Lifelink allows a single attack to reset your life total, making it impossible for aggro decks to race you.
+*   **Saruman's Trickery ({U}{R}):** **THEMATIC INTERACTION.** A counterspell that "Amasses Orcs 2." This is a direct upgrade to generic counterspells in this deck, as it protects your board while simultaneously growing your Army and triggering any "When you Amass" synergies.
 
 ---
 
