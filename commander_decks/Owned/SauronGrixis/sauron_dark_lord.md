@@ -49,6 +49,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Claim the Precious:** Removal + temptation.
 *   **Inherited Envelope:** Flavorful ramp and Ring temptation.
 *   **Soothing of Smeagol:** Bounce + temptation.
+*   **Orcish Medicine:** Protection for Sauron or the Army + Amass.
 *   **Ring of Evos Isle:** *Placeholder until replacement arrived.*
 
 ### 💎 Ramp (9)
@@ -161,6 +162,7 @@ DECK:
 1 Claim the Precious      
 1 Inherited Envelope      
 1 Soothing of Smeagol      
+1 Orcish Medicine      
 1 Relic of Sauron      
 1 Sol Ring      
 1 Arcane Signet      
