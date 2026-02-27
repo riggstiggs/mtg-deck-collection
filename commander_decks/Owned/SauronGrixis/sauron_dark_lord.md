@@ -65,10 +65,10 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Faithless Looting:** Cheap filtering and graveyard setup.
 *   **Treasure Cruise:** High-value late-game draw.
 
-### ⚔️ Disruption & Board Control (12 Targeted / 5 Mass)
+### ⚔️ Disruption & Board Control (11 Targeted / 5 Mass)
 *   **Terminate / Bedevil / Bitter Triumph / Go for the Throat:** Efficient removal.
 *   **Counterspell / Arcane Denial / Negate / Drown in the Loch:** Protection and interaction.
-*   **Chaos Warp / Cast into the Fire / Sedraxis Alchemist / Pongify:** Flexible answers.
+*   **Chaos Warp / Cast into the Fire / Pongify:** Flexible answers.
 *   **Blasphemous Act / Toxic Deluge:** Premier wipes.
 *   **One Ring to Rule Them All:** Thematic board reset.
 *   **Languish:** Mid-tier wipe.
@@ -109,13 +109,17 @@ These items are still outstanding from your most recent purchases.
 | **Takenuma, Abandoned Mire** | 1x Swamp | Utility Land |
 | **Chandra's Ignition** | Soothing of Smeagol | Fling Win-Con |
 | **Gravitic Punch** | Orcish Medicine | Fling Win-Con |
-| **Soul's Fire** | Sedraxis Alchemist | Fling Win-Con |
-| **Kess, Dissident Mage** | Gloin, Dwarf Emissary | Engine/Recursion |
+| **Soul's Fire** | *Already Replaced Alchemist* | Fling Win-Con |
+| **Kess, Dissident Mage** | *Already Replaced Gloin* | Engine/Recursion |
 | **Widespread Brutality** | Languish | Thematic Wipe |
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-27:** Adjusted mana base for consistency.
+    *   **In:** 1x Swamp, 1x Island.
+    *   **Out:** Gloin, Dwarf Emissary, Sedraxis Alchemist.
+    *   **Reason:** Increased land count to 38 for better consistency. Replaced low-impact utility cards.
 *   **2026-02-23:** Integrated the Core Engine and Evasion package.
     *   **In:** Lazotep Chancellor, Anger, Bone Miser, Archfiend of Ifnir, Living Death, Whispersilk Cloak, The Black Gate, Rogue's Passage.
     *   **Out:** Moria Scavenger, Haunt of the Dead Marshes, Summons of Saruman, Ring of Evos Isle, Barad-dûr, 1x Swamp, 1x Island, 1x Mountain.
@@ -147,7 +151,6 @@ DECK:
 1 Archfiend of Ifnir      
 1 Anger      
 1 Living Death      
-1 Gloin, Dwarf Emissary      
 1 Dreadhorde Invasion      
 1 Gollum, Patient Plotter      
 1 Whispersilk Cloak      
@@ -188,7 +191,6 @@ DECK:
 1 Go for the Throat      
 1 Chaos Warp      
 1 Cast into the Fire      
-1 Sedraxis Alchemist      
 1 Pongify      
 1 Blasphemous Act      
 1 Toxic Deluge      
@@ -217,6 +219,6 @@ DECK:
 1 Temple of Malice      
 1 Evolving Wilds      
 1 Terramorphic Expanse      
-7 Swamp      
-4 Island      
+8 Swamp      
+5 Island      
 3 Mountain    
