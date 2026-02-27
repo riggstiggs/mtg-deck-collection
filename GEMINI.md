@@ -50,7 +50,3 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 *   **Playstyle:** Enjoys complex interactions (Cascade, Landfall), Tribal strategies (Slivers), and Midrange/Control (Dimir).
 *   **Dislikes:** Linear Aggro (e.g., Mono-Red).
 *   **Resources:** "Wildcard Rich" on Arena. Has a **paid subscription to Untapped.gg** for gathering decklists and meta information.
-
-### Broader Gaming Context
-*   **D&D:** Kram Gor (originally Barbarian, now Conquest Paladin tank).
-*   **Character Preferences:** For Level 9 Dark/Horror sessions, the user prefers archetypes *other than* their usual Tank, Paladin, or Necromancer roles.
