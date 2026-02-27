@@ -77,6 +77,16 @@ This file tracks the physical status of cards for the Sauron deck.
 *   [x] Extract from Darkness
 *   [x] Cast into the Fire
 
+### 🛡️ The Army & Engine (Evasion & Discard)
+*   [x] Anger
+*   [x] Lazotep Chancellor
+*   [x] Bone Miser
+*   [x] Archfiend of Ifnir
+*   [x] Living Death
+*   [x] Whispersilk Cloak
+*   [x] The Black Gate
+*   [x] Rogue's Passage
+
 ### 🗺️ Lands
 *   [x] Steam Vents
 *   [x] Exotic Orchard
@@ -132,15 +142,24 @@ This file tracks the physical status of cards for the Sauron deck.
 
 ---
 
-## 🚢 Shipped (In Transit)
-*   [ ] Anger
-*   [ ] Lazotep Chancellor
-*   [ ] Whispersilk Cloak
-*   [ ] Archfiend of Ifnir
-*   [ ] Living Death
-*   [ ] The Black Gate
-*   [ ] Bone Miser
-*   [ ] Rogue's Passage
+## 🚢 Shipped (In Transit) - Feb 21 Purchase
+*   [ ] Polluted Delta
+*   [ ] Bloodstained Mire
+*   [ ] Scalding Tarn
+*   [ ] Morphic Pool
+*   [ ] Luxury Suite
+*   [ ] Shipwreck Marsh
+*   [ ] Haunted Ridge
+*   [ ] Stormcarved Coast
+*   [ ] Drowned Catacomb
+*   [ ] Dragonskull Summit
+*   [ ] Sulfur Falls
+*   [ ] Takenuma, Abandoned Mire
+*   [ ] Chandra's Ignition
+*   [ ] Gravitic Punch
+*   [ ] Soul's Fire
+*   [ ] Kess, Dissident Mage
+*   [ ] Widespread Brutality
 
 ---
 

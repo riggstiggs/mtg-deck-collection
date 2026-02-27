@@ -90,7 +90,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 These items are still outstanding from your most recent purchases.
 
-### 📦 Pending Arrivals: Integration Plan (Purchased Feb 21)
+### 📦 Pending Arrivals: Integration Plan (Feb 21 Purchase)
 *Use this guide to swap cards once the physical shipment arrives.*
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** |
@@ -107,23 +107,19 @@ These items are still outstanding from your most recent purchases.
 | **Dragonskull Summit** | 1x Mountain | Check Land |
 | **Sulfur Falls** | 1x Island | Check Land |
 | **Takenuma, Abandoned Mire** | 1x Swamp | Utility Land |
+| **Kess, Dissident Mage** | Grishnákh, Brash Instigator | Recursion Engine |
 | **Chandra's Ignition** | Soothing of Smeagol | Fling Win-Con |
 | **Gravitic Punch** | Orcish Medicine | Fling Win-Con |
-| **Soul's Fire** | *Already Replaced Alchemist* | Fling Win-Con |
-| **Kess, Dissident Mage** | *Already Replaced Gloin* | Engine/Recursion |
+| **Soul's Fire** | Warg Rider | Fling Win-Con |
 | **Widespread Brutality** | Languish | Thematic Wipe |
 
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-27:** Adjusted mana base for consistency.
-    *   **In:** 1x Swamp, 1x Island.
-    *   **Out:** Gloin, Dwarf Emissary, Sedraxis Alchemist.
-    *   **Reason:** Increased land count to 38 for better consistency. Replaced low-impact utility cards.
-*   **2026-02-23:** Integrated the Core Engine and Evasion package.
-    *   **In:** Lazotep Chancellor, Anger, Bone Miser, Archfiend of Ifnir, Living Death, Whispersilk Cloak, The Black Gate, Rogue's Passage.
-    *   **Out:** Moria Scavenger, Haunt of the Dead Marshes, Summons of Saruman, Ring of Evos Isle, Barad-dûr, 1x Swamp, 1x Island, 1x Mountain.
-    *   **Reason:** Significantly increased discard synergy and ensured the massive Orc Army can reliably hit opponents.
+*   **2026-02-27:** Physical Integration of Discard/Evasion Package & Mana Base Adjustment.
+    *   **In:** Lazotep Chancellor, Anger, Bone Miser, Archfiend of Ifnir, Living Death, Whispersilk Cloak, The Black Gate, Rogue's Passage, 1x Swamp, 1x Island.
+    *   **Out:** Moria Scavenger, Haunt of the Dead Marshes, Summons of Saruman, Ring of Evos Isle, Barad-dûr, Glóin, Dwarf Emissary, Sedraxis Alchemist, 2x Swamp, 1x Island, 1x Mountain.
+    *   **Reason:** Significantly increased discard synergy and ensured the massive Orc Army can reliably hit opponents. Stabilized land count at 38 for better consistency.
 *   **2026-02-20:** Swapped Uglúk for Dread Return.
 *   **2026-02-08:** Added 5 underrated synergy cards (Dreadhorde Invasion, Dark Deal, etc).
 
