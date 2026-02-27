@@ -48,6 +48,12 @@
 *   **Helm of the Host:** Creates copies of your commander.
 *   **Godo, Bandit Warlord:** Can tutor for Helm of the Host and provides extra combat steps.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Copy/Paste Decklist (Moxfield Format)
 
 1 Captain America, First Avenger  
@@ -136,4 +142,4 @@
 1 Fighter Class  
 1 All That Glitters  
 1 Dispatch  
-1 Hammer of Nazahn  
+1 Hammer of Nazahn  

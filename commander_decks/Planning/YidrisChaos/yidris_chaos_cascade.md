@@ -79,6 +79,12 @@
 *   **Force of Will:** A free counterspell to protect your combo turn.
 *   **Ancient Tomb:** A land that taps for two mana.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Yidris, Maelstrom Wielder  
@@ -179,4 +185,4 @@
 2 Island  
 1 Swamp  
 1 Mountain  
-1 Rogue's Passage  
+1 Rogue's Passage  

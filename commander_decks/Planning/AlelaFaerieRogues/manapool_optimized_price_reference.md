@@ -71,3 +71,8 @@
 *   **Temple of Deceit** (NM): **$0.26**
 *   **Prosperous Thief** (LP): **$0.25**
 *   **Fetid Pools** (NM): **$0.15**
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

@@ -91,4 +91,9 @@ DECK:
 1 Urban Evolution  
 1 Valakut Exploration  
 1 Wrenn and Seven  
-1 Zendikar's Roil  
+1 Zendikar's Roil
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

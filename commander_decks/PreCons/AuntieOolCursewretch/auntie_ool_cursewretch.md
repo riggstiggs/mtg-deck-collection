@@ -41,6 +41,12 @@
 *   **Board Lock:** Use *Kulrath Knight* to prevent opponents from interacting while you chip away.
 *   **Mass Reanimation:** *Living Death* or *Aberrant Return* can bring back your entire engine after a wipe.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

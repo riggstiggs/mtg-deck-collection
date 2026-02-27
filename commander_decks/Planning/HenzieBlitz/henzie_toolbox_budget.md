@@ -38,6 +38,12 @@
 *   **Ramp Spells (Rampant Growth, Farseek, Nature's Lore):** Spells that search for lands to accelerate your mana.
 *   **Mana Rocks (Sol Ring, Arcane Signet):** The most efficient mana rocks in the format.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Copy/Paste Decklist (Moxfield Format)
 
 1 Henzie "Toolbox" Torre  

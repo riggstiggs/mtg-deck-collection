@@ -43,6 +43,12 @@
 *   **Sin's Cataclysm:** Deploy *Sin* to wipe the opponents' boards while your Guardians remain protected.
 *   **Ballista Finish:** Proliferate *Walking Ballista* to 10+ counters and ping your opponents to death.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

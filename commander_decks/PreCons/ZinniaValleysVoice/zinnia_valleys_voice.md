@@ -39,6 +39,12 @@
 *   **Jazal Overrun:** Activate *Jazal Goldmane* with 10+ creatures out to give everyone +10/+10 and end the game.
 *   **Valet One-Shot:** Use the *Devilish Valet* with a few token-generating spells or Offspring casts to one-shot an opponent with 64+ power.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

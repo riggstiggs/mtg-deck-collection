@@ -65,3 +65,8 @@ I recommend building **Henzie "Toolbox" Torre**.
 **Sample "Blitz" Interactions:**
 *   **Daemogoth Woe-Eater:** 4-mana 7/6. Blitz it out -> Hit for 7 -> It dies -> Draw a card -> Opponent discards a card. Cost: ~$0.50.
 *   **Industrial Advancement:** When a blitzed creature dies, reveal cards until you find another creature and put it into play. Value train!
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

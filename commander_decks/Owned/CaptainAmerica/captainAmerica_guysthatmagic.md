@@ -32,6 +32,12 @@
 *   **Fetches/Shocks/Duals:** The best lands available to ensure perfect mana fixing.
 *   **Utility Lands (Urza's Saga, Inventors' Fair, Academy Ruins):** Powerful lands that can tutor for artifacts or recur them from the graveyard.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Copy/Paste Decklist (Moxfield Format)
 
 1 Captain America, First Avenger  
@@ -126,4 +132,4 @@
 1 Thran Power Suit  
 1 Training Center  
 1 Training Grounds  
-1 Whispersilk Cloak  
+1 Whispersilk Cloak  

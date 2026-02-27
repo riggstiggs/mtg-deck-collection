@@ -62,6 +62,12 @@
 *   **"Fixer" Lands (Urborg, Tomb of Yawgmoth / Yavimaya, Cradle of Growth):** Make all your lands into Swamps or Forests, ensuring perfect mana.
 *   **Shock Lands & Triomes:** The best dual/tri-color lands in the game.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Thalia and The Gitrog Monster  
@@ -151,4 +157,4 @@
 1 Caves of Koilos  
 1 Brushland  
 1 Sylvan Safekeeper  
-1 Knight of the Reliquary  
+1 Knight of the Reliquary  

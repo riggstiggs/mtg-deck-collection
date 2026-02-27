@@ -71,6 +71,12 @@
 *   **Shock Lands & Triomes:** Breeding Pool, Hallowed Fountain, Temple Garden, and Spara's Headquarters.
 *   **Utility Lands:** Cathedral of War provides Exalted. Rogue's Passage makes a creature unblockable. Scavenger Grounds can exile graveyards.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Rafiq of the Many  
@@ -160,4 +166,4 @@
 1 Scavenger Grounds  
 5 Forest  
 5 Plains  
-5 Island  
+5 Island  

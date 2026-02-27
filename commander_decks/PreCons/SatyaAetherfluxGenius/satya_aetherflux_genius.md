@@ -42,6 +42,12 @@
 *   **Localized Destruction:** A specialized wipe that likely interacts with energy or artifacts.
 *   **Akroma's Will:** A premier finisher that gives your army protection and double strike to end the game on the spot.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

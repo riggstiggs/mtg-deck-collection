@@ -43,6 +43,12 @@
 *   **Combat Damage:** The tokens Ashling creates have Haste. If you Evoke a *Maelstrom Wanderer* or *Omnath*, you can swing for big damage immediately.
 *   **Burn:** *Omnath, Locus of Rage* deals damage when Elementals die. Since you are sacrificing Elementals constantly for Evoke, this turns into a machine gun.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

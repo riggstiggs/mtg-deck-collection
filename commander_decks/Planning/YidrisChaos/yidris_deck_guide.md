@@ -82,6 +82,12 @@
     2.  **Shuffle:** You can shuffle away bad cards you saw with *Sylvan Library* or *Brainstorm*.
     3.  **Delve Fuel:** Every fetch land in the graveyard makes *Dig Through Time* and *Treasure Cruise* cheaper.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Yidris, Maelstrom Wielder  

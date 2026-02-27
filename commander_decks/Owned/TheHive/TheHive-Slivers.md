@@ -95,6 +95,12 @@
 *   **Cyclonic Rift:** The best blue board wipe.
 *   **Original Dual Lands (Tundra, Underground Sea, etc.):** The absolute best, most expensive lands for a 5-color deck.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  
@@ -194,4 +200,4 @@ MAIN DECK:
 1 Winged Sliver  
 1 Wooded Foothills  
 1 Zagoth Triome  
-1 Ziatora's Proving Ground  
+1 Ziatora's Proving Ground  

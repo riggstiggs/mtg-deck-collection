@@ -73,6 +73,12 @@
 *   **Takenuma, Abandoned Mire:** Replaces a Swamp. A land that can mill you and return a creature to your hand.
 *   **Ophiomancer:** Replaces Carrion Feeder. Creates a deathtouch snake every upkeep, providing infinite fodder.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Meren of Clan Nel Toth  

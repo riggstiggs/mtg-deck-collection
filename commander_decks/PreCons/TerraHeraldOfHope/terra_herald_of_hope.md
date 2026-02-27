@@ -47,6 +47,12 @@
 *   **Antagonist Lock:** Use *Kefka* and *Archfiend of Depravity* to starve opponents of resources while you rebuild from the yard.
 *   **Mass Reanimation:** End the game with a huge *Rise of the Dark Realms* or *Ruinous Ultimatum*.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

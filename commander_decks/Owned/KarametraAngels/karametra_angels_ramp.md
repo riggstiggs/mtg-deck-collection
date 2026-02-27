@@ -55,6 +55,12 @@
 *   **Utility Lands:** Boseiju, Who Endures for removal, Nykthos, Shrine to Nyx for mana, Reliquary Tower for hand size, and Gavony Township to buff your team.
 *   **Dual Lands:** A mix of fetch lands, shock lands, bond lands, and check lands to ensure you always have both of your colors.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Karametra, God of Harvests  
@@ -138,4 +144,4 @@
 1 Swiftfoot Boots  
 1 Lightning Greaves  
 1 Angelic Arbiter  
-1 Serra's Emissary  
+1 Serra's Emissary  

@@ -43,6 +43,12 @@
 *   **Direct Damage:** Use *Pyrogoyf* triggers and *Ziatora* flings to finish off low-life players.
 *   **Graveyard Grind:** Outlast opponents through the sheer recursion power of *Disa*, *Coram*, and *Junji, the Midnight Sky*.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

@@ -43,6 +43,12 @@
 *   **Treasure Storm:** Generate enough Treasures to cast your entire hand or fuel a massive *Ultimate Magic: Meteor*.
 *   **Equipped Army:** Go wide with equipped creatures like *Barret* and *Tifa*, drawing 3-5 cards per attack and overwhelming the board.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

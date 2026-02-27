@@ -43,6 +43,12 @@
 *   **Token Drain:** Use sacrifice outlets like *Woe Strider* or *Chatterfang* to trigger your aristocrat effects and drain opponents to zero.
 *   **Infinite Value:** Use *Hazel* and *Academy Manufactor* to generate so much mana and card draw that you can cast your entire deck.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

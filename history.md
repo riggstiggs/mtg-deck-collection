@@ -9,11 +9,12 @@
 *   **Strategy Finalization:** Finalized the "Fling/Ignition" win-condition plan for the next shipment.
     *   **Planned In:** Chandra's Ignition, Gravitic Punch, Soul's Fire, Kess, Dissident Mage, Widespread Brutality.
     *   **Planned Out:** Soothing of Sméagol, Orcish Medicine, Warg Rider, Grishnákh, Brash Instigator, Languish.
-*   **Status:** Physical deck is at 100 cards with 38 lands.
+*   **Collection Audit:** Conducted a global audit of the `commander_decks` folder. Ensured all 50+ deck lists have a `## 📜 Deck Changelog` section and an "Initial deck creation" entry for consistency.
+*   **Status:** Physical Sauron deck is at 100 cards with 38 lands.
 
 ### 2026-02-21: The "New Era" Audit & Planning
-*   **Alela (Christina's Shell):** Finalized an optimized ~$156 build. Focused on resilience (Bastion of Remembrance) and static win conditions (Gravitational Shift).
-*   **Zimone Landfall:** Conducted a comprehensive audit. Added graveyard recovery (Six, Conduit of Worlds), top-end power (Reshape the Earth), and overhauled the land base with Misty Rainforest.
+*   **Alela (Christina's Shell):** Branched into three versions: **Budget** (<$100), **Upgraded Budget** ($150-$200), and **Optimized Shell**. Focused on resilience (Bastion of Remembrance) and static win conditions (Gravitational Shift).
+*   **Zimone Landfall:** Branched into **Budget Engine** (saving $250+ via luxury swaps) and **"Math Class" (Thematic)** build. Conducted a comprehensive audit of the Landfall Engine, adding graveyard recovery (Six, Conduit of Worlds) and top-end power (Reshape the Earth).
 *   **Sauron Army Fling:** Branched a specialized "Fling" list for planning. Replaced budget tapped lands with full Fetch/Shock/Bond suite.
 *   **Sauron Midrange:** Finalized the list for the "Core Engine" (Lazotep Chancellor, Archfiend) to maximize Sauron's discard-draw triggers.
 

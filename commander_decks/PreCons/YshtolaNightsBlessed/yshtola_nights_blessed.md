@@ -40,6 +40,12 @@
 *   **Scion Alpha Strike:** Buff your legendary creatures with *Champions from Beyond* and swing for the win.
 *   **Ascian Control:** Lock the game down with *Emet-Selch* and *Propaganda* until your opponents are forced to concede to your superior resource management.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

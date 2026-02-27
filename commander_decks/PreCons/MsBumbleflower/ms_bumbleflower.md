@@ -42,6 +42,12 @@
 *   **Flying Beatdown:** Use Ms. Bumbleflower's ability to give your massive *Body of Knowledge* or *Kalonian Hydra* Flying and swing for lethal.
 *   **Drain Out:** *Psychosis Crawler* can finish the table once you start casting 2-3 spells per turn.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

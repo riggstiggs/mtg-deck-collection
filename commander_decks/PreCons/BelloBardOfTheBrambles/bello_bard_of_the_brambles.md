@@ -41,6 +41,12 @@
 *   **Damage Multipliers:** Use *Unnatural Growth* or *Gratuitous Violence* to end the game in one or two combat steps.
 *   **Warstorm Surge Burn:** If the game stalls, the chip damage from casting artifacts/enchantments can finish off low-life opponents.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

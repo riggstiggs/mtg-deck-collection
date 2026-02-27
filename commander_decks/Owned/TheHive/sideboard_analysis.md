@@ -92,3 +92,8 @@ These are the best cards to replace *Lazotep Sliver*, ranked by power and deck s
 ## 3. Conclusion
 **Swap Lazotep Sliver for Sliver Queen.**
 It is the only replacement that upgrades the deck's power level from "Strong" to "Optimization". The other options are excellent support pieces, but *Sliver Queen* is a pillar of the archetype.
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

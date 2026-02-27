@@ -41,6 +41,12 @@
 *   **Elemental Swarm:** Use *Titania* and *Omnath* to create a board of 5/3s and 5/5s that opponents cannot answer.
 *   **Commander Damage:** A 6/7 indestructible (if you have *Hammer of Purphoros*) Spacecraft can finish off players quickly.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

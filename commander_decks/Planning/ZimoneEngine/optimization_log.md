@@ -45,3 +45,8 @@ This document tracks the evolution of Jamie's Zimone deck from the initial conce
 ## 📊 Final Result
 *   **Optimized Version:** ~$500 (Bracket 3). Maximum speed and consistency.
 *   **Budget Version:** ~$244 (Bracket 2). Retains **Doubling Season** and **Ancient Greenwarden** as high-impact "Power Spikes" while being over 50% cheaper.
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

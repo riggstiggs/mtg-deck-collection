@@ -149,3 +149,8 @@
 *   **Mocking Doppelganger** (CLB) - NM: **$7.75**
 *   **Scion of Oona** (LRW) - MP: **$17.95**
 *   *Subtotal: $25.70*
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

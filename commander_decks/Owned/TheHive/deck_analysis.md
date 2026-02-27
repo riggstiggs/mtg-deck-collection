@@ -82,3 +82,8 @@
 
 ---
 **Verified:** All cards researched and abilities documented. The deck is a cohesive "Tribal Cascade" strategy focusing on accumulating keyword abilities.
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

@@ -40,6 +40,12 @@
 *   **Marit Lage:** Use the *Dark Depths* combo to create a 20/20 and swing for the win.
 *   **Basilisk Gate Strike:** Give a creature +10/+10 or more using the Gate subtype and swing with unblockable or flying.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

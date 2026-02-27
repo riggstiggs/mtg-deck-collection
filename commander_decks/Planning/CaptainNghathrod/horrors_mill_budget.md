@@ -38,6 +38,12 @@
 *A package of mana rocks to accelerate your game plan.*
 *   **Sol Ring, Arcane Signet, Dimir Signet, etc.:** A standard suite of two-mana rocks to ensure you can cast your spells on time.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Copy/Paste Decklist (Moxfield Format)
 
 1 Captain N'ghathrod  

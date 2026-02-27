@@ -40,6 +40,12 @@
 *   **Stack Explosion:** Use Ulalek to copy a high-impact spell like *Eldrazi Conscription* or *Return of the Wildspeaker* to end the game on the spot.
 *   **Infinite Value:** With *Morophon* and *Ulalek*, you can often cast your entire library in a single turn cycle if you have enough colorless mana.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  

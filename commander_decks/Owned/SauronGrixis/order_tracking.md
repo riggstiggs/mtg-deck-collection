@@ -165,3 +165,8 @@ This file tracks the physical status of cards for the Sauron deck.
 
 ## ⏳ Missing (Not Yet Shipped/Ordered)
 *   (All maindeck cards accounted for!)
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.

@@ -53,6 +53,12 @@
 *   **Evasion (Rogue's Passage):** Makes your commander unblockable.
 *   **Wastes:** You need basic Wastes to be able to search for them with cards like Burnished Hart and Environmental Sciences.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 1 Ulamog, the Ceaseless Hunger  
@@ -138,4 +144,4 @@
 1 Faceless Haven  
 1 Field of Ruin  
 1 Demolition Field  
-18 Wastes  
+18 Wastes  

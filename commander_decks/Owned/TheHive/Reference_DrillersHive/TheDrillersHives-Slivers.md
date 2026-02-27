@@ -74,6 +74,12 @@
 *   **Pathway Lands (Barkchannel, Blightstep, Clearwater, etc.):** Can enter as one of two different land types.
 *   **Basics:** A mix of Forests, Islands, Mountains, and Plains.
 
+
+---
+
+## 📜 Deck Changelog
+*   **2026-02-27:** Initial deck creation.
+
 ## Plain Text Copy/Paste
 
 COMMANDER:  
@@ -173,4 +179,4 @@ MAIN DECK:
 1 Underground River  
 1 Vanquisher's Banner  
 1 Wild Rose Rebellion  
-1 Yavimaya Coast  
+1 Yavimaya Coast  
