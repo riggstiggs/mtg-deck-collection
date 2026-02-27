@@ -86,6 +86,14 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 
 ---
 
+## 🚀 High-Impact Considerations
+*These cards are not currently in the deck but are top-tier candidates for a future "Bracket 3" jump.*
+
+*   **The Ozolith ({1}):** **RESILIENCE ENGINE.** When your Orc Army is destroyed, all its +1/+1 counters move onto The Ozolith. When you Amass again, you can move all those counters onto the new Army at the start of combat. This makes the deck nearly immune to board wipes and single-target removal.
+*   **Shadowspear ({1}):** **LETHALITY & STABILIZATION.** Grants the Orc Army Trample and Lifelink. Trample ensures your massive Army can't be chump-blocked by a 1/1 token, and Lifelink allows a single attack to reset your life total, making it impossible for aggro decks to race you.
+
+---
+
 ## 📈 Priority Upgrade List (Remaining Orders)
 
 These items are still outstanding from your most recent purchases.
