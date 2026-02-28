@@ -6,18 +6,11 @@
 *   **Bracket:** 3 (Upgraded)
 *   **Core Goal:** Create an immortal loop of creatures. By using Marchesa's ability to return creatures with +1/+1 counters to the battlefield at the end of the turn, we repeatedly trigger "Enter the Battlefield" (ETB) and "Death" abilities for massive value and board control.
 
-### 🌹 The Insurance Policy (How it Loops)
-Marchesa's primary power is her ability to save any creature that has a +1/+1 counter.
-1.  **Dethrone:** Attack the player with the highest life to put a counter on your creature.
-2.  **Sacrifice:** Use a sacrifice outlet (like *Yawgmoth*) to kill that creature for value.
-3.  **Return:** Marchesa returns that creature to the battlefield at the beginning of the next end step.
-4.  **Repeat:** The creature enters, triggers its ETB, and is ready to be countered and sacrificed again on the next turn cycle.
-
 ---
 
 ## 🛠️ Card Explanations
 
-### 🗡️ ETB & Death Value (Key Loop Targets) (15 Cards)
+### 🗡️ ETB & Death Value (Key Loop Targets) (21 Cards)
 *   **Ravenous Chupacabra:** Repeatable targeted creature removal.
 *   **Gray Merchant of Asphodel:** Massive life drain finisher.
 *   **Mulldrifter:** Repeatable 2-card draw engine.
@@ -29,13 +22,15 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Hostage Taker:** Exiles an artifact or creature and lets you cast it. Perfect for repeatable loops.
 *   **Sower of Temptation:** Temporary theft that becomes permanent if you loop it with Marchesa.
 *   **Dack's Duplicate:** Copies the best creature on the board with Dethrone and Haste.
-*   **River Kelpie:** draws cards when things enter from the graveyard AND when they leave. The best draw engine in the deck.
+*   **River Kelpie:** Draws cards when things enter from the graveyard AND when they leave.
 *   **Grim Haruspex / Midnight Reaper:** Card draw whenever your non-token creatures die.
 *   **Satoru, the Infiltrator:** Draws a card every time a creature enters the battlefield without being cast.
 *   **Juri, Master of the Revue:** Grows huge as you sacrifice things and explodes for damage on death.
 *   **Blood Artist / Zulaport Cutthroat:** Drains opponents whenever creatures die.
 *   **Chasm Skulker:** Grows with every card drawn; creates a swarm of tokens on death.
 *   **Spark Double:** Copies Marchesa (or another engine piece) while ignoring the Legend rule.
+*   **Vindictive Lich:** Forces discard, sacrifice, and life loss on death. Re-added for maximum attrition.
+*   **Mayhem Devil:** Deals 1 damage to any target whenever ANY player sacrifices a permanent. Elite interaction.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (6 Cards)
 *   **Yawgmoth, Thran Physician:** **THE PROFESSOR.** Sacrifice for free, draw cards, and use Proliferate to add counters.
@@ -58,12 +53,13 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Dimir Signet / Izzet Signet / Rakdos Signet:** Mana fixing.
 *   **Talisman of Indulgence / Creativity / Dominance:** Fast fixing.
 
-### ⚔️ Disruption & Board Control (15 Cards)
+### ⚔️ Disruption & Board Control (16 Cards)
 *   **Terminate / Chaos Warp / Bedevil / Feed the Swarm:** Flexible removal.
 *   **Imprisoned in the Moon:** Neutralizes Commanders, problematic Lands, or Planeswalkers.
 *   **Toxic Deluge / Blasphemous Act:** Board wipes that help control life totals.
 *   **Living Death:** Mass reanimation finisher that resets the board.
 *   **An Offer You Can't Refuse / Arcane Denial:** Efficient protection for Marchesa.
+*   **Siren Stormtamer:** Interactive protection that prevents targeted removal or discard.
 *   **Victimize / Reanimate:** High-value recursion.
 *   **Skullclamp:** The most efficient draw engine for an aristocrats strategy.
 *   **Deadly Dispute / Village Rites:** Card draw that doubles as a sacrifice outlet.
@@ -80,9 +76,10 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-23:** Strict Mathematical Audit.
-    *   **Lands:** Re-balanced to exactly 38.
-    *   **Spells:** Trimmed low-impact utility (Metallic Mimic, Alesha, Thran Vigil, etc.) to stabilize the deck at exactly 100 cards.
+*   **2026-02-23:** Re-Addressed Mathematical Stability.
+    *   **Final Count:** Exactly 100 cards.
+    *   **In:** Mayhem Devil, Vindictive Lich, Siren Stormtamer.
+    *   **Reason:** Reached 100 cards by adding high-impact interactive pieces while maintaining a stable 38-land base.
 *   **2026-02-23:** Full Audit & Refinement.
 *   **2026-02-23:** Initial Deck Construction.
 
@@ -111,6 +108,8 @@ DECK:
 1 Juri, Master of the Revue  
 1 Chasm Skulker  
 1 Spark Double  
+1 Vindictive Lich  
+1 Mayhem Devil  
 1 Yawgmoth, Thran Physician  
 1 Viscera Seer  
 1 Carrion Feeder  
@@ -144,6 +143,7 @@ DECK:
 1 Living Death  
 1 An Offer You Can't Refuse  
 1 Arcane Denial  
+1 Siren Stormtamer  
 1 Victimize  
 1 Reanimate  
 1 Skullclamp  
