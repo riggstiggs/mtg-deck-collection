@@ -89,6 +89,9 @@ Since this deck was designed to compete with *The Hive* (Slivers), you have spec
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-20:** Swapped Harmonize for Angelic Arbiter to increase board control.
+    *   **In:** Angelic Arbiter
+    *   **Out:** Harmonize
 *   **2026-02-27:** Initial deck creation.
 
 ## Plain Text Copy/Paste
@@ -113,6 +116,8 @@ Since this deck was designed to compete with *The Hive* (Slivers), you have spec
 1 Emeria Shepherd  
 1 Battle Angels of Tyr  
 1 Sunblast Angel  
+1 Angelic Arbiter  
+1 Serra's Emissary  
 1 Avenger of Zendikar  
 1 Scute Swarm  
 1 Lotus Cobra  
@@ -142,7 +147,6 @@ Since this deck was designed to compete with *The Hive* (Slivers), you have spec
 1 Guardian Project  
 1 Luminarch Aspirant  
 1 Worldly Tutor  
-1 Harmonize  
 1 Ghost Quarter  
 1 Mosswort Bridge  
 1 Reliquary Tower  
@@ -172,5 +176,3 @@ Since this deck was designed to compete with *The Hive* (Slivers), you have spec
 1 Krosan Verge  
 1 Swiftfoot Boots  
 1 Lightning Greaves  
-1 Angelic Arbiter  
-1 Serra's Emissary  

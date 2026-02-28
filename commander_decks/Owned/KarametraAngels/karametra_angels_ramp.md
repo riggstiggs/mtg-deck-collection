@@ -37,7 +37,6 @@
 
 ## 5. Card Draw & Value
 *   **Sylvan Library / Esper Sentinel / Guardian Project / Tribute to the World Tree:** A premium suite of enchantments and creatures that will draw you a huge number of cards.
-*   **Harmonize:** A simple spell to draw three cards.
 *   **Eternal Witness / Bala Ged Recovery:** Ways to get key cards back from your graveyard.
 *   **Luminarch Aspirant:** A cheap creature that grows one of your threats each turn.
 
@@ -52,13 +51,32 @@
 
 ## 7. The Mana Base
 *A Selesnya mana base with powerful utility lands and the best dual lands available.*
-*   **Utility Lands:** Boseiju, Who Endures for removal, Nykthos, Shrine to Nyx for mana, Reliquary Tower for hand size, and Gavony Township to buff your team.
+*   **Utility Lands:** Ghost Quarter for removal, Mosswort Bridge for cheating spells, Reliquary Tower for hand size, and Gavony Township to buff your team.
 *   **Dual Lands:** A mix of fetch lands, shock lands, bond lands, and check lands to ensure you always have both of your colors.
+
+
+## 📈 Upgrade Path (Top Recommendations)
+
+### 🌍 Landfall Consistency Package (Fetch Lands)
+*   **Fabled Passage / Terramorphic Expanse / Evolving Wilds:** Essential for triggering "Landfall" on opponents' turns or doubling up on your own turn.
+*   **Brokers Hideout / Cabaretti Courtyard:** Low-cost fetches from New Capenna that find your colors and trigger landfall immediately while providing incidental lifegain.
+
+### 🛡️ High-Power Additions
+*   **Boseiju, Who Endures:** Re-acquire this to provide uncounterable utility on a land slot.
+*   **Nykthos, Shrine to Nyx:** High priority for explosive mana turns.
+*   **Mithril Coat:** Instant-speed indestructible protection for Karametra.
 
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-20:** Updated digital list to match physical 37-land count.
+    *   **In:** Ghost Quarter, Mosswort Bridge.
+    *   **Out:** Boseiju, Who Endures, Nykthos, Shrine to Nyx.
+    *   **Adjustment:** Basics set to 11 Snow-Covered Plains and 11 Snow-Covered Forest.
+*   **2026-02-20:** Swapped Harmonize for Angelic Arbiter to increase board control.
+    *   **In:** Angelic Arbiter
+    *   **Out:** Harmonize
 *   **2026-02-27:** Initial deck creation.
 
 ## Plain Text Copy/Paste
@@ -83,6 +101,8 @@
 1 Emeria Shepherd  
 1 Battle Angels of Tyr  
 1 Sunblast Angel  
+1 Angelic Arbiter  
+1 Serra's Emissary  
 1 Avenger of Zendikar  
 1 Scute Swarm  
 1 Lotus Cobra  
@@ -113,9 +133,8 @@
 1 Guardian Project  
 1 Luminarch Aspirant  
 1 Worldly Tutor  
-1 Harmonize  
-1 Boseiju, Who Endures  
-1 Nykthos, Shrine to Nyx  
+1 Ghost Quarter  
+1 Mosswort Bridge  
 1 Reliquary Tower  
 1 Selesnya Sanctuary  
 1 Windswept Heath  
@@ -125,8 +144,8 @@
 1 Canopy Vista  
 1 Brushland  
 1 Command Tower  
-10 Snow-Covered Plains  
-9 Snow-Covered Forest  
+11 Snow-Covered Plains  
+11 Snow-Covered Forest  
 1 Cultivate  
 1 Kodama's Reach  
 1 Farseek  
@@ -143,5 +162,3 @@
 1 Krosan Verge  
 1 Swiftfoot Boots  
 1 Lightning Greaves  
-1 Angelic Arbiter  
-1 Serra's Emissary  

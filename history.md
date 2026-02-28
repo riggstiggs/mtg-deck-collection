@@ -18,7 +18,8 @@
 *   **Sauron Army Fling:** Branched a specialized "Fling" list for planning. Replaced budget tapped lands with full Fetch/Shock/Bond suite.
 *   **Sauron Midrange:** Finalized the list for the "Core Engine" (Lazotep Chancellor, Archfiend) to maximize Sauron's discard-draw triggers.
 
-### 2026-02-20: Resilience Upgrades
+### 2026-02-20: Deck Maintenance & Resilience
+*   **Karametra:** Swapped *Harmonize* for *Angelic Arbiter* in the main list and Pilot's Handbook. This increase in board-taxing creatures aligns with the deck's goal of out-valuing aggressive strategies like Slivers.
 *   **Sauron:** Replaced *Uglúk of the White Hand* with *Dread Return* (from Sideboard) to improve recovery from mandatory discard triggers.
 
 ### 2026-02-08: Tribal Synergy
