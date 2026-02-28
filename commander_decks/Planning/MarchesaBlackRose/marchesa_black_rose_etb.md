@@ -17,7 +17,7 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 
 ## 🛠️ Card Explanations
 
-### 🗡️ ETB & Death Value (Key Loop Targets) (20 Cards)
+### 🗡️ ETB & Death Value (Key Loop Targets) (15 Cards)
 *   **Ravenous Chupacabra:** Repeatable targeted creature removal.
 *   **Gray Merchant of Asphodel:** Massive life drain finisher.
 *   **Mulldrifter:** Repeatable 2-card draw engine.
@@ -32,32 +32,26 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **River Kelpie:** draws cards when things enter from the graveyard AND when they leave. The best draw engine in the deck.
 *   **Grim Haruspex / Midnight Reaper:** Card draw whenever your non-token creatures die.
 *   **Satoru, the Infiltrator:** Draws a card every time a creature enters the battlefield without being cast.
-*   **Alesha, Who Laughs at Fate:** High-synergy recursion for small utility creatures.
 *   **Juri, Master of the Revue:** Grows huge as you sacrifice things and explodes for damage on death.
-*   **Marionette Apprentice / Blood Artist / Zulaport Cutthroat:** Drains opponents whenever creatures die.
+*   **Blood Artist / Zulaport Cutthroat:** Drains opponents whenever creatures die.
 *   **Chasm Skulker:** Grows with every card drawn; creates a swarm of tokens on death.
 *   **Spark Double:** Copies Marchesa (or another engine piece) while ignoring the Legend rule.
-*   **Scorn-Blade Berserker:** Cheap sacrifice outlet that draws cards.
 
-### 💉 Sacrifice Outlets (The "Kill" Switches) (8 Cards)
+### 💉 Sacrifice Outlets (The "Kill" Switches) (6 Cards)
 *   **Yawgmoth, Thran Physician:** **THE PROFESSOR.** Sacrifice for free, draw cards, and use Proliferate to add counters.
 *   **Viscera Seer / Carrion Feeder:** Free, instant-speed sacrifice outlets.
 *   **Ashnod's Altar / Phyrexian Altar:** Converts your loops into massive mana.
 *   **Yahenni, Undying Partisan:** Hard-to-kill outlet that grows into a threat.
 *   **Goblin Bombardment:** Converts your loops into direct damage.
 *   **Immersturm Predator:** Free sacrifice outlet with built-in graveyard hate.
-*   **Mahadi, Emporium Master:** Generates Treasures for every creature that dies.
 
-### 🛡️ Counter Enablers (The "Insurance" Makers) (9 Cards)
+### 🛡️ Counter Enablers (The "Insurance" Makers) (6 Cards)
 *   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature. Saves creatures and enables Dethrone.
 *   **The Ozolith:** Saves all counters from dying creatures to move onto Marchesa or key loop targets.
 *   **Uncivil Unrest:** Creatures enter with a counter (Riot) and deal double damage if they have a counter.
 *   **Sage of Fables:** Wizards enter with a counter (Marchesa is a Wizard).
-*   **Metallic Mimic:** Choose a type (Wizard or Zombie) to ensure ETB counters.
-*   **Thran Vigil:** Puts a counter on a creature whenever a creature leaves your graveyard.
 *   **Drana, Liberator of Malakir:** Puts counters on your whole board when she attacks.
 *   **Herald of Secret Streams:** Makes all your creatures with counters unblockable.
-*   **Feast on the Fallen:** Reliable counter generation at the start of your turn.
 
 ### 💎 Ramp & Utility (9 Cards)
 *   **Arcane Signet / Sol Ring / Fellwar Stone:** Essential acceleration.
@@ -78,30 +72,17 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Shocks:** Watery Grave, Steam Vents, Blood Crypt.
 *   **Check/Bond:** Dragonskull Summit, Drowned Catacomb, Sulfur Falls, Morphic Pool, Luxury Suite, Training Center.
 *   **Filters/Taps:** Crumbling Necropolis, Xander's Lounge, Smoldering Marsh, Sunken Hollow.
-*   **Utility:** High Market, Opal Palace, Forge of Heroes, Reliquary Tower.
-*   **Basics:** 2 Swamp, 1 Mountain, 1 Island. (Plus 34 other non-basics listed).
-
----
-
-## 🚀 High-Impact Considerations
-*   **Grave Betrayal:** While expensive (7 mana), it is a powerful theft engine if you can stabilize.
-*   **Glen Elendra Archmage:** Removed to avoid infinite loops, but a top-tier upgrade for high-power pods.
-
----
-
-## 📈 Priority Upgrade List
-*Use this section to track cards you are planning to acquire or swap.*
-
-| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
-| :--- | :--- | :--- | :--- |
-| City of Brass | [TBD] | Life Manipulation | Planning |
-| Mana Confluence | [TBD] | Life Manipulation | Planning |
-| Dictate of Erebos | [TBD] | Board Control | Planning |
+*   **Utility:** High Market, Opal Palace, Forge of Heroes, Reliquary Tower, Command Tower, Exotic Orchard, Path of Ancestry.
+*   **Pain:** Shivan Reef, Sulfurous Springs, Underground River.
+*   **Fetch:** Evolving Wilds, Terramorphic Expanse.
+*   **Basics:** 6 Swamp, 4 Mountain, 3 Island.
 
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-23:** Fixed Mathematical Error. Adjusted basic lands to bring total count to exactly 100.
+*   **2026-02-23:** Strict Mathematical Audit.
+    *   **Lands:** Re-balanced to exactly 38.
+    *   **Spells:** Trimmed low-impact utility (Metallic Mimic, Alesha, Thran Vigil, etc.) to stabilize the deck at exactly 100 cards.
 *   **2026-02-23:** Full Audit & Refinement.
 *   **2026-02-23:** Initial Deck Construction.
 
@@ -127,12 +108,9 @@ DECK:
 1 Grim Haruspex  
 1 Midnight Reaper  
 1 Satoru, the Infiltrator  
-1 Alesha, Who Laughs at Fate  
 1 Juri, Master of the Revue  
-1 Marionette Apprentice  
 1 Chasm Skulker  
 1 Spark Double  
-1 Scorn-Blade Berserker  
 1 Yawgmoth, Thran Physician  
 1 Viscera Seer  
 1 Carrion Feeder  
@@ -141,16 +119,12 @@ DECK:
 1 Yahenni, Undying Partisan  
 1 Goblin Bombardment  
 1 Immersturm Predator  
-1 Mahadi, Emporium Master  
 1 Unspeakable Symbol  
 1 The Ozolith  
 1 Uncivil Unrest  
 1 Sage of Fables  
-1 Metallic Mimic  
-1 Thran Vigil  
 1 Drana, Liberator of Malakir  
 1 Herald of Secret Streams  
-1 Feast on the Fallen  
 1 Arcane Signet  
 1 Sol Ring  
 1 Fellwar Stone  
@@ -200,9 +174,8 @@ DECK:
 1 Underground River  
 1 Evolving Wilds  
 1 Terramorphic Expanse  
-2 Swamp  
-1 Mountain  
-1 Island  
+6 Swamp  
+4 Mountain  
+3 Island  
 1 Blood Artist  
-1 Bloodtracker  
 1 Zulaport Cutthroat  
