@@ -3,7 +3,7 @@
 ## Commander Strategy
 **Marchesa, the Black Rose**
 *   **Archetype:** Grixis Aristocrats / ETB & Death Trigger Value
-*   **Bracket:** 3 (Upgraded) - *Note: Included Mikaeus and Phyrexian Altar.*
+*   **Bracket:** 2 (Core) / 3 (Entry Upgraded)
 *   **Core Goal:** Create an immortal loop of creatures. By using Marchesa's ability to return creatures with +1/+1 counters to the battlefield at the end of the turn, we repeatedly trigger "Enter the Battlefield" (ETB) and "Death" abilities for massive value and board control.
 
 ### 🌹 The Insurance Policy (How it Loops)
@@ -22,11 +22,11 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Gray Merchant of Asphodel:** Massive life drain finisher.
 *   **Mulldrifter:** Repeatable 2-card draw engine.
 *   **Solemn Simulacrum:** Repeatable ramp and card draw.
-*   **Grave Betrayal:** **THEFT ENGINE.** Steals opponents' creatures when they die and gives them a counter—making them immortal under your control.
 *   **Baleful Strix:** Reusable card draw and lethal blocker.
 *   **Flayer of the Hatebound:** Deals damage whenever a creature returns from the graveyard (your primary win condition).
 *   **Puppeteer Clique:** Loops opponents' creatures from their graveyards.
 *   **Zealous Conscripts:** Steals permanents; attack with them to get a counter and keep them forever.
+*   **Chasm Skulker:** **SCALING ENGINE.** Grows with every card drawn; creates a swarm of tokens on death and loops perfectly with Marchesa.
 *   **Grim Haruspex / Midnight Reaper:** Card draw whenever your non-token creatures die.
 *   **Satoru, the Infiltrator:** Draws a card every time a creature enters the battlefield without being cast.
 *   **Alesha, Who Laughs at Fate:** High-synergy recursion for your small utility creatures.
@@ -36,7 +36,7 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Glen Elendra Archmage:** **INFINITE NEGATE.** Counter a spell, she returns via Persist, get a counter via Marchesa to cancel the -1/-1, and repeat.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (8 Cards)
-*   **Yawgmoth, Thran Physician:** **ELITE OUTLET.** Sacrifice for free, draw a card, and place -1/-1 counters to clear the board.
+*   **Yawgmoth, Thran Physician:** **THE PROFESSOR.** Sacrifice for free, draw cards, and use Proliferate to add counters to your entire board.
 *   **Viscera Seer / Carrion Feeder:** Free, instant-speed sacrifice outlets.
 *   **Ashnod's Altar / Phyrexian Altar:** Converts your loops into massive mana (Colorless or Colored).
 *   **Yahenni, Undying Partisan:** Hard-to-kill outlet that grows into a threat.
@@ -44,7 +44,6 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Immersturm Predator:** Free sacrifice outlet with built-in graveyard hate.
 
 ### 🛡️ Counter Enablers (The "Insurance" Makers) (10 Cards)
-*   **Mikaeus, the Unhallowed:** **GLOBAL INSURANCE.** Gives non-human creatures Undying, ensuring they return even without a Marchesa counter.
 *   **The Ozolith:** **COUNTER STORAGE.** Saves all counters from dying creatures to move onto Marchesa or key loop targets.
 *   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature. Perfect for saving creatures and keeping your life low for Dethrone.
 *   **Uncivil Unrest:** Creatures enter with a counter (Riot) and deal double damage if they have a counter.
@@ -63,9 +62,11 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 ### ⚔️ Disruption & Board Control (16 Cards)
 *   **Terminate / Chaos Warp / Bedevil / Feed the Swarm:** Flexible removal.
 *   **Toxic Deluge:** Essential wipe that helps lower your life total for Dethrone.
+*   **Living Death:** **MASS REANIMATION.** A late-game finisher that resets the board and brings back your entire engine.
 *   **Blasphemous Act:** Efficient mass removal.
 *   **An Offer You Can't Refuse / Arcane Denial:** Clean protection for Marchesa.
 *   **Victimize / Reanimate:** High-value recursion.
+*   **Skullclamp:** **ELITE DRAW.** The most efficient draw engine for a deck that constantly sacrifices small creatures.
 *   **Deadly Dispute / Village Rites:** Card draw that doubles as a sacrifice outlet.
 
 ### 🗺️ The Mana Base (38 Lands)
@@ -78,10 +79,11 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-23:** Strategic Refinement (The "Expert Pivot").
+    *   **In:** Chasm Skulker, Living Death, Skullclamp.
+    *   **Out:** Mikaeus the Unhallowed, Grave Betrayal, Danny Pink.
+    *   **Reason:** Replaced high-threat "win more" cards with high-synergy engine pieces. Chasm Skulker scales better with draw triggers, Skullclamp is more efficient draw than Danny Pink, and Living Death provides a critical reset button. Retained Yawgmoth for Proliferate synergy.
 *   **2026-02-23:** High-Velocity Upgrade.
-    *   **In:** Mikaeus the Unhallowed, Yawgmoth Thran Physician, The Ozolith, Glen Elendra Archmage, Phyrexian Altar, Grave Betrayal.
-    *   **Out:** Feast on the Fallen, Bloodflow Connoisseur, Iron Apprentice, Negate, Wayfarer's Bauble, Vindictive Lich.
-    *   **Reason:** Accelerated the engine's velocity, added permanent theft synergy, and integrated elite protection/mana loops. Moved to Bracket 3 compliance.
 *   **2026-02-23:** Initial Deck Construction.
 
 ---
@@ -95,7 +97,7 @@ DECK:
 1 Gray Merchant of Asphodel  
 1 Mulldrifter  
 1 Solemn Simulacrum  
-1 Grave Betrayal  
+1 Living Death  
 1 Baleful Strix  
 1 Flayer of the Hatebound  
 1 Puppeteer Clique  
@@ -116,7 +118,7 @@ DECK:
 1 Yahenni, Undying Partisan  
 1 Goblin Bombardment  
 1 Immersturm Predator  
-1 Mikaeus, the Unhallowed  
+1 Chasm Skulker  
 1 The Ozolith  
 1 Unspeakable Symbol  
 1 Uncivil Unrest  
@@ -144,6 +146,7 @@ DECK:
 1 Arcane Denial  
 1 Victimize  
 1 Reanimate  
+1 Skullclamp  
 1 Deadly Dispute  
 1 Village Rites  
 1 Watery Grave  
@@ -174,7 +177,7 @@ DECK:
 6 Swamp  
 5 Mountain  
 4 Island  
-1 Danny Pink  
+1 Drana, Liberator of Malakir  
 1 River Kelpie  
 1 Spark Double  
 1 Scorn-Blade Berserker  
