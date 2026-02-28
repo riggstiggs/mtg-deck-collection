@@ -89,6 +89,17 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 
 ---
 
+## 📈 Priority Upgrade List
+*Use this section to track cards you are planning to acquire or swap.*
+
+| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
+| :--- | :--- | :--- | :--- |
+| City of Brass | [TBD] | Life Manipulation | Planning |
+| Mana Confluence | [TBD] | Life Manipulation | Planning |
+| Dictate of Erebos | [TBD] | Board Control | Planning |
+
+---
+
 ## 📜 Deck Changelog
 *   **2026-02-23:** Full Audit & Refinement.
     *   **In:** Imprisoned in the Moon, Living Death, Skullclamp, Hostage Taker, Chasm Skulker.
