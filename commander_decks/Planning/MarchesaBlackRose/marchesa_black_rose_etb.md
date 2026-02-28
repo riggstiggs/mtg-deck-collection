@@ -79,7 +79,7 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **Check/Bond:** Dragonskull Summit, Drowned Catacomb, Sulfur Falls, Morphic Pool, Luxury Suite, Training Center.
 *   **Filters/Taps:** Crumbling Necropolis, Xander's Lounge, Smoldering Marsh, Sunken Hollow.
 *   **Utility:** High Market, Opal Palace, Forge of Heroes, Reliquary Tower.
-*   **Basics:** 6 Swamp, 5 Mountain, 4 Island.
+*   **Basics:** 2 Swamp, 1 Mountain, 1 Island. (Plus 34 other non-basics listed).
 
 ---
 
@@ -101,10 +101,8 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-23:** Fixed Mathematical Error. Adjusted basic lands to bring total count to exactly 100.
 *   **2026-02-23:** Full Audit & Refinement.
-    *   **In:** Imprisoned in the Moon, Living Death, Skullclamp, Hostage Taker, Chasm Skulker.
-    *   **Out:** Thundering Raiju, Glen Elendra Archmage, Danny Pink, Vindictive Lich, Grave Betrayal.
-    *   **Reason:** Tightened the engine, increased interactive board control, and removed non-synergistic or "win-more" pieces.
 *   **2026-02-23:** Initial Deck Construction.
 
 ---
@@ -202,9 +200,9 @@ DECK:
 1 Underground River  
 1 Evolving Wilds  
 1 Terramorphic Expanse  
-6 Swamp  
-5 Mountain  
-4 Island  
+2 Swamp  
+1 Mountain  
+1 Island  
 1 Blood Artist  
 1 Bloodtracker  
 1 Zulaport Cutthroat  
