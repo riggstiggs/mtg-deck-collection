@@ -79,26 +79,42 @@
 *   **Shock Lands (Blood Crypt, Breeding Pool, etc.):** Lands that tap for two different colors.
 *   **Utility Lands:** Sliver Hive, Command Tower, Path of Ancestry, Unclaimed Territory.
 
-## Sideboard Options
-*These are cards to consider swapping in to adapt to different opponents or game situations.*
-*   **Amoeboid Changeling:** Can turn an opponent's creature into a Sliver, allowing you to steal it with Sliver Overlord.
-*   **Coat of Arms / Door of Destinies:** More "anthem" effects if you need to go bigger.
-*   **Distant Melody / Beast Whisperer:** Additional card draw engines.
-*   **Training Grounds / Heartstone:** Reduce the cost of Sliver Overlord's tutoring ability.
-*   **An Offer You Can't Refuse / Swan Song:** Cheap counterspells to protect your combos.
-*   **Spiteful Sliver:** Good deterrent against damage-based decks.
-*   **Virulent Sliver:** Alternative win condition (Poison), though weak without dedication.
+---
 
-## Wishlist / Upgrade Path
-*The most powerful and expensive upgrades for the deck.*
-*   **Sliver Legion / Mana Echoes / Kindred Discovery / Cover of Darkness:** The best support enchantments and artifacts for the tribe.
-*   **Cyclonic Rift:** The best blue board wipe.
-*   **Original Dual Lands (Tundra, Underground Sea, etc.):** The absolute best, most expensive lands for a 5-color deck.
+## 🃏 Sideboard
+*These cards are physically held in the sideboard box to adapt the deck's power and strategy.*
 
+### ⚔️ Finishers & Anthems
+*   **Coat of Arms:** Massive damage multiplier for the swarm.
+*   **Door of Destinies:** Scaling anthem for long-game consistency.
+*   **Virulent Sliver:** Alternative "Poison" win-con if life totals are too high.
+
+### 📚 Card Advantage
+*   **Beast Whisperer:** Keeps the hand full during Cascade chains.
+*   **Distant Melody:** Burst draw based on Sliver count.
+*   **Symmetry Matrix:** Synergizes with the square stats (P=T) of most Slivers.
+
+### ⚙️ Engine Optimization
+*   **Training Grounds:** Drastically reduces the cost of Overlord and Queen activations.
+*   **Biomancer's Familiar:** Redundant activation cost reduction.
+*   **Heartstone:** Symmetric cost reduction (use with caution).
+*   **Amoeboid Changeling:** Combos with Sliver Overlord to steal any creature.
+
+### 🛡️ Interaction & Recursion
+*   **Swan Song / An Offer You Can't Refuse:** Low-CMC protection for the hive.
+*   **Aphetto Dredging:** Powerful tribal recursion for the late game.
+*   **Profane Tutor:** The ideal "Cascade target" for a zero-mana search.
+
+### 🗺️ Land Flex
+*   **Dragonskull Summit / Dromar's Cavern / Orzhov Basilica:** Secondary mana fixing and utility. *Dromar's Cavern* can save a land from targeted removal.
+
+### 🛠️ Utility
+*   **Spiteful Sliver:** Damage deterrent; punishes opponents for blocking.
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-27:** Updated Sideboard to match 18-card physical inventory (including Legacy Lands). Confirmed *Sliver Queen* in Main Deck.
 *   **2026-02-27:** Initial deck creation.
 
 ## Plain Text Copy/Paste
@@ -201,3 +217,23 @@ MAIN DECK:
 1 Wooded Foothills  
 1 Zagoth Triome  
 1 Ziatora's Proving Ground  
+
+SIDEBOARD:  
+1 Dragonskull Summit  
+1 Dromar's Cavern  
+1 Orzhov Basilica  
+1 Spiteful Sliver  
+1 Training Grounds  
+1 Symmetry Matrix  
+1 Swan Song  
+1 Profane Tutor  
+1 Heartstone  
+1 Door of Destinies  
+1 Distant Melody  
+1 Coat of Arms  
+1 Biomancer's Familiar  
+1 Beast Whisperer  
+1 Aphetto Dredging  
+1 An Offer You Can't Refuse  
+1 Amoeboid Changling  
+1 Virulent Sliver  
