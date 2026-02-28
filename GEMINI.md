@@ -34,6 +34,7 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 
 ### Reading & Creating Deck Lists
 *   **Format:** Deck files are Markdown (`.md`).
+*   **Template:** **MANDATORY:** Always use `DECK_TEMPLATE.md` as the structural foundation when creating new deck files to ensure consistency across the project.
 *   **Structure:** Typically include strategy, categorized card lists (Core, Payoffs, Interaction), Mana Base, and a **Moxfield Import** section for easy copying.
 *   **Versions:** Track **"Budget" vs "Premium"** versions to assist with financial/wildcard planning.
 *   **GFM Line Breaks:** **CRITICAL:** In the "Plain Text Copy/Paste" section, add **two spaces** at the end of every line (including "COMMANDER:", "DECK:", and every card name) to ensure GitHub renders them as individual lines instead of a single paragraph.

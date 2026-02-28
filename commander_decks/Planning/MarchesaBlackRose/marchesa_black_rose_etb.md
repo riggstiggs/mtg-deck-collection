@@ -86,6 +86,22 @@ Marchesa's primary power is her ability to save any creature that has a +1/+1 co
 *   **2026-02-23:** High-Velocity Upgrade.
 *   **2026-02-23:** Initial Deck Construction.
 
+## 💰 Price Audit (Cheapest Versions - 2/23/2026)
+| Card Name | Price (USD) | Set |
+| :--- | :--- | :--- |
+| The Ozolith | $46.45 | Secret Lair Drop |
+| Phyrexian Altar | $44.70 | Secret Lair Countdown |
+| Yawgmoth, Thran Physician | $30.21 | Final Fantasy: Through the Ages |
+| Luxury Suite | $26.60 | Commander Legends: BGB |
+| Morphic Pool | $23.21 | Commander Legends: BGB |
+| Uncivil Unrest | $17.73 | Secret Lair Drop |
+| Training Center | $12.84 | Commander Legends |
+| Xander's Lounge | $12.10 | Streets of New Capenna |
+| Glen Elendra Archmage | $10.25 | Modern Masters |
+| *And 91 other cards totaling ~$122.00* | | |
+
+**Estimated Total Cost:** $346.47
+
 ---
 
 ## 🃏 Plain Text Copy/Paste (Moxfield Import)
