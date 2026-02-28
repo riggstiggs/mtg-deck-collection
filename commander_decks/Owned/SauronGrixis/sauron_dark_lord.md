@@ -3,8 +3,8 @@
 ## Commander Strategy
 **Sauron, the Dark Lord**
 *   **Archetype:** Grixis Midrange / Amass / Ring Temptation
-*   **Bracket:** 2 (Core)
-*   **Core Goal:** Utilize the "Ring Tempts You" mechanic to trigger Sauron's discard-draw-4 ability. Build a massive Orc Army and protect your commander with built-in Ward and targeted equipment. This version is optimized to use the exact 100 cards ordered.
+*   **Bracket:** 3 (Upgraded)
+*   **Core Goal:** Utilize the "Ring Tempts You" mechanic to trigger Sauron's discard-draw-4 ability. Build a massive Orc Army and protect your commander with built-in Ward and targeted equipment. This version is optimized with high-power staples like *The One Ring*.
 
 ### 💍 The Ring Mechanic Explained
 Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and you designate a Ring-bearer. Abilities are cumulative:
@@ -50,7 +50,6 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Inherited Envelope:** Flavorful ramp and Ring temptation.
 *   **Soothing of Smeagol:** Bounce + temptation.
 *   **Orcish Medicine:** Protection for Sauron or the Army + Amass.
-*   **Ring of Evos Isle:** *Placeholder until replacement arrived.*
 
 ### 💎 Ramp (9)
 *   **Relic of Sauron:** Flavorful ramp, Amass, and filtering.
@@ -59,11 +58,11 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Dimir Signet / Izzet Signet / Rakdos Signet:** Traditional mana fixing.
 
 ### 📚 Card Advantage & Selection (6)
+*   **The One Ring:** **GAME CHANGER.** Provides protection from everything for a turn and acts as the most powerful draw engine in the game.
 *   **Windfall / Dark Deal:** Refills your hand and triggers discard synergies.
 *   **Whispering Madness:** Repeatable wheel with Cipher for massive synergy.
 *   **Fact or Fiction:** Premier instant-speed selection.
 *   **Faithless Looting:** Cheap filtering and graveyard setup.
-*   **Treasure Cruise:** High-value late-game draw.
 
 ### ⚔️ Disruption & Board Control (11 Targeted / 5 Mass)
 *   **Terminate / Bedevil / Bitter Triumph / Go for the Throat:** Efficient removal.
@@ -128,7 +127,20 @@ These items are still outstanding from your most recent purchases.
 
 ---
 
+## 🃏 Sideboard
+*These cards are physically held in the sideboard box to adapt the deck's power and strategy.*
+
+### 🛡️ Rotated Staples
+*   **Treasure Cruise:** High-value draw, but rotated out for *The One Ring*.
+*   **Ring of Evos Isle:** Defensive equipment, previously a placeholder for *Whispersilk Cloak*.
+
+---
+
 ## 📜 Deck Changelog
+*   **2026-02-27:** Upgraded to **Bracket 3**.
+    *   **In:** The One Ring.
+    *   **Out:** Treasure Cruise (to Sideboard).
+    *   **Reason:** Integrated high-power draw engine and protection. Moved to Bracket 3 compliance.
 *   **2026-02-27:** Physical Integration of Discard/Evasion Package & Mana Base Adjustment.
     *   **In:** Lazotep Chancellor, Anger, Bone Miser, Archfiend of Ifnir, Living Death, Whispersilk Cloak, The Black Gate, Rogue's Passage, 1x Swamp, 1x Island.
     *   **Out:** Moria Scavenger, Haunt of the Dead Marshes, Summons of Saruman, Ring of Evos Isle, Barad-dûr, Glóin, Dwarf Emissary, Sedraxis Alchemist, 2x Swamp, 1x Island, 1x Mountain.
@@ -184,11 +196,11 @@ DECK:
 1 Dimir Signet      
 1 Izzet Signet      
 1 Rakdos Signet      
+1 The One Ring      
 1 Windfall      
 1 Fact or Fiction      
 1 Whispering Madness      
 1 Faithless Looting      
-1 Treasure Cruise      
 1 Dark Deal      
 1 Terminate      
 1 Bedevil      
@@ -231,3 +243,7 @@ DECK:
 8 Swamp      
 5 Island      
 3 Mountain    
+
+SIDEBOARD:  
+1 Treasure Cruise  
+1 Ring of Evos Isle  
