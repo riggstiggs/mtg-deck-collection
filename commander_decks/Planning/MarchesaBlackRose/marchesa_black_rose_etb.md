@@ -75,7 +75,22 @@
 
 ---
 
-## 📜 Deck Changelog
+## 🚀 Future Roadmap: Upgrades & Considerations
+
+### 💡 High-Impact Tech to Consider
+*These cards are not currently in the deck but are top-tier candidates for future upgrades based on technical analysis.*
+
+*   **Glen Elendra Archmage (3U):** Provides repeatable non-creature counterspells. While powerful, the user has opted to omit this for current playstyle reasons.
+*   **Ancient Tomb (Land):** Provides massive acceleration at the cost of life, which helps enable Dethrone if needed. (Note: This is a **Game Changer** card).
+
+### 🛒 Active Acquisition List (Priority Swaps)
+*Use this section to track cards decided for the 'Iron Throne' shell.*
+
+| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
+| :--- | :--- | :--- | :--- |
+| [Card Name] | [Card Name] | [Category] | [Pending/Ordered/Received] |
+
+---
 *   **2026-02-28:** "The Iron Throne" Overhaul.
     *   **Goal:** Hardening the engine to be independent of Dethrone/Combat.
     *   **In:** Vigean Graftmage, Metallic Mimic, Mikaeus, the Unhallowed, Iron Apprentice, Murderous Redcap.

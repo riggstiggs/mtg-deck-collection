@@ -22,15 +22,15 @@
 
 ---
 
-## 🚀 High-Impact Considerations
-*These cards are not currently in the deck but are top-tier candidates for future upgrades.*
+## 🚀 Future Roadmap: Upgrades & Considerations
 
-*   **[Card Name] ([Mana Cost]):** [Explanation of why this card is a strong future inclusion.]
+### 💡 High-Impact Tech to Consider
+*These cards are not currently in the deck but are top-tier candidates for future upgrades based on technical analysis.*
 
----
+*   **[Card Name] ([Mana Cost]):** [Explanation of why this card is a strong future inclusion and what it might replace.]
 
-## 📈 Priority Upgrade List
-*Use this section to track cards you are planning to acquire or swap.*
+### 🛒 Active Acquisition List (Priority Swaps)
+*Use this section to track cards you have decided to acquire and the specific cards they will replace.*
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
