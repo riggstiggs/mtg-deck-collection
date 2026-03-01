@@ -3,6 +3,13 @@
 ## 🗓️ February 2026: The "New Era" & Grixis Optimization
 *Focus shifted to high-power Paper Commander optimization, centering on the "New Era" template (38 lands, high-impact synergy).*
 
+### 2026-02-28: Marchesa Overhaul (The Iron Throne)
+*   **Strategy Shift:** Moved to an "Entry-Insured" model for **Marchesa, the Black Rose**. Replaced combat-dependent Dethrone triggers with passive enablers (**Graft, Undying, Persist**) to ensure creatures are protected the moment they hit the battlefield.
+*   **Key Swaps:**
+    *   **In:** Vigean Graftmage, Metallic Mimic, Mikaeus the Unhallowed, Iron Apprentice, Murderous Redcap.
+    *   **Out:** Sower of Temptation, Dack's Duplicate, Hostage Taker, Drana, Liberator of Malakir, Vindictive Lich.
+*   **Outcome:** The deck is now significantly more resilient and independent of life-total management.
+
 ### 2026-02-27: Sauron Physical Integration & Win-Con Strategy
 *   **Physical Integration:** Successfully integrated the **Discard/Evasion Package** (Lazotep Chancellor, Anger, Bone Miser, Archfiend of Ifnir, Living Death, Whispersilk Cloak, The Black Gate, Rogue's Passage).
 *   **Maintenance:** Removed **Sedraxis Alchemist** and **Glóin, Dwarf Emissary** for 1x Swamp and 1x Island to hit the 38-land goal for improved consistency.

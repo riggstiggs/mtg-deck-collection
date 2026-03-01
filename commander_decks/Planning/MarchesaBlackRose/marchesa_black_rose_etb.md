@@ -1,27 +1,25 @@
-# Deck Guide: Marchesa, the Black Rose (The Queen's Attrition)
+# Deck Guide: Marchesa, the Black Rose (The Iron Throne)
 
 ## Commander Strategy
 **Marchesa, the Black Rose**
-*   **Archetype:** Grixis Aristocrats / ETB & Death Trigger Value
+*   **Archetype:** Grixis Aristocrats / "Entry-Insured" Loops
 *   **Bracket:** 3 (Upgraded)
-*   **Core Goal:** Create an immortal loop of creatures. By using Marchesa's ability to return creatures with +1/+1 counters to the battlefield at the end of the turn, we repeatedly trigger "Enter the Battlefield" (ETB) and "Death" abilities for massive value and board control.
+*   **Core Goal:** Create an immortal board state by ensuring every creature enters the battlefield with a +1/+1 counter. By prioritizing passive enablers (Graft, Undying, Persist), we remove the "window of vulnerability" and make the deck independent of the Combat phase and Dethrone triggers.
 
 ---
 
 ## 🛠️ Card Explanations
 
-### 🗡️ ETB & Death Value (Key Loop Targets) (21 Cards)
+### 🗡️ ETB & Death Value (Key Loop Targets) (20 Cards)
 *   **Ravenous Chupacabra:** Repeatable targeted creature removal.
 *   **Gray Merchant of Asphodel:** Massive life drain finisher.
 *   **Mulldrifter:** Repeatable 2-card draw engine.
 *   **Solemn Simulacrum:** Repeatable ramp and card draw.
 *   **Baleful Strix:** Reusable card draw and lethal blocker.
 *   **Flayer of the Hatebound:** Deals damage whenever a creature returns from the graveyard (primary win condition).
-*   **Puppeteer Clique:** Loops opponents' creatures from their graveyards.
+*   **Puppeteer Clique:** Loops opponents' creatures from their graveyards. Has built-in Persist for self-looping.
 *   **Zealous Conscripts:** Steals permanents; loop them to keep them forever.
-*   **Hostage Taker:** Exiles an artifact or creature and lets you cast it. Perfect for repeatable loops.
-*   **Sower of Temptation:** Temporary theft that becomes permanent if you loop it with Marchesa.
-*   **Dack's Duplicate:** Copies the best creature on the board with Dethrone and Haste.
+*   **Murderous Redcap:** Deals damage on entry/death. Built-in Persist makes it a self-sustaining loop piece with a counter-enabler.
 *   **River Kelpie:** Draws cards when things enter from the graveyard AND when they leave.
 *   **Grim Haruspex / Midnight Reaper:** Card draw whenever your non-token creatures die.
 *   **Satoru, the Infiltrator:** Draws a card every time a creature enters the battlefield without being cast.
@@ -29,7 +27,6 @@
 *   **Blood Artist / Zulaport Cutthroat:** Drains opponents whenever creatures die.
 *   **Chasm Skulker:** Grows with every card drawn; creates a swarm of tokens on death.
 *   **Spark Double:** Copies Marchesa (or another engine piece) while ignoring the Legend rule.
-*   **Vindictive Lich:** Forces discard, sacrifice, and life loss on death. Re-added for maximum attrition.
 *   **Mayhem Devil:** Deals 1 damage to any target whenever ANY player sacrifices a permanent. Elite interaction.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (6 Cards)
@@ -40,12 +37,15 @@
 *   **Goblin Bombardment:** Converts your loops into direct damage.
 *   **Immersturm Predator:** Free sacrifice outlet with built-in graveyard hate.
 
-### 🛡️ Counter Enablers (The "Insurance" Makers) (6 Cards)
-*   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature. Saves creatures and enables Dethrone.
+### 🛡️ Counter Enablers (The "Insurance" Makers) (8 Cards)
+*   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature at instant speed.
+*   **Vigean Graftmage:** Enters with counters and "Grafts" them onto new arrivals, insuring them the second they touch the board.
+*   **Metallic Mimic:** Naming "Wizard" ensures Marchesa and key protection pieces enter with a counter automatically.
+*   **Mikaeus, the Unhallowed:** Grants Undying to non-humans, providing a powerful secondary insurance layer if a creature lacks a counter.
+*   **Iron Apprentice:** A 1-drop bridge that enters with a counter and "passes" it to your next target when it dies.
 *   **The Ozolith:** Saves all counters from dying creatures to move onto Marchesa or key loop targets.
 *   **Uncivil Unrest:** Creatures enter with a counter (Riot) and deal double damage if they have a counter.
 *   **Sage of Fables:** Wizards enter with a counter (Marchesa is a Wizard).
-*   **Drana, Liberator of Malakir:** Puts counters on your whole board when she attacks.
 *   **Herald of Secret Streams:** Makes all your creatures with counters unblockable.
 
 ### 💎 Ramp & Utility (9 Cards)
@@ -53,7 +53,7 @@
 *   **Dimir Signet / Izzet Signet / Rakdos Signet:** Mana fixing.
 *   **Talisman of Indulgence / Creativity / Dominance:** Fast fixing.
 
-### ⚔️ Disruption & Board Control (16 Cards)
+### ⚔️ Disruption & Board Control (15 Cards)
 *   **Terminate / Chaos Warp / Bedevil / Feed the Swarm:** Flexible removal.
 *   **Imprisoned in the Moon:** Neutralizes Commanders, problematic Lands, or Planeswalkers.
 *   **Toxic Deluge / Blasphemous Act:** Board wipes that help control life totals.
@@ -76,6 +76,11 @@
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-28:** "The Iron Throne" Overhaul.
+    *   **Goal:** Hardening the engine to be independent of Dethrone/Combat.
+    *   **In:** Vigean Graftmage, Metallic Mimic, Mikaeus, the Unhallowed, Iron Apprentice, Murderous Redcap.
+    *   **Out:** Sower of Temptation, Dack's Duplicate, Hostage Taker, Drana, Liberator of Malakir, Vindictive Lich.
+    *   **Reason:** Shifted priority to "Enter with Counter" (Graft/Undying) to ensure creatures are insured immediately upon entering the battlefield.
 *   **2026-02-23:** Re-Addressed Mathematical Stability.
     *   **Final Count:** Exactly 100 cards.
     *   **In:** Mayhem Devil, Vindictive Lich, Siren Stormtamer.
@@ -98,9 +103,7 @@ DECK:
 1 Flayer of the Hatebound  
 1 Puppeteer Clique  
 1 Zealous Conscripts  
-1 Hostage Taker  
-1 Sower of Temptation  
-1 Dack's Duplicate  
+1 Murderous Redcap  
 1 River Kelpie  
 1 Grim Haruspex  
 1 Midnight Reaper  
@@ -108,7 +111,6 @@ DECK:
 1 Juri, Master of the Revue  
 1 Chasm Skulker  
 1 Spark Double  
-1 Vindictive Lich  
 1 Mayhem Devil  
 1 Yawgmoth, Thran Physician  
 1 Viscera Seer  
@@ -119,10 +121,13 @@ DECK:
 1 Goblin Bombardment  
 1 Immersturm Predator  
 1 Unspeakable Symbol  
+1 Vigean Graftmage  
+1 Metallic Mimic  
+1 Mikaeus, the Unhallowed  
+1 Iron Apprentice  
 1 The Ozolith  
 1 Uncivil Unrest  
 1 Sage of Fables  
-1 Drana, Liberator of Malakir  
 1 Herald of Secret Streams  
 1 Arcane Signet  
 1 Sol Ring  
