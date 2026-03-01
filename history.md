@@ -3,6 +3,12 @@
 ## 🗓️ February 2026: The "New Era" & Grixis Optimization
 *Focus shifted to high-power Paper Commander optimization, centering on the "New Era" template (38 lands, high-impact synergy).*
 
+### 2026-02-28: Zangief Overhaul & Goldfish Protocol
+*   **New Project:** Started planning for **Zangief, the Red Cyclone** (Jund Forced-Combat Attrition). Defined the "Siberian Blizzard" strategy using Keyword Soup (Deathtouch/Trample) and Lure effects.
+*   **Documentation:** Established the **Goldfish Validation Protocol** in `COMMANDER_TEMPLATE.md`. Mandatory 5-game "Honest" simulation for all new builds to verify mana stability and synergy.
+*   **Tooling:** Developed `scripts/goldfish_shuffler.py` to automate deck parsing and timestamp-seeded shuffling for simulations.
+*   **Status:** Zangief build completed for Strong Bracket 2. 5-game Goldfish trial passed with high resilience scores.
+
 ### 2026-02-28: Marchesa Overhaul (The Iron Throne)
 *   **Strategy Shift:** Moved to an "Entry-Insured" model for **Marchesa, the Black Rose**. Replaced combat-dependent Dethrone triggers with passive enablers (**Graft, Undying, Persist**) to ensure creatures are protected the moment they hit the battlefield.
 *   **Key Swaps:**
