@@ -29,6 +29,7 @@ Decks physically built and ready for play.
 *   **Captain America:** Jeskai Equipment Voltron.
 *   **Meren Reanimator:** Golgari graveyard value.
 *   **Sauron Midrange:** Grixis Amass and Ring Temptation.
+*   **Preconstructed Decks:** Original and modified PreCons (Ashling, Bello, Disa, Ulalek, etc.).
 
 #### 📁 `/External`
 Completed decks built for family and friends.
@@ -44,10 +45,6 @@ Decks under development, research, or being optimized.
 *   **Yidris Cascade:** 4-Color "Value Cascade".
 *   **Henzie Blitz:** Jund sacrifice and aggro.
 *   **Ulamog Ramp:** Colorless high-power ramp.
-
-#### 📁 `/PreCons`
-Original and upgraded preconstructed deck lists.
-*   *Includes: Ashling, Auntie Ool, Bello, Cloud Ex-SOLDIER, Disa, Hazel, Ms. Bumbleflower, Satya, Ulalek, and more.*
 
 ### 🎮 `/arena_decks`
 Optimized lists for MTG Arena formats (Standard, Brawl, Timeless).
