@@ -43,6 +43,7 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 *   **GitHub Synchronization:** **CRITICAL:** All changes made to this project must be committed and pushed to the GitHub repository to maintain synchronization across environments.
 *   **Deck Changelog:** Maintain a `## Deck Changelog` section in every deck file. Document all card changes (In/Out) with a date and a brief reason. Format must match `commander_decks/Planning/OmnathLocusOfCreation/omnath_locus_of_creation_landfall.md`.
 *   **Bracket Compliance:** When modifying Commander decks, verify the "Game Changers" count against `COMMANDER_DECKBUILDING_RULES.md`.
+*   **Goldfish Validation:** **MANDATORY:** After completing a new build or a major overhaul, perform a 5-game "Honest Goldfish" simulation (following the protocol in `COMMANDER_TEMPLATE.md`) using `scripts/goldfish_shuffler.py` to verify mana stability and strategy. Log the results in a `GOLDFISH_LOG.md` within the deck's directory.
 *   **History Updates:** Summarize significant decisions or deck overhauls in `history.md`.
 
 ## 4. User Preferences & Context
