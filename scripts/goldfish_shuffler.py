@@ -111,7 +111,11 @@ def main():
         elif i == 7:
             label = "[Turn 1 Draw]"
             
-        print(f"{i+1:2}: {card:<30} {label}")
+        # Generate a Scryfall Search URL for the card
+        # Replace spaces with pluses for the URL
+        scryfall_url = f"https://scryfall.com/search?q={card.replace(' ', '+')}"
+            
+        print(f"{i+1:2}: {card:<25} {label:<15} -> {scryfall_url}")
     print("-" * 40)
 
 if __name__ == "__main__":

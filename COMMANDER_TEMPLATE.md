@@ -29,7 +29,7 @@ After completing a new build or a major overhaul, perform a **5-game "Honest Gol
 2.  **No Foresight:** Do not look at future cards. Draw one card per turn (plus any additional draws from spells/abilities).
 3.  **Real-Time Shuffling:** If a card causes a search (e.g., *Evolving Wilds*, *Demonic Tutor*), the remaining deck MUST be re-shuffled immediately.
 4.  **Turn-by-Turn Analysis:**
-    *   **Recap:** List actions, spells cast, and mana spent.
+    *   **Recap:** List actions, spells cast, and mana spent. **MANDATORY:** Include Scryfall links or Markdown image renders for every card drawn or played so the user can visually inspect them.
     *   **Board Status:** Briefly state the current board state.
     *   **Turn Comment:** Provide real-time strategic thoughts on the game flow, any "mana-screw" or "flood," and the perceived efficiency of the current hand.
 5.  **Logging:** Save the results to a `GOLDFISH_LOG.md` file within the deck's directory.
