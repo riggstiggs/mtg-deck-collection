@@ -28,12 +28,17 @@ Decks physically built and ready for play.
 *   **Karametra Angels:** Selesnya ramp and tribal synergy.
 *   **Captain America:** Jeskai Equipment Voltron.
 *   **Meren Reanimator:** Golgari graveyard value.
-*   **Rafiq Voltron:** Bant Exalted/Commander damage.
 *   **Sauron Midrange:** Grixis Amass and Ring Temptation.
+
+#### 📁 `/External`
+Completed decks built for family and friends.
+*   **John:**
+    *   **Rafiq Voltron:** Bant Exalted/Commander damage.
+*   **Christina:**
+    *   **Alela Faerie Rogues:** Dimir "Flash" shell (Cunning Conqueror).
 
 #### 📁 `/Planning`
 Decks under development, research, or being optimized.
-*   **Alela Faerie Rogues:** Dimir budget "Flash" shell (Cunning Conqueror) for Christina. **COMPLETED & ORDERED.**
 *   **Omnath Landfall:** 4-Color value engine (Locus of Creation).
 *   **Thalia & Gitrog:** Abzan Landfall & Hatebears.
 *   **Yidris Cascade:** 4-Color "Value Cascade".
