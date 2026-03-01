@@ -61,6 +61,8 @@
     *   **Suggested Swap:** *Damnation*.
 *   **The Great Henge (7GG):** The ultimate Jund staple. Usually costs only {GG} with Zangief out. Provides ramp, lifegain, and draws a card every time a creature enters.
     *   **Suggested Swap:** *Greater Good*.
+*   **Rancor (G):** Provides +2/+0 and Trample for a single mana. The recursion (returning to hand on death) makes it an incredibly resilient way to ensure Zangief always triggers his sacrifice ability.
+    *   **Suggested Swap:** *Inscription of Abundance*.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 *Tracking cards decided for the Bracket 2 shell.*
@@ -70,6 +72,7 @@
 | Shadowspear | TBD | Equipment | Planning |
 | Basilisk Collar | TBD | Equipment | Planning |
 | Pain for All | TBD | Attrition | Planning |
+| Rancor | Inscription of Abundance | Keywords | Planning |
 
 ---
 
