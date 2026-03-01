@@ -48,6 +48,20 @@
 
 ---
 
+## 🚀 High-Impact Considerations
+*These cards are not currently in the deck but are top-tier candidates for future upgrades based on recent technical analysis.*
+
+*   **Falthis, Shadowcat Familiar (2B):** Grants Deathtouch and Menace. Menace is arguably the best keyword for Zangief as it guarantees multiple blockers, making excess damage triggers nearly automatic.
+    *   **Suggested Swap:** *Saryth, the Viper's Fang*. While Saryth provides protection, Falthis's Menace is a more aggressive and synergistic enabler for the Commander's triggers.
+*   **Lizard Blades (1R):** Grants Double Strike. This allows Zangief to potentially trigger his "Excess Damage" sacrifice ability twice in a single combat (once in First Strike, once in regular).
+    *   **Suggested Swap:** *Geode Rager*. Goad is powerful, but Double Strike is a force-multiplier for Zangief's core engine.
+*   **Massacre Wurm (3BBB):** A one-sided board wipe for small creatures that punishes opponents for every death. Fits the "Attrition" theme perfectly while sparing Zangief.
+    *   **Suggested Swap:** *Damnation*. Swapping a generic wipe for a synergistic one increases the deck's win-condition density.
+*   **The Great Henge (7GG):** The ultimate Jund staple. Usually costs only {GG} with Zangief out. Provides ramp, lifegain, and draws a card every time a creature enters.
+    *   **Suggested Swap:** *Greater Good*. Both are power-based draw engines, but The Great Henge provides significantly more cumulative value and board stabilization.
+
+---
+
 ## 📈 Priority Upgrade List
 *Tracking cards for the Bracket 2 shell.*
 
