@@ -20,7 +20,7 @@
 *   **Leyline Tyrant / Savage Ventmaw:** Generates or stores mana to fuel massive dragon turns.
 *   **Hellkite Charger:** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
 *   **Bladewing the Risen:** Thematic recursion for the late game.
-*   **Skyline Despot:** Introduces "The Monarch," encouraging interactive gameplay.
+*   **Shadowspear:** **UTILITY MVP.** Provides Trample and Lifelink, and its activated ability strips Hexproof and Indestructible from opponents' boards.
 *   **Steel Hellkite:** Repeatable mass removal on a body.
 *   **Dromoka, the Eternal:** Bolster engine that turns your board into a lethal threat.
 *   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.

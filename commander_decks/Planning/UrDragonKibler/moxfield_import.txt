@@ -63,6 +63,7 @@ Deck
 1 Scourge of Kher Ridges
 1 Scourge of Valkas
 1 Silumgar, the Drifting Death
+1 Shadowspear
 1 Sol Ring
 1 Steel Hellkite
 1 Sylvan Caryatid
