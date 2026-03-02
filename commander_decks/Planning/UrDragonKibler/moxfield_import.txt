@@ -50,7 +50,6 @@ Deck
 1 Miirym, Sentinel Wyrm
 1 Morophon, the Boundless
 1 Nature's Lore
-1 Overgrown Tomb
 1 Return of the Wildspeaker
 1 Rhythm of the Wild
 1 Rishkar's Expertise
@@ -84,11 +83,9 @@ Deck
 1 Adarkar Wastes
 1 Stubborn Denial
 1 Sylvan Caryatid
-1 Temple Garden
 1 Temur Ascendancy
 1 Terminate
 1 Three Visits
-1 Tiamat
 1 Up the Beanstalk
 1 Utvara Hellkite
 1 Zurgo and Ojutai

@@ -80,6 +80,9 @@
 ---
 
 ## 📜 Deck Changelog
+*   **2026-02-28:** Math Correction.
+    *   **Final Count:** Exactly 99 cards + 1 Commander.
+    *   **Fix:** Removed leftover high-budget cards (Tiamat, 6 Shock Lands) that were accidentally retained during the previous pivot.
 *   **2026-02-28:** Budget Optimization.
     *   **Goal:** Reduce deck cost by ~$180 while maintaining power and synergy.
     *   **In:** Hellkite Charger, Sarkhan's Triumph, Leyline Tyrant, Faeburrow Elder, Paradise Druid, Colossal Majesty, Negate, Tango Lands.
@@ -174,11 +177,9 @@ DECK:
 1 Adarkar Wastes  
 1 Stubborn Denial  
 1 Sylvan Caryatid  
-1 Temple Garden  
 1 Temur Ascendancy  
 1 Terminate  
 1 Three Visits  
-1 Tiamat  
 1 Up the Beanstalk  
 1 Utvara Hellkite  
 1 Zurgo and Ojutai  
