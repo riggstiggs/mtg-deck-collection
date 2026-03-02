@@ -40,6 +40,7 @@ Deck
 1 Fellwar Stone
 1 Garruk's Uprising
 1 Generous Gift
+1 Guardian Project
 1 Haven of the Spirit Dragon
 1 Hellkite Courser
 1 Herald's Horn
