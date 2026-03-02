@@ -1,10 +1,10 @@
-# Deck Guide: The Ur-Dragon (Kibler's Flight - Bracket 2 Budget Edition)
+# Deck Guide: The Ur-Dragon (Kibler's Flight - Bracket 2 "Fair" Edition)
 
 ## Commander Strategy
 **The Ur-Dragon**
 *   **Archetype:** 5-Color Dragon Tribal / Midrange
 *   **Bracket:** 2 (Core)
-*   **Core Goal:** Utilize the Ur-Dragon's *Eminence* ability to reduce the cost of massive, high-impact Dragon creatures. This version is budget-optimized for "Bracket 2" tables, swapping $300+ of high-end staples for efficient alternatives while maintaining 5-color stability and high dragon density.
+*   **Core Goal:** Utilize the Ur-Dragon's *Eminence* ability to reduce the cost of massive, high-impact Dragon creatures. This version is tuned for "Bracket 2" tables, focusing on incremental board presence and thematic "Big Dragon" finishers rather than explosive, optimized resource engines.
 
 ---
 
@@ -16,9 +16,9 @@
 *   **Atarka, World Render / Dragonlord Kolaghan:** Provides Double Strike and Haste to close out games.
 *   **Dragonlord Dromoka / Silumgar, the Drifting Death:** Provides protection and incremental board control.
 *   **Miirym, Sentinel Wyrm:** Doubles your dragon threats (thematic value engine).
-*   **Sarkhan's Triumph:** Instant-speed dragon tutor (Efficient budget alternative to Tiamat).
-*   **Leyline Tyrant / Savage Ventmaw:** Generates or stores mana to fuel massive dragon turns.
-*   **Hellkite Charger:** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
+*   **Tiamat:** The ultimate dragon tutor (telegraphed and high CMC).
+*   **Klauth, Unrivaled Ancient / Savage Ventmaw:** Generates mana during combat to fuel further plays.
+*   **Ancient Copper Dragon:** A high-impact "jackpot" card for the deck.
 *   **Bladewing the Risen:** Thematic recursion for the late game.
 *   **Skyline Despot:** Introduces "The Monarch," encouraging interactive gameplay.
 *   **Steel Hellkite:** Repeatable mass removal on a body.
@@ -35,7 +35,7 @@
 *   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
 *   **Rishkar's Expertise / Return of the Wildspeaker:** Burst draw based on your largest dragon.
 *   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
-*   **Colossal Majesty:** Consistent draw since dragons are always the biggest creatures. (Budget alternative to Guardian Project).
+*   **Guardian Project:** Consistent draw for every non-token creature.
 *   **Escape to the Wilds:** Impulse draw and extra land drop.
 
 ### 💎 Ramp & Acceleration (12 Cards)
@@ -43,12 +43,12 @@
 *   **Dragon's Hoard:** Thematic ramp and incidental card draw.
 *   **Farseek / Nature's Lore / Three Visits:** Land fixing.
 *   **Cultivate / Kodama's Reach:** Standard green ramp.
-*   **Paradise Druid / Faeburrow Elder / Sylvan Caryatid:** Efficient dorks for 5-color fixing and acceleration.
+*   **Birds of Paradise / Bloom Tender / Sylvan Caryatid:** High-efficiency dorks for 5-color fixing and acceleration.
 *   **Fellwar Stone:** Efficient artifact fixing.
 
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
-*   **Stubborn Denial / Negate:** Low-CMC protection for your board. (Negate is a budget alternative to Swan Song).
+*   **Stubborn Denial / Swan Song:** Low-CMC protection for your board.
 *   **Bedevil / Terminate / Anguished Unmaking:** Targeted removal for various threats.
 
 ### ☢️ Mass Disruption (5 Cards)
@@ -63,14 +63,12 @@
 ## 🚀 Future Roadmap: Upgrades & Considerations
 
 ### 💡 High-Impact Tech to Consider
-*These cards are present in the 'Ideal' Kibler list but were removed to lower the budget.*
+*These cards are present in the 'Ideal' Kibler list but were removed to maintain Bracket 2 compliance.*
 
-*   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon. Replaced by Hellkite Charger.
-*   **Tiamat ($21):** Premium dragon tutor. Replaced by Sarkhan's Triumph.
-*   **Klauth, Unrivaled Ancient ($18):** High-power mana generator. Replaced by Leyline Tyrant.
-*   **Guardian Project ($12):** Elite draw engine. Replaced by Colossal Majesty.
-*   **Swan Song ($7):** Hyper-efficient protection. Replaced by Negate.
-*   **Shock Lands ($55 total):** Replaced by Tango/Battle lands for budget efficiency.
+*   **Old Gnawbone (7GG):** Generates massive treasure on combat damage. Removed for being too explosive/snowballing for Bracket 2.
+*   **Terror of the Peaks (3RR):** Machine-guns the board as dragons enter. Removed for being potentially oppressive.
+*   **The Great Henge (7GG):** Elite ramp and draw. Removed as it is a "soft" Game Changer.
+*   **Cyclonic Rift / Smothering Tithe:** Official "Game Changers" removed for bracket rules.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
@@ -80,10 +78,10 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** Budget Optimization.
-    *   **Goal:** Reduce deck cost by ~$180 while maintaining power and synergy.
-    *   **In:** Hellkite Charger, Sarkhan's Triumph, Leyline Tyrant, Faeburrow Elder, Paradise Druid, Colossal Majesty, Negate, Tango Lands.
-    *   **Out:** Ancient Copper Dragon, Tiamat, Klauth, Bloom Tender, Birds of Paradise, Guardian Project, Swan Song, Shock Lands.
+*   **2026-02-28:** "Fair" Bracket 2 Build Finalization.
+    *   **Final Count:** Exactly 99 cards + 1 Commander.
+    *   **In:** Sarkhan Soul Aflame, Zurgo and Ojutai, Anguished Unmaking, Bedevil.
+    *   **Fix:** Corrected typo 'Sandsteppe Citadel' and stabilized land base at 38.
 
 ---
 
@@ -92,25 +90,19 @@ COMMANDER:
 1 The Ur-Dragon *CMDR*  
 
 DECK:  
-1 Hellkite Charger  
-1 Sarkhan's Triumph  
-1 Leyline Tyrant  
-1 Faeburrow Elder  
-1 Paradise Druid  
-1 Colossal Majesty  
-1 Negate  
+1 Ancient Copper Dragon  
+1 Anguished Unmaking  
 1 Arcane Signet  
 1 Atarka, World Render  
 1 Austere Command  
 1 Beast Within  
 1 Bedevil  
+1 Birds of Paradise  
 1 Bladewing the Risen  
 1 Blasphemous Act  
-1 Canopy Vista  
-1 Cinder Glade  
-1 Prairie Stream  
-1 Smoldering Marsh  
-1 Sunken Hollow  
+1 Blood Crypt  
+1 Bloom Tender  
+1 Breeding Pool  
 1 Chaos Warp  
 1 Command Tower  
 1 Crux of Fate  
@@ -130,9 +122,11 @@ DECK:
 1 Fellwar Stone  
 1 Garruk's Uprising  
 1 Generous Gift  
+1 Guardian Project  
 1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
 1 Herald's Horn  
+1 Klauth, Unrivaled Ancient  
 1 Knollspine Dragon  
 1 Kodama's Reach  
 1 Lathliss, Dragon Queen  
@@ -152,7 +146,25 @@ DECK:
 1 Silumgar, the Drifting Death  
 1 Skyline Despot  
 1 Sol Ring  
+1 Steam Vents  
 1 Steel Hellkite  
+1 Stomping Ground  
+1 Stubborn Denial  
+1 Swan Song  
+1 Sylvan Caryatid  
+1 Temple Garden  
+1 Temur Ascendancy  
+1 Terminate  
+1 Three Visits  
+1 Tiamat  
+1 Up the Beanstalk  
+1 Utvara Hellkite  
+1 Zurgo and Ojutai  
+1 Savage Lands  
+1 Sandsteppe Citadel  
+1 Arcane Sanctum  
+1 Crumbling Necropolis  
+1 Jungle Shrine  
 1 Dragonskull Summit  
 1 Drowned Catacomb  
 1 Glacial Fortress  
@@ -172,23 +184,7 @@ DECK:
 1 Battlefield Forge  
 1 Brushland  
 1 Adarkar Wastes  
-1 Stubborn Denial  
-1 Sylvan Caryatid  
-1 Temple Garden  
-1 Temur Ascendancy  
-1 Terminate  
-1 Three Visits  
-1 Tiamat  
-1 Up the Beanstalk  
-1 Utvara Hellkite  
-1 Zurgo and Ojutai  
-1 Savage Lands  
-1 Sandsteppe Citadel  
-1 Arcane Sanctum  
-1 Crumbling Necropolis  
-1 Jungle Shrine  
-1 Anguished Unmaking  
-2 Forest  
+1 Forest  
 1 Mountain  
 1 Swamp  
 1 Plains  
