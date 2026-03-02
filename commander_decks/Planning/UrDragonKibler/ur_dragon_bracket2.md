@@ -27,6 +27,9 @@
 *   **Herald's Horn:** Tribal ramp and consistent "free" card advantage.
 *   **Knollspine Dragon:** Huge burst draw that rewards you for attacking.
 *   **Morophon, the Boundless:** **MVP.** Reduces dragon costs by {W}{U}{B}{R}{G}, making them nearly free with Eminence.
+*   **Sarkhan, Soul Aflame / Zurgo and Ojutai:** High-utility dragons that provide cost reduction/protection and card draw.
+*   **Rhythm of the Wild:** Ensures your creatures can't be countered and provides Haste or counters.
+*   **Scalelord Reckoner:** Protects your dragons by punishing opponents for targeting them.
 
 ### 💉 Card Advantage & Anti-Stall (8 Cards)
 *   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
@@ -46,14 +49,12 @@
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
 *   **Stubborn Denial / Swan Song:** Low-CMC protection for your board.
-*   **Bedevil / Terminate:** Targeted removal for various threats.
+*   **Bedevil / Terminate / Anguished Unmaking:** Targeted removal for various threats.
 
 ### ☢️ Mass Disruption (5 Cards)
 *   **Crux of Fate:** Thematic board wipe that spares your dragons.
 *   **Blasphemous Act:** Standard efficient board wipe.
 *   **Austere Command:** Flexible wipe for artifacts, enchantments, or creatures.
-*   **Living Death:** A recovery piece that can also act as a board reset.
-*   **Scourge of Kher Ridges:** A "Repeatable Wipe" on a dragon body.
 *   **Living Death:** A recovery piece that can also act as a board reset.
 *   **Scourge of Kher Ridges:** A "Repeatable Wipe" on a dragon body.
 
@@ -77,9 +78,10 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** "Fair" Bracket 2 Build Creation.
-    *   **Goal:** Adapt Kibler's Ur-Dragon for lower-power tables.
-    *   **Logic:** Replaced ABUR Duals/Fetches with Check/Pain/Tri-lands. Swapped high-salt finishers for thematic alternatives.
+*   **2026-02-28:** "Fair" Bracket 2 Build Finalization.
+    *   **Final Count:** Exactly 99 cards + 1 Commander.
+    *   **In:** Sarkhan Soul Aflame, Zurgo and Ojutai, Anguished Unmaking, Bedevil.
+    *   **Fix:** Corrected typo 'Sandsteppe Citadel' and stabilized land base at 38.
 
 ---
 
@@ -89,10 +91,12 @@ COMMANDER:
 
 DECK:  
 1 Ancient Copper Dragon  
+1 Anguished Unmaking  
 1 Arcane Signet  
 1 Atarka, World Render  
 1 Austere Command  
 1 Beast Within  
+1 Bedevil  
 1 Birds of Paradise  
 1 Bladewing the Risen  
 1 Blasphemous Act  
@@ -134,6 +138,7 @@ DECK:
 1 Return of the Wildspeaker  
 1 Rhythm of the Wild  
 1 Rishkar's Expertise  
+1 Sarkhan, Soul Aflame  
 1 Savage Ventmaw  
 1 Scalelord Reckoner  
 1 Scourge of Kher Ridges  
@@ -154,8 +159,9 @@ DECK:
 1 Tiamat  
 1 Up the Beanstalk  
 1 Utvara Hellkite  
+1 Zurgo and Ojutai  
 1 Savage Lands  
-1 Sandstep Citadel  
+1 Sandsteppe Citadel  
 1 Arcane Sanctum  
 1 Crumbling Necropolis  
 1 Jungle Shrine  
@@ -178,7 +184,6 @@ DECK:
 1 Battlefield Forge  
 1 Brushland  
 1 Adarkar Wastes  
-1 Underground River  
 1 Forest  
 1 Mountain  
 1 Swamp  

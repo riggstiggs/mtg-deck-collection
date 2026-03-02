@@ -3,10 +3,12 @@ Commander
 
 Deck
 1 Ancient Copper Dragon
+1 Anguished Unmaking
 1 Arcane Signet
 1 Atarka, World Render
 1 Austere Command
 1 Beast Within
+1 Bedevil
 1 Birds of Paradise
 1 Bladewing the Risen
 1 Blasphemous Act
@@ -48,6 +50,7 @@ Deck
 1 Return of the Wildspeaker
 1 Rhythm of the Wild
 1 Rishkar's Expertise
+1 Sarkhan, Soul Aflame
 1 Savage Ventmaw
 1 Scalelord Reckoner
 1 Scourge of Kher Ridges
@@ -68,8 +71,9 @@ Deck
 1 Tiamat
 1 Up the Beanstalk
 1 Utvara Hellkite
+1 Zurgo and Ojutai
 1 Savage Lands
-1 Sandstep Citadel
+1 Sandsteppe Citadel
 1 Arcane Sanctum
 1 Crumbling Necropolis
 1 Jungle Shrine
@@ -92,7 +96,6 @@ Deck
 1 Battlefield Forge
 1 Brushland
 1 Adarkar Wastes
-1 Underground River
 1 Forest
 1 Mountain
 1 Swamp
