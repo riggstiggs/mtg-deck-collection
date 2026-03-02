@@ -10,7 +10,7 @@
 
 ## 🛠️ Card Explanations
 
-### 🐉 The Draconic Vanguard (Plan Cards) (28 Cards)
+### 🐉 The Draconic Vanguard (Plan Cards) (30 Cards)
 *   **Dragon Tempest / Scourge of Valkas:** Punishes opponents whenever a dragon enters the battlefield.
 *   **Lathliss, Dragon Queen / Utvara Hellkite:** Generates a swarm of dragons to overwhelm the board.
 *   **Atarka, World Render / Dragonlord Kolaghan:** Provides Double Strike and Haste to close out games.
@@ -32,19 +32,20 @@
 *   **Scalelord Reckoner:** Protects your dragons by punishing opponents for targeting them.
 *   **Shadowspear:** **UTILITY MVP.** Provides Trample and Lifelink, and its activated ability strips Hexproof and Indestructible from opponents' boards.
 
-### 💉 Card Advantage & Anti-Stall (7 Cards)
+### 💉 Card Advantage & Anti-Stall (8 Cards)
 *   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
 *   **Rishkar's Expertise / Return of the Wildspeaker:** Burst draw based on your largest dragon.
 *   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
-*   **Guardian Project:** High-value draw for each non-token creature entry.
+*   **Colossal Majesty:** Consistent draw since dragons are always the biggest creatures.
 *   **Escape to the Wilds:** Impulse draw and extra land drop.
+*   **Guardian Project:** High-value draw for each non-token creature entry.
 
-### 💎 Ramp & Acceleration (12 Cards)
+### 💎 Ramp & Acceleration (11 Cards)
 *   **Sol Ring / Arcane Signet:** Standard acceleration.
 *   **Dragon's Hoard:** Thematic ramp and incidental card draw.
 *   **Farseek / Nature's Lore / Three Visits:** **POWERED.** Now fetch Shock lands for immediate 5-color fixing.
 *   **Cultivate / Kodama's Reach:** Standard green ramp.
-*   **Paradise Druid / Faeburrow Elder / Sylvan Caryatid:** Efficient dorks for 5-color fixing and acceleration.
+*   **Faeburrow Elder / Sylvan Caryatid:** Efficient dorks for 5-color fixing and acceleration.
 
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
@@ -78,9 +79,9 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** Absolute Final Count Calibration.
+*   **2026-02-28:** Corrected Build Restoration.
     *   **Final Count:** Exactly 99 cards + 1 Commander.
-    *   **Action:** Removed Stubborn Denial, Colossal Majesty, and Fellwar Stone to reach exactly 100 cards.
+    *   **Action:** Restored Colossal Majesty. Removed Tiamat, Paradise Druid, and Stubborn Denial to stabilize the count and mana curve.
 *   **2026-02-28:** EDHREC Synergy Integration.
     *   **In:** Rivaz of the Claw, Scion of the Ur-Dragon, Ramos Dragon Engine, Two-Headed Hellkite.
     *   **Out:** Fellwar Stone, Zurgo and Ojutai, Skyline Despot, Knollspine Dragon.
@@ -96,7 +97,7 @@ DECK:
 1 Sarkhan's Triumph  
 1 Leyline Tyrant  
 1 Faeburrow Elder  
-1 Paradise Druid  
+1 Colossal Majesty  
 1 Negate  
 1 Arcane Signet  
 1 Atarka, World Render  
@@ -122,6 +123,7 @@ DECK:
 1 Garruk's Uprising  
 1 Generous Gift  
 1 Guardian Project  
+1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
 1 Herald's Horn  
 1 Rivaz of the Claw  
@@ -164,7 +166,6 @@ DECK:
 1 Reflecting Pool  
 1 Command Tower  
 1 Exotic Orchard  
-1 Haven of the Spirit Dragon  
 1 Savage Lands  
 1 Sandsteppe Citadel  
 1 Arcane Sanctum  

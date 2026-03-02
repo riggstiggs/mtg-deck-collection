@@ -6,7 +6,7 @@ Deck
 1 Sarkhan's Triumph
 1 Leyline Tyrant
 1 Faeburrow Elder
-1 Paradise Druid
+1 Colossal Majesty
 1 Negate
 1 Arcane Signet
 1 Atarka, World Render
@@ -32,6 +32,7 @@ Deck
 1 Garruk's Uprising
 1 Generous Gift
 1 Guardian Project
+1 Haven of the Spirit Dragon
 1 Hellkite Courser
 1 Herald's Horn
 1 Rivaz of the Claw
@@ -74,7 +75,6 @@ Deck
 1 Reflecting Pool
 1 Command Tower
 1 Exotic Orchard
-1 Haven of the Spirit Dragon
 1 Savage Lands
 1 Sandsteppe Citadel
 1 Arcane Sanctum
