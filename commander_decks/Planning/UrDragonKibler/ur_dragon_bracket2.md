@@ -4,7 +4,7 @@
 **The Ur-Dragon**
 *   **Archetype:** 5-Color Dragon Tribal / Midrange
 *   **Bracket:** 2 (Core)
-*   **Core Goal:** Utilize the Ur-Dragon's *Eminence* ability to reduce the cost of massive, high-impact Dragon creatures. This version is budget-optimized for "Bracket 2" tables, swapping $300+ of high-end staples for efficient alternatives while maintaining 5-color stability and high dragon density.
+*   **Core Goal:** Utilize the Ur-Dragon's *Eminence* ability to reduce the cost of massive, high-impact Dragon creatures. This version is budget-optimized for "Bracket 2" tables, prioritizing legendary dragon synergies and high-efficiency tribal ramp over generic spells.
 
 ---
 
@@ -20,14 +20,15 @@
 *   **Leyline Tyrant / Savage Ventmaw:** Generates or stores mana to fuel massive dragon turns.
 *   **Hellkite Charger:** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
 *   **Bladewing the Risen:** Thematic recursion for the late game.
-*   **Skyline Despot:** Introduces "The Monarch," encouraging interactive gameplay.
+*   **Rivaz of the Claw:** **ELITE RAMP.** Taps for two mana and allows you to cast dragons from your graveyard.
 *   **Steel Hellkite:** Repeatable mass removal on a body.
 *   **Dromoka, the Eternal:** Bolster engine that turns your board into a lethal threat.
 *   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.
 *   **Herald's Horn:** Tribal ramp and consistent "free" card advantage.
-*   **Knollspine Dragon:** Huge burst draw that rewards you for attacking.
+*   **Two-Headed Hellkite:** Massive draw engine that draws two cards every time it attacks.
 *   **Morophon, the Boundless:** **MVP.** Reduces dragon costs by {W}{U}{B}{R}{G}, making them nearly free with Eminence.
-*   **Sarkhan, Soul Aflame / Zurgo and Ojutai:** High-utility dragons that provide cost reduction/protection and card draw.
+*   **Sarkhan, Soul Aflame / Scion of the Ur-Dragon:** High-utility dragons that provide cost reduction, copying, and graveyard setup.
+*   **Ramos, Dragon Engine:** **MANA BATTERY.** Generates massive mana from casting your multicolored dragons.
 *   **Scalelord Reckoner:** Protects your dragons by punishing opponents for targeting them.
 
 ### 💉 Card Advantage & Anti-Stall (8 Cards)
@@ -44,11 +45,10 @@
 *   **Farseek / Nature's Lore / Three Visits:** Land fixing.
 *   **Cultivate / Kodama's Reach:** Standard green ramp.
 *   **Paradise Druid / Faeburrow Elder / Sylvan Caryatid:** Efficient dorks for 5-color fixing and acceleration.
-*   **Fellwar Stone:** Efficient artifact fixing.
 
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
-*   **Stubborn Denial / Negate:** Low-CMC protection for your board.
+*   **Negate:** Low-CMC protection for your board.
 *   **Bedevil / Terminate / Anguished Unmaking:** Targeted removal for various threats.
 
 ### ☢️ Mass Disruption (5 Cards)
@@ -68,7 +68,6 @@
 *   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon. Replaced by Hellkite Charger.
 *   **Tiamat ($21):** Premium dragon tutor. Replaced by Sarkhan's Triumph.
 *   **Klauth, Unrivaled Ancient ($18):** High-power mana generator. Replaced by Leyline Tyrant.
-*   **Swan Song ($7):** Hyper-efficient protection. Replaced by Negate.
 *   **Shock Lands ($55 total):** Replaced by Tango/Battle lands for budget efficiency.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
@@ -79,9 +78,12 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** Final Manual Count Verification.
+*   **2026-02-28:** Final Count Synchronization.
     *   **Final Count:** Exactly 99 cards + 1 Commander.
-    *   **Fix:** Removed Stubborn Denial to hit exact count. Verified land base.
+    *   **Action:** Removed premium lands and redundant pain lands.
+*   **2026-02-28:** EDHREC Synergy Integration.
+    *   **In:** Rivaz of the Claw, Scion of the Ur-Dragon, Ramos Dragon Engine, Two-Headed Hellkite.
+    *   **Out:** Fellwar Stone, Zurgo and Ojutai, Skyline Despot, Knollspine Dragon.
 
 ---
 
@@ -125,14 +127,13 @@ DECK:
 1 Escape to the Wilds  
 1 Exotic Orchard  
 1 Farseek  
-1 Fellwar Stone  
 1 Garruk's Uprising  
 1 Generous Gift  
 1 Guardian Project  
 1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
 1 Herald's Horn  
-1 Knollspine Dragon  
+1 Rivaz of the Claw  
 1 Kodama's Reach  
 1 Lathliss, Dragon Queen  
 1 Living Death  
@@ -148,9 +149,23 @@ DECK:
 1 Scourge of Kher Ridges  
 1 Scourge of Valkas  
 1 Silumgar, the Drifting Death  
-1 Skyline Despot  
 1 Sol Ring  
 1 Steel Hellkite  
+1 Sylvan Caryatid  
+1 Temur Ascendancy  
+1 Terminate  
+1 Three Visits  
+1 Up the Beanstalk  
+1 Utvara Hellkite  
+1 Two-Headed Hellkite  
+1 Ramos, Dragon Engine  
+1 Scion of the Ur-Dragon  
+1 Savage Lands  
+1 Sandsteppe Citadel  
+1 Arcane Sanctum  
+1 Crumbling Necropolis  
+1 Jungle Shrine  
+1 Anguished Unmaking  
 1 Dragonskull Summit  
 1 Drowned Catacomb  
 1 Glacial Fortress  
@@ -170,19 +185,6 @@ DECK:
 1 Battlefield Forge  
 1 Brushland  
 1 Adarkar Wastes  
-1 Sylvan Caryatid  
-1 Temur Ascendancy  
-1 Terminate  
-1 Three Visits  
-1 Up the Beanstalk  
-1 Utvara Hellkite  
-1 Zurgo and Ojutai  
-1 Savage Lands  
-1 Sandsteppe Citadel  
-1 Arcane Sanctum  
-1 Crumbling Necropolis  
-1 Jungle Shrine  
-1 Anguished Unmaking  
 2 Forest  
 1 Mountain  
 1 Swamp  
