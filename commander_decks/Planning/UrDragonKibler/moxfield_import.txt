@@ -7,12 +7,13 @@ Deck
 1 Atarka, World Render
 1 Austere Command
 1 Beast Within
+1 Birds of Paradise
 1 Bladewing the Risen
 1 Blasphemous Act
 1 Blood Crypt
+1 Bloom Tender
 1 Breeding Pool
 1 Chaos Warp
-1 Coalition Relic
 1 Command Tower
 1 Crux of Fate
 1 Cultivate
@@ -40,8 +41,8 @@ Deck
 1 Kodama's Reach
 1 Lathliss, Dragon Queen
 1 Living Death
-1 Merciless Eviction
 1 Miirym, Sentinel Wyrm
+1 Morophon, the Boundless
 1 Nature's Lore
 1 Overgrown Tomb
 1 Return of the Wildspeaker
@@ -56,11 +57,10 @@ Deck
 1 Sol Ring
 1 Steam Vents
 1 Steel Hellkite
-1 Stinging Study
 1 Stomping Ground
 1 Stubborn Denial
-1 Sunbird's Invocation
 1 Swan Song
+1 Sylvan Caryatid
 1 Temple Garden
 1 Temur Ascendancy
 1 Terminate

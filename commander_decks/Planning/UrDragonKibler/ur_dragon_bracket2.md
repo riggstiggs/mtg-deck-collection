@@ -10,7 +10,7 @@
 
 ## 🛠️ Card Explanations
 
-### 🐉 The Draconic Vanguard (Plan Cards) (27 Cards)
+### 🐉 The Draconic Vanguard (Plan Cards) (28 Cards)
 *   **Dragon Tempest / Scourge of Valkas:** Punishes opponents whenever a dragon enters the battlefield.
 *   **Lathliss, Dragon Queen / Utvara Hellkite:** Generates a swarm of dragons to overwhelm the board.
 *   **Atarka, World Render / Dragonlord Kolaghan:** Provides Double Strike and Haste to close out games.
@@ -26,30 +26,34 @@
 *   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.
 *   **Herald's Horn:** Tribal ramp and consistent "free" card advantage.
 *   **Knollspine Dragon:** Huge burst draw that rewards you for attacking.
+*   **Morophon, the Boundless:** **MVP.** Reduces dragon costs by {W}{U}{B}{R}{G}, making them nearly free with Eminence.
 
-### 💉 Card Advantage & Anti-Stall (10 Cards)
+### 💉 Card Advantage & Anti-Stall (8 Cards)
 *   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
 *   **Rishkar's Expertise / Return of the Wildspeaker:** Burst draw based on your largest dragon.
 *   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
-*   **Stinging Study:** Efficient draw to refill the hand.
-*   **Sunbird's Invocation:** A "fun" chaos engine that cascades into more dragons.
+*   **Guardian Project:** Consistent draw for every non-token creature.
+*   **Escape to the Wilds:** Impulse draw and extra land drop.
 
-### 💎 Ramp & Acceleration (10 Cards)
+### 💎 Ramp & Acceleration (12 Cards)
 *   **Sol Ring / Arcane Signet:** Standard acceleration.
 *   **Dragon's Hoard:** Thematic ramp and incidental card draw.
 *   **Farseek / Nature's Lore / Three Visits:** Land fixing.
 *   **Cultivate / Kodama's Reach:** Standard green ramp.
-*   **Coalition Relic / Fellwar Stone:** Color fixing for a 5-color deck.
+*   **Birds of Paradise / Bloom Tender / Sylvan Caryatid:** High-efficiency dorks for 5-color fixing and acceleration.
+*   **Fellwar Stone:** Efficient artifact fixing.
 
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
 *   **Stubborn Denial / Swan Song:** Low-CMC protection for your board.
 *   **Bedevil / Terminate:** Targeted removal for various threats.
 
-### ☢️ Mass Disruption (6 Cards)
+### ☢️ Mass Disruption (5 Cards)
 *   **Crux of Fate:** Thematic board wipe that spares your dragons.
 *   **Blasphemous Act:** Standard efficient board wipe.
-*   **Austere Command / Merciless Eviction:** Flexible wipes for artifacts, enchantments, or creatures.
+*   **Austere Command:** Flexible wipe for artifacts, enchantments, or creatures.
+*   **Living Death:** A recovery piece that can also act as a board reset.
+*   **Scourge of Kher Ridges:** A "Repeatable Wipe" on a dragon body.
 *   **Living Death:** A recovery piece that can also act as a board reset.
 *   **Scourge of Kher Ridges:** A "Repeatable Wipe" on a dragon body.
 
@@ -89,12 +93,13 @@ DECK:
 1 Atarka, World Render  
 1 Austere Command  
 1 Beast Within  
+1 Birds of Paradise  
 1 Bladewing the Risen  
 1 Blasphemous Act  
 1 Blood Crypt  
+1 Bloom Tender  
 1 Breeding Pool  
 1 Chaos Warp  
-1 Coalition Relic  
 1 Command Tower  
 1 Crux of Fate  
 1 Cultivate  
@@ -122,8 +127,8 @@ DECK:
 1 Kodama's Reach  
 1 Lathliss, Dragon Queen  
 1 Living Death  
-1 Merciless Eviction  
 1 Miirym, Sentinel Wyrm  
+1 Morophon, the Boundless  
 1 Nature's Lore  
 1 Overgrown Tomb  
 1 Return of the Wildspeaker  
@@ -138,11 +143,10 @@ DECK:
 1 Sol Ring  
 1 Steam Vents  
 1 Steel Hellkite  
-1 Stinging Study  
 1 Stomping Ground  
 1 Stubborn Denial  
-1 Sunbird's Invocation  
 1 Swan Song  
+1 Sylvan Caryatid  
 1 Temple Garden  
 1 Temur Ascendancy  
 1 Terminate  

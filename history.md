@@ -3,10 +3,11 @@
 ## 🗓️ February 2026: The "New Era" & Grixis Optimization
 *Focus shifted to high-power Paper Commander optimization, centering on the "New Era" template (38 lands, high-impact synergy).*
 
-### 2026-02-28: Kibler's Ur Dragon Planning (The Fair Flight)
+### 2026-02-28: Kibler's Ur-Dragon Planning (The Fair Flight)
 *   **New Project:** Started planning for **The Ur-Dragon** based on Brian Kibler's optimized list.
 *   **Strategy Pivot:** Created a "Fair" Bracket 2 version of the deck. Replaced the $3,000+ mana base (ABUR Duals/Fetches) with a robust but budget-friendly suite of Check, Pain, and Tri-lands.
-*   **Bracket Calibration:** Removed high-impact snowball cards like *Old Gnawbone*, *Terror of the Peaks*, and *The Great Henge* to ensure the deck is suitable for Core (Bracket 2) tables while maintaining strong tribal flavor.
+*   **Optimization:** Executed a "Dragon-First" pivot, increasing creature density to 28. Swapped generic interaction for synergistic Dragons (**Steel Hellkite**, **Dromoka the Eternal**, **Knollspine Dragon**).
+*   **Kibler Engine:** Integrated **Morophon, the Boundless** and a high-efficiency ramp package (**Birds of Paradise**, **Bloom Tender**, **Sylvan Caryatid**) to mirror Kibler's consistency in a Bracket 2 environment.
 *   **Deliverables:** Created `kibler_urdragon_ideal.dck` for reference and `ur_dragon_bracket2.md` for the active build. Established `moxfield_import.txt` for easy testing.
 
 ### 2026-02-28: Zangief Overhaul & Goldfish Protocol
