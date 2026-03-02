@@ -1,5 +1,14 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ March 2026: Expansion & Physical Integration
+*Focus on acquiring and building physical decks from planning.*
+
+### 2026-03-02: The Ur-Dragon Promotion (Owned)
+*   **Promotion:** Promoted **The Ur-Dragon (Kibler's Flight)** from Planning to Owned.
+*   **Acquisition:** Placed a major order (#223065) for the remaining 99 cards + Commander. 
+*   **Tracking:** Established `order_tracking.md` in `commander_decks/Owned/UrDragonKibler/` to monitor 9 separate packages from various sellers.
+*   **Status:** 0/9 packages received.
+
 ## 🗓️ February 2026: The "New Era" & Grixis Optimization
 *Focus shifted to high-power Paper Commander optimization, centering on the "New Era" template (38 lands, high-impact synergy).*
 
