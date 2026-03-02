@@ -82,7 +82,6 @@ Deck
 1 Battlefield Forge
 1 Brushland
 1 Adarkar Wastes
-1 Stubborn Denial
 1 Sylvan Caryatid
 1 Temur Ascendancy
 1 Terminate

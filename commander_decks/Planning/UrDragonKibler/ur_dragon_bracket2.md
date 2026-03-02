@@ -28,7 +28,6 @@
 *   **Knollspine Dragon:** Huge burst draw that rewards you for attacking.
 *   **Morophon, the Boundless:** **MVP.** Reduces dragon costs by {W}{U}{B}{R}{G}, making them nearly free with Eminence.
 *   **Sarkhan, Soul Aflame / Zurgo and Ojutai:** High-utility dragons that provide cost reduction/protection and card draw.
-*   **Rhythm of the Wild:** Ensures your creatures can't be countered and provides Haste or counters.
 *   **Scalelord Reckoner:** Protects your dragons by punishing opponents for targeting them.
 
 ### 💉 Card Advantage & Anti-Stall (8 Cards)
@@ -37,6 +36,7 @@
 *   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
 *   **Colossal Majesty:** Consistent draw since dragons are always the biggest creatures. (Budget alternative to Guardian Project).
 *   **Escape to the Wilds:** Impulse draw and extra land drop.
+*   **Guardian Project:** High-value draw for each non-token creature entry.
 
 ### 💎 Ramp & Acceleration (12 Cards)
 *   **Sol Ring / Arcane Signet:** Standard acceleration.
@@ -48,7 +48,7 @@
 
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
-*   **Stubborn Denial / Negate:** Low-CMC protection for your board. (Negate is a budget alternative to Swan Song).
+*   **Stubborn Denial / Negate:** Low-CMC protection for your board.
 *   **Bedevil / Terminate / Anguished Unmaking:** Targeted removal for various threats.
 
 ### ☢️ Mass Disruption (5 Cards)
@@ -68,7 +68,6 @@
 *   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon. Replaced by Hellkite Charger.
 *   **Tiamat ($21):** Premium dragon tutor. Replaced by Sarkhan's Triumph.
 *   **Klauth, Unrivaled Ancient ($18):** High-power mana generator. Replaced by Leyline Tyrant.
-*   **Guardian Project ($12):** Elite draw engine. Replaced by Colossal Majesty.
 *   **Swan Song ($7):** Hyper-efficient protection. Replaced by Negate.
 *   **Shock Lands ($55 total):** Replaced by Tango/Battle lands for budget efficiency.
 
@@ -80,13 +79,9 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** Math Correction.
+*   **2026-02-28:** Final Manual Count Verification.
     *   **Final Count:** Exactly 99 cards + 1 Commander.
-    *   **Fix:** Removed leftover high-budget cards (Tiamat, 6 Shock Lands) that were accidentally retained during the previous pivot.
-*   **2026-02-28:** Budget Optimization.
-    *   **Goal:** Reduce deck cost by ~$180 while maintaining power and synergy.
-    *   **In:** Hellkite Charger, Sarkhan's Triumph, Leyline Tyrant, Faeburrow Elder, Paradise Druid, Colossal Majesty, Negate, Tango Lands.
-    *   **Out:** Ancient Copper Dragon, Tiamat, Klauth, Bloom Tender, Birds of Paradise, Guardian Project, Swan Song, Shock Lands.
+    *   **Fix:** Removed Stubborn Denial to hit exact count. Verified land base.
 
 ---
 
@@ -133,6 +128,7 @@ DECK:
 1 Fellwar Stone  
 1 Garruk's Uprising  
 1 Generous Gift  
+1 Guardian Project  
 1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
 1 Herald's Horn  
@@ -143,7 +139,6 @@ DECK:
 1 Miirym, Sentinel Wyrm  
 1 Morophon, the Boundless  
 1 Nature's Lore  
-1 Overgrown Tomb  
 1 Return of the Wildspeaker  
 1 Rhythm of the Wild  
 1 Rishkar's Expertise  
@@ -175,7 +170,6 @@ DECK:
 1 Battlefield Forge  
 1 Brushland  
 1 Adarkar Wastes  
-1 Stubborn Denial  
 1 Sylvan Caryatid  
 1 Temur Ascendancy  
 1 Terminate  
