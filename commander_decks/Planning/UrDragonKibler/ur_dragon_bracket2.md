@@ -10,7 +10,7 @@
 
 ## 🛠️ Card Explanations
 
-### 🐉 The Draconic Vanguard (Plan Cards) (21 Cards)
+### 🐉 The Draconic Vanguard (Plan Cards) (27 Cards)
 *   **Dragon Tempest / Scourge of Valkas:** Punishes opponents whenever a dragon enters the battlefield.
 *   **Lathliss, Dragon Queen / Utvara Hellkite:** Generates a swarm of dragons to overwhelm the board.
 *   **Atarka, World Render / Dragonlord Kolaghan:** Provides Double Strike and Haste to close out games.
@@ -21,14 +21,18 @@
 *   **Ancient Copper Dragon:** A high-impact "jackpot" card for the deck.
 *   **Bladewing the Risen:** Thematic recursion for the late game.
 *   **Skyline Despot:** Introduces "The Monarch," encouraging interactive gameplay.
+*   **Steel Hellkite:** Repeatable mass removal on a body.
+*   **Dromoka, the Eternal:** Bolster engine that turns your board into a lethal threat.
+*   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.
+*   **Herald's Horn:** Tribal ramp and consistent "free" card advantage.
+*   **Knollspine Dragon:** Huge burst draw that rewards you for attacking.
 
-### 💉 Card Advantage & Anti-Stall (12 Cards)
+### 💉 Card Advantage & Anti-Stall (10 Cards)
 *   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
 *   **Rishkar's Expertise / Return of the Wildspeaker:** Burst draw based on your largest dragon.
 *   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
-*   **Painful Truths / Stinging Study:** Efficient draw to refill the hand.
+*   **Stinging Study:** Efficient draw to refill the hand.
 *   **Sunbird's Invocation:** A "fun" chaos engine that cascades into more dragons.
-*   **Shamanic Revelation:** Mass draw and lifegain for wide boards.
 
 ### 💎 Ramp & Acceleration (10 Cards)
 *   **Sol Ring / Arcane Signet:** Standard acceleration.
@@ -37,11 +41,10 @@
 *   **Cultivate / Kodama's Reach:** Standard green ramp.
 *   **Coalition Relic / Fellwar Stone:** Color fixing for a 5-color deck.
 
-### ⚔️ Targeted Disruption (12 Cards)
+### ⚔️ Targeted Disruption (8 Cards)
 *   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
-*   **Anguished Unmaking / Utter End:** Premium exile removal.
 *   **Stubborn Denial / Swan Song:** Low-CMC protection for your board.
-*   **Bedevil / Despark / Mortify / Putrefy / Terminate:** Targeted removal for various threats.
+*   **Bedevil / Terminate:** Targeted removal for various threats.
 
 ### ☢️ Mass Disruption (6 Cards)
 *   **Crux of Fate:** Thematic board wipe that spares your dragons.
@@ -83,7 +86,6 @@ COMMANDER:
 DECK:  
 1 Ancient Copper Dragon  
 1 Arcane Signet  
-1 Anguished Unmaking  
 1 Atarka, World Render  
 1 Austere Command  
 1 Beast Within  
@@ -96,13 +98,14 @@ DECK:
 1 Command Tower  
 1 Crux of Fate  
 1 Cultivate  
-1 Despark  
 1 Dragon Tempest  
 1 Dragon's Hoard  
 1 Dragonlord Dromoka  
 1 Dragonlord Kolaghan  
 1 Dragonlord Silumgar  
-1 Dragonmaster Outcast  
+1 Dragonlord's Servant  
+1 Dragonspeaker Shaman  
+1 Dromoka, the Eternal  
 1 Elemental Bond  
 1 Escape to the Wilds  
 1 Exotic Orchard  
@@ -113,18 +116,16 @@ DECK:
 1 Guardian Project  
 1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
+1 Herald's Horn  
 1 Klauth, Unrivaled Ancient  
+1 Knollspine Dragon  
 1 Kodama's Reach  
 1 Lathliss, Dragon Queen  
 1 Living Death  
 1 Merciless Eviction  
 1 Miirym, Sentinel Wyrm  
-1 Mortify  
 1 Nature's Lore  
 1 Overgrown Tomb  
-1 Painful Truths  
-1 Path of Ancestry  
-1 Putrefy  
 1 Return of the Wildspeaker  
 1 Rhythm of the Wild  
 1 Rishkar's Expertise  
@@ -132,11 +133,11 @@ DECK:
 1 Scalelord Reckoner  
 1 Scourge of Kher Ridges  
 1 Scourge of Valkas  
-1 Shamanic Revelation  
 1 Silumgar, the Drifting Death  
 1 Skyline Despot  
 1 Sol Ring  
 1 Steam Vents  
+1 Steel Hellkite  
 1 Stinging Study  
 1 Stomping Ground  
 1 Stubborn Denial  
@@ -148,7 +149,6 @@ DECK:
 1 Three Visits  
 1 Tiamat  
 1 Up the Beanstalk  
-1 Utter End  
 1 Utvara Hellkite  
 1 Savage Lands  
 1 Sandstep Citadel  

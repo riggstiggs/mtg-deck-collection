@@ -4,7 +4,6 @@ Commander
 Deck
 1 Ancient Copper Dragon
 1 Arcane Signet
-1 Anguished Unmaking
 1 Atarka, World Render
 1 Austere Command
 1 Beast Within
@@ -17,13 +16,14 @@ Deck
 1 Command Tower
 1 Crux of Fate
 1 Cultivate
-1 Despark
 1 Dragon Tempest
 1 Dragon's Hoard
 1 Dragonlord Dromoka
 1 Dragonlord Kolaghan
 1 Dragonlord Silumgar
-1 Dragonmaster Outcast
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Dromoka, the Eternal
 1 Elemental Bond
 1 Escape to the Wilds
 1 Exotic Orchard
@@ -34,18 +34,16 @@ Deck
 1 Guardian Project
 1 Haven of the Spirit Dragon
 1 Hellkite Courser
+1 Herald's Horn
 1 Klauth, Unrivaled Ancient
+1 Knollspine Dragon
 1 Kodama's Reach
 1 Lathliss, Dragon Queen
 1 Living Death
 1 Merciless Eviction
 1 Miirym, Sentinel Wyrm
-1 Mortify
 1 Nature's Lore
 1 Overgrown Tomb
-1 Painful Truths
-1 Path of Ancestry
-1 Putrefy
 1 Return of the Wildspeaker
 1 Rhythm of the Wild
 1 Rishkar's Expertise
@@ -53,11 +51,11 @@ Deck
 1 Scalelord Reckoner
 1 Scourge of Kher Ridges
 1 Scourge of Valkas
-1 Shamanic Revelation
 1 Silumgar, the Drifting Death
 1 Skyline Despot
 1 Sol Ring
 1 Steam Vents
+1 Steel Hellkite
 1 Stinging Study
 1 Stomping Ground
 1 Stubborn Denial
@@ -69,7 +67,6 @@ Deck
 1 Three Visits
 1 Tiamat
 1 Up the Beanstalk
-1 Utter End
 1 Utvara Hellkite
 1 Savage Lands
 1 Sandstep Citadel
