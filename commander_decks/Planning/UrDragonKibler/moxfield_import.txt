@@ -16,11 +16,15 @@ Deck
 1 Bedevil
 1 Bladewing the Risen
 1 Blasphemous Act
-1 Canopy Vista
-1 Cinder Glade
-1 Prairie Stream
-1 Smoldering Marsh
-1 Sunken Hollow
+1 Blood Crypt
+1 Breeding Pool
+1 Overgrown Tomb
+1 Stomping Ground
+1 Temple Garden
+1 Wooded Foothills
+1 Windswept Heath
+1 Misty Rainforest
+1 Reflecting Pool
 1 Chaos Warp
 1 Command Tower
 1 Crux of Fate
@@ -89,11 +93,7 @@ Deck
 1 Sulfurous Springs
 1 Karplusan Forest
 1 Llanowar Wastes
-1 Caves of Koilos
-1 Yavimaya Coast
 1 Shivan Reef
-1 Battlefield Forge
-1 Brushland
 1 Adarkar Wastes
 2 Forest
 1 Mountain

@@ -1,10 +1,10 @@
-# Deck Guide: The Ur-Dragon (Kibler's Flight - Bracket 2 Budget Edition)
+# Deck Guide: The Ur-Dragon (Kibler's Flight - Bracket 2 Mid-Budget Edition)
 
 ## Commander Strategy
 **The Ur-Dragon**
 *   **Archetype:** 5-Color Dragon Tribal / Midrange
 *   **Bracket:** 2 (Core)
-*   **Core Goal:** Utilize the Ur-Dragon's *Eminence* ability to reduce the cost of massive, high-impact Dragon creatures. This version is budget-optimized for "Bracket 2" tables, prioritizing legendary dragon synergies and high-efficiency tribal ramp over generic spells.
+*   **Core Goal:** Utilize the Ur-Dragon's *Eminence* ability to reduce the cost of massive, high-impact Dragon creatures. This version is optimized with an **Intermediate Mana Base**, using Shock and Fetch lands to ensure green ramp spells provide perfect 5-color fixing.
 
 ---
 
@@ -20,7 +20,7 @@
 *   **Leyline Tyrant / Savage Ventmaw:** Generates or stores mana to fuel massive dragon turns.
 *   **Hellkite Charger:** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
 *   **Bladewing the Risen:** Thematic recursion for the late game.
-*   **Rivaz of the Claw:** **ELITE RAMP.** Taps for two mana and allows you to cast dragons from your graveyard.
+*   **Skyline Despot:** Introduces "The Monarch," encouraging interactive gameplay.
 *   **Steel Hellkite:** Repeatable mass removal on a body.
 *   **Dromoka, the Eternal:** Bolster engine that turns your board into a lethal threat.
 *   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.
@@ -42,7 +42,7 @@
 ### 💎 Ramp & Acceleration (12 Cards)
 *   **Sol Ring / Arcane Signet:** Standard acceleration.
 *   **Dragon's Hoard:** Thematic ramp and incidental card draw.
-*   **Farseek / Nature's Lore / Three Visits:** Land fixing.
+*   **Farseek / Nature's Lore / Three Visits:** **POWERED.** Now fetch Shock lands for immediate 5-color fixing.
 *   **Cultivate / Kodama's Reach:** Standard green ramp.
 *   **Paradise Druid / Faeburrow Elder / Sylvan Caryatid:** Efficient dorks for 5-color fixing and acceleration.
 
@@ -63,12 +63,12 @@
 ## 🚀 Future Roadmap: Upgrades & Considerations
 
 ### 💡 High-Impact Tech to Consider
-*These cards are present in the 'Ideal' Kibler list but were removed to lower the budget.*
+*These cards are present in the 'Ideal' Kibler list but were removed to manage budget.*
 
 *   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon. Replaced by Hellkite Charger.
 *   **Tiamat ($21):** Premium dragon tutor. Replaced by Sarkhan's Triumph.
 *   **Klauth, Unrivaled Ancient ($18):** High-power mana generator. Replaced by Leyline Tyrant.
-*   **Shock Lands ($55 total):** Replaced by Tango/Battle lands for budget efficiency.
+*   **Original Dual Lands:** The next logical (but extremely expensive) step for the mana base.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
@@ -78,12 +78,11 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** Final Count Synchronization.
-    *   **Final Count:** Exactly 99 cards + 1 Commander.
-    *   **Action:** Removed premium lands and redundant pain lands.
-*   **2026-02-28:** EDHREC Synergy Integration.
-    *   **In:** Rivaz of the Claw, Scion of the Ur-Dragon, Ramos Dragon Engine, Two-Headed Hellkite.
-    *   **Out:** Fellwar Stone, Zurgo and Ojutai, Skyline Despot, Knollspine Dragon.
+*   **2026-02-28:** Mana Base Overhaul (Mid-Budget Upgrade).
+    *   **Goal:** Increase consistency and speed using Shock and Fetch lands.
+    *   **In:** Blood Crypt, Breeding Pool, Overgrown Tomb, Stomping Ground, Temple Garden, Wooded Foothills, Windswept Heath, Misty Rainforest, Reflecting Pool.
+    *   **Out:** Canopy Vista, Cinder Glade, Prairie Stream, Smoldering Marsh, Sunken Hollow, Caves of Koilos, Yavimaya Coast, Battlefield Forge, Brushland.
+*   **2026-02-28:** Final Manual Count Verification (100 Cards).
 
 ---
 
@@ -106,11 +105,15 @@ DECK:
 1 Bedevil  
 1 Bladewing the Risen  
 1 Blasphemous Act  
-1 Canopy Vista  
-1 Cinder Glade  
-1 Prairie Stream  
-1 Smoldering Marsh  
-1 Sunken Hollow  
+1 Blood Crypt  
+1 Breeding Pool  
+1 Overgrown Tomb  
+1 Stomping Ground  
+1 Temple Garden  
+1 Wooded Foothills  
+1 Windswept Heath  
+1 Misty Rainforest  
+1 Reflecting Pool  
 1 Chaos Warp  
 1 Command Tower  
 1 Crux of Fate  
@@ -179,11 +182,7 @@ DECK:
 1 Sulfurous Springs  
 1 Karplusan Forest  
 1 Llanowar Wastes  
-1 Caves of Koilos  
-1 Yavimaya Coast  
 1 Shivan Reef  
-1 Battlefield Forge  
-1 Brushland  
 1 Adarkar Wastes  
 2 Forest  
 1 Mountain  
