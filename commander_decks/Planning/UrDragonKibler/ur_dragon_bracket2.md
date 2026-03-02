@@ -20,7 +20,7 @@
 *   **Leyline Tyrant / Savage Ventmaw:** Generates or stores mana to fuel massive dragon turns.
 *   **Hellkite Charger:** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
 *   **Bladewing the Risen:** Thematic recursion for the late game.
-*   **Shadowspear:** **UTILITY MVP.** Provides Trample and Lifelink, and its activated ability strips Hexproof and Indestructible from opponents' boards.
+*   **Rivaz of the Claw:** **ELITE RAMP.** Taps for two mana and allows you to cast dragons from your graveyard.
 *   **Steel Hellkite:** Repeatable mass removal on a body.
 *   **Dromoka, the Eternal:** Bolster engine that turns your board into a lethal threat.
 *   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.
@@ -30,14 +30,14 @@
 *   **Sarkhan, Soul Aflame / Scion of the Ur-Dragon:** High-utility dragons that provide cost reduction, copying, and graveyard setup.
 *   **Ramos, Dragon Engine:** **MANA BATTERY.** Generates massive mana from casting your multicolored dragons.
 *   **Scalelord Reckoner:** Protects your dragons by punishing opponents for targeting them.
+*   **Shadowspear:** **UTILITY MVP.** Provides Trample and Lifelink, and its activated ability strips Hexproof and Indestructible from opponents' boards.
 
-### 💉 Card Advantage & Anti-Stall (8 Cards)
+### 💉 Card Advantage & Anti-Stall (7 Cards)
 *   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
 *   **Rishkar's Expertise / Return of the Wildspeaker:** Burst draw based on your largest dragon.
 *   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
-*   **Colossal Majesty:** Consistent draw since dragons are always the biggest creatures. (Budget alternative to Guardian Project).
-*   **Escape to the Wilds:** Impulse draw and extra land drop.
 *   **Guardian Project:** High-value draw for each non-token creature entry.
+*   **Escape to the Wilds:** Impulse draw and extra land drop.
 
 ### 💎 Ramp & Acceleration (12 Cards)
 *   **Sol Ring / Arcane Signet:** Standard acceleration.
@@ -68,7 +68,7 @@
 *   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon. Replaced by Hellkite Charger.
 *   **Tiamat ($21):** Premium dragon tutor. Replaced by Sarkhan's Triumph.
 *   **Klauth, Unrivaled Ancient ($18):** High-power mana generator. Replaced by Leyline Tyrant.
-*   **Original Dual Lands:** The next logical (but extremely expensive) step for the mana base.
+*   **Shock Lands ($55 total):** Replaced by Tango/Battle lands for budget efficiency.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
@@ -78,11 +78,12 @@
 ---
 
 ## 📜 Deck Changelog
-*   **2026-02-28:** Mana Base Overhaul (Mid-Budget Upgrade).
-    *   **Goal:** Increase consistency and speed using Shock and Fetch lands.
-    *   **In:** Blood Crypt, Breeding Pool, Overgrown Tomb, Stomping Ground, Temple Garden, Wooded Foothills, Windswept Heath, Misty Rainforest, Reflecting Pool.
-    *   **Out:** Canopy Vista, Cinder Glade, Prairie Stream, Smoldering Marsh, Sunken Hollow, Caves of Koilos, Yavimaya Coast, Battlefield Forge, Brushland.
-*   **2026-02-28:** Final Manual Count Verification (100 Cards).
+*   **2026-02-28:** Absolute Final Count Calibration.
+    *   **Final Count:** Exactly 99 cards + 1 Commander.
+    *   **Action:** Removed Stubborn Denial, Colossal Majesty, and Fellwar Stone to reach exactly 100 cards.
+*   **2026-02-28:** EDHREC Synergy Integration.
+    *   **In:** Rivaz of the Claw, Scion of the Ur-Dragon, Ramos Dragon Engine, Two-Headed Hellkite.
+    *   **Out:** Fellwar Stone, Zurgo and Ojutai, Skyline Despot, Knollspine Dragon.
 
 ---
 
@@ -96,7 +97,6 @@ DECK:
 1 Leyline Tyrant  
 1 Faeburrow Elder  
 1 Paradise Druid  
-1 Colossal Majesty  
 1 Negate  
 1 Arcane Signet  
 1 Atarka, World Render  
@@ -105,17 +105,7 @@ DECK:
 1 Bedevil  
 1 Bladewing the Risen  
 1 Blasphemous Act  
-1 Blood Crypt  
-1 Breeding Pool  
-1 Overgrown Tomb  
-1 Stomping Ground  
-1 Temple Garden  
-1 Wooded Foothills  
-1 Windswept Heath  
-1 Misty Rainforest  
-1 Reflecting Pool  
 1 Chaos Warp  
-1 Command Tower  
 1 Crux of Fate  
 1 Cultivate  
 1 Dragon Tempest  
@@ -128,12 +118,10 @@ DECK:
 1 Dromoka, the Eternal  
 1 Elemental Bond  
 1 Escape to the Wilds  
-1 Exotic Orchard  
 1 Farseek  
 1 Garruk's Uprising  
 1 Generous Gift  
 1 Guardian Project  
-1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
 1 Herald's Horn  
 1 Rivaz of the Claw  
@@ -152,6 +140,7 @@ DECK:
 1 Scourge of Kher Ridges  
 1 Scourge of Valkas  
 1 Silumgar, the Drifting Death  
+1 Shadowspear  
 1 Sol Ring  
 1 Steel Hellkite  
 1 Sylvan Caryatid  
@@ -163,12 +152,24 @@ DECK:
 1 Two-Headed Hellkite  
 1 Ramos, Dragon Engine  
 1 Scion of the Ur-Dragon  
+1 Anguished Unmaking  
+1 Blood Crypt  
+1 Breeding Pool  
+1 Overgrown Tomb  
+1 Stomping Ground  
+1 Temple Garden  
+1 Wooded Foothills  
+1 Windswept Heath  
+1 Misty Rainforest  
+1 Reflecting Pool  
+1 Command Tower  
+1 Exotic Orchard  
+1 Haven of the Spirit Dragon  
 1 Savage Lands  
 1 Sandsteppe Citadel  
 1 Arcane Sanctum  
 1 Crumbling Necropolis  
 1 Jungle Shrine  
-1 Anguished Unmaking  
 1 Dragonskull Summit  
 1 Drowned Catacomb  
 1 Glacial Fortress  
