@@ -40,6 +40,7 @@ Completed decks built for family and friends.
 
 #### 📁 `/Planning`
 Decks under development, research, or being optimized.
+*   **Kibler's Ur-Dragon:** 5-Color Dragon Tribal. Adapted from Brian Kibler's optimized list into a "Fair" Bracket 2 version.
 *   **Omnath Landfall:** 4-Color value engine (Locus of Creation).
 *   **Thalia & Gitrog:** Abzan Landfall & Hatebears.
 *   **Yidris Cascade:** 4-Color "Value Cascade".
