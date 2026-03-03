@@ -30,10 +30,10 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Witch-king of Angmar:** Defensive powerhouse that can become Indestructible.
 *   **Mauhúr, Uruk-hai Captain:** Doubles Amass counters.
 *   **Gothmog, Morgul Lieutenant:** Grants the Orc Army Deathtouch.
+*   **Warg Rider (Scene Box #826):** **ELITE AMASS.** Amasses 2 at the beginning of every combat and grants Menace to your Orcs/Goblins.
 *   **Nazgûl:** Consistent Ring temptation and Deathtouch.
 *   **Dread Return:** Discard-proof recursion.
 *   **Dreadhorde Invasion:** Steady Amass engine and late-game Lifelink.
-*   **Gollum, Patient Plotter:** A recurring source of Ring temptation.
 *   **Faith of the Devoted:** Turns every discard into life drain for opponents.
 *   **March from the Black Gate:** Consistent Amass on every attack.
 *   **Saruman the White:** Amasses and provides Ward to your other creatures.
@@ -113,7 +113,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Treasure Cruise:** High-value draw, but rotated out for *The One Ring*.
 *   **Ring of Evos Isle:** Defensive equipment, previously a placeholder for *Whispersilk Cloak*.
 *   **Grishnákh, Brash Instigator:** Strong utility, but cut for Kess.
-*   **Warg Rider:** Myriad is fun, but swapped for more direct Soul's Fire damage.
+*   **Gollum, Patient Plotter:** Slow recurrence cut for high-impact engine.
 *   **Languish:** Efficient wipe, but Widespread Brutality is more thematic.
 *   **Soothing of Smeagol / Orcish Medicine:** Low-impact temptation cut for high-impact finishers.
 
@@ -122,8 +122,8 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 ## 📜 Deck Changelog
 *   **2026-03-03:** Physical Integration of High-Power Mana Base & Finishers.
     *   **In:** Polluted Delta, Bloodstained Mire, Scalding Tarn, Morphic Pool, Luxury Suite, Shipwreck Marsh, Haunted Ridge, Stormcarved Coast, Drowned Catacomb, Dragonskull Summit, Sulfur Falls, Takenuma (Abandoned Mire), Kess (Dissident Mage), Chandra's Ignition, Gravitic Punch, Soul's Fire, Widespread Brutality.
-    *   **Out:** Evolving Wilds, Terramorphic Expanse, Crumbling Necropolis, Temple of Deceit, Temple of Malice, Choked Estuary, Foreboding Ruins, Temple of Epiphany, 2x Swamp, 1x Island, 1x Mountain, Grishnákh (Brash Instigator), Soothing of Smeagol, Orcish Medicine, Warg Rider, Languish.
-    *   **Reason:** Finalized the mana base with fetch, bond, and slow lands. Added high-impact finishers (Chandra's Ignition/Soul's Fire) to capitalize on the massive Orc Army. Integrated Kess for spell recursion.
+    *   **Out:** Evolving Wilds, Terramorphic Expanse, Crumbling Necropolis, Temple of Deceit, Temple of Malice, Choked Estuary, Foreboding Ruins, Temple of Epiphany, 2x Swamp, 1x Island, 1x Mountain, Grishnákh (Brash Instigator), Soothing of Smeagol, Orcish Medicine, Gollum (Patient Plotter), Languish.
+    *   **Reason:** Finalized the mana base with fetch, bond, and slow lands. Added high-impact finishers (Chandra's Ignition/Soul's Fire) to capitalize on the massive Orc Army. Integrated Kess for spell recursion. Retained Scene Box Warg Rider for high-efficiency Amass.
 *   **2026-02-27:** Upgraded to **Bracket 3**.
     *   **In:** The One Ring.
     *   **Out:** Treasure Cruise (to Sideboard).
@@ -149,6 +149,7 @@ DECK:
 1 Mauhúr, Uruk-hai Captain      
 1 Gothmog, Morgul Lieutenant      
 1 Kess, Dissident Mage      
+1 Warg Rider      
 1 Nazgûl      
 1 Dread Return      
 1 Lazotep Chancellor      
@@ -157,8 +158,6 @@ DECK:
 1 Anger      
 1 Living Death      
 1 Dreadhorde Invasion      
-1 Gollum, Patient Plotter      
-1 Whispersilk Cloak      
 1 Faith of the Devoted      
 1 March from the Black Gate      
 1 Palantír of Orthanc      
@@ -237,7 +236,7 @@ SIDEBOARD:
 1 Treasure Cruise  
 1 Ring of Evos Isle  
 1 Grishnákh, Brash Instigator  
-1 Warg Rider  
+1 Gollum, Patient Plotter  
 1 Languish  
 1 Soothing of Smeagol  
 1 Orcish Medicine  
