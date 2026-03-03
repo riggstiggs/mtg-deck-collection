@@ -117,6 +117,13 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **Languish:** Efficient wipe, but Widespread Brutality is more thematic.
 *   **Soothing of Smeagol / Orcish Medicine:** Low-impact temptation cut for high-impact finishers.
 
+### 🗺️ Rotated Lands (Available for other decks)
+*   **Crumbling Necropolis:** Grixis Tri-land.
+*   **Temple of Deceit / Temple of Epiphany / Temple of Malice:** Scry Duals.
+*   **Choked Estuary / Foreboding Ruins:** Reveal Duals.
+*   **Evolving Wilds / Terramorphic Expanse:** Budget Fetch.
+
+
 ---
 
 ## 📜 Deck Changelog
