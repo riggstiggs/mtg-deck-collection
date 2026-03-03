@@ -8,9 +8,8 @@ Deck
 1 Lord of the Nazgûl
 1 Witch-king of Angmar
 1 Mauhúr, Uruk-hai Captain
-1 Warg Rider
 1 Gothmog, Morgul Lieutenant
-1 Grishnákh, Brash Instigator
+1 Kess, Dissident Mage
 1 Nazgûl
 1 Dread Return
 1 Lazotep Chancellor
@@ -31,8 +30,9 @@ Deck
 1 Lightning Greaves
 1 Claim the Precious
 1 Inherited Envelope
-1 Soothing of Smeagol
-1 Orcish Medicine
+1 Chandra's Ignition
+1 Gravitic Punch
+1 Soul's Fire
 1 Relic of Sauron
 1 Sol Ring
 1 Arcane Signet
@@ -62,11 +62,23 @@ Deck
 1 Blasphemous Act
 1 Toxic Deluge
 1 One Ring to Rule Them All
-1 Languish
+1 Widespread Brutality
 1 Extract from Darkness
 1 Watery Grave
 1 Steam Vents
 1 Blood Crypt
+1 Polluted Delta
+1 Bloodstained Mire
+1 Scalding Tarn
+1 Morphic Pool
+1 Luxury Suite
+1 Drowned Catacomb
+1 Dragonskull Summit
+1 Sulfur Falls
+1 Shipwreck Marsh
+1 Haunted Ridge
+1 Stormcarved Coast
+1 Takenuma, Abandoned Mire
 1 Sunken Hollow
 1 Smoldering Marsh
 1 Training Center
@@ -75,21 +87,18 @@ Deck
 1 Rogue's Passage
 1 Command Tower
 1 Exotic Orchard
-1 Crumbling Necropolis
 1 Shivan Reef
 1 Sulfurous Springs
 1 Underground River
-1 Choked Estuary
-1 Foreboding Ruins
-1 Temple of Epiphany
-1 Temple of Deceit
-1 Temple of Malice
-1 Evolving Wilds
-1 Terramorphic Expanse
-8 Swamp
-5 Island
-3 Mountain
+6 Swamp
+4 Island
+2 Mountain
 
 Sideboard
 1 Treasure Cruise
 1 Ring of Evos Isle
+1 Grishnákh, Brash Instigator
+1 Warg Rider
+1 Languish
+1 Soothing of Smeagol
+1 Orcish Medicine

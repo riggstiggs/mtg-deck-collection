@@ -77,7 +77,7 @@ This file tracks the physical status of cards for the Sauron deck.
 *   [x] Extract from Darkness
 *   [x] Cast into the Fire
 
-### 🛡️ The Army & Engine (Evasion & Discard)
+### 🗡️ The Army & Engine (Evasion & Discard)
 *   [x] Anger
 *   [x] Lazotep Chancellor
 *   [x] Bone Miser
@@ -86,6 +86,13 @@ This file tracks the physical status of cards for the Sauron deck.
 *   [x] Whispersilk Cloak
 *   [x] The Black Gate
 *   [x] Rogue's Passage
+*   [x] Kess, Dissident Mage
+
+### 🪄 Spells & Wipes
+*   [x] Chandra's Ignition
+*   [x] Gravitic Punch
+*   [x] Soul's Fire
+*   [x] Widespread Brutality
 
 ### 🗺️ Lands
 *   [x] Steam Vents
@@ -112,6 +119,18 @@ This file tracks the physical status of cards for the Sauron deck.
 *   [x] Watery Grave
 *   [x] Training Center
 *   [x] Mount Doom
+*   [x] Polluted Delta
+*   [x] Bloodstained Mire
+*   [x] Scalding Tarn
+*   [x] Morphic Pool
+*   [x] Luxury Suite
+*   [x] Shipwreck Marsh
+*   [x] Haunted Ridge
+*   [x] Stormcarved Coast
+*   [x] Drowned Catacomb
+*   [x] Dragonskull Summit
+*   [x] Sulfur Falls
+*   [x] Takenuma, Abandoned Mire
 
 ### 🃏 Extras / Sideboard (Received)
 *   [x] Dread Return
@@ -142,24 +161,8 @@ This file tracks the physical status of cards for the Sauron deck.
 
 ---
 
-## 🚢 Shipped (In Transit) - Feb 21 Purchase
-*   [ ] Polluted Delta
-*   [ ] Bloodstained Mire
-*   [ ] Scalding Tarn
-*   [ ] Morphic Pool
-*   [ ] Luxury Suite
-*   [ ] Shipwreck Marsh
-*   [ ] Haunted Ridge
-*   [ ] Stormcarved Coast
-*   [ ] Drowned Catacomb
-*   [ ] Dragonskull Summit
-*   [ ] Sulfur Falls
-*   [ ] Takenuma, Abandoned Mire
-*   [ ] Chandra's Ignition
-*   [ ] Gravitic Punch
-*   [ ] Soul's Fire
-*   [ ] Kess, Dissident Mage
-*   [ ] Widespread Brutality
+## 🚢 Shipped (In Transit)
+*   (All current orders received)
 
 ---
 
