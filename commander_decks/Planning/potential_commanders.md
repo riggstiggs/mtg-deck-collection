@@ -5,6 +5,8 @@ This file tracks commanders that are under consideration for future builds, cate
 ## 👑 For Jamie (Wife)
 *Ideas focusing on unique mechanics, aesthetics, or interactive playstyles.*
 
+*   **Zimone Engine** ({G}{U}): **Active Planning Project.** A Simic Landfall "Feedback Loop" focused on high-speed ramp and token generation.
+*   **Bess, Soul Nourisher** ({1}{G}{W}): **1/1 Weenie Tribal.** Grows herself and your entire board of 1/1 creatures whenever you create them. Extremely strong with Selesnya token generators.
 *   **Zur, Eternal Schemer** ({W}{U}{B}): **Enchantment Creatures.** Turns non-Aura enchantments into creatures with Lifelink, Deathtouch, and Hexproof. High resilience and "sneaky" aggression.
 *   **Oloro, Ageless Ascetic** ({1}{W}{U}{B}): **Passive Life Gain.** Provides value even from the Command Zone. Classic Esper control/drain shell.
 *   **Adrix and Nev, Twincasters** ({2}{G}{U}): **Token Multiplication.** Doubles all tokens created. Extremely explosive Simic value engine.
