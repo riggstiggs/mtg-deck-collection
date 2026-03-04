@@ -36,7 +36,7 @@ Decks physically built and ready for play.
 Completed decks built for family and friends.
 *   **John:**
     *   **Rafiq Voltron:** Bant Exalted/Commander damage.
-*   **Christina:**
+*   **Jamie:**
     *   **Alela Faerie Rogues:** Dimir "Flash" shell (Cunning Conqueror).
 
 #### 📁 `/Planning`

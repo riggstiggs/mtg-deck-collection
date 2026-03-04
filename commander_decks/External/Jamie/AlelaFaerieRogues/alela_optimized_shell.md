@@ -1,11 +1,11 @@
 # Alela, Cunning Conqueror: Optimized Shell ($150-$200 Target)
 
-This is the **finalized 100-card version** of Christina's Alela deck. It has been optimized from the original $500 shell to land at approximately **$156**, providing a high-synergy "Flash" experience with a simplified learning curve for a newer player.
+This is the **finalized 100-card version** of Jamie's Alela deck. It has been optimized from the original $500 shell to land at approximately **$156**, providing a high-synergy "Flash" experience with a simplified learning curve for a newer player.
 
 ## 🏹 Strategy & Playstyle
 *   **Flash Engine:** 20+ instants and flash creatures to trigger Alela on every opponent's turn.
 *   **Token Payoffs:** **Gravitational Shift** and **Heraldic Banner** turn 1/1 tokens into significant threats.
-*   **Defensive "Gotchas":** **Aetherize** and **Toxic Deluge** provide powerful resets to keep Christina in the game.
+*   **Defensive "Gotchas":** **Aetherize** and **Toxic Deluge** provide powerful resets to keep Jamie in the game.
 *   **Resilient Drain:** **Bastion of Remembrance** provides a hard-to-interact-with drain engine to punish opponents for killing her Faeries.
 
 ## 📊 Final "New Era" Stats (100 Cards)
@@ -124,7 +124,7 @@ DECK:
 ## 📝 Deck Changelog
 
 ### 2026-02-21
-*   Finalized the "Optimized Shell" for Christina.
+*   Finalized the "Optimized Shell" for Jamie.
 *   Replaced **Ayara** with **Bastion of Remembrance** (Resilience).
 *   Replaced **Brazen Borrower** with **Aetherize** (Simpler Interaction).
 *   Replaced **Sword of the Animist** with **Heraldic Banner** (Ramp + Anthem).

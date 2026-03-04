@@ -2,7 +2,7 @@
 
 This file tracks commanders that are under consideration for future builds, categorized by intended pilot.
 
-## 👑 For Christina (Wife)
+## 👑 For Jamie (Wife)
 *Ideas focusing on unique mechanics, aesthetics, or interactive playstyles.*
 
 *   **Zur, Eternal Schemer** ({W}{U}{B}): **Enchantment Creatures.** Turns non-Aura enchantments into creatures with Lifelink, Deathtouch, and Hexproof. High resilience and "sneaky" aggression.
