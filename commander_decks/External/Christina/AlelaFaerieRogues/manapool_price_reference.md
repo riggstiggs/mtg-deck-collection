@@ -1,7 +1,7 @@
 # Manapool.com Price Reference (Original Shell)
 **Date:** February 21, 2026
 **Source:** Manapool.com
-**Context:** This list represents the pricing for the "interesting shell" that served as the starting point for Jamie's Alela deck. Total cost exceeded $500, prompting the budget optimization.
+**Context:** This list represents the pricing for the "interesting shell" that served as the starting point for Christina's Alela deck. Total cost exceeded $500, prompting the budget optimization.
 
 ---
 

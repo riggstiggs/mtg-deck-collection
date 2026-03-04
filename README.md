@@ -36,16 +36,18 @@ Decks physically built and ready for play.
 Completed decks built for family and friends.
 *   **John:**
     *   **Rafiq Voltron:** Bant Exalted/Commander damage.
-*   **Jamie:**
+*   **Christina:**
     *   **Alela Faerie Rogues:** Dimir "Flash" shell (Cunning Conqueror).
 
 #### 📁 `/Planning`
 Decks under development, research, or being optimized.
+*   **Potential Future Commanders:** A list of ideas for **Jamie** (Wife) and **Mark**.
 *   **Omnath Landfall:** 4-Color value engine (Locus of Creation).
 *   **Thalia & Gitrog:** Abzan Landfall & Hatebears.
 *   **Yidris Cascade:** 4-Color "Value Cascade".
 *   **Henzie Blitz:** Jund sacrifice and aggro.
 *   **Ulamog Ramp:** Colorless high-power ramp.
+*   **Zimone Engine:** Simic Landfall for **Christina**.
 
 ### 🎮 `/arena_decks`
 Optimized lists for MTG Arena formats (Standard, Brawl, Timeless).

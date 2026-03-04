@@ -1,6 +1,6 @@
 # Zimone Engine: Optimization & Budget Log
 
-This document tracks the evolution of Jamie's Zimone deck from the initial concept to the final Optimized and Budget versions.
+This document tracks the evolution of Christina's Zimone deck from the initial concept to the final Optimized and Budget versions.
 
 ---
 
@@ -34,7 +34,7 @@ This document tracks the evolution of Jamie's Zimone deck from the initial conce
 | Premium Card | Budget Replacement | Savings | Reason |
 | :--- | :--- | :--- | :--- |
 | **Exploration** | **Growth Spiral** | $31.79 | Growth Spiral provides draw and a trigger at instant speed. |
-| **Cyclonic Rift** | **Fact or Fiction** | $29.77 | Rift is a "Game Changer." Restoring Jamie's requested FoF fills the graveyard. |
+| **Cyclonic Rift** | **Fact or Fiction** | $29.77 | Rift is a "Game Changer." Restoring Christina's requested FoF fills the graveyard. |
 | **Parallel Lives** | **Second Harvest** | $14.15 | Swapped a static doubler for a surprise "Instant" doubling finish. |
 | **Greensleeves, Maro-Sorcerer** | **Blighted Woodland** | $13.45 | Swapped a non-essential token maker to fix the deck's land count. |
 | **Guardian Project** | **Lifecrafter's Bestiary** | $11.01 | Bestiary provides scry and draw while being much cheaper to acquire. |

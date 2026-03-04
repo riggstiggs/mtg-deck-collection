@@ -1,6 +1,6 @@
 # Alela, Cunning Conqueror: Faerie & Rogue Tribal (Budget)
 
-This deck is built for Jamie, focusing on **Faerie and Rogue tribal synergies** with a heavy emphasis on **Flash and Goad mechanics**. It adheres to the "New Era" template (38/10/12/12/6/31) and is designed for **Bracket 2** gameplay with a total cost under $100.
+This deck is built for Christina, focusing on **Faerie and Rogue tribal synergies** with a heavy emphasis on **Flash and Goad mechanics**. It adheres to the "New Era" template (38/10/12/12/6/31) and is designed for **Bracket 2** gameplay with a total cost under $100.
 
 ## 🏹 Strategy & Playstyle
 
@@ -130,7 +130,7 @@ DECK:
 
 ## 💰 Further Budget Optimization (Optional)
 
-If Jamie needs to cut even more from the current $80 list, consider these "Luxury Budget" cuts:
+If Christina needs to cut even more from the current $80 list, consider these "Luxury Budget" cuts:
 1.  **Spellstutter Sprite ($6.00):** While a staple, she can swap this for **Counterspell ($1.75)** or **Negate ($0.25)** to save $4-5.
 2.  **Reliquary Tower ($3.45):** In a budget deck without massive draw-X spells, a **Basic Land ($0.15)** is often better to ensure mana consistency.
 3.  **Tegwyll, Duke of Splendor ($9.68):** Our most expensive non-commander creature. If needed, swap for **Obyra, Dreaming Duelist ($0.36)** for a similar tribal payoff.
@@ -142,7 +142,7 @@ If Jamie needs to cut even more from the current $80 list, consider these "Luxur
 
 ### 2026-02-21
 *   Initial deck creation.
-*   Focused on a sub-$100 budget for Jamie.
+*   Focused on a sub-$100 budget for Christina.
 *   Included **Shadow Puppeteers** as requested.
 *   **V2 Update:** Refined budget swaps using Manapool.com reference pricing ($500 shell reduced to ~$80).
 *   Verified against **Bracket 2** rules (No "Game Changers" or infinite combos).

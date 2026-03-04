@@ -49,7 +49,7 @@
 *   **Evolution Sage:** Proliferates on landfall. This adds counters to your Avenger plants and your Primordial token.
 *   **Blue Sun's Zenith:** A massive card-draw spell. Since this deck makes 15+ mana easily, you can use this to draw 10+ cards in an instant.
 *   **Brainstorm / Sakura-Tribe Elder:** Early game consistency and ramp.
-*   **Fact or Fiction:** **RESTORED.** Jamie's requested draw spell. Provides excellent card selection and fills the graveyard for your recursion engines.
+*   **Fact or Fiction:** **RESTORED.** Christina's requested draw spell. Provides excellent card selection and fills the graveyard for your recursion engines.
 *   **Greater Good / Rishkar's Expertise:** High-impact draw based on your massive tokens or largest creature.
 
 ### 💎 Artifact Ramp (The Fuel)
