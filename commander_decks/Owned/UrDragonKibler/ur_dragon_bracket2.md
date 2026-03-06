@@ -79,6 +79,9 @@
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-06:** First Physical Shipment Arrived.
+    *   **Package #820926 (The Feisty Goblin):** Received 6 cards (Dragonlord Kolaghan, Cultivate, Sulfur Falls, Savage Ventmaw, Command Tower, Rootbound Crag).
+    *   **Status:** 1/9 Packages Received.
 *   **2026-02-28:** Corrected Build Restoration.
     *   **Final Count:** Exactly 99 cards + 1 Commander.
     *   **Action:** Restored Colossal Majesty. Removed Tiamat, Paradise Druid, and Stubborn Denial to stabilize the count and mana curve.

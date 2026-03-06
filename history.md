@@ -3,6 +3,11 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-06: The Ur-Dragon Physical Build Progress
+*   **Physical Integration:** Received the first of 9 shipments (Package #820926 - The Feisty Goblin).
+*   **Key Arrivals:** **Dragonlord Kolaghan**, **Savage Ventmaw**, and 4 essential mana/ramp pieces (Command Tower, Rootbound Crag, Sulfur Falls, Cultivate).
+*   **Status:** 1/9 packages received.
+
 ### 2026-03-03: Sauron Final Physical Integration (High-Power Mana & Finishers)
 *   **Physical Integration:** Successfully received and integrated the **Final 17 cards** from order #210555.
 *   **Mana Base:** Fully upgraded to a high-power mana base with **Fetch Lands** (Polluted Delta, Bloodstained Mire, Scalding Tarn), **Bond Lands** (Morphic Pool, Luxury Suite), and **Check/Slow Lands**.

@@ -1,7 +1,7 @@
 # Order Tracking: Ur-Dragon (Order #223065)
 
 **Order Date:** 2026-03-02  
-**Status:** 0/9 Packages Received
+**Status:** 1/9 Packages Received
 
 ---
 
@@ -114,14 +114,14 @@
 ---
 
 ## 📦 Package 820926: The Feisty Goblin
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived  
 **Items:**
-- [ ] Command Tower (ECC 60)
-- [ ] Rootbound Crag (ECC 163)
-- [ ] Cultivate (LTC 236)
-- [ ] Savage Ventmaw (FDN 665)
-- [ ] Dragonlord Kolaghan (DTK 218)
-- [ ] Sulfur Falls (LTC 333)
+- [x] Command Tower (ECC 60)
+- [x] Rootbound Crag (ECC 163)
+- [x] Cultivate (LTC 236)
+- [x] Savage Ventmaw (FDN 665)
+- [x] Dragonlord Kolaghan (DTK 218)
+- [x] Sulfur Falls (LTC 333)
 
 ---
 
