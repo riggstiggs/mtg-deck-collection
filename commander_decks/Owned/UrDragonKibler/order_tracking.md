@@ -1,7 +1,7 @@
 # Order Tracking: Ur-Dragon (Order #223065)
 
 **Order Date:** 2026-03-02  
-**Status:** 4/10 Packages Received
+**Status:** 5/10 Packages Received
 
 ---
 
@@ -100,22 +100,22 @@
 ---
 
 ## 📦 Package 820925: sugimo
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived  
 **Items:**
-- [ ] Chaos Warp (TDC 208)
-- [ ] Ramos, Dragon Engine (FDN 678)
-- [ ] Woodland Cemetery (BLC 354)
-- [ ] Rishkar's Expertise (M3C 411)
-- [ ] Faeburrow Elder (BLC 252)
-- [ ] Dragon's Hoard (TDC 317)
-- [ ] Sunpetal Grove (BLC 335)
-- [ ] Crux of Fate (FIC 275)
-- [ ] Farseek (BLC 119)
-- [ ] Haven of the Spirit Dragon (TDC 370)
-- [ ] Austere Command (M3C 167)
-- [ ] Garruk's Uprising (FDN 220)
-- [ ] Morophon, the Boundless (M3C 157)
-- [ ] Arcane Sanctum (FIC 373)
+- [x] Chaos Warp (TDC 208)
+- [x] Ramos, Dragon Engine (FDN 678)
+- [x] Woodland Cemetery (BLC 354)
+- [x] Rishkar's Expertise (M3C 411)
+- [x] Faeburrow Elder (BLC 252)
+- [x] Dragon's Hoard (TDC 317)
+- [x] Sunpetal Grove (BLC 335)
+- [x] Crux of Fate (FIC 275)
+- [x] Farseek (BLC 119)
+- [x] Haven of the Spirit Dragon (TDC 370)
+- [x] Austere Command (M3C 167)
+- [x] Garruk's Uprising (FDN 220)
+- [x] Morophon, the Boundless (M3C 157)
+- [x] Arcane Sanctum (FIC 373)
 
 ---
 
