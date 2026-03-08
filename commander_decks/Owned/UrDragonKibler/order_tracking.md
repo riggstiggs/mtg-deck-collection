@@ -1,7 +1,7 @@
 # Order Tracking: Ur-Dragon (Order #223065)
 
 **Order Date:** 2026-03-02  
-**Status:** 1/9 Packages Received
+**Status:** 2/9 Packages Received
 
 ---
 
@@ -68,12 +68,12 @@
 ---
 
 ## 📦 Package 820931: Meta TCG
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived  
 **Items:**
-- [ ] Scion of the Ur-Dragon (TSP 246)
-- [ ] Reflecting Pool (EOS 36)
-- [ ] Scourge of Kher Ridges (FUT 107)
-- [ ] Dragonspeaker Shaman (PW25 3)
+- [x] Scion of the Ur-Dragon (TSP 246)
+- [x] Reflecting Pool (EOS 36)
+- [x] Scourge of Kher Ridges (FUT 107)
+- [x] Dragonspeaker Shaman (PW25 3)
 
 ---
 
