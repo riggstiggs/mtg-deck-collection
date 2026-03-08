@@ -1,7 +1,7 @@
 # Order Tracking: Ur-Dragon (Order #223065)
 
 **Order Date:** 2026-03-02  
-**Status:** 2/9 Packages Received
+**Status:** 3/9 Packages Received
 
 ---
 
@@ -56,14 +56,14 @@
 ---
 
 ## 📦 Package 820929: Markovs Emporium
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived  
 **Items:**
-- [ ] Mountain (FIN 305)
-- [ ] Sol Ring (TMC 59)
-- [ ] Plains (FIN 296)
-- [ ] Shadowspear (PZA 17)
-- [ ] Steel Hellkite (MKC 239)
-- [ ] Exotic Orchard (MKC 260)
+- [x] Mountain (FIN 305)
+- [x] Sol Ring (TMC 59)
+- [x] Plains (FIN 296)
+- [x] Shadowspear (PZA 17)
+- [x] Steel Hellkite (MKC 239)
+- [x] Exotic Orchard (MKC 260)
 
 ---
 
