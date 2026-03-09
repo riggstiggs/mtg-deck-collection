@@ -3,6 +3,11 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-09: The Ur-Dragon Physical Build Progress
+*   **Physical Integration:** Received a massive shipment (Package #820923 - TinyMaru TCG).
+*   **Key Arrivals:** **Breeding Pool**, **Guardian Project**, **Nature's Lore**, **Three Visits**, and a significant chunk of the mana base (Adarkar Wastes, Glacial Fortress, Shivan Reef, etc.) and Dragon staples (**Dragon Tempest**, **Dragonlord Dromoka**, **Hellkite Courser**).
+*   **Status:** 6/10 packages received.
+
 ### 2026-03-06: The Ur-Dragon Physical Build Progress
 *   **Physical Integration:** Received the first of 9 shipments (Package #820926 - The Feisty Goblin).
 *   **Key Arrivals:** **Dragonlord Kolaghan**, **Savage Ventmaw**, and 4 essential mana/ramp pieces (Command Tower, Rootbound Crag, Sulfur Falls, Cultivate).
