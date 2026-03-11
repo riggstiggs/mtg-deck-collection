@@ -64,17 +64,30 @@
 ## 🚀 Future Roadmap: Upgrades & Considerations
 
 ### 💡 High-Impact Tech to Consider
-*These cards are present in the 'Ideal' Kibler list but were removed to manage budget.*
+*These cards are the next logical steps to move from Mid-Budget to an Optimized (Bracket 3) shell.*
 
-*   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon. Replaced by Hellkite Charger.
-*   **Tiamat ($21):** Premium dragon tutor. Replaced by Sarkhan's Triumph.
-*   **Klauth, Unrivaled Ancient ($18):** High-power mana generator. Replaced by Leyline Tyrant.
-*   **Shock Lands ($55 total):** Replaced by Tango/Battle lands for budget efficiency.
+*   **Ancient Copper Dragon ($78):** The ultimate "jackpot" dragon for explosive mana.
+*   **Tiamat ($22):** The premier dragon tutor. Replaces Sarkhan's Triumph.
+*   **Klauth, Unrivaled Ancient ($18):** Massive mana generation during combat.
+*   **Old Gnawbone ($65):** Incredible treasure generation.
+*   **Terror of the Peaks ($35):** Turns every dragon entry into a lethal board-wipe or player-burn.
+*   **The Great Henge ($55):** Elite ramp, life gain, and card draw.
+*   **Birds of Paradise / Bloom Tender:** Higher efficiency mana dorks to replace 2-mana ramp.
+*   **Stubborn Denial / Swan Song:** Critical 1-mana protection pieces to replace generic counters.
+*   **Roaming Throne:** Doubles all Dragon triggered abilities (Eminence, ETBs, Attack triggers).
+*   **Mox Jasper:** The new tribal-Mox for explosive mid-game acceleration.
 
-### 🛒 Active Acquisition List (Priority Swaps)
+### 🛒 Active Acquisition List (Ordered/Purchased)
+*Status: Awaiting arrival of Order #235644 (High-Power Land Transition).*
+
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
-| [Card Name] | [Card Name] | [Category] | [Pending] |
+| **10 Triomes** | 5 Tri-Lands / 5 Basics | Mana Base | ⏳ Pending |
+| **7 Fetch Lands** | 5 Pain Lands / 2 Basics | Mana Base | ⏳ Pending |
+| **5 Shock Lands** | 5 Tapped Duals | Mana Base | ⏳ Pending |
+| **Lightning Greaves** | [TBD] | Protection | ⏳ Pending |
+| **Swiftfoot Boots** | [TBD] | Protection | ⏳ Pending |
+| **Dragon's Hoard (Spare)** | [N/A] | Ramp | ⏳ Pending |
 
 ---
 

@@ -3,10 +3,17 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-10: The Ur-Dragon High-Power Upgrades
+*   **Acquisition:** Placed Order #235644 for the "Ultimate" mana base transition.
+*   **Mana Base:** Ordered all **10 Triomes** (*Ketria Triome, Jetmir's Garden, etc.*) and the remaining **7 Fetch Lands** (*Scalding Tarn, Arid Mesa, etc.*) and **5 Shock Lands** (*Watery Grave, Steam Vents, etc.*).
+*   **Protection:** Added **Lightning Greaves** and **Swiftfoot Boots** to address the "Protect the King" strategy deficiency.
+*   **Status:** 0/2 packages pending for this order.
+
 ### 2026-03-09: The Ur-Dragon Physical Build Progress
-*   **Physical Integration:** Received a massive shipment (Package #820923 - TinyMaru TCG).
-*   **Key Arrivals:** **Breeding Pool**, **Guardian Project**, **Nature's Lore**, **Three Visits**, and a significant chunk of the mana base (Adarkar Wastes, Glacial Fortress, Shivan Reef, etc.) and Dragon staples (**Dragon Tempest**, **Dragonlord Dromoka**, **Hellkite Courser**).
-*   **Status:** 6/10 packages received.
+*   **Physical Integration:** Received three major shipments today (Packages #820923, #820924, #820927).
+*   **Key Arrivals:** **The Ur-Dragon** (Commander), **Overgrown Tomb**, **Stomping Ground**, **Blood Crypt**, **Windswept Heath**, and **Drowned Catacomb**.
+*   **Strategy Pieces:** Added **Dragonlord Silumgar**, **Silumgar, the Drifting Death**, **Scalelord Reckoner**, and **Elemental Bond**.
+*   **Status:** 7/10 packages received.
 
 ### 2026-03-06: The Ur-Dragon Physical Build Progress
 *   **Physical Integration:** Received the first of 9 shipments (Package #820926 - The Feisty Goblin).
