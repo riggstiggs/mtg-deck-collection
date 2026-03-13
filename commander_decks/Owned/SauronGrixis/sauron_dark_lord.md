@@ -18,59 +18,59 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 ## 🛠️ Card Explanations
 
 ### 🗡️ The Commanders & The Engine (19 Cards)
-*   **Sauron, the Dark Lord:** The engine. Protection (Ward), constant Amass, and a massive discard-draw engine.
-*   **Saruman, the White Hand:** Amasses whenever you cast any noncreature spell.
-*   **Lazotep Chancellor:** **ELITE ENGINE.** Amasses 2 every time you discard a card. One Sauron trigger builds a massive Army instantly.
-*   **Bone Miser:** **VALUE ENGINE.** Generates mana, tokens, and cards based on what you discard to Sauron.
-*   **Archfiend of Ifnir:** **WIPE ENGINE.** Puts -1/-1 counters on all opponents' creatures whenever you discard.
-*   **Anger:** **HASTE ENABLER.** Grants your entire board Haste as long as it is in your graveyard.
-*   **Living Death:** **MASS REANIMATION.** A late-game finisher that brings back all creatures you've discarded to Sauron.
-*   **Kess, Dissident Mage:** Allows you to recast powerful spells (like Wheels or Fling effects) from the graveyard.
-*   **Lord of the Nazgûl:** Buffs your Wraiths (and your Orc Army) to base 9/9.
-*   **Witch-king of Angmar:** Defensive powerhouse that can become Indestructible.
-*   **Mauhúr, Uruk-hai Captain:** Doubles Amass counters.
-*   **Gothmog, Morgul Lieutenant:** Grants the Orc Army Deathtouch.
+*   **[Sauron, the Dark Lord](https://scryfall.com/search?q=!%22Sauron%2C+the+Dark+Lord%22):** The engine. Protection (Ward), constant Amass, and a massive discard-draw engine.
+*   **[Saruman, the White Hand](https://scryfall.com/search?q=!%22Saruman%2C+the+White+Hand%22):** Amasses whenever you cast any noncreature spell.
+*   **[Lazotep Chancellor](https://scryfall.com/search?q=!%22Lazotep+Chancellor%22):** **ELITE ENGINE.** Amasses 2 every time you discard a card. One Sauron trigger builds a massive Army instantly.
+*   **[Bone Miser](https://scryfall.com/search?q=!%22Bone+Miser%22):** **VALUE ENGINE.** Generates mana, tokens, and cards based on what you discard to Sauron.
+*   **[Archfiend of Ifnir](https://scryfall.com/search?q=!%22Archfiend+of+Ifnir%22):** **WIPE ENGINE.** Puts -1/-1 counters on all opponents' creatures whenever you discard.
+*   **[Anger](https://scryfall.com/search?q=!%22Anger%22):** **HASTE ENABLER.** Grants your entire board Haste as long as it is in your graveyard.
+*   **[Living Death](https://scryfall.com/search?q=!%22Living+Death%22):** **MASS REANIMATION.** A late-game finisher that brings back all creatures you've discarded to Sauron.
+*   **[Kess, Dissident Mage](https://scryfall.com/search?q=!%22Kess%2C+Dissident+Mage%22):** Allows you to recast powerful spells (like Wheels or Fling effects) from the graveyard.
+*   **[Lord of the Nazgûl](https://scryfall.com/search?q=!%22Lord+of+the+Nazg%C3%BBl%22):** Buffs your Wraiths (and your Orc Army) to base 9/9.
+*   **[Witch-king of Angmar](https://scryfall.com/search?q=!%22Witch-king+of+Angmar%22):** Defensive powerhouse that can become Indestructible.
+*   **[Mauhúr, Uruk-hai Captain](https://scryfall.com/search?q=!%22Mauh%C3%BAr%2C+Uruk-hai+Captain%22):** Doubles Amass counters.
+*   **[Gothmog, Morgul Lieutenant](https://scryfall.com/search?q=!%22Gothmog%2C+Morgul+Lieutenant%22):** Grants the Orc Army Deathtouch.
 *   **Warg Rider (Scene Box #826):** **ELITE AMASS.** Amasses 2 at the beginning of every combat and grants Menace to your Orcs/Goblins.
-*   **Nazgûl:** Consistent Ring temptation and Deathtouch.
-*   **Dread Return:** Discard-proof recursion.
-*   **Dreadhorde Invasion:** Steady Amass engine and late-game Lifelink.
-*   **Faith of the Devoted:** Turns every discard into life drain for opponents.
-*   **March from the Black Gate:** Consistent Amass on every attack.
-*   **Saruman the White:** Amasses and provides Ward to your other creatures.
+*   **[Nazgûl](https://scryfall.com/search?q=!%22Nazg%C3%BBl%22):** Consistent Ring temptation and Deathtouch.
+*   **[Dread Return](https://scryfall.com/search?q=!%22Dread+Return%22):** Discard-proof recursion.
+*   **[Dreadhorde Invasion](https://scryfall.com/search?q=!%22Dreadhorde+Invasion%22):** Steady Amass engine and late-game Lifelink.
+*   **[Faith of the Devoted](https://scryfall.com/search?q=!%22Faith+of+the+Devoted%22):** Turns every discard into life drain for opponents.
+*   **[March from the Black Gate](https://scryfall.com/search?q=!%22March+from+the+Black+Gate%22):** Consistent Amass on every attack.
+*   **[Saruman the White](https://scryfall.com/search?q=!%22Saruman+the+White%22):** Amasses and provides Ward to your other creatures.
 
 ### 💍 The Ring & Finishers (11 Cards)
-*   **Palantír of Orthanc:** Powerful card draw/burn engine.
-*   **Call of the Ring:** The most consistent source of Ring temptation.
-*   **In the Darkness Bind Them:** Saga that Amasses and steals creatures.
-*   **Birthday Escape / Ringsight:** Cheap cantrips and tutors + temptation.
-*   **Whispersilk Cloak:** Grants Shroud and makes your massive Army unblockable.
-*   **Lightning Greaves:** Haste and Shroud.
-*   **Claim the Precious:** Removal + temptation.
-*   **Inherited Envelope:** Flavorful ramp and Ring temptation.
-*   **Chandra's Ignition:** **WIN-CON.** Use your massive Orc Army to deal damage to everyone else.
-*   **Gravitic Punch / Soul's Fire:** **FINISHERS.** Direct damage based on your Army's power to close out games.
+*   **[Palantír of Orthanc](https://scryfall.com/search?q=!%22Palant%C3%ADr+of+Orthanc%22):** Powerful card draw/burn engine.
+*   **[Call of the Ring](https://scryfall.com/search?q=!%22Call+of+the+Ring%22):** The most consistent source of Ring temptation.
+*   **[In the Darkness Bind Them](https://scryfall.com/search?q=!%22In+the+Darkness+Bind+Them%22):** Saga that Amasses and steals creatures.
+*   **[Birthday Escape](https://scryfall.com/search?q=!%22Birthday+Escape%22) / [Ringsight](https://scryfall.com/search?q=!%22Ringsight%22):** Cheap cantrips and tutors + temptation.
+*   **[Whispersilk Cloak](https://scryfall.com/search?q=!%22Whispersilk+Cloak%22):** Grants Shroud and makes your massive Army unblockable.
+*   **[Lightning Greaves](https://scryfall.com/search?q=!%22Lightning+Greaves%22):** Haste and Shroud.
+*   **[Claim the Precious](https://scryfall.com/search?q=!%22Claim+the+Precious%22):** Removal + temptation.
+*   **[Inherited Envelope](https://scryfall.com/search?q=!%22Inherited+Envelope%22):** Flavorful ramp and Ring temptation.
+*   **[Chandra's Ignition](https://scryfall.com/search?q=!%22Chandra%27s+Ignition%22):** **WIN-CON.** Use your massive Orc Army to deal damage to everyone else.
+*   **[Gravitic Punch](https://scryfall.com/search?q=!%22Gravitic+Punch%22) / [Soul's Fire](https://scryfall.com/search?q=!%22Soul%27s+Fire%22):** **FINISHERS.** Direct damage based on your Army's power to close out games.
 
 ### 💎 Ramp (9)
-*   **Relic of Sauron:** Flavorful ramp, Amass, and filtering.
-*   **Sol Ring / Arcane Signet:** Standard acceleration.
-*   **Talisman of Dominance / Talisman of Creativity / Talisman of Indulgence:** Efficient 2-mana fixing.
-*   **Dimir Signet / Izzet Signet / Rakdos Signet:** Traditional mana fixing.
+*   **[Relic of Sauron](https://scryfall.com/search?q=!%22Relic+of+Sauron%22):** Flavorful ramp, Amass, and filtering.
+*   **[Sol Ring](https://scryfall.com/search?q=!%22Sol+Ring%22) / [Arcane Signet](https://scryfall.com/search?q=!%22Arcane+Signet%22):** Standard acceleration.
+*   **[Talisman of Dominance](https://scryfall.com/search?q=!%22Talisman+of+Dominance%22) / [Talisman of Creativity](https://scryfall.com/search?q=!%22Talisman+of+Creativity%22) / [Talisman of Indulgence](https://scryfall.com/search?q=!%22Talisman+of+Indulgence%22):** Efficient 2-mana fixing.
+*   **[Dimir Signet](https://scryfall.com/search?q=!%22Dimir+Signet%22) / [Izzet Signet](https://scryfall.com/search?q=!%22Izzet+Signet%22) / [Rakdos Signet](https://scryfall.com/search?q=!%22Rakdos+Signet%22):** Traditional mana fixing.
 
 ### 📚 Card Advantage & Selection (6)
-*   **The One Ring:** **GAME CHANGER.** Provides protection from everything for a turn and acts as the most powerful draw engine in the game.
-*   **Windfall / Dark Deal:** Refills your hand and triggers discard synergies.
-*   **Whispering Madness:** Repeatable wheel with Cipher for massive synergy.
-*   **Fact or Fiction:** Premier instant-speed selection.
-*   **Faithless Looting:** Cheap filtering and graveyard setup.
+*   **[The One Ring](https://scryfall.com/search?q=!%22The+One+Ring%22):** **GAME CHANGER.** Provides protection from everything for a turn and acts as the most powerful draw engine in the game.
+*   **[Windfall](https://scryfall.com/search?q=!%22Windfall%22) / [Dark Deal](https://scryfall.com/search?q=!%22Dark+Deal%22):** Refills your hand and triggers discard synergies.
+*   **[Whispering Madness](https://scryfall.com/search?q=!%22Whispering+Madness%22):** Repeatable wheel with Cipher for massive synergy.
+*   **[Fact or Fiction](https://scryfall.com/search?q=!%22Fact+or+Fiction%22):** Premier instant-speed selection.
+*   **[Faithless Looting](https://scryfall.com/search?q=!%22Faithless+Looting%22):** Cheap filtering and graveyard setup.
 
 ### ⚔️ Disruption & Board Control (11 Targeted / 4 Mass)
-*   **Terminate / Bedevil / Bitter Triumph / Go for the Throat:** Efficient removal.
-*   **Counterspell / Arcane Denial / Negate / Drown in the Loch:** Protection and interaction.
-*   **Chaos Warp / Cast into the Fire / Pongify:** Flexible answers.
-*   **Blasphemous Act / Toxic Deluge:** Premier wipes.
-*   **One Ring to Rule Them All:** Thematic board reset.
-*   **Widespread Brutality:** **THEMATIC WIPE.** Wipes the board while leaving your Army intact (and growing it).
-*   **Extract from Darkness:** Mill and reanimation.
+*   **[Terminate](https://scryfall.com/search?q=!%22Terminate%22) / [Bedevil](https://scryfall.com/search?q=!%22Bedevil%22) / [Bitter Triumph](https://scryfall.com/search?q=!%22Bitter+Triumph%22) / [Go for the Throat](https://scryfall.com/search?q=!%22Go+for+the+Throat%22):** Efficient removal.
+*   **[Counterspell](https://scryfall.com/search?q=!%22Counterspell%22) / [Arcane Denial](https://scryfall.com/search?q=!%22Arcane+Denial%22) / [Negate](https://scryfall.com/search?q=!%22Negate%22) / [Drown in the Loch](https://scryfall.com/search?q=!%22Drown+in+the+Loch%22):** Protection and interaction.
+*   **[Chaos Warp](https://scryfall.com/search?q=!%22Chaos+Warp%22) / [Cast into the Fire](https://scryfall.com/search?q=!%22Cast+into+the+Fire%22) / [Pongify](https://scryfall.com/search?q=!%22Pongify%22):** Flexible answers.
+*   **[Blasphemous Act](https://scryfall.com/search?q=!%22Blasphemous+Act%22) / [Toxic Deluge](https://scryfall.com/search?q=!%22Toxic+Deluge%22):** Premier wipes.
+*   **[One Ring to Rule Them All](https://scryfall.com/search?q=!%22One+Ring+to+Rule+Them+All%22):** Thematic board reset.
+*   **[Widespread Brutality](https://scryfall.com/search?q=!%22Widespread+Brutality%22):** **THEMATIC WIPE.** Wipes the board while leaving your Army intact (and growing it).
+*   **[Extract from Darkness](https://scryfall.com/search?q=!%22Extract+from+Darkness%22):** Mill and reanimation.
 
 ### 🗺️ The Mana Base (38 Lands)
 *   **The Black Gate:** **ELITE EVASION.** Land that makes your Orc Army unblockable.
