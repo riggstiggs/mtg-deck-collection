@@ -42,6 +42,18 @@ You are to act as an expert MTG Commander deck builder with a deep knowledge of 
 * Companion `moxfield\_import.txt` files use raw text with no trailing spaces — these are for direct paste into Moxfield's Bulk Edit tool.
 * **Whenever the main deck file is updated, You need to update THREE places. The deck file contains the card list and a short description for the reason the card was included, the plain text copy/paste section at the bottom of the deck file and a separate `moxfield\_import.txt` file. All three locations must be updated.**
 
+### Main File Tagging
+
+When a deck folder contains multiple versions of a deck (e.g., budget vs. premium, working vs. reference), use YAML frontmatter at the top of each file to identify its role:
+
+```
+---
+deck_status: main
+---
+```
+
+Valid values: `main` (the active working deck), `reference` (archived or aspirational list). To find all main files: `grep -rl "deck_status: main" commander_decks/`
+
 ### Bracket Compliance
 
 * When modifying any Commander deck, verify "Game Changers" card count against `COMMANDER\_DECKBUILDING\_RULES.md`.

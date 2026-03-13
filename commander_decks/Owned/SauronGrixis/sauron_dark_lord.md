@@ -1,3 +1,7 @@
+---
+deck_status: main
+---
+
 # Deck Guide: Sauron, the Dark Lord (Finalized Grixis Amass)
 
 ## Commander Strategy

@@ -1,3 +1,7 @@
+---
+deck_status: main
+---
+
 # Deck Guide: The Ur-Dragon (Kibler's Flight - Bracket 2 Mid-Budget Edition)
 
 ## Commander Strategy
@@ -11,53 +15,53 @@
 ## 🛠️ Card Explanations
 
 ### 🐉 The Draconic Vanguard (Plan Cards) (30 Cards)
-*   **Dragon Tempest / Scourge of Valkas:** Punishes opponents whenever a dragon enters the battlefield.
-*   **Lathliss, Dragon Queen / Utvara Hellkite:** Generates a swarm of dragons to overwhelm the board.
-*   **Atarka, World Render / Dragonlord Kolaghan:** Provides Double Strike and Haste to close out games.
-*   **Dragonlord Dromoka / Silumgar, the Drifting Death:** Provides protection and incremental board control.
-*   **Miirym, Sentinel Wyrm:** Doubles your dragon threats (thematic value engine).
-*   **Sarkhan's Triumph:** Instant-speed dragon tutor (Efficient budget alternative to Tiamat).
-*   **Leyline Tyrant / Savage Ventmaw:** Generates or stores mana to fuel massive dragon turns.
-*   **Hellkite Charger:** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
-*   **Bladewing the Risen:** Thematic recursion for the late game.
-*   **Rivaz of the Claw:** **ELITE RAMP.** Taps for two mana and allows you to cast dragons from your graveyard.
-*   **Steel Hellkite:** Repeatable mass removal on a body.
-*   **Dromoka, the Eternal:** Bolster engine that turns your board into a lethal threat.
-*   **Dragonlord's Servant / Dragonspeaker Shaman:** Tribal cost reducers that stack with Eminence.
-*   **Herald's Horn:** Tribal ramp and consistent "free" card advantage.
-*   **Two-Headed Hellkite:** Massive draw engine that draws two cards every time it attacks.
-*   **Morophon, the Boundless:** **MVP.** Reduces dragon costs by {W}{U}{B}{R}{G}, making them nearly free with Eminence.
-*   **Sarkhan, Soul Aflame / Scion of the Ur-Dragon:** High-utility dragons that provide cost reduction, copying, and graveyard setup.
-*   **Ramos, Dragon Engine:** **MANA BATTERY.** Generates massive mana from casting your multicolored dragons.
-*   **Scalelord Reckoner:** Protects your dragons by punishing opponents for targeting them.
-*   **Shadowspear:** **UTILITY MVP.** Provides Trample and Lifelink, and its activated ability strips Hexproof and Indestructible from opponents' boards.
+*   **[Dragon Tempest](https://scryfall.com/search?q=!%22Dragon+Tempest%22) / [Scourge of Valkas](https://scryfall.com/search?q=!%22Scourge+of+Valkas%22):** Punishes opponents whenever a dragon enters the battlefield.
+*   **[Lathliss, Dragon Queen](https://scryfall.com/search?q=!%22Lathliss%2C+Dragon+Queen%22) / [Utvara Hellkite](https://scryfall.com/search?q=!%22Utvara+Hellkite%22):** Generates a swarm of dragons to overwhelm the board.
+*   **[Atarka, World Render](https://scryfall.com/search?q=!%22Atarka%2C+World+Render%22) / [Dragonlord Kolaghan](https://scryfall.com/search?q=!%22Dragonlord+Kolaghan%22):** Provides Double Strike and Haste to close out games.
+*   **[Dragonlord Dromoka](https://scryfall.com/search?q=!%22Dragonlord+Dromoka%22) / [Silumgar, the Drifting Death](https://scryfall.com/search?q=!%22Silumgar%2C+the+Drifting+Death%22):** Provides protection and incremental board control.
+*   **[Miirym, Sentinel Wyrm](https://scryfall.com/search?q=!%22Miirym%2C+Sentinel+Wyrm%22):** Doubles your dragon threats (thematic value engine).
+*   **[Sarkhan's Triumph](https://scryfall.com/search?q=!%22Sarkhan%27s+Triumph%22):** Instant-speed dragon tutor (Efficient budget alternative to Tiamat).
+*   **[Leyline Tyrant](https://scryfall.com/search?q=!%22Leyline+Tyrant%22) / [Savage Ventmaw](https://scryfall.com/search?q=!%22Savage+Ventmaw%22):** Generates or stores mana to fuel massive dragon turns.
+*   **[Hellkite Charger](https://scryfall.com/search?q=!%22Hellkite+Charger%22):** Repeatable combat engine (Budget alternative to Ancient Copper Dragon).
+*   **[Bladewing the Risen](https://scryfall.com/search?q=!%22Bladewing+the+Risen%22):** Thematic recursion for the late game.
+*   **[Rivaz of the Claw](https://scryfall.com/search?q=!%22Rivaz+of+the+Claw%22):** **ELITE RAMP.** Taps for two mana and allows you to cast dragons from your graveyard.
+*   **[Steel Hellkite](https://scryfall.com/search?q=!%22Steel+Hellkite%22):** Repeatable mass removal on a body.
+*   **[Dromoka, the Eternal](https://scryfall.com/search?q=!%22Dromoka%2C+the+Eternal%22):** Bolster engine that turns your board into a lethal threat.
+*   **[Dragonlord's Servant](https://scryfall.com/search?q=!%22Dragonlord%27s+Servant%22) / [Dragonspeaker Shaman](https://scryfall.com/search?q=!%22Dragonspeaker+Shaman%22):** Tribal cost reducers that stack with Eminence.
+*   **[Herald's Horn](https://scryfall.com/search?q=!%22Herald%27s+Horn%22):** Tribal ramp and consistent "free" card advantage.
+*   **[Two-Headed Hellkite](https://scryfall.com/search?q=!%22Two-Headed+Hellkite%22):** Massive draw engine that draws two cards every time it attacks.
+*   **[Morophon, the Boundless](https://scryfall.com/search?q=!%22Morophon%2C+the+Boundless%22):** **MVP.** Reduces dragon costs by {W}{U}{B}{R}{G}, making them nearly free with Eminence.
+*   **[Sarkhan, Soul Aflame](https://scryfall.com/search?q=!%22Sarkhan%2C+Soul+Aflame%22) / [Scion of the Ur-Dragon](https://scryfall.com/search?q=!%22Scion+of+the+Ur-Dragon%22):** High-utility dragons that provide cost reduction, copying, and graveyard setup.
+*   **[Ramos, Dragon Engine](https://scryfall.com/search?q=!%22Ramos%2C+Dragon+Engine%22):** **MANA BATTERY.** Generates massive mana from casting your multicolored dragons.
+*   **[Scalelord Reckoner](https://scryfall.com/search?q=!%22Scalelord+Reckoner%22):** Protects your dragons by punishing opponents for targeting them.
+*   **[Shadowspear](https://scryfall.com/search?q=!%22Shadowspear%22):** **UTILITY MVP.** Provides Trample and Lifelink, and its activated ability strips Hexproof and Indestructible from opponents' boards.
 
 ### 💉 Card Advantage & Anti-Stall (8 Cards)
-*   **Elemental Bond / Garruk's Uprising / Temur Ascendancy:** Rewards you for playing large creatures.
-*   **Rishkar's Expertise / Return of the Wildspeaker:** Burst draw based on your largest dragon.
-*   **Up the Beanstalk:** Consistent value for casting your high-CMC threats.
-*   **Colossal Majesty:** Consistent draw since dragons are always the biggest creatures.
-*   **Escape to the Wilds:** Impulse draw and extra land drop.
-*   **Guardian Project:** High-value draw for each non-token creature entry.
+*   **[Elemental Bond](https://scryfall.com/search?q=!%22Elemental+Bond%22) / [Garruk's Uprising](https://scryfall.com/search?q=!%22Garruk%27s+Uprising%22) / [Temur Ascendancy](https://scryfall.com/search?q=!%22Temur+Ascendancy%22):** Rewards you for playing large creatures.
+*   **[Rishkar's Expertise](https://scryfall.com/search?q=!%22Rishkar%27s+Expertise%22) / [Return of the Wildspeaker](https://scryfall.com/search?q=!%22Return+of+the+Wildspeaker%22):** Burst draw based on your largest dragon.
+*   **[Up the Beanstalk](https://scryfall.com/search?q=!%22Up+the+Beanstalk%22):** Consistent value for casting your high-CMC threats.
+*   **[Colossal Majesty](https://scryfall.com/search?q=!%22Colossal+Majesty%22):** Consistent draw since dragons are always the biggest creatures.
+*   **[Escape to the Wilds](https://scryfall.com/search?q=!%22Escape+to+the+Wilds%22):** Impulse draw and extra land drop.
+*   **[Guardian Project](https://scryfall.com/search?q=!%22Guardian+Project%22):** High-value draw for each non-token creature entry.
 
 ### 💎 Ramp & Acceleration (11 Cards)
-*   **Sol Ring / Arcane Signet:** Standard acceleration.
-*   **Dragon's Hoard:** Thematic ramp and incidental card draw.
-*   **Farseek / Nature's Lore / Three Visits:** **POWERED.** Now fetch Shock lands for immediate 5-color fixing.
-*   **Cultivate / Kodama's Reach:** Standard green ramp.
-*   **Faeburrow Elder / Sylvan Caryatid:** Efficient dorks for 5-color fixing and acceleration.
+*   **[Sol Ring](https://scryfall.com/search?q=!%22Sol+Ring%22) / [Arcane Signet](https://scryfall.com/search?q=!%22Arcane+Signet%22):** Standard acceleration.
+*   **[Dragon's Hoard](https://scryfall.com/search?q=!%22Dragon%27s+Hoard%22):** Thematic ramp and incidental card draw.
+*   **[Farseek](https://scryfall.com/search?q=!%22Farseek%22) / [Nature's Lore](https://scryfall.com/search?q=!%22Nature%27s+Lore%22) / [Three Visits](https://scryfall.com/search?q=!%22Three+Visits%22):** **POWERED.** Now fetch Shock lands for immediate 5-color fixing.
+*   **[Cultivate](https://scryfall.com/search?q=!%22Cultivate%22) / [Kodama's Reach](https://scryfall.com/search?q=!%22Kodama%27s+Reach%22):** Standard green ramp.
+*   **[Faeburrow Elder](https://scryfall.com/search?q=!%22Faeburrow+Elder%22) / [Sylvan Caryatid](https://scryfall.com/search?q=!%22Sylvan+Caryatid%22):** Efficient dorks for 5-color fixing and acceleration.
 
 ### ⚔️ Targeted Disruption (8 Cards)
-*   **Beast Within / Chaos Warp / Generous Gift:** Versatile answers.
-*   **Negate:** Low-CMC protection for your board.
-*   **Bedevil / Terminate / Anguished Unmaking:** Targeted removal for various threats.
+*   **[Beast Within](https://scryfall.com/search?q=!%22Beast+Within%22) / [Chaos Warp](https://scryfall.com/search?q=!%22Chaos+Warp%22) / [Generous Gift](https://scryfall.com/search?q=!%22Generous+Gift%22):** Versatile answers.
+*   **[Negate](https://scryfall.com/search?q=!%22Negate%22):** Low-CMC protection for your board.
+*   **[Bedevil](https://scryfall.com/search?q=!%22Bedevil%22) / [Terminate](https://scryfall.com/search?q=!%22Terminate%22) / [Anguished Unmaking](https://scryfall.com/search?q=!%22Anguished+Unmaking%22):** Targeted removal for various threats.
 
 ### ☢️ Mass Disruption (5 Cards)
-*   **Crux of Fate:** Thematic board wipe that spares your dragons.
-*   **Blasphemous Act:** Standard efficient board wipe.
-*   **Austere Command:** Flexible wipe for artifacts, enchantments, or creatures.
-*   **Living Death:** A recovery piece that can also act as a board reset.
-*   **Scourge of Kher Ridges:** A "Repeatable Wipe" on a dragon body.
+*   **[Crux of Fate](https://scryfall.com/search?q=!%22Crux+of+Fate%22):** Thematic board wipe that spares your dragons.
+*   **[Blasphemous Act](https://scryfall.com/search?q=!%22Blasphemous+Act%22):** Standard efficient board wipe.
+*   **[Austere Command](https://scryfall.com/search?q=!%22Austere+Command%22):** Flexible wipe for artifacts, enchantments, or creatures.
+*   **[Living Death](https://scryfall.com/search?q=!%22Living+Death%22):** A recovery piece that can also act as a board reset.
+*   **[Scourge of Kher Ridges](https://scryfall.com/search?q=!%22Scourge+of+Kher+Ridges%22):** A "Repeatable Wipe" on a dragon body.
 
 ---
 
