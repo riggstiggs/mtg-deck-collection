@@ -34,7 +34,7 @@ Each time "The Ring tempts you," the Ring emblem levels up (up to Level 4) and y
 *   **[Witch-king of Angmar](https://scryfall.com/search?q=!%22Witch-king+of+Angmar%22):** Defensive powerhouse that can become Indestructible.
 *   **[Mauhúr, Uruk-hai Captain](https://scryfall.com/search?q=!%22Mauh%C3%BAr%2C+Uruk-hai+Captain%22):** Doubles Amass counters.
 *   **[Gothmog, Morgul Lieutenant](https://scryfall.com/search?q=!%22Gothmog%2C+Morgul+Lieutenant%22):** Grants the Orc Army Deathtouch.
-*   **Warg Rider (Scene Box #826):** **ELITE AMASS.** Amasses 2 at the beginning of every combat and grants Menace to your Orcs/Goblins.
+*   **[Warg Rider](https://scryfall.com/card/ltr/831/warg-rider) (Scene Box #826):** **ELITE AMASS.** Amasses 2 at the beginning of every combat and grants Menace to your Orcs/Goblins.
 *   **[Nazgûl](https://scryfall.com/search?q=!%22Nazg%C3%BBl%22):** Consistent Ring temptation and Deathtouch.
 *   **[Dread Return](https://scryfall.com/search?q=!%22Dread+Return%22):** Discard-proof recursion.
 *   **[Dreadhorde Invasion](https://scryfall.com/search?q=!%22Dreadhorde+Invasion%22):** Steady Amass engine and late-game Lifelink.
