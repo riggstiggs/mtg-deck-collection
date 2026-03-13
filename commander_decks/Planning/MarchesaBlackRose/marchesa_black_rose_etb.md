@@ -10,7 +10,7 @@
 
 ## 🛠️ Card Explanations
 
-### 🗡️ ETB & Death Value (Key Loop Targets) (20 Cards)
+### 🗡️ ETB & Death Value (Key Loop Targets) (19 Cards)
 *   **Ravenous Chupacabra:** Repeatable targeted creature removal.
 *   **Gray Merchant of Asphodel:** Massive life drain finisher.
 *   **Mulldrifter:** Repeatable 2-card draw engine.
@@ -22,12 +22,14 @@
 *   **Murderous Redcap:** Deals damage on entry/death. Built-in Persist makes it a self-sustaining loop piece with a counter-enabler.
 *   **River Kelpie:** Draws cards when things enter from the graveyard AND when they leave.
 *   **Grim Haruspex / Midnight Reaper:** Card draw whenever your non-token creatures die.
-*   **Satoru, the Infiltrator:** Draws a card every time a creature enters the battlefield without being cast.
 *   **Juri, Master of the Revue:** Grows huge as you sacrifice things and explodes for damage on death.
 *   **Blood Artist / Zulaport Cutthroat:** Drains opponents whenever creatures die.
-*   **Chasm Skulker:** Grows with every card drawn; creates a swarm of tokens on death.
 *   **Spark Double:** Copies Marchesa (or another engine piece) while ignoring the Legend rule.
 *   **Mayhem Devil:** Deals 1 damage to any target whenever ANY player sacrifices a permanent. Elite interaction.
+
+### 🐾 Fodder Generation (2 Cards)
+*   **Bitterblossom:** Creates one faerie token per turn at the cost of 1 life. Steady stream of expendable sac targets that keep the engine fed before the recursion loop is online.
+*   **Ophiomancer:** Creates a 1/1 deathtouch snake at your upkeep if you control no snakes. Ensures you always have at least one creature to sacrifice, even after a boardwipe.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (6 Cards)
 *   **Yawgmoth, Thran Physician:** **THE PROFESSOR.** Sacrifice for free, draw cards, and use Proliferate to add counters.
@@ -37,21 +39,21 @@
 *   **Goblin Bombardment:** Converts your loops into direct damage.
 *   **Immersturm Predator:** Free sacrifice outlet with built-in graveyard hate.
 
-### 🛡️ Counter Enablers (The "Insurance" Makers) (8 Cards)
+### 🛡️ Counter Enablers (The "Insurance" Makers) (7 Cards)
 *   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature at instant speed.
 *   **Vigean Graftmage:** Enters with counters and "Grafts" them onto new arrivals, insuring them the second they touch the board.
 *   **Metallic Mimic:** Naming "Wizard" ensures Marchesa and key protection pieces enter with a counter automatically.
 *   **Mikaeus, the Unhallowed:** Grants Undying to non-humans, providing a powerful secondary insurance layer if a creature lacks a counter.
-*   **Iron Apprentice:** A 1-drop bridge that enters with a counter and "passes" it to your next target when it dies.
 *   **The Ozolith:** Saves all counters from dying creatures to move onto Marchesa or key loop targets.
 *   **Uncivil Unrest:** Creatures enter with a counter (Riot) and deal double damage if they have a counter.
 *   **Sage of Fables:** Wizards enter with a counter (Marchesa is a Wizard).
-*   **Herald of Secret Streams:** Makes all your creatures with counters unblockable.
+*   **Swiftfoot Boots:** Grants hexproof and haste to Marchesa or key loop pieces, protecting against targeted removal while keeping your own engine accessible.
 
-### 💎 Ramp & Utility (9 Cards)
+### 💎 Ramp & Utility (10 Cards)
 *   **Arcane Signet / Sol Ring / Fellwar Stone:** Essential acceleration.
 *   **Dimir Signet / Izzet Signet / Rakdos Signet:** Mana fixing.
 *   **Talisman of Indulgence / Creativity / Dominance:** Fast fixing.
+*   **Mind Stone:** Early ramp that converts to card draw late game when no longer needed.
 
 ### ⚔️ Disruption & Board Control (15 Cards)
 *   **Terminate / Chaos Warp / Bedevil / Feed the Swarm:** Flexible removal.
@@ -91,6 +93,10 @@
 | [Card Name] | [Card Name] | [Category] | [Pending/Ordered/Received] |
 
 ---
+*   **2026-03-12:** Engine Refinement — Fodder & Protection.
+    *   **In:** Bitterblossom, Ophiomancer, Swiftfoot Boots, Mind Stone.
+    *   **Out:** Herald of Secret Streams, Chasm Skulker, Satoru the Infiltrator, Iron Apprentice.
+    *   **Reason:** Added consistent fodder generation (Bitterblossom, Ophiomancer) to feed the engine before recursion loop is online. Replaced combat-focused Herald of Secret Streams with Swiftfoot Boots for Marchesa protection. Swapped weakest counter enabler (Iron Apprentice) for Mind Stone to hit 10 ramp and provide late-game draw.
 *   **2026-02-28:** "The Iron Throne" Overhaul.
     *   **Goal:** Hardening the engine to be independent of Dethrone/Combat.
     *   **In:** Vigean Graftmage, Metallic Mimic, Mikaeus, the Unhallowed, Iron Apprentice, Murderous Redcap.
@@ -106,96 +112,96 @@
 ---
 
 ## 🃏 Plain Text Copy/Paste (Moxfield Import)
-COMMANDER:  
-1 Marchesa, the Black Rose  
+COMMANDER:
+1 Marchesa, the Black Rose
 
-DECK:  
-1 Ravenous Chupacabra  
-1 Gray Merchant of Asphodel  
-1 Mulldrifter  
-1 Solemn Simulacrum  
-1 Baleful Strix  
-1 Flayer of the Hatebound  
-1 Puppeteer Clique  
-1 Zealous Conscripts  
-1 Murderous Redcap  
-1 River Kelpie  
-1 Grim Haruspex  
-1 Midnight Reaper  
-1 Satoru, the Infiltrator  
-1 Juri, Master of the Revue  
-1 Chasm Skulker  
-1 Spark Double  
-1 Mayhem Devil  
-1 Yawgmoth, Thran Physician  
-1 Viscera Seer  
-1 Carrion Feeder  
-1 Ashnod's Altar  
-1 Phyrexian Altar  
-1 Yahenni, Undying Partisan  
-1 Goblin Bombardment  
-1 Immersturm Predator  
-1 Unspeakable Symbol  
-1 Vigean Graftmage  
-1 Metallic Mimic  
-1 Mikaeus, the Unhallowed  
-1 Iron Apprentice  
-1 The Ozolith  
-1 Uncivil Unrest  
-1 Sage of Fables  
-1 Herald of Secret Streams  
-1 Arcane Signet  
-1 Sol Ring  
-1 Fellwar Stone  
-1 Dimir Signet  
-1 Izzet Signet  
-1 Rakdos Signet  
-1 Talisman of Indulgence  
-1 Talisman of Creativity  
-1 Talisman of Dominance  
-1 Terminate  
-1 Chaos Warp  
-1 Bedevil  
-1 Feed the Swarm  
-1 Imprisoned in the Moon  
-1 Toxic Deluge  
-1 Blasphemous Act  
-1 Living Death  
-1 An Offer You Can't Refuse  
-1 Arcane Denial  
-1 Siren Stormtamer  
-1 Victimize  
-1 Reanimate  
-1 Skullclamp  
-1 Deadly Dispute  
-1 Village Rites  
-1 Watery Grave  
-1 Steam Vents  
-1 Blood Crypt  
-1 Dragonskull Summit  
-1 Drowned Catacomb  
-1 Sulfur Falls  
-1 Morphic Pool  
-1 Luxury Suite  
-1 Training Center  
-1 Crumbling Necropolis  
-1 Xander's Lounge  
-1 Smoldering Marsh  
-1 Sunken Hollow  
-1 High Market  
-1 Opal Palace  
-1 Forge of Heroes  
-1 Reliquary Tower  
-1 Command Tower  
-1 Exotic Orchard  
-1 Path of Ancestry  
-1 Shivan Reef  
-1 Sulfurous Springs  
-1 Underground River  
-1 Evolving Wilds  
-1 Terramorphic Expanse  
-6 Swamp  
-4 Mountain  
-3 Island  
-1 Blood Artist  
-1 Zulaport Cutthroat  
+DECK:
+1 Ravenous Chupacabra
+1 Gray Merchant of Asphodel
+1 Mulldrifter
+1 Solemn Simulacrum
+1 Baleful Strix
+1 Flayer of the Hatebound
+1 Puppeteer Clique
+1 Zealous Conscripts
+1 Murderous Redcap
+1 River Kelpie
+1 Grim Haruspex
+1 Midnight Reaper
+1 Juri, Master of the Revue
+1 Spark Double
+1 Mayhem Devil
+1 Blood Artist
+1 Zulaport Cutthroat
+1 Bitterblossom
+1 Ophiomancer
+1 Yawgmoth, Thran Physician
+1 Viscera Seer
+1 Carrion Feeder
+1 Ashnod's Altar
+1 Phyrexian Altar
+1 Yahenni, Undying Partisan
+1 Goblin Bombardment
+1 Immersturm Predator
+1 Unspeakable Symbol
+1 Vigean Graftmage
+1 Metallic Mimic
+1 Mikaeus, the Unhallowed
+1 The Ozolith
+1 Uncivil Unrest
+1 Sage of Fables
+1 Swiftfoot Boots
+1 Arcane Signet
+1 Sol Ring
+1 Mind Stone
+1 Fellwar Stone
+1 Dimir Signet
+1 Izzet Signet
+1 Rakdos Signet
+1 Talisman of Indulgence
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Terminate
+1 Chaos Warp
+1 Bedevil
+1 Feed the Swarm
+1 Imprisoned in the Moon
+1 Toxic Deluge
+1 Blasphemous Act
+1 Living Death
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Siren Stormtamer
+1 Victimize
+1 Reanimate
+1 Skullclamp
+1 Deadly Dispute
+1 Village Rites
+1 Watery Grave
+1 Steam Vents
+1 Blood Crypt
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Sulfur Falls
+1 Morphic Pool
+1 Luxury Suite
+1 Training Center
+1 Crumbling Necropolis
+1 Xander's Lounge
+1 Smoldering Marsh
+1 Sunken Hollow
+1 High Market
+1 Opal Palace
+1 Forge of Heroes
+1 Reliquary Tower
+1 Command Tower
+1 Exotic Orchard
+1 Path of Ancestry
+1 Shivan Reef
+1 Sulfurous Springs
+1 Underground River
+1 Evolving Wilds
+1 Terramorphic Expanse
+6 Swamp
+4 Mountain
+3 Island
