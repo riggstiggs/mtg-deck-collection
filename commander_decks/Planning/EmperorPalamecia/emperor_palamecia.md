@@ -118,7 +118,7 @@ deck_status: main
 ## ⚠️ Deck Health Notes (Areas to Address)
 *   **Ramp is low:** 6 pieces (including Ring of the Lucii and the Emperor's tap ability) vs. the recommended 10. Priority upgrade area — Sol Ring, Arcane Signet, and Izzet Signet are the obvious additions.
 *   **Land count is light:** 36 lands vs. recommended 38. Risk of mana screw on early hands.
-*   **Game Changer verification needed:** Mizzix's Mastery and potentially Chandra's Ignition may be Game Changers. Verify against `COMMANDER_DECKBUILDING_RULES.md` before playing at Bracket 2 tables.
+*   **Bracket confirmed:** Mizzix's Mastery and Chandra's Ignition are not on the Game Changers list — deck is safe for Bracket 2-3 tables.
 
 ---
 
