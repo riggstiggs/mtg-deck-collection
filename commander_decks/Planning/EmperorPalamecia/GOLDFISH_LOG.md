@@ -88,15 +88,16 @@
 - [Sisay's Ring](https://scryfall.com/search?q=!%22Sisay%27s+Ring%22), [Kinetic Augur](https://scryfall.com/search?q=!%22Kinetic+Augur%22), [Drake Umbra](https://scryfall.com/search?q=!%22Drake+Umbra%22), [Mountain](https://scryfall.com/search?q=!%22Mountain%22), [Mountain](https://scryfall.com/search?q=!%22Mountain%22), [Channeled Force](https://scryfall.com/search?q=!%22Channeled+Force%22), [Access Denied](https://scryfall.com/search?q=!%22Access+Denied%22)
 - **Decision:** Free mulligan — 2 lands, both Mountains, no blue source. Cannot cast Emperor on T2.
 
-**6-Card Hand after Mulligan (bottomed [Tunnel Vision](https://scryfall.com/search?q=!%22Tunnel+Vision%22)):**
+**7-Card Hand after Free Mulligan (no card owed to bottom — first mulligan is free in Commander):**
 - [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
 - [Island](https://scryfall.com/search?q=!%22Island%22)
 - [Ancestral Memories](https://scryfall.com/search?q=!%22Ancestral+Memories%22)
+- [Tunnel Vision](https://scryfall.com/search?q=!%22Tunnel+Vision%22)
 - [Seize the Storm](https://scryfall.com/search?q=!%22Seize+the+Storm%22)
 - [Hedron Archive](https://scryfall.com/search?q=!%22Hedron+Archive%22)
 - [Path of the Pyromancer](https://scryfall.com/search?q=!%22Path+of+the+Pyromancer%22)
 
-**Decision:** Keep — both colors, Emperor T2, Hedron Archive for counter #1 on T3.
+**Decision:** Keep — both colors, Emperor T2, Hedron Archive for counter #1 on T3. Tunnel Vision is a slow card but we keep the full 7 since the first mulligan costs nothing.
 
 ### Turn-by-Turn
 
@@ -145,4 +146,4 @@
 - **4-cost rock design validated:** Hedron Archive (Game 2) showed the double-duty design — triggers counter AND ramps future turns. The rock selection is correct.
 - **Graveyard fueling:** Ancestral Memories is a standout — naturally stocks 5 cards in one cast, immediately making Starfall threatening even before Lord Master attacks.
 - **Protection:** Clout of the Dominus in the opening hand (Game 1) was ideal. The protection package is well-sized but relies on drawing it early.
-- **Mulligan:** Free mulligan was used once in 2 games. The deck's color requirement ({U}{R}) means 2-Mountain hands are the primary mulligan trigger.
+- **Mulligan:** Free mulligan used once in 2 games (Game 2, 2-Mountain hand). First mulligan in Commander is completely free — draw 7, keep all 7. Only subsequent mulligans cost 1 card each (2nd = keep 6, 3rd = keep 5, etc.). The deck's primary mulligan trigger is a hand with no blue source.
