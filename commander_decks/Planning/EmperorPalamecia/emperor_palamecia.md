@@ -6,12 +6,18 @@ deck_status: main
 
 ## Commander Strategy
 **The Emperor of Palamecia // The Lord Master of Hell**
-*   **Archetype:** Izzet (Blue/Red) Aura Voltron / Spellslinger / Hand Size
+*   **Archetype:** Izzet (Blue/Red) Spellslinger / Graveyard Value / Voltron
 *   **Bracket:** 2-3 (Budget — pending Game Changer verification)
 *   **Source:** YouTube decklist — initial build, optimization in progress.
-*   **Core Goal:** Suit up The Emperor with a protective aura and equipment package to build a massive, untouchable threat. With a bloated hand and a buffed Emperor, **Chandra's Ignition** becomes a one-sided table wipe and lethal damage engine. Spellslinger payoffs and mill serve as backup win conditions.
+*   **Core Goal:** Cast expensive noncreature spells to grow and transform The Emperor into The Lord Master of Hell. Once transformed, Lord Master attacks to deal damage equal to the number of noncreature, nonland cards in your graveyard to **each opponent simultaneously** — a built-in Fireball that scales with your spell count. Fill the graveyard aggressively through draw-discard, Ancestral Memories, and the mill package. **Chandra's Ignition** targeting a large Lord Master is a secondary one-shot win line.
 
-> ⚠️ **Note:** The Emperor of Palamecia // The Lord Master of Hell is from the Final Fantasy Into the Dark (FIN) set. Full oracle text needed to finalize deck optimization — card descriptions below are inferred from deck composition and synergy context.
+### Oracle Text
+**The Emperor of Palamecia** — {U}{R} — Legendary Creature — Human Noble Wizard — 2/2
+> {T}: Add {U} or {R}. Spend this mana only to cast a noncreature spell.
+> Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on The Emperor of Palamecia. Then if it has three or more +1/+1 counters on it, transform it.
+
+**The Lord Master of Hell** — (back face) — Legendary Creature — Demon Noble Wizard — 3/3
+> *Starfall* — Whenever The Lord Master of Hell attacks, it deals X damage to each opponent, where X is the number of noncreature, nonland cards in your graveyard.
 
 ---
 
@@ -112,7 +118,7 @@ deck_status: main
 ## ⚠️ Deck Health Notes (Areas to Address)
 *   **Ramp is critically low:** 5 pieces vs. the recommended 10. The deck will frequently stall on mana. Priority upgrade area.
 *   **Land count is light:** 36 lands vs. recommended 38. Risk of mana screw on early hands.
-*   **Commander oracle text unknown:** The Emperor of Palamecia (FIN) and Ring of the Lucii (FIN) need their full oracle text reviewed — the entire strategy may need adjustment once his specific abilities are confirmed.
+*   **Ring of the Lucii oracle text unknown:** FIN 269 needs its full oracle text reviewed — it may be core to the strategy or replaceable depending on its actual abilities.
 *   **Game Changer verification needed:** Mizzix's Mastery and potentially Chandra's Ignition may be Game Changers. Verify against `COMMANDER_DECKBUILDING_RULES.md` before playing at Bracket 2 tables.
 
 ---
@@ -133,7 +139,7 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
-*   **2026-03-14:** Initial deck file created from YouTube decklist. Strategy inferred from card composition pending Emperor oracle text confirmation.
+*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for The Emperor of Palamecia // The Lord Master of Hell (FIN 219) — strategy updated to reflect Starfall graveyard-damage win condition. Ring of the Lucii (FIN 269) oracle text still pending.
 
 ---
 
