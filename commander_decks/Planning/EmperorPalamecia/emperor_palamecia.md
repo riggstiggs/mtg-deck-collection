@@ -117,7 +117,7 @@ deck_status: main
 
 ## ⚠️ Deck Health Notes (Areas to Address)
 *   **Ramp is intentional:** The Emperor himself is the primary ramp engine — cast him T2, tap him T3 to reach 4 mana. The mana rocks in the deck are deliberately costed at 4 mana because they serve double duty: they trigger his +1/+1 counter ability AND produce mana going forward. Cheap rocks like Sol Ring or Arcane Signet would NOT trigger the counter and are therefore less synergistic.
-*   **Land count is light:** 36 lands vs. recommended 38. The Emperor's tap ability mitigates this somewhat, but early hands without 2 lands are risky. Worth monitoring in playtesting.
+*   **Land count is validated:** 36 lands is sufficient in practice. The free first mulligan in Commander plus only needing {U}{R} to deploy the Emperor on T2 makes 36 consistent. Playtesting has not shown land issues.
 *   **Bracket confirmed:** Mizzix's Mastery and Chandra's Ignition are not on the Game Changers list — deck is safe for Bracket 2-3 tables.
 
 ---
