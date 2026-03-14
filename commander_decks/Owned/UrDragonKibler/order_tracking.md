@@ -1,11 +1,11 @@
-# Order Tracking: Ur-Dragon (Order #TBD — Manapool)
+# Order Tracking: Ur-Dragon (Manapool — Upgrade Package)
 
 **Order Date:** 2026-03-14
 **Status:** 0/1 Packages Received
 
 ---
 
-## 📦 Package: Manapool
+## 📦 Package #241252-884082: Spellfinder
 **Status:** ⏳ Pending
 **Items:**
 - [ ] Mirari's Wake (MH2 320) — NM Borderless — $11.81
