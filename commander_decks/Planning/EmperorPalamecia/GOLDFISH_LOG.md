@@ -13,7 +13,7 @@
 | Game 1 | ✅ | Turn 6 | Clean keep, Clout in opener |
 | Game 2 | ✅ | Turn 5 | Free mulligan taken; full 7-card hand kept |
 | Game 3 | ✅ | Turn 6 | Free mulligan; Stormcarved tapped delayed Emperor to T3, recovered via Ring of the Lucii |
-| Game 4 | — | — | — |
+| Game 4 | ✅ | Turn 7 | No mulligan; 3 Mountain draws early slowed counter accumulation; Swiftfoot Boots in opener |
 | Game 5 | — | — | — |
 
 ---
@@ -208,12 +208,87 @@
 
 ---
 
+## 🃏 Game 4 — 2026-03-14
+
+**Shuffler Timestamp:** Sat Mar 14 18:25:03 2026
+
+**Opening Hand (Keep):**
+- [Island](https://scryfall.com/search?q=!%22Island%22)
+- [Swiftfoot Boots](https://scryfall.com/search?q=!%22Swiftfoot+Boots%22)
+- [Elixir of Immortality](https://scryfall.com/search?q=!%22Elixir+of+Immortality%22)
+- [Turbulent Dreams](https://scryfall.com/search?q=!%22Turbulent+Dreams%22)
+- [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
+- [Stormcarved Coast](https://scryfall.com/search?q=!%22Stormcarved+Coast%22)
+- [Ill-Timed Explosion](https://scryfall.com/search?q=!%22Ill-Timed+Explosion%22)
+
+**Decision:** Keep — 3 lands covering both colors, Swiftfoot Boots for protection, Turbulent Dreams available as a 4-mana counter trigger (X=2 = {2}{U}{U}).
+
+### Turn-by-Turn
+
+**Turn 1**
+- Draw: [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
+- Play: Island
+- Board: 1 land. Pass.
+
+**Turn 2**
+- Draw: [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
+- Play: Mountain → {U}{R} available
+- Cast: **The Emperor of Palamecia** {U}{R} ✅
+- Board: Island, Mountain, Emperor (2/2)
+
+**Turn 3**
+- Draw: [Island](https://scryfall.com/search?q=!%22Island%22)
+- Play: Stormcarved Coast — enters **tapped**
+- Mana: Island {U} + Mountain {R} + Emperor tap = 3 mana
+- Cast: **Swiftfoot Boots** {2} ✅ — 1 mana remaining, not enough to equip ({2} needed)
+- Board: 3 lands (2 untapped), Emperor (2/2), Swiftfoot Boots unequipped
+
+**Turn 4**
+- Draw: [Mystic Sanctuary](https://scryfall.com/search?q=!%22Mystic+Sanctuary%22)
+- Play: Mountain (T1 draw) — 5 mana available
+- Equip Swiftfoot Boots {2} → Emperor gains Hexproof + Haste ✅
+- Cast: **Elixir of Immortality** {3} ✅ — 3 mana spent, no counter trigger (under 4). Utility insurance piece.
+- Board: 4 lands + Stormcarved, Emperor (2/2, Hexproof, Haste), Swiftfoot Boots equipped, Elixir of Immortality
+
+**Turn 5**
+- Draw: [Relentless Assault](https://scryfall.com/search?q=!%22Relentless+Assault%22)
+- Play: Mountain (T2 draw) — 6 mana available
+- Cast: **Relentless Assault** {2}{R}{R} (4 mana spent) ✅ → **Counter #1** — Emperor becomes 3/3
+- Extra combat phase — in real play, double Starfall potential with Lord Master
+- Board: 5 lands + Stormcarved, Emperor (3/3, Hexproof, Haste)
+
+**Turn 6**
+- Draw: [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
+- Play: Island (T3 draw) — 7 mana available
+- Cast: **Turbulent Dreams** {2}{U}{U} (X=2, 4 mana spent) ✅ → **Counter #2** — Emperor becomes 4/4
+- Discard 2: Mountain (T6 draw) + Ill-Timed Explosion → both to graveyard
+- In real play, bounces 2 opponent permanents — strong tempo swing
+- Graveyard: 2 noncreature/nonland cards
+- Board: 6 lands + Stormcarved, Emperor (4/4, Hexproof, Haste)
+- *3 Mountain draws in the first 3 draw steps was the bottleneck — slowing counter accumulation by ~1 turn.*
+
+**Turn 7**
+- Draw: [Sisay's Ring](https://scryfall.com/search?q=!%22Sisay%27s+Ring%22)
+- Play: Mystic Sanctuary — enters **tapped** (only 2 Islands in play, need 3 for untapped condition)
+- Mana: 7 mana (Mystic Sanctuary tapped, not contributing)
+- Cast: **Sisay's Ring** {4} ✅ → **Counter #3 → TRANSFORMS** 🔥
+- Emperor becomes **The Lord Master of Hell** (3/3 base + 4 counters = **7/7**, Hexproof from Swiftfoot Boots)
+- Sisay's Ring taps for {2} going forward
+- Graveyard: Relentless Assault + Turbulent Dreams + 2 discards = **4 noncreature/nonland cards**
+- **Attack:** Starfall deals **4 damage to each opponent**
+
+**Result:** ✅ Transformed Turn 7 — slowest game so far. Caused by 3 Mountain draws in T1-T3 with no counter-triggering spells until T5. Deck functioned correctly, variance produced a mana-heavy sequence.
+
+---
+
 ## 🔍 Ongoing Observations
 
-- **Transform consistency:** All 3 games transformed cleanly (T6, T5, T6). The plan is reliable.
-- **T3 Emperor is acceptable:** A tapped dual in the opener costs one turn on the Emperor but the deck recovers naturally — the extra turn just means one more land in play when the engine starts.
-- **4-cost rock design validated:** Both Hedron Archive (Game 2) and Ring of the Lucii (Game 3) showed the double-duty design — triggers counter AND ramps future turns.
-- **Graveyard fueling:** Read the Runes (Game 3) is exceptional — draw 4, discard 4 in one cast stocks the graveyard instantly. Ancestral Memories similarly strong (Game 1).
-- **Protection:** Clout of the Dominus appeared in Games 1 and 3. The protection package is well-represented.
-- **Upgrade flag:** Stormcarved Coast is the only dual in the deck that enters tapped unconditionally — a potential swap for Steam Vents or Spirebluff Canal when upgrading.
-- **Mulligan:** Free mulligan used in all 3 games (1-land, 2-Mountain, 1-land hands). The deck draws enough spells that land-light hands are the main mulligan trigger. First mulligan is free in Commander (draw 7, keep all 7); each subsequent mulligan costs 1 card.
+- **Transform consistency:** All 4 games transformed (T6, T5, T6, T7). Range is T5-T7 — reliable across varied draws.
+- **T7 is the floor:** Even the worst draw sequence (3 straight Mountains) still transformed by T7. The deck has enough counter triggers spread across different card types to always find a path.
+- **Multiple counter trigger paths:** Games 3-4 used Relentless Assault, Turbulent Dreams, Fateful Showdown as counter triggers — not just the rocks. The deck is flexible.
+- **T3 Emperor is acceptable:** A tapped dual in the opener costs one turn but the deck recovers naturally.
+- **4-cost rock design validated:** Hedron Archive (G2), Ring of the Lucii (G3), Sisay's Ring (G4) all showed the double-duty design — triggers counter AND ramps future turns.
+- **Graveyard fueling:** Read the Runes (G3) is exceptional — draw 4, discard 4 in one cast. Ancestral Memories (G1) similarly strong. Lighter games (G4) still produce 4+ graveyard cards naturally.
+- **Protection:** Clout of the Dominus (G1, G3) and Swiftfoot Boots (G4) both appeared early. The protection package is well-represented across games.
+- **Upgrade flag:** Stormcarved Coast is the only unconditionally tapped dual — upgrade to Steam Vents or Spirebluff Canal when budget allows.
+- **Mulligan:** Free mulligan used in 3 of 4 games. Land-light hands (0-1 land, or no blue source) are the primary trigger. Game 4 kept a 3-land hand without mulligan.
