@@ -14,7 +14,7 @@
 | Game 2 | ✅ | Turn 5 | Free mulligan taken; full 7-card hand kept |
 | Game 3 | ✅ | Turn 6 | Free mulligan; Stormcarved tapped delayed Emperor to T3, recovered via Ring of the Lucii |
 | Game 4 | ✅ | Turn 7 | No mulligan; 3 Mountain draws early slowed counter accumulation; Swiftfoot Boots in opener |
-| Game 5 | — | — | — |
+| Game 5 | ✅ | Turn 6 | Free mulligan; Mystic Sanctuary T1 sequencing enabled T2 Emperor; Fateful Showdown dumped 6 graveyard cards; Starfall at 9 damage on transform turn |
 
 ---
 
@@ -281,14 +281,107 @@
 
 ---
 
-## 🔍 Ongoing Observations
+## 🃏 Game 5 — 2026-03-14
 
-- **Transform consistency:** All 4 games transformed (T6, T5, T6, T7). Range is T5-T7 — reliable across varied draws.
-- **T7 is the floor:** Even the worst draw sequence (3 straight Mountains) still transformed by T7. The deck has enough counter triggers spread across different card types to always find a path.
-- **Multiple counter trigger paths:** Games 3-4 used Relentless Assault, Turbulent Dreams, Fateful Showdown as counter triggers — not just the rocks. The deck is flexible.
-- **T3 Emperor is acceptable:** A tapped dual in the opener costs one turn but the deck recovers naturally.
-- **4-cost rock design validated:** Hedron Archive (G2), Ring of the Lucii (G3), Sisay's Ring (G4) all showed the double-duty design — triggers counter AND ramps future turns.
-- **Graveyard fueling:** Read the Runes (G3) is exceptional — draw 4, discard 4 in one cast. Ancestral Memories (G1) similarly strong. Lighter games (G4) still produce 4+ graveyard cards naturally.
-- **Protection:** Clout of the Dominus (G1, G3) and Swiftfoot Boots (G4) both appeared early. The protection package is well-represented across games.
-- **Upgrade flag:** Stormcarved Coast is the only unconditionally tapped dual — upgrade to Steam Vents or Spirebluff Canal when budget allows.
-- **Mulligan:** Free mulligan used in 3 of 4 games. Land-light hands (0-1 land, or no blue source) are the primary trigger. Game 4 kept a 3-land hand without mulligan.
+**Shuffler Timestamp (initial):** Sat Mar 14 18:50:33 2026
+**Shuffler Timestamp (mulligan re-shuffle):** Sat Mar 14 18:50:45 2026
+
+**Initial Hand (Mulligan — no blue source):**
+[Increasing Confusion](https://scryfall.com/search?q=!%22Increasing+Confusion%22), [Everflowing Chalice](https://scryfall.com/search?q=!%22Everflowing+Chalice%22), [Rogue's Passage](https://scryfall.com/search?q=!%22Rogue%27s+Passage%22), [Mountain](https://scryfall.com/search?q=!%22Mountain%22), [Ancestral Memories](https://scryfall.com/search?q=!%22Ancestral+Memories%22), [Jace, Memory Adept](https://scryfall.com/search?q=!%22Jace%2C+Memory+Adept%22), [Fateful Showdown](https://scryfall.com/search?q=!%22Fateful+Showdown%22)
+**Decision:** Free mulligan — Rogue's Passage taps for colorless only. Mountain gives {R}. No path to {U}{R} for Emperor on T2.
+
+**7-Card Hand after Free Mulligan (keep all 7):**
+- [Careful Consideration](https://scryfall.com/search?q=!%22Careful+Consideration%22)
+- [Hedron Archive](https://scryfall.com/search?q=!%22Hedron+Archive%22)
+- [Notorious Throng](https://scryfall.com/search?q=!%22Notorious+Throng%22)
+- [Fateful Showdown](https://scryfall.com/search?q=!%22Fateful+Showdown%22)
+- [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
+- [Swiftfoot Boots](https://scryfall.com/search?q=!%22Swiftfoot+Boots%22)
+- [Mystic Sanctuary](https://scryfall.com/search?q=!%22Mystic+Sanctuary%22)
+
+**Decision:** Keep — specific sequencing unlocks T2 Emperor. Play Mystic Sanctuary T1 (enters tapped, 0 Islands), it untaps at T2 upkeep → {U} available T2. Play Mountain T2 → {U}{R} → Emperor on curve. Hedron Archive for T4 counter, Fateful Showdown for T5 mass graveyard dump.
+
+### Turn-by-Turn
+
+**Turn 1**
+- Draw: [Stormcarved Coast](https://scryfall.com/search?q=!%22Stormcarved+Coast%22)
+- Play: **Mystic Sanctuary** — enters **tapped** (0 other Islands in play)
+- Board: 1 land (tapped). Pass.
+- *Key sequencing: Mystic Sanctuary tapped T1 untaps at T2 upkeep, unlocking {U} in time for Emperor.*
+
+**Turn 2**
+- Draw: [Zephid's Embrace](https://scryfall.com/search?q=!%22Zephid%27s+Embrace%22)
+- Play: Mountain
+- Mana: Mystic Sanctuary {U} (now untapped) + Mountain {R} = {U}{R}
+- Cast: **The Emperor of Palamecia** {U}{R} ✅ — on curve despite no Island in opener
+- Board: Mystic Sanctuary, Mountain, Emperor (2/2)
+
+**Turn 3**
+- Draw: [Turbulent Dreams](https://scryfall.com/search?q=!%22Turbulent+Dreams%22)
+- Play: Stormcarved Coast — enters **tapped** (Mystic Sanctuary has no Island subtype)
+- Mana: Mystic Sanctuary {U} + Mountain {R} + Emperor tap = 3 mana
+- Cast: **Swiftfoot Boots** {2} ✅ — 1 mana remaining, cannot equip yet
+- Board: 3 lands (2 untapped), Emperor (2/2), Swiftfoot Boots unequipped
+
+**Turn 4**
+- Draw: [Mountain](https://scryfall.com/search?q=!%22Mountain%22)
+- Play: Mountain (T4 draw) — 5 mana available
+- Prioritize counter trigger over equipping: Cast **Hedron Archive** {4} ✅ → **Counter #1** — Emperor becomes 3/3. Archive taps for {2} going forward.
+- Board: 4 lands + Stormcarved, Emperor (3/3), Hedron Archive, Swiftfoot Boots (unequipped)
+
+**Turn 5**
+- Draw: [Immolating Gyre](https://scryfall.com/search?q=!%22Immolating+Gyre%22)
+- Mana: 4 lands + Stormcarved + Emperor tap + Archive {2} = 7 mana
+- Equip Swiftfoot Boots {2} → Emperor gains Hexproof + Haste ✅. 5 mana remaining.
+- Hand (5 cards before cast): Careful Consideration, Notorious Throng, Zephid's Embrace, Turbulent Dreams, Immolating Gyre
+- Cast: **Fateful Showdown** {3}{R} (4 mana) ✅ → **Counter #2** — Emperor becomes 4/4
+- Fateful Showdown: Deal **5 damage** to a target opponent, discard all 5 hand cards, draw 5 new cards
+- **Graveyard:** Careful Consideration + Notorious Throng + Zephid's Embrace + Turbulent Dreams + Immolating Gyre + Fateful Showdown = **6 noncreature/nonland cards**
+- Draw 5 new cards (cards 13–17): [Shivan Reef](https://scryfall.com/search?q=!%22Shivan+Reef%22), [Island](https://scryfall.com/search?q=!%22Island%22), [Island](https://scryfall.com/search?q=!%22Island%22), [Ill-Timed Explosion](https://scryfall.com/search?q=!%22Ill-Timed+Explosion%22), [Pirate's Pillage](https://scryfall.com/search?q=!%22Pirate%27s+Pillage%22)
+- Board: Emperor (4/4, Hexproof, Haste), Hedron Archive. Graveyard = **6 cards**
+- *Fateful Showdown is exceptional — counter trigger + 5 face damage + full hand refuel + 6 graveyard cards in one cast.*
+
+**Turn 6**
+- Draw: [Frostboil Snarl](https://scryfall.com/search?q=!%22Frostboil+Snarl%22)
+- Play: Shivan Reef (from new hand) — untapped, pay 1 life for colored
+- Mana: 6 lands + Stormcarved + Emperor tap + Archive {2} = plenty
+- Cast: **Pirate's Pillage** {2}{R}{R} (4 mana) ✅ → **Counter #3 → TRANSFORMS** 🔥
+- Pirate's Pillage: Discard 2 (Island + Ill-Timed Explosion), draw 2, create 2 Treasure tokens
+- Emperor becomes **The Lord Master of Hell** (3/3 base + 4 counters = **7/7**, Hexproof + Haste)
+- **Graveyard:** 6 (Fateful Showdown dump) + Pirate's Pillage + 2 discards = **9 noncreature/nonland cards**
+- **Attack:** Starfall deals **9 damage to each opponent** simultaneously — near-lethal on the transform turn
+
+**Result:** ✅ Transformed Turn 6. Highest Starfall count of any game (9 damage). Fateful Showdown proved to be the deck's most explosive single play — counter trigger, face damage, hand refuel, and mass graveyard fueling in one cast.
+
+---
+
+## ✅ Final Verdict — 5-Game Series Complete
+
+| Game | Result | Transform | Starfall Damage | Key Play |
+| :--- | :--- | :--- | :--- | :--- |
+| G1 | ✅ | T6 | ~5-8 | Clout of the Dominus in opener |
+| G2 | ✅ | T5 | ~8-10 | Hedron Archive T3 counter; Ancestral Memories graveyard dump |
+| G3 | ✅ | T6 | 7-8 | Ring of the Lucii recovered Stormcarved tapped delay |
+| G4 | ✅ | T7 | 4 | Relentless Assault + Turbulent Dreams as counter triggers |
+| G5 | ✅ | T6 | 9 | Mystic Sanctuary T1 sequencing; Fateful Showdown mass dump |
+
+**Average transform turn: 6.0**
+**Range: T5–T7**
+**Win rate: 5/5 functional games**
+
+### 🏆 Deck Validation Summary
+- **The plan works:** Emperor consistently transforms T5-T7. The T2 Emperor → 3 counters via 4-cost spells plan is reliable across all variance.
+- **The 4-cost rock design is correct:** Hedron Archive, Ring of the Lucii, Sisay's Ring all proved the double-duty design — counter trigger AND mana production.
+- **Multiple counter trigger paths:** The deck isn't reliant on just the rocks. Fateful Showdown, Pirate's Pillage, Relentless Assault, Turbulent Dreams, Read the Runes, Ancestral Memories all naturally trigger the counter while advancing the deck's gameplan.
+- **Graveyard fuels itself:** By the transform turn, graveyard count ranged from 4–9 cards. Starfall damage on the first attack ranged from 4–9 to each opponent and grows every subsequent turn.
+- **Protection package is sufficient:** Protection spells appeared early in 4 of 5 games. The deck doesn't rely on a single protection piece.
+- **Land sequencing matters:** Game 5 showed that careful sequencing (Mystic Sanctuary T1 tapped) can save hands that look unkeepable. Pattern recognition is rewarded.
+
+### 🔧 Upgrade Priorities Confirmed by Testing
+1. **Stormcarved Coast → Steam Vents or Spirebluff Canal:** Only unconditionally tapped dual. Appeared in 3 games and caused minor delays in G3 and G5.
+2. **Mystic Sanctuary note:** Enters tapped without 3 Islands — plays like a tapped land in this deck. Consider whether a basic Island serves better in some slots.
+
+### 🔍 Ongoing Observations
+- **Mulligan:** Free mulligan used in 4 of 5 games. Primary triggers: no blue source, 0-1 land. The deck runs spell-heavy so land-light hands are common — the free mulligan in Commander is essential for this deck.
+- **Fateful Showdown is the MVP:** Appeared in G5 as the most explosive single play in the entire series — 4 roles in one cast (counter, face damage, hand refuel, graveyard dump). Should be kept in the deck without question.
+- **Pirate's Pillage underrated:** G5 confirmed it as a strong counter trigger — 4 mana, draws 2, discards 2 (graveyard fuel), creates 2 Treasures. Consider it a priority in any hand.
