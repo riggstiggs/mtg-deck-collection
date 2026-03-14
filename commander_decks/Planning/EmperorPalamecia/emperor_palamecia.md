@@ -34,9 +34,8 @@ deck_status: main
 *   **[Lightning Greaves](https://scryfall.com/search?q=!%22Lightning+Greaves%22):** Grants Haste and Shroud the moment the Emperor enters — the premier protection equipment.
 *   **[Swiftfoot Boots](https://scryfall.com/search?q=!%22Swiftfoot+Boots%22):** Grants Haste and Hexproof — lets you target your own commander while still protected.
 
-### 💥 Win Conditions & Finishers (4 Cards)
-*   **[Chandra's Ignition](https://scryfall.com/search?q=!%22Chandra%27s+Ignition%22):** **PRIMARY WIN CON.** Target creature deals damage equal to its power to all other creatures and each opponent. With a fully-suited Emperor this is lethal to the entire table in one spell.
-*   **[Ring of the Lucii](https://scryfall.com/search?q=!%22Ring+of+the+Lucii%22):** Final Fantasy-themed equipment (FIN). Exact text needed — likely buffs the Emperor and enables additional win conditions.
+### 💥 Win Conditions & Finishers (3 Cards)
+*   **[Chandra's Ignition](https://scryfall.com/search?q=!%22Chandra%27s+Ignition%22):** **PRIMARY WIN CON.** Target creature deals damage equal to its power to all other creatures and each opponent. Target a large Lord Master of Hell with a stocked graveyard and this is lethal to the entire table in one spell.
 *   **[Immolating Gyre](https://scryfall.com/search?q=!%22Immolating+Gyre%22):** Deals damage to all creatures and planeswalkers equal to the number of instants and sorceries in your graveyard — a board wipe that scales with your spell count.
 *   **[Fateful Showdown](https://scryfall.com/search?q=!%22Fateful+Showdown%22):** Deals damage to any target equal to your hand size, then you discard your hand and draw that many cards. With a large hand this is massive burst damage and a full refill.
 
@@ -96,10 +95,11 @@ deck_status: main
 *   **[Jace, Memory Adept](https://scryfall.com/search?q=!%22Jace%2C+Memory+Adept%22):** Mills 10 cards per turn with his +1 or draws a card. Can function as a standalone mill engine or card advantage piece.
 *   **[Kasmina, Enigmatic Mentor](https://scryfall.com/search?q=!%22Kasmina%2C+Enigmatic+Mentor%22):** Creates 2/2 Wizard tokens and draws/discards on her +1. Her static ability protects your other planeswalkers from spells.
 
-### 💎 Ramp (5 Cards)
+### 💎 Ramp (6 Cards)
 *   **[Everflowing Chalice](https://scryfall.com/search?q=!%22Everflowing+Chalice%22):** Multikicker mana rock — scale it to produce as much mana as you need.
 *   **[Firemind Vessel](https://scryfall.com/search?q=!%22Firemind+Vessel%22):** 4-mana rock that taps to add two mana of different colors — solid fixing in Izzet.
 *   **[Hedron Archive](https://scryfall.com/search?q=!%22Hedron+Archive%22):** 4-mana rock that taps for {2} and draws 2 cards when sacrificed — ramp early, card draw late.
+*   **[Ring of the Lucii](https://scryfall.com/card/fin/269/ring-of-the-lucii):** Legendary Artifact ({4}). Taps for {C}{C} — contributes to the ramp package. {2},{T}, pay 1 life: tap any nonland permanent — repeatable broad interaction that neutralizes creatures, mana rocks, and utility pieces.
 *   **[Sisay's Ring](https://scryfall.com/search?q=!%22Sisay%27s+Ring%22):** 4-mana rock that taps for {2} colorless — basic but functional acceleration.
 *   **[Stonespeaker Crystal](https://scryfall.com/search?q=!%22Stonespeaker+Crystal%22):** 3-mana rock that taps for {2} and can exile graveyards — ramp with incidental graveyard hate.
 
@@ -116,9 +116,8 @@ deck_status: main
 ---
 
 ## ⚠️ Deck Health Notes (Areas to Address)
-*   **Ramp is critically low:** 5 pieces vs. the recommended 10. The deck will frequently stall on mana. Priority upgrade area.
+*   **Ramp is low:** 6 pieces (including Ring of the Lucii and the Emperor's tap ability) vs. the recommended 10. Priority upgrade area — Sol Ring, Arcane Signet, and Izzet Signet are the obvious additions.
 *   **Land count is light:** 36 lands vs. recommended 38. Risk of mana screw on early hands.
-*   **Ring of the Lucii oracle text unknown:** FIN 269 needs its full oracle text reviewed — it may be core to the strategy or replaceable depending on its actual abilities.
 *   **Game Changer verification needed:** Mizzix's Mastery and potentially Chandra's Ignition may be Game Changers. Verify against `COMMANDER_DECKBUILDING_RULES.md` before playing at Bracket 2 tables.
 
 ---
@@ -139,7 +138,7 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
-*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for The Emperor of Palamecia // The Lord Master of Hell (FIN 219) — strategy updated to reflect Starfall graveyard-damage win condition. Ring of the Lucii (FIN 269) oracle text still pending.
+*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for both FIN cards. Ring of the Lucii recategorized from Win Conditions to Ramp — it's a {C}{C} mana rock with a repeatable tap ability. Ramp count updated to 6.
 
 ---
 
