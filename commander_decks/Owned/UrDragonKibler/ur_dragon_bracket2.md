@@ -80,6 +80,7 @@ deck_status: main
 *   **Stubborn Denial / Swan Song:** Critical 1-mana protection pieces to replace generic counters.
 *   **Roaming Throne:** Doubles all Dragon triggered abilities (Eminence, ETBs, Attack triggers).
 *   **Mox Jasper:** The new tribal-Mox for explosive mid-game acceleration.
+*   **Mirari's Wake:** Doubles all mana produced by your lands and gives all creatures +1/+1. The anthem meaningfully boosts payoffs like Terror of the Peaks, Klauth, Rishkar's Expertise, and Stubborn Denial's Ferocious threshold. Already in the Kibler reference list — validated for the optimized shell.
 
 ### 🛒 Active Acquisition List (Ordered/Purchased)
 *Status: Awaiting arrival of Order #235644 (High-Power Land Transition).*
