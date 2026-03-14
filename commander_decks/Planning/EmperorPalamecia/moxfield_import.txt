@@ -1,0 +1,77 @@
+COMMANDER:
+1 The Emperor of Palamecia
+
+DECK:
+1 Access Denied
+1 Aether Gale
+1 Ancestral Memories
+1 Arcane Endeavor
+1 Big Score
+1 Bond of Insight
+1 Breakthrough
+1 Careful Consideration
+1 Chandra's Ignition
+1 Channeled Force
+1 Clout of the Dominus
+1 Collective Defiance
+1 Curator's Ward
+1 Cut Your Losses
+1 Drake Umbra
+1 Drown in Dreams
+1 Elixir of Immortality
+1 Epic Experiment
+1 Everflowing Chalice
+1 Experimental Overload
+1 Fateful Showdown
+1 Firemind Vessel
+1 Full Throttle
+1 Gandalf's Sanction
+1 Hedron Archive
+1 Ichor Elixir
+1 Ill-Timed Explosion
+1 Illuminate History
+1 Immolating Gyre
+1 Increasing Confusion
+1 Jace, Memory Adept
+1 Kasmina, Enigmatic Mentor
+1 Kinetic Augur
+1 Lightning Greaves
+1 Mishra's Command
+1 Mists of Lórien
+1 Mizzix's Mastery
+1 Mnemonic Deluge
+1 Notorious Throng
+1 Occult Epiphany
+1 Path of the Pyromancer
+1 Pirate's Pillage
+1 Press the Enemy
+1 Protective Bubble
+1 Read the Runes
+1 Relentless Assault
+1 Ring of the Lucii
+1 Rise from the Tides
+1 Rogue's Passage
+1 Run for Your Life
+1 Seize the Storm
+1 Sisay's Ring
+1 Spellheart Chimera
+1 Spelltwine
+1 Spinerock Knoll
+1 Stonespeaker Crystal
+1 Summons of Saruman
+1 Swiftfoot Boots
+1 Traumatize
+1 Tunnel Vision
+1 Turbulent Dreams
+1 Unexpected Windfall
+1 Weight of Memory
+1 Whispersilk Cloak
+1 Zephid's Embrace
+1 Fiery Islet
+1 Frostboil Snarl
+1 Mystic Sanctuary
+1 Shivan Reef
+1 Stormcarved Coast
+1 Sulfur Falls
+14 Island
+14 Mountain
