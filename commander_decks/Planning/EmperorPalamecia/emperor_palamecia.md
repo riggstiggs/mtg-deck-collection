@@ -29,7 +29,7 @@ deck_status: main
 *   **[Curator's Ward](https://scryfall.com/search?q=!%22Curator%27s+Ward%22):** Gives a legendary permanent Hexproof. When it leaves, draw 2 cards — double value on your legendary commander.
 *   **[Protective Bubble](https://scryfall.com/search?q=!%22Protective+Bubble%22):** Grants Shroud and Flying. Cheap aura that makes the Emperor untargetable and evasive.
 *   **[Zephid's Embrace](https://scryfall.com/search?q=!%22Zephid%27s+Embrace%22):** Grants +2/+2 and Flying. Stacks power for Chandra's Ignition while adding evasion.
-*   **[Run for Your Life](https://scryfall.com/search?q=!%22Run+for+Your+Life%22):** Grants Hexproof and additional protection until end of turn — instant-speed response to targeted removal.
+*   **[Run for Your Life](https://scryfall.com/search?q=!%22Run+for+Your+Life%22):** Grants Haste to 1-2 target creatures and makes them unblockable except by creatures with haste until end of turn. Escape ({2}{U}{R}) = 4 mana = counter trigger. Primary use: make Lord Master of Hell unblockable on attack to guarantee Starfall triggers land.
 *   **[Whispersilk Cloak](https://scryfall.com/search?q=!%22Whispersilk+Cloak%22):** Grants Shroud and makes the equipped creature unblockable — ensures the Emperor connects in combat.
 *   **[Lightning Greaves](https://scryfall.com/search?q=!%22Lightning+Greaves%22):** Grants Haste and Shroud the moment the Emperor enters — the premier protection equipment.
 *   **[Swiftfoot Boots](https://scryfall.com/search?q=!%22Swiftfoot+Boots%22):** Grants Haste and Hexproof — lets you target your own commander while still protected.
@@ -49,7 +49,7 @@ deck_status: main
 *   **[Ancestral Memories](https://scryfall.com/search?q=!%22Ancestral+Memories%22):** Look at the top 7 cards, keep 2 and put the rest in the graveyard — selective draw that also fills the graveyard for spell payoffs.
 *   **[Bond of Insight](https://scryfall.com/search?q=!%22Bond+of+Insight%22):** Each player mills 4, then return two instants or sorceries from your graveyard to your hand — draw engine that recycles key spells.
 *   **[Illuminate History](https://scryfall.com/search?q=!%22Illuminate+History%22):** Recasts an instant or sorcery from your graveyard and draws — spell recursion with card advantage.
-*   **[Mists of Lórien](https://scryfall.com/search?q=!%22Mists+of+L%C3%B3rien%22):** Instant-speed draw and mill — efficient at refilling your hand while advancing the mill gameplan.
+*   **[Mists of Lórien](https://scryfall.com/search?q=!%22Mists+of+L%C3%B3rien%22):** Sorcery with Replicate {U} — bounces target nonland permanent AND all other nonland permanents sharing that mana value back to their owners' hands. Pay multiple {U} to copy it and bounce multiple mana values at once — scales into a mass tempo reset.
 *   **[Big Score](https://scryfall.com/search?q=!%22Big+Score%22):** Discard a card, draw 2, create 2 Treasures — replaces itself, generates mana, and feeds discard synergies.
 *   **[Pirate's Pillage](https://scryfall.com/search?q=!%22Pirate%27s+Pillage%22):** Discard 2, draw 2, create 2 Treasures — hand cycling with mana generation.
 *   **[Unexpected Windfall](https://scryfall.com/search?q=!%22Unexpected+Windfall%22):** Discard a card, draw 2, create 2 Treasures — efficient looting with incidental ramp.
@@ -57,7 +57,7 @@ deck_status: main
 ### 🎭 Discard Payoffs (6 Cards)
 *   **[Breakthrough](https://scryfall.com/search?q=!%22Breakthrough%22):** Pay X to draw X+4 cards, then discard down to 4 — dramatically refills your hand and dumps spells into the graveyard for payoffs.
 *   **[Turbulent Dreams](https://scryfall.com/search?q=!%22Turbulent+Dreams%22):** Discard X cards, return X target nonland permanents — bounce engine that uses discard as a resource.
-*   **[Kinetic Augur](https://scryfall.com/search?q=!%22Kinetic+Augur%22):** Creature whose power equals the number of cards discarded this turn. ETB draws 4 and discards 3 — grows into a large threat while enabling discard synergies.
+*   **[Kinetic Augur](https://scryfall.com/search?q=!%22Kinetic+Augur%22):** 4-mana Creature with Trample. Power equals the number of instant and sorcery cards in your graveyard — scales passively as your spell count grows. ETB: discard up to 2 cards, draw that many. Alternate win con alongside Spellheart Chimera — a trampling beater that can close games.
 *   **[Collective Defiance](https://scryfall.com/search?q=!%22Collective+Defiance%22):** Flexible modal spell — deal damage to a player, force them to discard their hand, or discard your hand and draw that many cards.
 *   **[Channeled Force](https://scryfall.com/search?q=!%22Channeled+Force%22):** Discard X cards, deal X damage to any X targets — direct damage engine that scales with your discard.
 *   **[Ichor Elixir](https://scryfall.com/search?q=!%22Ichor+Elixir%22):** Artifact utility that interacts with your discard/draw engine — exact synergy dependent on oracle text.
@@ -104,7 +104,7 @@ deck_status: main
 *   **[Stonespeaker Crystal](https://scryfall.com/search?q=!%22Stonespeaker+Crystal%22):** 3-mana rock that taps for {2} and can exile graveyards — ramp with incidental graveyard hate.
 
 ### 🔧 Utility (3 Cards)
-*   **[Elixir of Immortality](https://scryfall.com/search?q=!%22Elixir+of+Immortality%22):** Shuffle your graveyard back into your library and gain 5 life — prevents decking yourself and resets your spell engine.
+*   **[Fact or Fiction](https://scryfall.com/search?q=!%22Fact+or+Fiction%22):** {3}{U} Instant — 4 mana = counter trigger. Reveal the top 5 cards of your library; an opponent splits them into two piles, you choose which pile goes to hand and which to graveyard. In this deck both piles are good — the graveyard pile directly fuels Starfall and spell payoffs.
 *   **[Path of the Pyromancer](https://scryfall.com/search?q=!%22Path+of+the+Pyromancer%22):** Enchantment that generates value on your spellcasting — exact synergy dependent on oracle text.
 *   **[Summons of Saruman](https://scryfall.com/search?q=!%22Summons+of+Saruman%22):** Copies instants and sorceries you cast — free spell doubling that multiplies your entire engine.
 
@@ -138,7 +138,7 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
-*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for both FIN cards. Ring of the Lucii recategorized from Win Conditions to Ramp — it's a {C}{C} mana rock with a repeatable tap ability. Ramp count updated to 6.
+*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for both FIN cards. Ring of the Lucii recategorized from Win Conditions to Ramp — it's a {C}{C} mana rock with a repeatable tap ability. Ramp count updated to 6. Full card-by-card review completed with Scryfall verification. Corrected descriptions for Run for Your Life (haste + evasion, not hexproof), Mists of Lórien (mass bounce with Replicate, not draw/mill), and Kinetic Augur (power = instants/sorceries in graveyard, not discards). Swapped Elixir of Immortality → Fact or Fiction (4-mana instant draw that fuels Starfall graveyard count).
 
 ---
 
@@ -163,10 +163,10 @@ DECK:
 1 Cut Your Losses
 1 Drake Umbra
 1 Drown in Dreams
-1 Elixir of Immortality
 1 Epic Experiment
 1 Everflowing Chalice
 1 Experimental Overload
+1 Fact or Fiction
 1 Fateful Showdown
 1 Firemind Vessel
 1 Full Throttle

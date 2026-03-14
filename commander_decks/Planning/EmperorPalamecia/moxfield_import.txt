@@ -18,10 +18,10 @@ DECK:
 1 Cut Your Losses
 1 Drake Umbra
 1 Drown in Dreams
-1 Elixir of Immortality
 1 Epic Experiment
 1 Everflowing Chalice
 1 Experimental Overload
+1 Fact or Fiction
 1 Fateful Showdown
 1 Firemind Vessel
 1 Full Throttle
