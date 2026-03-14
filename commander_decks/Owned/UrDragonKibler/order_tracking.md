@@ -1,29 +1,46 @@
+# Order Tracking: Ur-Dragon (Order #TBD — Manapool)
+
+**Order Date:** 2026-03-14
+**Status:** 0/1 Packages Received
+
+---
+
+## 📦 Package: Manapool
+**Status:** ⏳ Pending
+**Items:**
+- [ ] Mirari's Wake (MH2 320) — NM Borderless — $11.81
+- [ ] Birds of Paradise (DMR 439) — LP Borderless — $11.36
+- [ ] Terror of the Peaks (OTJ 337) — Foil NM Extended Art — $44.76
+- [ ] Bloom Tender (LRW-E 166) — NM — $13.08
+
+---
+
 # Order Tracking: Ur-Dragon (Order #223065)
 
 **Order Date:** 2026-03-02  
-**Status:** 8/10 Packages Received
+**Status:** 10/10 Packages Received — ✅ COMPLETE
 
 ---
 
 ## 📦 Package: CardboardShuffle
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived
 **Items:**
-- [ ] Anguished Unmaking (2X2 170)
+- [x] Anguished Unmaking (2X2 170)
 
 ---
 
 ## 📦 Package 820930: FIVE6GAMING
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived
 **Items:**
-- [ ] Wooded Foothills (KTK 249)
-- [ ] Dromoka, the Eternal (FRF 151)
-- [ ] Misty Rainforest (MH2 477)
-- [ ] Miirym, Sentinel Wyrm (CLB 284)
-- [ ] Herald's Horn (LTC 280)
-- [ ] Karplusan Forest (BLC 314)
-- [ ] Arcane Signet (FDC 1)
-- [ ] Temple Garden (ECL 268)
-- [ ] Negate (TMT 47)
+- [x] Wooded Foothills (KTK 249)
+- [x] Dromoka, the Eternal (FRF 151)
+- [x] Misty Rainforest (MH2 477)
+- [x] Miirym, Sentinel Wyrm (CLB 284)
+- [x] Herald's Horn (LTC 280)
+- [x] Karplusan Forest (BLC 314)
+- [x] Arcane Signet (FDC 1)
+- [x] Temple Garden (ECL 268)
+- [x] Negate (TMT 47)
 
 ---
 

@@ -83,7 +83,8 @@ deck_status: main
 *   **Mirari's Wake:** Doubles all mana produced by your lands and gives all creatures +1/+1. The anthem meaningfully boosts payoffs like Terror of the Peaks, Klauth, Rishkar's Expertise, and Stubborn Denial's Ferocious threshold. Already in the Kibler reference list — validated for the optimized shell.
 
 ### 🛒 Active Acquisition List (Ordered/Purchased)
-*Status: Awaiting arrival of Order #235644 (High-Power Land Transition).*
+
+**Order #235644 — High-Power Land Transition (Awaiting Arrival)**
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
@@ -93,6 +94,15 @@ deck_status: main
 | **Lightning Greaves** | [TBD] | Protection | ⏳ Pending |
 | **Swiftfoot Boots** | [TBD] | Protection | ⏳ Pending |
 | **Dragon's Hoard (Spare)** | [N/A] | Ramp | ⏳ Pending |
+
+**Order #TBD — Manapool (Upgrade Package)**
+
+| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
+| :--- | :--- | :--- | :--- |
+| **Birds of Paradise** (DMR 439) | Cultivate | Ramp | ⏳ Pending |
+| **Bloom Tender** (LRW-E 166) | Kodama's Reach | Ramp | ⏳ Pending |
+| **Terror of the Peaks** (OTJ 337) | Dromoka, the Eternal | Plan | ⏳ Pending |
+| **Mirari's Wake** (MH2 320) | [TBD] | Ramp/Anthem | ⏳ Pending |
 
 ---
 
