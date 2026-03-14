@@ -116,8 +116,8 @@ deck_status: main
 ---
 
 ## ⚠️ Deck Health Notes (Areas to Address)
-*   **Ramp is low:** 6 pieces (including Ring of the Lucii and the Emperor's tap ability) vs. the recommended 10. Priority upgrade area — Sol Ring, Arcane Signet, and Izzet Signet are the obvious additions.
-*   **Land count is light:** 36 lands vs. recommended 38. Risk of mana screw on early hands.
+*   **Ramp is intentional:** The Emperor himself is the primary ramp engine — cast him T2, tap him T3 to reach 4 mana. The mana rocks in the deck are deliberately costed at 4 mana because they serve double duty: they trigger his +1/+1 counter ability AND produce mana going forward. Cheap rocks like Sol Ring or Arcane Signet would NOT trigger the counter and are therefore less synergistic.
+*   **Land count is light:** 36 lands vs. recommended 38. The Emperor's tap ability mitigates this somewhat, but early hands without 2 lands are risky. Worth monitoring in playtesting.
 *   **Bracket confirmed:** Mizzix's Mastery and Chandra's Ignition are not on the Game Changers list — deck is safe for Bracket 2-3 tables.
 
 ---
@@ -125,9 +125,9 @@ deck_status: main
 ## 🚀 Future Roadmap: Upgrades & Considerations
 
 ### 💡 High-Impact Tech to Consider
-*   **Mana improvements:** Sol Ring, Arcane Signet, Izzet Signet — bring the ramp count up from 5 to the recommended 10.
+*   **Additional 4-cost mana rocks:** Any 4-mana rock that produces 2+ mana triggers the Emperor's counter AND accelerates future turns — prioritize these over cheaper rocks.
 *   **Land upgrades:** Steam Vents, Spirebluff Canal — upgrade basics to dual lands as budget allows.
-*   **Two additional lands** to reach the recommended 38.
+*   **Two additional lands** to reach the recommended 38, or accept 36 if playtesting shows consistency is fine.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 
