@@ -95,7 +95,7 @@ deck_status: main
 | **Swiftfoot Boots** | [TBD] | Protection | ⏳ Pending |
 | **Dragon's Hoard (Spare)** | [N/A] | Ramp | ⏳ Pending |
 
-**Package #241252-884082 — Manapool/Spellfinder (Upgrade Package)**
+**Order #241252 — Manapool/Spellfinder (Upgrade Package)**
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |

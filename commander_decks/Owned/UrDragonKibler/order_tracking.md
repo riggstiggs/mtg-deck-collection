@@ -1,4 +1,4 @@
-# Order Tracking: Ur-Dragon (Manapool — Upgrade Package)
+# Order Tracking: Ur-Dragon (Order #241252 — Manapool)
 
 **Order Date:** 2026-03-14
 **Status:** 0/1 Packages Received
