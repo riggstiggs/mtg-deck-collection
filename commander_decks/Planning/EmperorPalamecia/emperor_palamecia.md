@@ -96,7 +96,7 @@ deck_status: main
 
 ### 💎 Ramp (7 Cards)
 *   **[Everflowing Chalice](https://scryfall.com/search?q=!%22Everflowing+Chalice%22):** Multikicker {2} mana rock — kick it twice ({4} spent) for a {2} rock that also triggers the Emperor's counter. Scale up to produce as much mana as needed.
-*   **[Firemind Vessel](https://scryfall.com/search?q=!%22Firemind+Vessel%22):** 4-mana rock that taps to add two mana of **different colors** — solid Izzet fixing. Enters tapped.
+*   **[Thran Dynamo](https://scryfall.com/search?q=!%22Thran+Dynamo%22):** 4-mana rock that taps for {C}{C}{C} — the best raw mana output of any rock in the deck. No enters-tapped penalty.
 *   **[Hedron Archive](https://scryfall.com/search?q=!%22Hedron+Archive%22):** 4-mana rock that taps for {C}{C}. {2},{T}, Sacrifice: draw 2 cards — ramp early, converts to card draw late.
 *   **[Ichor Elixir](https://scryfall.com/search?q=!%22Ichor+Elixir%22):** {4} artifact that taps for {C}{C} — a straightforward 4-mana rock. The Planechase ability (planar dice interaction) is irrelevant in normal Commander. Triggers the Emperor's counter and produces mana.
 *   **[Ring of the Lucii](https://scryfall.com/card/fin/269/ring-of-the-lucii):** Legendary Artifact ({4}). Taps for {C}{C} — contributes to the ramp package. {2},{T}, pay 1 life: tap any nonland permanent — repeatable broad interaction that neutralizes creatures, mana rocks, and utility pieces.
@@ -138,7 +138,10 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
-*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for both FIN cards. Ring of the Lucii recategorized from Win Conditions to Ramp — it's a {C}{C} mana rock with a repeatable tap ability. Ramp count updated to 6. Full card-by-card review completed with Scryfall verification. Corrected descriptions for Run for Your Life (haste + evasion, not hexproof), Mists of Lórien (mass bounce with Replicate, not draw/mill), and Kinetic Augur (power = instants/sorceries in graveyard, not discards). Swapped Elixir of Immortality → Fact or Fiction (4-mana instant draw that fuels Starfall graveyard count). Comprehensive Scryfall audit of all 65 cards: fixed 8 critical errors (Gandalf's Sanction, Path of the Pyromancer, Summons of Saruman, Seize the Storm, Weight of Memory, Press the Enemy, Illuminate History, Ichor Elixir) and 17 significant description errors. Moved Ichor Elixir to Ramp section (it's a {C}{C} rock), moved Press the Enemy to Removal & Disruption (bounce + free spell, not extra combat). Ramp count updated to 7.
+*   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for both FIN cards. Ring of the Lucii recategorized from Win Conditions to Ramp — it's a {C}{C} mana rock with a repeatable tap ability. Ramp count updated to 6. Full card-by-card review completed with Scryfall verification. Corrected descriptions for Run for Your Life (haste + evasion, not hexproof), Mists of Lórien (mass bounce with Replicate, not draw/mill), and Kinetic Augur (power = instants/sorceries in graveyard, not discards). Swapped Elixir of Immortality → Fact or Fiction (4-mana instant draw that fuels Starfall graveyard count). Comprehensive Scryfall audit of all 65 cards: fixed 8 critical errors (Gandalf's Sanction, Path of the Pyromancer, Summons of Saruman, Seize the Storm, Weight of Memory, Press the Enemy, Illuminate History, Ichor Elixir) and 17 significant description errors. Moved Ichor Elixir to Ramp section (it's a {C}{C} rock), moved Press the Enemy to Removal & Disruption (bounce + free spell, not extra combat). Ramp count updated to 7. Swapped Firemind Vessel → Thran Dynamo (same 4-mana counter trigger, +1 mana output, no enters-tapped penalty).
+    - **In:** Thran Dynamo
+    - **Out:** Firemind Vessel
+    - **Reason:** Thran Dynamo taps for {C}{C}{C} vs Firemind Vessel's {C}{C} with an enters-tapped penalty. Strictly better ramp output at the same cost.
 
 ---
 
@@ -168,7 +171,6 @@ DECK:
 1 Experimental Overload
 1 Fact or Fiction
 1 Fateful Showdown
-1 Firemind Vessel
 1 Full Throttle
 1 Gandalf's Sanction
 1 Hedron Archive
@@ -205,6 +207,7 @@ DECK:
 1 Stonespeaker Crystal
 1 Summons of Saruman
 1 Swiftfoot Boots
+1 Thran Dynamo
 1 Traumatize
 1 Tunnel Vision
 1 Turbulent Dreams

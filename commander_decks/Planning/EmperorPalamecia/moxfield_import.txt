@@ -23,7 +23,6 @@ DECK:
 1 Experimental Overload
 1 Fact or Fiction
 1 Fateful Showdown
-1 Firemind Vessel
 1 Full Throttle
 1 Gandalf's Sanction
 1 Hedron Archive
@@ -60,6 +59,7 @@ DECK:
 1 Stonespeaker Crystal
 1 Summons of Saruman
 1 Swiftfoot Boots
+1 Thran Dynamo
 1 Traumatize
 1 Tunnel Vision
 1 Turbulent Dreams
