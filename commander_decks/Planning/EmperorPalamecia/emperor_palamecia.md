@@ -91,12 +91,12 @@ deck_status: main
 *   **[Alrund's Epiphany](https://scryfall.com/search?q=!%22Alrund%27s+Epiphany%22):** Create two 1/1 flying Bird tokens, take an extra turn, exile this card. Foretell {4}{U}{U} — pay {2}{U} now to exile it face down, then cast later for {4}{U}{U} spread over two turns. Exiles itself so it won't sit in your graveyard, but two extra Starfall attacks more than compensate. {5}{U}{U} = 7 mana (or 6 via Foretell) = counter trigger.
 *   **[Full Throttle](https://scryfall.com/search?q=!%22Full+Throttle%22):** Grants **two** additional combat phases (3 combats total). At the beginning of each combat this turn, untap all creatures that attacked. Does NOT grant haste — creatures must already be able to attack. Pre-equip Lightning Greaves or Swiftfoot Boots first. {4}{R}{R} = 6 mana = counter trigger.
 
-### 🧙 Planeswalkers (2 Cards)
+### 🧙 Planeswalkers (1 Card)
 *   **[Jace, Memory Adept](https://scryfall.com/search?q=!%22Jace%2C+Memory+Adept%22):** **+1**: draw a card AND target player mills 1 card. **0**: target player mills 10 cards (use on yourself for self-mill). **−7**: any number of target players each draw 20 cards. Use the 0 ability to self-mill 10 per turn to fuel Starfall. {3}{U}{U} = 5 mana = counter trigger.
-*   **[Kasmina, Enigmatic Mentor](https://scryfall.com/search?q=!%22Kasmina%2C+Enigmatic+Mentor%22):** **Static**: spells opponents cast that target your creatures or planeswalkers cost {2} more. **−2**: create a 2/2 blue Wizard token, draw a card then discard a card. Kasmina has **no +1** — she only has a static and a −2. Her static protects your creatures AND planeswalkers, not just planeswalkers. {3}{U} = 4 mana = counter trigger.
 
-### 💎 Ramp (7 Cards)
+### 💎 Ramp (8 Cards)
 *   **[Everflowing Chalice](https://scryfall.com/search?q=!%22Everflowing+Chalice%22):** Multikicker {2} mana rock — kick it twice ({4} spent) for a {2} rock that also triggers the Emperor's counter. Scale up to produce as much mana as needed.
+*   **[Firemind Vessel](https://scryfall.com/search?q=!%22Firemind+Vessel%22):** 4-mana rock that taps to add two mana of **different colors** — the only rock in the deck that produces colored mana, relevant when you need {U} or {R} specifically. Enters tapped.
 *   **[Thran Dynamo](https://scryfall.com/search?q=!%22Thran+Dynamo%22):** 4-mana rock that taps for {C}{C}{C} — the best raw mana output of any rock in the deck. No enters-tapped penalty.
 *   **[Hedron Archive](https://scryfall.com/search?q=!%22Hedron+Archive%22):** 4-mana rock that taps for {C}{C}. {2},{T}, Sacrifice: draw 2 cards — ramp early, converts to card draw late.
 *   **[Ichor Elixir](https://scryfall.com/search?q=!%22Ichor+Elixir%22):** {4} artifact that taps for {C}{C} — a straightforward 4-mana rock. The Planechase ability (planar dice interaction) is irrelevant in normal Commander. Triggers the Emperor's counter and produces mana.
@@ -138,6 +138,10 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-15:** Swapped Kasmina, Enigmatic Mentor → Firemind Vessel. Playtesting showed mana stalls; Kasmina provided little value. Firemind Vessel restored to provide colored mana fixing and a 4-mana counter trigger. Ramp updated to 8 cards.
+    - **In:** Firemind Vessel
+    - **Out:** Kasmina, Enigmatic Mentor
+    - **Reason:** Kasmina's −2 and static underperformed in play. Deck needed more ramp rocks.
 *   **2026-03-15:** Six-card upgrade pass from Scryfall search results.
     - **In:** Seize the Day, Time Warp, Alrund's Epiphany, Rielle the Everwise, Thousand-Year Storm, Scour the Laboratory
     - **Out:** Relentless Assault, Pirate's Pillage, Notorious Throng, Turbulent Dreams, Summons of Saruman, Occult Epiphany
@@ -173,6 +177,7 @@ DECK:
 1 Experimental Overload
 1 Fact or Fiction
 1 Fateful Showdown
+1 Firemind Vessel
 1 Full Throttle
 1 Gandalf's Sanction
 1 Hedron Archive
@@ -182,7 +187,6 @@ DECK:
 1 Immolating Gyre
 1 Increasing Confusion
 1 Jace, Memory Adept
-1 Kasmina, Enigmatic Mentor
 1 Kinetic Augur
 1 Lightning Greaves
 1 Mishra's Command

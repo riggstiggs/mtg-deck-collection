@@ -24,6 +24,7 @@ DECK:
 1 Experimental Overload
 1 Fact or Fiction
 1 Fateful Showdown
+1 Firemind Vessel
 1 Full Throttle
 1 Gandalf's Sanction
 1 Hedron Archive
@@ -33,7 +34,6 @@ DECK:
 1 Immolating Gyre
 1 Increasing Confusion
 1 Jace, Memory Adept
-1 Kasmina, Enigmatic Mentor
 1 Kinetic Augur
 1 Lightning Greaves
 1 Mishra's Command
