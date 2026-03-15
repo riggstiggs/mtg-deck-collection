@@ -39,29 +39,29 @@ deck_status: main
 *   **[Immolating Gyre](https://scryfall.com/search?q=!%22Immolating+Gyre%22):** Deals X damage to each creature and planeswalker **you don't control**, where X = instants/sorceries in your graveyard — a one-sided board wipe that scales with your spell count and leaves your Spellheart Chimera and Kinetic Augur alive.
 *   **[Fateful Showdown](https://scryfall.com/search?q=!%22Fateful+Showdown%22):** Deals damage to any target equal to your hand size, then you discard your hand and draw that many cards. With a large hand this is massive burst damage and a full refill — instant speed.
 
-### ✋ Draw & Hand Engine (13 Cards)
+### ✋ Draw & Hand Engine (12 Cards)
 *   **[Careful Consideration](https://scryfall.com/search?q=!%22Careful+Consideration%22):** Draw 4, discard 3 — or draw 4, discard 2 if cast during your main phase. Always instant speed. {2}{U}{U} = 4 mana = counter trigger.
 *   **[Read the Runes](https://scryfall.com/search?q=!%22Read+the+Runes%22):** Draw X cards. For each card drawn, choose: discard a card OR sacrifice a permanent. Flexible draw that can drain tokens instead of hand cards when you have board presence. {X}{U} = counter trigger at X≥3.
 *   **[Drown in Dreams](https://scryfall.com/search?q=!%22Drown+in+Dreams%22):** Draw X cards OR mill 2X cards. Because you always control a commander, you may choose **both** — draw X cards AND mill a target player 2X cards. Targeting yourself: draw X while self-milling 2X to fuel Starfall simultaneously. {X}{2}{U} = counter trigger at X≥1.
 *   **[Arcane Endeavor](https://scryfall.com/search?q=!%22Arcane+Endeavor%22):** Roll two d8 and choose one result — draw that many cards. Then cast an instant or sorcery from **your hand** with MV ≤ the other result for free. Not Cascade — the free spell comes from hand, not library. {5}{U}{U} = 7 mana = counter trigger.
 *   **[Weight of Memory](https://scryfall.com/search?q=!%22Weight+of+Memory%22):** Draw 3 cards. Target player mills 3 cards — aim at yourself to draw 3 while self-milling 3 and growing the Starfall graveyard count. {3}{U}{U} = 5 mana = counter trigger.
-*   **[Occult Epiphany](https://scryfall.com/search?q=!%22Occult+Epiphany%22):** Draw X, then discard X. Create a 1/1 flying Spirit token for each **distinct card type** among the discarded cards (creature, instant, sorcery, artifact, land, enchantment, planeswalker = up to 7 tokens). Instant speed = counter trigger at X≥3.
+*   **[Scour the Laboratory](https://scryfall.com/search?q=!%22Scour+the+Laboratory%22):** Draw 3 cards. Delirium — costs {2} less if there are 4+ card types in your graveyard. Once instants/sorceries, a discarded creature, and a discarded artifact are in the graveyard this is {2}{U}{U} = 4 mana = counter trigger. At full cost {4}{U}{U} = 6 mana = still a counter trigger.
 *   **[Ancestral Memories](https://scryfall.com/search?q=!%22Ancestral+Memories%22):** Look at the top 7 cards, put 2 into hand and the rest into your graveyard — selective draw that also fills the graveyard for Starfall and spell payoffs. {2}{U}{U}{U} = 5 mana = counter trigger.
 *   **[Bond of Insight](https://scryfall.com/search?q=!%22Bond+of+Insight%22):** Each player mills 4, return up to 2 instants/sorceries from your graveyard to hand, then Bond of Insight exiles itself. Draw engine that recycles key spells — self-exiling means it doesn't clog the graveyard.
 *   **[Illuminate History](https://scryfall.com/search?q=!%22Illuminate+History%22):** Discard any number of cards, draw that many. If 7+ cards are in your graveyard, create a 3/2 red and white Spirit token — looting spell that also generates a creature once your graveyard is stocked. {2}{R}{R} = 4 mana = counter trigger.
 *   **[Mists of Lórien](https://scryfall.com/search?q=!%22Mists+of+L%C3%B3rien%22):** Sorcery with Replicate {U} — bounces target nonland permanent AND all other nonland permanents sharing that mana value back to their owners' hands. Pay multiple {U} to copy it and bounce multiple mana values at once — scales into a mass tempo reset.
 *   **[Big Score](https://scryfall.com/search?q=!%22Big+Score%22):** Discard a card (additional cost), draw 2, create 2 Treasure tokens — net card advantage with mana generation. {3}{R} = 4 mana = counter trigger.
-*   **[Pirate's Pillage](https://scryfall.com/search?q=!%22Pirate%27s+Pillage%22):** Discard a card (additional cost), draw 2, create 2 Treasure tokens — same effect as Big Score at the same cost. {3}{R} = 4 mana = counter trigger.
 *   **[Unexpected Windfall](https://scryfall.com/search?q=!%22Unexpected+Windfall%22):** Discard a card (additional cost), draw 2, create 2 Treasure tokens — instant-speed version of the same loot-and-treasure package. {2}{R}{R} = 4 mana = counter trigger.
 
 ### 🎭 Discard Payoffs (5 Cards)
+*   **[Rielle, the Everwise](https://scryfall.com/search?q=!%22Rielle%2C+the+Everwise%22):** {1}{U}{R} Legendary Creature — power equals instants/sorceries in graveyard. Whenever you discard 1+ cards for the first time each turn, draw that many cards. Every loot spell doubles its draw — Big Score discards 1 and draws 3 total with Rielle; Breakthrough at X=0 draws 4 then draws 4 more = 8 cards total; Path of the Pyromancer refills your entire hand twice. Does not trigger the Emperor's counter on cast (3 mana), but enables massive card advantage once in play.
 *   **[Breakthrough](https://scryfall.com/search?q=!%22Breakthrough%22):** Draw 4 cards, then choose X cards in your hand to keep — discard the rest. At X=0, draw 4 and dump your entire new hand to the graveyard — turbo self-mill for Starfall fuel. At X=4, keep all 4 new cards. {X}{U} = counter trigger at X≥3.
-*   **[Turbulent Dreams](https://scryfall.com/search?q=!%22Turbulent+Dreams%22):** Discard X cards (additional cost), return X target nonland permanents to their owners' hands — bounce engine that uses discard as a resource. Note: {U}{U} = 2 mana and does NOT trigger the Emperor's counter on its own.
 *   **[Kinetic Augur](https://scryfall.com/search?q=!%22Kinetic+Augur%22):** 4-mana Creature with Trample. Power equals the number of instant and sorcery cards in your graveyard — scales passively as your spell count grows. ETB: discard up to 2 cards, draw that many. Alternate win con alongside Spellheart Chimera — a trampling beater that can close games.
 *   **[Collective Defiance](https://scryfall.com/search?q=!%22Collective+Defiance%22):** Sorcery with Escalate {1} — choose one or more: (1) target player discards their hand then draws that many cards (use on yourself for a free loot); (2) deal 4 damage to target creature; (3) deal 3 damage to target opponent or planeswalker. All three modes together costs {1}{R}{R} + {1} + {1} = 5 mana = counter trigger.
 *   **[Channeled Force](https://scryfall.com/search?q=!%22Channeled+Force%22):** Discard X cards (additional cost). Target player draws X cards. Deal X damage to **up to one** target creature or planeswalker — instant-speed discard outlet with bonus damage to one target. {2}{U}{R} = 4 mana base = counter trigger always.
 
-### 📜 Spell Payoffs & Recursion (8 Cards)
+### 📜 Spell Payoffs & Recursion (9 Cards)
+*   **[Thousand-Year Storm](https://scryfall.com/search?q=!%22Thousand-Year+Storm%22):** Whenever you cast an instant or sorcery, copy it for each other instant/sorcery spell you've cast before it this turn. 2nd spell = 1 copy, 3rd = 2 copies, 4th = 3 copies — exponential scaling. Devastating with extra turn spells: cast Time Warp as your 3rd spell and get 2 copies = 3 extra turns. {4}{U}{R} = 6 mana = counter trigger.
 *   **[Mizzix's Mastery](https://scryfall.com/search?q=!%22Mizzix%27s+Mastery%22):** Without overload: exile **one** target instant/sorcery from your graveyard, copy it, cast the copy for free. With overload ({5}{R}{R}{R} = 8 mana = counter trigger): "target" becomes "each" — exile all instants/sorceries in your graveyard and cast copies for free. The overload is the instant-win line.
 *   **[Epic Experiment](https://scryfall.com/search?q=!%22Epic+Experiment%22):** Exile top X cards of library, cast instants/sorceries with MV ≤ X for free, remaining exiled cards go to graveyard. At higher X values, casts multiple free spells and dumps the rest into the graveyard for Starfall. {X}{U}{R} = counter trigger at X≥2.
 *   **[Mnemonic Deluge](https://scryfall.com/search?q=!%22Mnemonic+Deluge%22):** Exile target instant/sorcery from any graveyard, copy it three times, cast copies for free, exile Mnemonic Deluge. Triples your single most impactful spell. {6}{U}{U}{U} = 9 mana = counter trigger.
@@ -85,10 +85,11 @@ deck_status: main
 *   **[Ill-Timed Explosion](https://scryfall.com/search?q=!%22Ill-Timed+Explosion%22):** Draw 2 cards. Then you may discard 2 cards — if you do, deal X damage to **each creature**, where X is the highest mana value among the discarded cards. Discard two high-cost spells to wipe the creature board as a side effect of drawing 2. {2}{U}{R} = 4 mana = counter trigger.
 *   **[Press the Enemy](https://scryfall.com/search?q=!%22Press+the+Enemy%22):** Return target spell or nonland permanent an opponent controls to their hand. Then cast an instant or sorcery with equal or lesser MV from **your hand** for free — instant-speed bounce that immediately chains into a free spell. {2}{U}{U} = 4 mana = counter trigger.
 
-### ⚡ Extra Combat & Turns (3 Cards)
-*   **[Full Throttle](https://scryfall.com/search?q=!%22Full+Throttle%22):** After this main phase, there are **two** additional combat phases. At the beginning of each combat this turn, untap all creatures that attacked. Does NOT grant haste — creatures must already be attack-ready (use Lightning Greaves/Swiftfoot Boots first). Three total combat phases = three Starfall triggers. {4}{R}{R} = 6 mana = counter trigger.
-*   **[Relentless Assault](https://scryfall.com/search?q=!%22Relentless+Assault%22):** Untap all attacking creatures and grant an additional combat phase (plus an additional main phase) — a second attack with a powered-up Lord Master can be lethal. {2}{R}{R} = 4 mana = counter trigger.
-*   **[Notorious Throng](https://scryfall.com/search?q=!%22Notorious+Throng%22):** Create X 1/1 flying Faerie Rogue tokens where X = total damage dealt to opponents this turn. After a Starfall, X could be 40+ tokens at once. Prowl cost {5}{U}: if you dealt damage with a Rogue this turn, cast for the prowl cost and also take an extra turn — high-ceiling tempo play.
+### ⚡ Extra Combat & Turns (4 Cards)
+*   **[Time Warp](https://scryfall.com/search?q=!%22Time+Warp%22):** Target player takes an extra turn — every extra turn is another full draw step, another main phase to cast graveyard-filling spells, and another attack with Lord Master for Starfall. {3}{U}{U} = 5 mana = counter trigger.
+*   **[Seize the Day](https://scryfall.com/search?q=!%22Seize+the+Day%22):** Untap target creature, then an additional combat phase followed by an additional main phase. Flashback {2}{R} — cast it from the graveyard for a second Starfall trigger. Counter trigger on the initial cast ({3}{R} = 4 mana); the Flashback at 3 mana doesn't trigger the counter but is still a free second attack.
+*   **[Alrund's Epiphany](https://scryfall.com/search?q=!%22Alrund%27s+Epiphany%22):** Create two 1/1 flying Bird tokens, take an extra turn, exile this card. Foretell {4}{U}{U} — pay {2}{U} now to exile it face down, then cast later for {4}{U}{U} spread over two turns. Exiles itself so it won't sit in your graveyard, but two extra Starfall attacks more than compensate. {5}{U}{U} = 7 mana (or 6 via Foretell) = counter trigger.
+*   **[Full Throttle](https://scryfall.com/search?q=!%22Full+Throttle%22):** Grants **two** additional combat phases (3 combats total). At the beginning of each combat this turn, untap all creatures that attacked. Does NOT grant haste — creatures must already be able to attack. Pre-equip Lightning Greaves or Swiftfoot Boots first. {4}{R}{R} = 6 mana = counter trigger.
 
 ### 🧙 Planeswalkers (2 Cards)
 *   **[Jace, Memory Adept](https://scryfall.com/search?q=!%22Jace%2C+Memory+Adept%22):** **+1**: draw a card AND target player mills 1 card. **0**: target player mills 10 cards (use on yourself for self-mill). **−7**: any number of target players each draw 20 cards. Use the 0 ability to self-mill 10 per turn to fuel Starfall. {3}{U}{U} = 5 mana = counter trigger.
@@ -103,10 +104,9 @@ deck_status: main
 *   **[Sisay's Ring](https://scryfall.com/search?q=!%22Sisay%27s+Ring%22):** 4-mana rock that taps for {2} colorless — basic but functional acceleration.
 *   **[Stonespeaker Crystal](https://scryfall.com/search?q=!%22Stonespeaker+Crystal%22):** 4-mana rock that taps for {2}. Can tap and pay {2} to exile all cards from a target graveyard — ramp with incidental graveyard hate.
 
-### 🔧 Utility (3 Cards)
+### 🔧 Utility (2 Cards)
 *   **[Fact or Fiction](https://scryfall.com/search?q=!%22Fact+or+Fiction%22):** {3}{U} Instant — 4 mana = counter trigger. Reveal the top 5 cards of your library; an opponent splits them into two piles, you choose which pile goes to hand and which to graveyard. In this deck both piles are good — the graveyard pile directly fuels Starfall and spell payoffs.
 *   **[Path of the Pyromancer](https://scryfall.com/search?q=!%22Path+of+the+Pyromancer%22):** **Sorcery** — discard your entire hand. Add {R} for each card discarded (mana refund), then draw that many cards plus one extra. Essentially a free full hand reset that draws hand size + 1 while recouping the mana. The Planechase vote has no effect in normal Commander. {4}{R} = 5 mana = counter trigger.
-*   **[Summons of Saruman](https://scryfall.com/search?q=!%22Summons+of+Saruman%22):** Amass Orcs X (create/grow an Orc Army token with X +1/+1 counters). Mill X cards. Cast one instant or sorcery with MV ≤ X from among the milled cards for free. Flashback {3}{U}{R}: exile X graveyard cards to cast again. Creates board presence while generating a free spell from your library. {X}{U}{R} = counter trigger at X≥2.
 
 ### 🗺️ Lands (36 Cards)
 *   **Utility Lands:** [Mystic Sanctuary](https://scryfall.com/search?q=!%22Mystic+Sanctuary%22) (puts instant/sorcery from graveyard on top of library when it enters untapped — requires 3+ other Islands), [Rogue's Passage](https://scryfall.com/search?q=!%22Rogue%27s+Passage%22) (makes Emperor unblockable), [Spinerock Knoll](https://scryfall.com/search?q=!%22Spinerock+Knoll%22) (hideaway land — play exiled card for free if an opponent was dealt 7+ damage this turn; easy to trigger post-Starfall).
@@ -138,10 +138,11 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-15:** Six-card upgrade pass from Scryfall search results.
+    - **In:** Seize the Day, Time Warp, Alrund's Epiphany, Rielle the Everwise, Thousand-Year Storm, Scour the Laboratory
+    - **Out:** Relentless Assault, Pirate's Pillage, Notorious Throng, Turbulent Dreams, Summons of Saruman, Occult Epiphany
+    - **Reason:** Extra turn spells (Time Warp, Alrund's Epiphany) + Seize the Day with Flashback give more and better Starfall triggers than the replaced cards. Rielle doubles all loot spell draw. Thousand-Year Storm copies spells exponentially. Scour the Laboratory draws 3 at 4 mana with delirium.
 *   **2026-03-14:** Initial deck file created from YouTube decklist. Oracle text confirmed for both FIN cards. Ring of the Lucii recategorized from Win Conditions to Ramp — it's a {C}{C} mana rock with a repeatable tap ability. Ramp count updated to 6. Full card-by-card review completed with Scryfall verification. Corrected descriptions for Run for Your Life (haste + evasion, not hexproof), Mists of Lórien (mass bounce with Replicate, not draw/mill), and Kinetic Augur (power = instants/sorceries in graveyard, not discards). Swapped Elixir of Immortality → Fact or Fiction (4-mana instant draw that fuels Starfall graveyard count). Comprehensive Scryfall audit of all 65 cards: fixed 8 critical errors (Gandalf's Sanction, Path of the Pyromancer, Summons of Saruman, Seize the Storm, Weight of Memory, Press the Enemy, Illuminate History, Ichor Elixir) and 17 significant description errors. Moved Ichor Elixir to Ramp section (it's a {C}{C} rock), moved Press the Enemy to Removal & Disruption (bounce + free spell, not extra combat). Ramp count updated to 7. Swapped Firemind Vessel → Thran Dynamo (same 4-mana counter trigger, +1 mana output, no enters-tapped penalty).
-    - **In:** Thran Dynamo
-    - **Out:** Firemind Vessel
-    - **Reason:** Thran Dynamo taps for {C}{C}{C} vs Firemind Vessel's {C}{C} with an enters-tapped penalty. Strictly better ramp output at the same cost.
 
 ---
 
@@ -152,6 +153,7 @@ COMMANDER:
 DECK:
 1 Access Denied
 1 Aether Gale
+1 Alrund's Epiphany
 1 Ancestral Memories
 1 Arcane Endeavor
 1 Big Score
@@ -187,30 +189,29 @@ DECK:
 1 Mists of Lórien
 1 Mizzix's Mastery
 1 Mnemonic Deluge
-1 Notorious Throng
-1 Occult Epiphany
 1 Path of the Pyromancer
-1 Pirate's Pillage
 1 Press the Enemy
 1 Protective Bubble
 1 Read the Runes
-1 Relentless Assault
+1 Rielle, the Everwise
 1 Ring of the Lucii
 1 Rise from the Tides
 1 Rogue's Passage
 1 Run for Your Life
+1 Scour the Laboratory
+1 Seize the Day
 1 Seize the Storm
 1 Sisay's Ring
 1 Spellheart Chimera
 1 Spelltwine
 1 Spinerock Knoll
 1 Stonespeaker Crystal
-1 Summons of Saruman
 1 Swiftfoot Boots
+1 Thousand-Year Storm
 1 Thran Dynamo
+1 Time Warp
 1 Traumatize
 1 Tunnel Vision
-1 Turbulent Dreams
 1 Unexpected Windfall
 1 Weight of Memory
 1 Whispersilk Cloak
