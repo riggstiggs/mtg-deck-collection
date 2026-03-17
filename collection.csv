@@ -1920,7 +1920,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 68735,"Sacred Foundry",GRN,Colorless,Rare,4,0
 68736,"Selesnya Guildgate",GRN,Colorless,Common,4,4
 68737,"Selesnya Guildgate",GRN,Colorless,Common,4,0
-68738,"Steam Vents",GRN,Colorless,Rare,2,1
+68738,"Steam Vents",GRN,Colorless,Rare,3,1
 68739,"Temple Garden",GRN,Colorless,Rare,2,1
 68740,"Watery Grave",GRN,Colorless,Rare,4,4
 68746,"Ral, Caller of Storms",GRN,Gold,Mythic,0,0
@@ -2221,7 +2221,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 69396,"Godless Shrine",RNA,Colorless,Rare,3,1
 69397,"Gruul Guildgate",RNA,Colorless,Common,4,0
 69398,"Gruul Guildgate",RNA,Colorless,Common,4,0
-69399,"Hallowed Fountain",RNA,Colorless,Rare,2,1
+69399,"Hallowed Fountain",RNA,Colorless,Rare,3,1
 69400,"Orzhov Guildgate",RNA,Colorless,Common,4,0
 69401,"Orzhov Guildgate",RNA,Colorless,Common,4,0
 69402,"Plaza of Harmony",RNA,Colorless,Rare,0,0
@@ -3629,7 +3629,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 71315,"Indatha Triome",IKO,Colorless,Rare,1,1
 71316,"Jungle Hollow",IKO,Colorless,Common,4,0
 71317,"Ketria Triome",IKO,Colorless,Rare,1,1
-71318,"Raugrin Triome",IKO,Colorless,Rare,1,1
+71318,"Raugrin Triome",IKO,Colorless,Rare,2,1
 71319,"Rugged Highlands",IKO,Colorless,Common,4,0
 71320,"Savai Triome",IKO,Colorless,Rare,1,1
 71321,"Scoured Barrens",IKO,Colorless,Common,4,0
@@ -3637,7 +3637,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 71323,"Thornwood Falls",IKO,Colorless,Common,4,0
 71324,"Tranquil Cove",IKO,Colorless,Common,4,0
 71325,"Wind-Scarred Crag",IKO,Colorless,Common,4,0
-71326,"Zagoth Triome",IKO,Colorless,Rare,1,1
+71326,"Zagoth Triome",IKO,Colorless,Rare,2,1
 71341,"Zilortha, Strength Incarnate",IKO,Gold,Mythic,0,0
 71345,"Battle Screech",J21,White,Uncommon,0,0
 71347,"Enduring Sliver",J21,White,Common,0,0
@@ -6210,7 +6210,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 77042,"Monoskelion",J21,Colorless,Uncommon,0,0
 77043,"Ornithopter of Paradise",J21,Colorless,Common,1,1
 77054,"Arid Mesa",MH2,Colorless,Rare,1,1
-77056,"Marsh Flats",MH2,Colorless,Rare,1,1
+77056,"Marsh Flats",MH2,Colorless,Rare,2,1
 77058,"Misty Rainforest",MH2,Colorless,Rare,1,1
 77062,"Scalding Tarn",MH2,Colorless,Rare,1,1
 77063,"Verdant Catacombs",MH2,Colorless,Rare,1,1
@@ -7848,7 +7848,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 80409,"Tramway Station",SNC,Colorless,Common,0,0
 80410,"Waterfront District",SNC,Colorless,Common,0,0
 80411,"Xander's Lounge",SNC,Colorless,Rare,1,1
-80412,"Ziatora's Proving Ground",SNC,Colorless,Rare,1,1
+80412,"Ziatora's Proving Ground",SNC,Colorless,Rare,2,1
 80853,"A-Alrund's Epiphany",KHM,Blue,Mythic,1,1
 80858,"A-Omnath, Locus of Creation",ZNR,Gold,Mythic,0,0
 81072,"A-Demilich",AFR,Blue,Mythic,1,1
@@ -15773,7 +15773,7 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 96827,"Evendo, Waking Haven",EOE,Colorless,Mythic,4,4
 96828,"Godless Shrine",EOE,Colorless,Rare,3,2
 96829,"Kavaron, Memorial World",EOE,Colorless,Mythic,1,1
-96830,"Sacred Foundry",EOE,Colorless,Rare,4,4
+96830,"Sacred Foundry",EOE,Colorless,Rare,5,4
 96831,"Secluded Starforge",EOE,Colorless,Rare,2,2
 96832,"Stomping Ground",EOE,Colorless,Rare,4,4
 96833,"Susur Secundi, Void Altar",EOE,Colorless,Mythic,1,1
@@ -17157,3 +17157,4 @@ Id,Name,Set,Color,Rarity,Count,PrintCount
 101113,"Plateau",ANA,Colorless,Rare,0,0
 101550,"Echo of Eons",ANA,Blue,Rare,0,0
 102111,"A-Vivi Ornitier",FIN,Gold,Mythic,0,0
+102112,"Dragon's Hoard",AFC,Colorless,Rare,1,0

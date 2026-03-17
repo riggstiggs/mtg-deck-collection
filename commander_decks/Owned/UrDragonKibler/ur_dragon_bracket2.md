@@ -84,16 +84,16 @@ deck_status: main
 
 ### 🛒 Active Acquisition List (Ordered/Purchased)
 
-**Order #235644 — High-Power Land Transition (Awaiting Arrival)**
+**Order #235644 — High-Power Land Transition (In Progress)**
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
-| **10 Triomes** | 5 Tri-Lands / 5 Basics | Mana Base | ⏳ Pending |
-| **7 Fetch Lands** | 5 Pain Lands / 2 Basics | Mana Base | ⏳ Pending |
-| **5 Shock Lands** | 5 Tapped Duals | Mana Base | ⏳ Pending |
+| **10 Triomes** | 5 Tri-Lands / 5 Basics | Mana Base | ⏳ 3/10 Received |
+| **7 Fetch Lands** | 5 Pain Lands / 2 Basics | Mana Base | ⏳ 1/7 Received |
+| **5 Shock Lands** | 5 Tapped Duals | Mana Base | ⏳ 3/5 Received |
 | **Lightning Greaves** | [TBD] | Protection | ⏳ Pending |
 | **Swiftfoot Boots** | [TBD] | Protection | ⏳ Pending |
-| **Dragon's Hoard (Spare)** | [N/A] | Ramp | ⏳ Pending |
+| **Dragon's Hoard (Spare)** | [N/A] | Ramp | ✅ Received |
 
 **Order #241252 — Manapool/Spellfinder (Upgrade Package)**
 

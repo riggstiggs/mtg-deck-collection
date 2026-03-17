@@ -1,0 +1,58 @@
+COMMANDER:
+1 Etali, Primal Conqueror
+
+DECK:
+1 Arbor Elf
+1 Chaos Wand
+1 Cinder Glade
+1 Clifftop Lookout
+1 Collateral Damage
+1 Cursed Mirror
+1 Dining Room
+1 Dire-Strain Rampage
+1 Dissection Tools
+1 Dragonlair Spider
+1 Elvish Rejuvenator
+1 Escape to the Wilds
+1 Etali, Primal Storm
+1 Evolutionary Leap
+1 Explore
+1 Ezuri's Predation
+1 Flamerush Rider
+1 Fling
+35 Forest
+1 Goblin Anarchomancer
+1 Greater Tanuki
+1 Harmonize
+1 Hit the Mother Lode
+1 Jaxis, the Troublemaker
+1 Krosan Tusker
+1 Llanowar Elves
+1 Magnifying Glass
+1 Metamorphosis
+1 Moldering Gym/Weight Room
+12 Mountain
+1 Nissa's Renewal
+1 Rampaging Baloths
+1 Rampant Growth
+1 Reclamation Sage
+1 Return of the Wildspeaker
+1 Rogue's Passage
+1 Rupture
+1 Sakura-Tribe Elder
+1 Search for Tomorrow
+1 Skullwinder
+1 Solemn Simulacrum
+1 Springbloom Druid
+1 Sunset Pyramid
+1 Temple of the False God
+1 Thrill of Possibility
+1 Timeless Witness
+1 Tireless Tracker
+1 Ulvenwald Hydra
+1 Utopia Sprawl
+1 Vastwood Surge
+1 Wild Growth
+1 Wood Elves
+1 Yavimaya Dryad
+1 Yavimaya Elder

@@ -3,6 +3,18 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-16: Etali, Primal Conqueror — New Budget Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/EtaliConqueror/` with the full 100-card list.
+*   **Source:** Extreme $25 budget challenge deck found online. Starting point for future upgrades.
+*   **Strategy:** Gruul (R/G) Stompy/Spell Theft — ramp hard, give Etali haste, attack and cast opponents' spells for free.
+*   **Open Issues:** Verify color identity of Etali, Primal Conqueror; confirm "Clifftop Lookout" card name on Scryfall.
+*   **Priority Upgrades:** Lightning Greaves, Sol Ring, Arcane Signet, Command Tower.
+
+### 2026-03-16: The Ur-Dragon High-Power Land Wave (Package 1/2)
+*   **Acquisition:** Received Package #235644-865061 (Fox & Fable Games).
+*   **Key Arrivals:** **3 Shock Lands** (Steam Vents, Hallowed Fountain, Sacred Foundry), **3 Triomes** (Raugrin, Zagoth, Ziatora's Proving Ground), and **1 Fetch Land** (Marsh Flats).
+*   **Status:** Cards received and added to collection. Integration into the active `ur_dragon_bracket2.md` deck list is **Pending** arrival of the final package (Package #235644-865060).
+
 ### 2026-03-10: The Ur-Dragon High-Power Upgrades
 *   **Acquisition:** Placed Order #235644 for the "Ultimate" mana base transition.
 *   **Mana Base:** Ordered all **10 Triomes** (*Ketria Triome, Jetmir's Garden, etc.*) and the remaining **7 Fetch Lands** (*Scalding Tarn, Arid Mesa, etc.*) and **5 Shock Lands** (*Watery Grave, Steam Vents, etc.*).

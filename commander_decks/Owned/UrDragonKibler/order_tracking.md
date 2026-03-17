@@ -183,7 +183,7 @@
 # Order Tracking: Ur-Dragon (Order #235644)
 
 **Order Date:** 2026-03-10  
-**Status:** 0/2 Packages Received
+**Status:** 1/2 Packages Received
 
 ---
 
@@ -211,13 +211,13 @@
 ---
 
 ## 📦 Package #235644-865061: Fox & Fable Games
-**Status:** ⏳ Pending  
+**Status:** ✅ Arrived  
 **Items:**
-- [ ] Steam Vents (GRN 257)
-- [ ] Hallowed Fountain (RNA 251)
-- [ ] Raugrin Triome (IKO 251)
-- [ ] Zagoth Triome (IKO 313)
-- [ ] Marsh Flats (MH2 248)
-- [ ] Dragon's Hoard (AFC 204)
-- [ ] Ziatora's Proving Ground (SNC 261)
-- [ ] Sacred Foundry (EOE 256)
+- [x] Steam Vents (GRN 257)
+- [x] Hallowed Fountain (RNA 251)
+- [x] Raugrin Triome (IKO 251)
+- [x] Zagoth Triome (IKO 313)
+- [x] Marsh Flats (MH2 248)
+- [x] Dragon's Hoard (AFC 204)
+- [x] Ziatora's Proving Ground (SNC 261)
+- [x] Sacred Foundry (EOE 256)
