@@ -2,11 +2,15 @@
 deck_status: main
 ---
 
-# Deck Guide: Zimone, Quandrix Prodigy (The Math Deck)
+# Deck Guide: Quantum Quandrix (Upgraded Precon)
+### Commander: Zimone, Quandrix Prodigy
+
+> **Origin:** This deck began as the **Quantum Quandrix** Commander precon from *Strixhaven: School of Mages* (Commander 2021). It has been significantly upgraded by Jamie beyond the out-of-the-box list. Because of the extent of those changes it lives in Owned rather than the PreCons folder. See the **Precon Upgrade Log** section below for a record of all changes made from the original precon.
 
 ## Commander Strategy
 **Zimone, Quandrix Prodigy**
 *   **Archetype:** Simic Counters / Fractal Tokens / Copy Engine
+*   **Origin:** Quantum Quandrix precon (C21 / Strixhaven), significantly upgraded
 *   **Bracket:** 2 (no Game Changers present)
 *   **Core Goal:** Win through an exponentially growing board of +1/+1 counters and Fractal tokens. Counters accumulate naturally on your creatures (Managorger Hydra, Forgotten Ancient), which then fuel massive Fractal payoffs (Geometric Nexus, Paradox Zone, Deekah). Esix converts those Fractals into copies of your best creature. Zimone herself ramps early and draws cards late, keeping the engine fed.
 
@@ -137,6 +141,24 @@ deck_status: main
 | Tireless Provisioner | Spawning Kraken | Ramp | Received |
 | Zimone, All-Questioning | Kaseto, Orochi Archmage | Token Factory | Received |
 | Zimone, Paradox Sculptor | Arashi, the Sky Asunder | Counters Engine | Received |
+
+---
+
+## 🎓 Precon Upgrade Log
+*This section tracks every card that has been swapped out from the original Quantum Quandrix precon list and what replaced it. The original precon shipped with Zimone, Quandrix Prodigy and Adrix and Nev, Twincasters as its face commanders.*
+
+### 2026-03-18 — Jamie's Upgrade Pass (9 cards)
+| **Out (Original Precon)** | **In (Upgrade)** | **Reason** |
+| :--- | :--- | :--- |
+| Arashi, the Sky Asunder | Zimone, Paradox Sculptor | Counter-doubling engine piece replaces niche anti-flier |
+| Crafty Cutpurse | Combine Chrysalis | Always-on token evasion replaces one-time situational theft |
+| Desolation Twin | Avenger of Zendikar | Landfall army > single 10-mana spell |
+| Kaseto, Orochi Archmage | Zimone, All-Questioning | Thematic Fractal generator replaces narrow unblockable enabler |
+| Kazandu Tuskcaller | Biowaste Blob | Self-replicating Ooze replaces slow level-up creature |
+| Ruxa, Patient Professor | Scute Swarm | Exponential win condition replaces narrow buff |
+| Spawning Kraken | Tireless Provisioner | Free ramp every land drop replaces narrow islandwalk combo |
+| Theoretical Duplication | Double Major | Instant-speed creature copy replaces opponent-dependent flash enchantment |
+| Trygon Predator | Koma, Cosmos Serpent | Near-unkillable threat replaces conditional combat-damage removal |
 
 ---
 
