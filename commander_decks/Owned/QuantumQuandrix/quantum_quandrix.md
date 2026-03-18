@@ -3,21 +3,23 @@ deck_status: main
 ---
 
 # Deck Guide: Quantum Quandrix (Upgraded Precon)
-### Commander: Zimone, Quandrix Prodigy
+### Commander: Adrix and Nev, Twincasters
 
 > **Origin:** This deck began as the **Quantum Quandrix** Commander precon from *Strixhaven: School of Mages* (Commander 2021). It has been significantly upgraded by Jamie beyond the out-of-the-box list. Because of the extent of those changes it lives in Owned rather than the PreCons folder. See the **Precon Upgrade Log** section below for a record of all changes made from the original precon.
 
 ## Commander Strategy
-**Zimone, Quandrix Prodigy**
-*   **Archetype:** Simic Counters / Fractal Tokens / Copy Engine
+**Adrix and Nev, Twincasters**
+*   **Archetype:** Simic Counters / Fractal Tokens / Token Doubling
 *   **Origin:** Quantum Quandrix precon (C21 / Strixhaven), significantly upgraded
 *   **Bracket:** 2 (no Game Changers present)
-*   **Core Goal:** Win through an exponentially growing board of +1/+1 counters and Fractal tokens. Counters accumulate naturally on your creatures (Managorger Hydra, Forgotten Ancient), which then fuel massive Fractal payoffs (Geometric Nexus, Paradox Zone, Deekah). Esix converts those Fractals into copies of your best creature. Zimone herself ramps early and draws cards late, keeping the engine fed.
+*   **Core Goal:** Adrix and Nev sit in the command zone and double every token created — Fractals, Insects, Plants, Beasts, Koma Coils, Blob copies, Scute Swarms — all of it gets doubled automatically. The deck then layers a counters engine and a landfall package on top, each of which feeds the others, producing an exponentially growing board that quickly overwhelms opponents.
 
-### The Two Interlocking Engines
-**Engine 1 — Counters:** Every spell cast, every combat step, every ETB piles counters onto your board. Master Biomancer ensures every new creature enters pre-loaded. The more counters you have, the bigger the Fractals you can make.
+### Three Interlocking Engines
+**Engine 1 — Token Doubling (Adrix and Nev):** The commander's effect is always on. Every token any card in the deck would create is immediately doubled. Deekah's Fractals, Scute Swarm's exponential copies, Biowaste Blob's self-replication, Koma's Coils, Avenger's Plants — all doubled. Second Harvest doubles everything *again* on top of Adrix.
 
-**Engine 2 — Fractals:** Deekah creates X/X Fractals off instants and sorceries. Geometric Nexus creates one whose size equals your existing counter count. Paradox Zone and Sequence Engine grind out more each end step. Esix then turns any token you'd create into a copy of your most powerful creature, compounding the effect.
+**Engine 2 — Counters:** Managorger Hydra and Forgotten Ancient accumulate +1/+1 counters passively. Master Biomancer ensures every new token enters pre-loaded with counters. Zimone, Paradox Sculptor doubles those counters every turn. The bigger the counters get, the bigger the Fractals (Geometric Nexus, Deekah) that Adrix then doubles.
+
+**Engine 3 — Landfall:** Avenger of Zendikar, Scute Swarm, Tireless Provisioner, and Rampaging Baloths all reward land drops — and every token they make is doubled by Adrix. Scute Swarm is particularly explosive: once it starts copying itself, Adrix doubles each copy trigger, making the growth truly uncountable within a few turns.
 
 ---
 
@@ -163,6 +165,10 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-18:** Corrected commander to Adrix and Nev, Twincasters. Zimone, Quandrix Prodigy removed from the list entirely for now.
+    *   **In:** Adrix and Nev, Twincasters (as commander)
+    *   **Out:** Zimone, Quandrix Prodigy (removed)
+    *   **Reason:** Adrix and Nev is the face commander of the Quantum Quandrix precon. Their token-doubling ability fundamentally drives the deck strategy. Zimone omitted rather than moved to the 99 to maintain the 100-card count.
 *   **2026-03-18:** 9-card upgrade pass from cards purchased by Jamie.
     *   **In:** Avenger of Zendikar, Biowaste Blob, Combine Chrysalis, Double Major, Koma Cosmos Serpent, Scute Swarm, Tireless Provisioner, Zimone All-Questioning, Zimone Paradox Sculptor
     *   **Out:** Arashi the Sky Asunder, Crafty Cutpurse, Desolation Twin, Kaseto Orochi Archmage, Kazandu Tuskcaller, Ruxa Patient Professor, Spawning Kraken, Theoretical Duplication, Trygon Predator
@@ -176,7 +182,7 @@ deck_status: main
 
 ## 🃏 Plain Text Copy/Paste (Moxfield Import)  
 COMMANDER:  
-1 Zimone, Quandrix Prodigy  
+1 Adrix and Nev, Twincasters  
 
 DECK:  
 1 Arcane Signet  
