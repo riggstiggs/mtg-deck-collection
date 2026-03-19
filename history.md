@@ -3,6 +3,13 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-18: Chainer, Dementia Master — New Mono-Black Reanimator Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/ChainerDementiaMaster/` with the full 100-card list.
+*   **Source:** Adapted from Rachel Weeks' mono-black reanimator list (originally piloted with Blex, Vexing Pest). Replaced commander and fixed 3 color-identity violations introduced by porting from Golgari to mono-black.
+*   **Strategy:** Mono-Black Reanimator — fill the graveyard with self-mill, reanimate massive threats with Chainer's life-payment ability, use Vilis, Broker of Blood as the key draw engine (each 3-life Chainer activation draws 3 cards).
+*   **Key Changes from Source List:** Removed Hogaak (B/G), Life // Death (B/G), Virtue of Persistence (W/B), Darkness. Added Sheoldred // The True Scriptures, Syr Konrad the Grim, Buried Alive, Rise of the Dark Realms.
+*   **Bracket:** 3 (0 Game Changers; strong synergy and high card quality).
+
 ### 2026-03-16: Etali, Primal Conqueror — New Budget Deck Added to Planning
 *   **New Deck:** Added `commander_decks/Planning/EtaliConqueror/` with the full 100-card list.
 *   **Source:** Extreme $25 budget challenge deck found online. Starting point for future upgrades.
