@@ -8,11 +8,11 @@ deck_status: main
 **Chainer, Dementia Master**
 *   **Archetype:** Mono-Black Reanimator / Value Engine
 *   **Bracket:** 3
-*   **Core Goal:** Fill your graveyard with powerful creatures through self-mill and discard outlets, then use Chainer's activated ability (pay 3 life: return any creature from *any* graveyard to the battlefield) to deploy massive threats turn after turn. Chainer's creatures become black Nightmares — if he leaves play they get exiled, so protecting him and managing your life total are the two key pillars of the deck. Vilis, Broker of Blood is the engine centerpiece: every 3-life payment to Chainer draws you 3 cards.
+*   **Core Goal:** Fill your graveyard with powerful creatures through self-mill and discard outlets, then use Chainer's activated ability ({B}{B}{B}, pay 3 life: return any creature from *any* graveyard to the battlefield) to deploy massive threats turn after turn. Chainer's creatures become black Nightmares and he passively gives all Nightmares +1/+1 — if he leaves play they get exiled, so protecting him and managing your life total are the two key pillars of the deck. Vilis, Broker of Blood is the engine centerpiece: every 3-life payment to Chainer draws you 3 cards.
 
 ### The Chainer Engine
-Chainer's ability has no mana cost — only a 3-life payment. With 40 starting life, you can reanimate 5+ creatures in a single turn if you have enough mana to protect Chainer and keep him alive. The life cost means:
-- **Vilis, Broker of Blood** becomes a draw-3 engine every time you activate Chainer.
+Chainer's ability costs **{B}{B}{B} plus 3 life** per activation. Each reanimate requires both mana and life, meaning you need both a strong mana base (Cabal Coffers, Nykthos, Crypt Ghast) and life management to chain activations. He also passively gives **all Nightmares +1/+1**, so every creature he reanimates gets a free stat boost. The life cost means:
+- **Vilis, Broker of Blood** becomes a draw-3 engine every time you activate Chainer (3 life paid = 3 cards drawn).
 - **Sangromancer**, **Noxious Gearhulk**, and **Wurmcoil Engine** help recover that life.
 - **Nykthos + Cabal Coffers + Urborg** provide the mana to chain reanimates back-to-back.
 
@@ -53,8 +53,8 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 ### 🔮 Reanimation Package (16 Cards)
 *   **Reanimate:** The gold standard. Return any creature from any graveyard to your battlefield for {B} at the cost of life equal to its CMC. Perfect with Vilis to offset the life loss.
 *   **Animate Dead:** Enchantment-based reanimation for {1}{B}. Puts the creature in play with a -1/-0 debuff. If Animate Dead is destroyed, the creature is too — so it has some fragility.
-*   **Dance of the Dead:** Similar to Animate Dead but {1}{B} with a slight power debuff. The creature gets +1/+0 to compensate. Best used on high-toughness bombs.
-*   **Necromancy:** The best of the three Animate Dead variants. Instant speed at {2}{B} means you can reanimate in response to a reanimation attempt or at end of turn. Critically, if Necromancy is destroyed, the creature *stays* (it just loses the "remove it when enchantment leaves" condition when cast at instant speed).
+*   **Dance of the Dead:** Similar to Animate Dead for {1}{B} but actually better for stats — the reanimated creature gets **+1/+1**. The downside: it enters tapped and doesn't untap during its controller's untap step unless they pay {1}{B} at the start of each upkeep. When Dance of the Dead leaves, the creature is sacrificed. Best used on high-value ETB creatures where the upkeep cost is worth it.
+*   **Necromancy:** The best of the three Animate Dead variants. {2}{B} with flash — you can reanimate at instant speed, at end of opponents' turns, or in response to another reanimation attempt. Note: when Necromancy leaves the battlefield for any reason, the creature is still sacrificed. If cast when sorceries couldn't be cast (flash mode), Necromancy is additionally sacrificed at the beginning of the next cleanup step.
 *   **Dread Return:** Flashback reanimation — cast it for free by sacrificing three creatures. Perfect late game when the board is full of Chainer-reanimated tokens or tokens.
 *   **Victimize:** Sacrifice one creature to reanimate two from your graveyard. Excellent value, especially when sacrificing a milled Stitcher's Supplier or Ophiomancer snake.
 *   **Stitch Together:** {B}{B} at sorcery speed, but only {B} if you have threshold (7+ cards in graveyard). Cheap and efficient once you hit threshold.
@@ -66,7 +66,7 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Sheoldred // The True Scriptures:** Sheoldred front face is a 5/5 deathtouch that forces opponent discards and draws you cards when they do. The True Scriptures saga back mills opponents, destroys all their nonland permanents, and then returns *all* creature cards from your graveyard to the battlefield. A late-game bomb on both faces.
 *   **Saw in Half:** Sacrifice a creature to create two tokens that are copies with halved stats. Best used on Wurmcoil Engine (two 3/3 lifelink/deathtouch) or Archon of Cruelty (two ETB triggers for {2}{B}).
 *   **Living Death:** Mass board wipe that simultaneously reanimates everything in your graveyard. Excellent recovery tool after a wipe or as a one-sided sweeper if your graveyard is fuller than opponents'.
-*   **Virtue of Persistence // Locthwain Scorn:** {4}{B} saga that reanimates a creature each chapter, then flips into Locthwain Scorn — a black instant that returns it from the graveyard for repeated use. Provides recurring reanimation value stapled to a two-sided card.
+*   **Virtue of Persistence // Locthwain Scorn:** Enchantment with Adventure. Cast the adventure first — **Locthwain Scorn** ({1}{B} sorcery) deals -3/-3 to a creature and gains you 2 life. Then cast the enchantment, **Virtue of Persistence**, which reanimates a creature from any graveyard at the beginning of each upkeep — powerfully repeatable as long as it stays in play.
 
 ### 🗡️ Targeted Removal (11 Cards)
 *   **Snuff Out:** Free if you pay 4 life (mono-black only). Instant-speed protection for Chainer or threat removal. The life cost is negligible in a life-payment deck.
@@ -82,16 +82,16 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Imp's Mischief:** Pseudo-counterspell — redirect a spell to a different target (including protecting Chainer from targeted removal). One of mono-black's best defensive tools.
 
 ### 💀 Mass Removal (3 Cards)
-*   **Demon of Dark Schemes:** ETB gives all other creatures -2/-2 (excellent for wiping token boards), then generates Energy you can spend at {2}{E} to reanimate creatures from any graveyard. Removal and reanimation in one body.
+*   **Demon of Dark Schemes:** ETB gives all other creatures -2/-2 (excellent for wiping token boards). Whenever any creature dies, you get {E}. Spend {2}{B} plus {E}{E}{E}{E} (4 energy counters) to reanimate a creature from any graveyard tapped. The -2/-2 wipe generates multiple energy charges to fuel the reanimate. Removal and reanimation in one body.
 *   **Massacre Wurm:** ETB gives all opponent creatures -2/-2 and drains life whenever their creatures die. Against token decks this can drain for 10+ life in a single ETB.
 *   **Living Death:** See Reanimation Package — functions as both mass removal and mass reanimation.
 
 ### 👹 Threats & Reanimation Targets (13 Cards)
-*   **Archon of Cruelty:** The premier reanimation target. ETB makes target opponent sacrifice a creature, discard a card, and mill 3, while you draw a card and gain 3 life. Chain two of these with Victimize and the game is usually over.
+*   **Archon of Cruelty:** The premier reanimation target. ETB or attack trigger: target opponent sacrifices a creature or planeswalker, discards a card, and **loses 3 life**, while you draw a card and gain 3 life. Chain two of these with Victimize and the game is usually over.
 *   **Vilis, Broker of Blood:** 8/8 flyer that draws a card for each life paid. With Chainer, every activation nets 3 cards. Often draws your entire deck over a few turns.
 *   **Wurmcoil Engine:** 6/6 lifelink/deathtouch that splits into two 3/3s when it dies. The lifelink sustains Chainer's life payments; Saw in Half creates two copies of this for massive life swings.
 *   **Noxious Gearhulk:** ETB destroys a creature and gains you life equal to its toughness. Excellent removal-on-a-stick and life recovery.
-*   **Archfiend of Despair:** 8/7 flyer that halves each opponent's life total at each end step. One activation with your reanimation package is frequently a game-ender.
+*   **Archfiend of Despair:** 8/7 flyer. Opponents can't gain life. At each end step, each opponent loses life equal to the life they already lost that turn — effectively doubling all damage and life loss they took in the turn cycle. One reanimate of this is frequently a game-ender.
 *   **Lord of the Void:** 7/7 flyer that exiles the top 7 cards of an opponent's library when it deals combat damage and puts a creature from among them onto the battlefield under your control.
 *   **Abhorrent Overlord:** Creates X Harpy tokens equal to your black devotion. With Coffers and Nykthos, this can produce 8–12 tokens that immediately serve as sacrifice fodder for Dread Return or Victimize.
 *   **Dreadfeast Demon:** Sacrifice a creature at the beginning of each upkeep to create a token copy of Dreadfeast Demon. Exponentially multiplies your board if you have sacrifice fodder.
@@ -109,7 +109,7 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Metamorphosis Fanatic:** Flexible creature with graveyard interactions. Provides recurring sacrifice utility to support Chainer's reanimation loops.
 *   **Nighthawk Scavenger:** Flying/deathtouch/lifelink with power equal to card types in all graveyards. As graveyards fill this becomes a 4–6 power lifelinker that recovers Chainer's life payments.
 *   **Liliana, Death's Majesty:** Creates Zombie tokens, mills the top two cards, reanimates a creature with the -3, and can wipe the board of non-Zombies with the ultimate. Solid graveyard planeswalker.
-*   **Hagra Mauling // Hagra Broodpit:** Destroys a creature the opponent controls if threshold is met (7+ cards in graveyard). Hagra Broodpit is a tapped land when you don't need removal.
+*   **Hagra Mauling // Hagra Broodpit:** {2}{B}{B} instant that destroys any target creature (costs {1} less if an opponent controls no basic lands). Hagra Broodpit is a tapped {B} land when you don't need removal.
 
 ### 🏔️ Lands (34 Cards)
 *   **Cabal Coffers:** See Ramp section.
@@ -123,7 +123,7 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Mortuary Mire:** Enters tapped; put a creature from your graveyard on top of your library. Useful for recovering Chainer or a key threat after a board wipe.
 *   **Demolition Field:** Destroys a land (and one of yours). Utility for removing Maze of Ith, Glacial Chasm, or other problematic utility lands.
 *   **Witch's Cottage:** Enters tapped if you don't control 3 Swamps; else put target creature from your graveyard on top of library. Free recursion stapled to a Swamp.
-*   **Malakir Rebirth // Malakir Mire:** {B} instant that saves Chainer from removal by making him leave and re-enter the battlefield. The most mana-efficient protection spell in the deck. Malakir Mire is a tapped land when you don't need the protection.
+*   **Malakir Rebirth // Malakir Mire:** {B} instant (plus 2 life) that gives target creature a death trigger until end of turn — when it dies, it returns to the battlefield tapped. Protects Chainer from destroy-based removal but does **not** protect against exile effects. Malakir Mire is a tapped {B} land when you don't need the protection.
 *   **23 Swamps:** Robust basic land count enables Defile, Cabal Coffers, and Crypt Ghast reliably from the early game.
 
 ---
