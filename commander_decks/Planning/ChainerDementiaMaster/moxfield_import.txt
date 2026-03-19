@@ -53,7 +53,7 @@
 1 Phyrexian Tower
 1 Reanimate
 1 Ripples of Undeath
-1 Rise of the Dark Realms
+1 Virtue of Persistence // Locthwain Scorn
 1 Sangromancer
 1 Saw in Half
 1 Sheoldred // The True Scriptures

@@ -66,7 +66,7 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Sheoldred // The True Scriptures:** Sheoldred front face is a 5/5 deathtouch that forces opponent discards and draws you cards when they do. The True Scriptures saga back mills opponents, destroys all their nonland permanents, and then returns *all* creature cards from your graveyard to the battlefield. A late-game bomb on both faces.
 *   **Saw in Half:** Sacrifice a creature to create two tokens that are copies with halved stats. Best used on Wurmcoil Engine (two 3/3 lifelink/deathtouch) or Archon of Cruelty (two ETB triggers for {2}{B}).
 *   **Living Death:** Mass board wipe that simultaneously reanimates everything in your graveyard. Excellent recovery tool after a wipe or as a one-sided sweeper if your graveyard is fuller than opponents'.
-*   **Rise of the Dark Realms:** {7}{B}{B} finisher that puts *every* creature card from *all* graveyards onto the battlefield under your control. Closes games immediately after a long grind.
+*   **Virtue of Persistence // Locthwain Scorn:** {4}{B} saga that reanimates a creature each chapter, then flips into Locthwain Scorn — a black instant that returns it from the graveyard for repeated use. Provides recurring reanimation value stapled to a two-sided card.
 
 ### 🗡️ Targeted Removal (11 Cards)
 *   **Snuff Out:** Free if you pay 4 life (mono-black only). Instant-speed protection for Chainer or threat removal. The life cost is negligible in a life-payment deck.
@@ -151,10 +151,10 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 ---
 
 ## 📜 Deck Changelog
-*   **2026-03-18:** Initial build. Adapted from Rachel Weeks' mono-black reanimator list (originally built around Blex, Vexing Pest // Search for Blex). Replaced Blex with Chainer, Dementia Master as commander. Removed three color-identity violations (Hogaak — B/G, Life // Death — B/G, Virtue of Persistence // Locthwain Scorn — W/B). Added Sheoldred // The True Scriptures and Syr Konrad, the Grim as natural Chainer synergy pieces. Added Buried Alive as premier graveyard setup. Added Rise of the Dark Realms as a mass-reanimate finisher. Removed Darkness (Fog effect — poor fit for the gameplan).
-    *   **In:** Chainer, Dementia Master (Commander), Sheoldred // The True Scriptures, Syr Konrad the Grim, Buried Alive, Rise of the Dark Realms
-    *   **Out:** Blex, Vexing Pest (Commander replaced), Hogaak, Arisen Necropolis (color identity), Life // Death (color identity), Virtue of Persistence // Locthwain Scorn (color identity), Darkness (weak fit)
-    *   **Reason:** Color identity compliance for mono-black Chainer; replaced illegal B/G and W/B cards with mono-black synergy pieces that directly support the life-payment reanimation engine.
+*   **2026-03-18:** Initial build. Adapted from Rachel Weeks' mono-black reanimator list (originally built around Blex, Vexing Pest // Search for Blex). Replaced Blex with Chainer, Dementia Master as commander. Removed two confirmed color-identity violations (Hogaak — B/G, Life // Death — B/G). Added Sheoldred // The True Scriptures and Syr Konrad, the Grim as natural Chainer synergy pieces. Added Buried Alive as premier graveyard setup. Removed Darkness (Fog effect — poor fit for the gameplan). Corrected an error: Virtue of Persistence is mono-black {4}{B} (not W/B as initially flagged); Rise of the Dark Realms removed in favor of restoring Virtue of Persistence.
+    *   **In:** Chainer, Dementia Master (Commander), Sheoldred // The True Scriptures, Syr Konrad the Grim, Buried Alive, Virtue of Persistence // Locthwain Scorn
+    *   **Out:** Blex, Vexing Pest (Commander replaced), Hogaak, Arisen Necropolis (color identity — B/G), Life // Death (color identity — B/G), Darkness (weak fit), Rise of the Dark Realms (replaced by Virtue of Persistence)
+    *   **Reason:** Color identity compliance for mono-black Chainer; Virtue of Persistence correctly restored after initial misidentification as W/B.
 
 ---
 
@@ -218,7 +218,7 @@ DECK:
 1 Phyrexian Tower  
 1 Reanimate  
 1 Ripples of Undeath  
-1 Rise of the Dark Realms  
+1 Virtue of Persistence // Locthwain Scorn
 1 Sangromancer  
 1 Saw in Half  
 1 Sheoldred // The True Scriptures  
