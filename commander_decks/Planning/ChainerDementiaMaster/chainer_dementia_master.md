@@ -100,6 +100,7 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Thieving Amalgam:** Manifest dread — put cards from the top of opponents' libraries face-down as 2/2s and eventually morph them. Ongoing resource theft.
 *   **Overlord of the Balemurk:** Powerful ETB value engine. A reanimation target that refuels your hand.
 *   **Demon of Dark Schemes:** See Mass Removal.
+*   **Gray Merchant of Asphodel:** Each opponent loses life equal to your black devotion, and you gain that much life. With the density of black mana symbols across this deck (Coffers, Crypt Ghast, Nykthos, Vilis, Chainer's ability), devotion routinely hits 8–12 — meaning a single ETB drains each opponent for massive life totals and refills your life for Chainer activations. With reanimation loops, multiple Gary triggers in one turn cycle frequently wins the game outright.
 
 ### 🌿 Support & Utility (8 Cards)
 *   **Ophiomancer:** Creates a 1/1 deathtouch Snake token at the beginning of each upkeep if you don't control a Snake. Steady supply of sacrifice fodder for Victimize, Dread Return, and Chthonian Nightmare.
@@ -107,7 +108,6 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Syr Konrad, the Grim:** Deals 1 damage to each opponent whenever a creature enters or leaves any graveyard. With all your self-mill and reanimation loops, this often deals 10–20 damage passively per turn cycle.
 *   **Sangromancer:** Gains 3 life when opponents discard and 1 life when their creatures die. Helps sustain Chainer's life payments when opponents are losing resources.
 *   **Metamorphosis Fanatic:** Flexible creature with graveyard interactions. Provides recurring sacrifice utility to support Chainer's reanimation loops.
-*   **Nighthawk Scavenger:** Flying/deathtouch/lifelink with power equal to card types in all graveyards. As graveyards fill this becomes a 4–6 power lifelinker that recovers Chainer's life payments.
 *   **Liliana, Death's Majesty:** Creates Zombie tokens, mills the top two cards, reanimates a creature with the -3, and can wipe the board of non-Zombies with the ultimate. Solid graveyard planeswalker.
 *   **Hagra Mauling // Hagra Broodpit:** {2}{B}{B} instant that destroys any target creature (costs {1} less if an opponent controls no basic lands). Hagra Broodpit is a tapped {B} land when you don't need removal.
 
@@ -137,20 +137,22 @@ When Chainer dies, all the Nightmares he reanimated get exiled — not sent to t
 *   **Razaketh, the Foulblooded:** 8/8 flying trample for {6}{B}{B}. Pay 2 life, sacrifice a creature: tutor any card to hand. Insane with Ophiomancer snake tokens as sacrifice fodder.
 *   **Sheoldred, Whispering One (original):** Automatically reanimates from your graveyard each upkeep while forcing opponents to sacrifice. A strong backup reanimation engine if Chainer keeps getting removed.
 *   **Bolas's Citadel:** Play cards from the top of your library paying life instead of mana. Game Changer — with Coffers online you can play most of your deck in one turn.
-*   **Gray Merchant of Asphodel:** Drains each opponent equal to your black devotion. Often 6–10 life drain per ETB. With reanimation loops, this closes games.
 *   **Nightmare Shepherd:** When a non-token creature you control dies, exile it to create a 1/1 token copy. Sidesteps Chainer's exile-on-death clause since Nightmares become "new" tokens.
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
-| Gray Merchant of Asphodel | Sangromancer | Threats | Pending |
 | Razaketh, the Foulblooded | Metamorphosis Fanatic | Threats | Pending |
-| Sheoldred, Whispering One | Nighthawk Scavenger | Threats | Pending |
+| Sheoldred, Whispering One | Sangromancer | Threats | Pending |
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-19:** Swapped Nighthawk Scavenger for Gray Merchant of Asphodel.
+    *   **In:** Gray Merchant of Asphodel
+    *   **Out:** Nighthawk Scavenger
+    *   **Reason:** Gary's devotion-based drain is a direct win condition with this deck's black symbol density. Nighthawk Scavenger provides solid lifelink but is passive life recovery; Gary actively drains the table for 8–12+ per ETB and refuels Chainer's life payments simultaneously. With reanimation loops, multiple Gary triggers frequently close out games. Also updated acquisition table: Sheoldred, Whispering One now targets Sangromancer as the swap (Nighthawk no longer in the deck).
 *   **2026-03-18:** Initial build. Adapted from Rachel Weeks' mono-black reanimator list (originally built around Blex, Vexing Pest // Search for Blex). Replaced Blex with Chainer, Dementia Master as commander. Removed two confirmed color-identity violations (Hogaak — B/G, Life // Death — B/G). Added Sheoldred // The True Scriptures and Syr Konrad, the Grim as natural Chainer synergy pieces. Added Buried Alive as premier graveyard setup. Removed Darkness (Fog effect — poor fit for the gameplan). Corrected an error: Virtue of Persistence is mono-black {4}{B} (not W/B as initially flagged); Rise of the Dark Realms removed in favor of restoring Virtue of Persistence.
     *   **In:** Chainer, Dementia Master (Commander), Sheoldred // The True Scriptures, Syr Konrad the Grim, Buried Alive, Virtue of Persistence // Locthwain Scorn
     *   **Out:** Blex, Vexing Pest (Commander replaced), Hogaak, Arisen Necropolis (color identity — B/G), Life // Death (color identity — B/G), Darkness (weak fit), Rise of the Dark Realms (replaced by Virtue of Persistence)
@@ -194,6 +196,7 @@ DECK:
 1 Flare of Malice  
 1 Golgari Thug  
 1 Gorging Vulture  
+1 Gray Merchant of Asphodel  
 1 Hagra Mauling // Hagra Broodpit  
 1 Harvester of Misery  
 1 High Market  
@@ -208,7 +211,6 @@ DECK:
 1 Metamorphosis Fanatic  
 1 Mortuary Mire  
 1 Necromancy  
-1 Nighthawk Scavenger  
 1 Noxious Gearhulk  
 1 Nykthos, Shrine to Nyx  
 1 Ophiomancer  
@@ -218,7 +220,7 @@ DECK:
 1 Phyrexian Tower  
 1 Reanimate  
 1 Ripples of Undeath  
-1 Virtue of Persistence // Locthwain Scorn
+1 Virtue of Persistence // Locthwain Scorn  
 1 Sangromancer  
 1 Saw in Half  
 1 Sheoldred // The True Scriptures  

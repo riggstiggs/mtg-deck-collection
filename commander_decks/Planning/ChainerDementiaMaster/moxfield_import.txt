@@ -29,6 +29,7 @@
 1 Flare of Malice
 1 Golgari Thug
 1 Gorging Vulture
+1 Gray Merchant of Asphodel
 1 Hagra Mauling // Hagra Broodpit
 1 Harvester of Misery
 1 High Market
@@ -43,7 +44,6 @@
 1 Metamorphosis Fanatic
 1 Mortuary Mire
 1 Necromancy
-1 Nighthawk Scavenger
 1 Noxious Gearhulk
 1 Nykthos, Shrine to Nyx
 1 Ophiomancer
