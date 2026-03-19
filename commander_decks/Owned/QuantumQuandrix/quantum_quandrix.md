@@ -26,13 +26,13 @@ deck_status: main
 ## 🛠️ Card Explanations
 
 ### 🧮 Fractal Math Engine (7 Cards)
-*   **Deekah, Fractal Theorist:** The primary Fractal factory. Every instant or sorcery you cast creates an X/X Fractal where X is the spell's mana value — casting Rite of Replication kicked makes a 9/9 Fractal on the spot.
-*   **Esix, Fractal Bloom:** The multiplier. The first token you create each turn can be a copy of any creature you control. Pair with Deekah or Paradox Zone to flood the board with copies of your best threat.
+*   **Deekah, Fractal Theorist:** The primary Fractal factory. Every instant or sorcery you cast creates an X/X Fractal where X is the spell's mana value — and Adrix and Nev doubles each creation, so every spell produces two Fractals. Casting Rite of Replication kicked makes two 9/9 Fractals immediately.
+*   **Esix, Fractal Bloom:** The multiplier. The first token you would create each turn becomes a copy of your best creature instead — then Adrix doubles that creation to two copies. Every Deekah trigger, every Paradox Zone Fractal, every Koma Coil can become two copies of your most powerful threat.
 *   **Biomathematician:** When it enters, it distributes +1/+1 counters equal to its power among creatures you control — an immediate counter injection that scales with your board.
-*   **Geometric Nexus:** Creates a 0/0 Fractal token and puts X +1/+1 counters on it, where X equals the total number of +1/+1 counters across all your creatures. A mid-to-late game play that routinely creates a 10+ power threat.
+*   **Geometric Nexus:** Creates a 0/0 Fractal token with X +1/+1 counters, where X equals the total counter count across all your creatures — Adrix doubles that to two massive Fractals. A mid-to-late game play that routinely puts two 10+ power threats onto the board in one card.
 *   **Fractal Harness:** Equipment that rewards attacking — the equipped creature gets +1/+1 for each counter it has, and combat damage back into counters, creating exponential growth across multiple turns.
-*   **Paradox Zone:** End-step Fractal factory. Creates a 0/0 Fractal each turn and scales its counter count with how many permanents with counters you control — gets out of hand quickly.
-*   **Sequence Engine:** Creates a 0/0 Fractal at each end step sized by the number of instants and sorceries cast that turn — pairs tightly with Deekah for double Fractal production.
+*   **Paradox Zone:** End-step Fractal factory. Creates a 0/0 Fractal each turn scaled by permanents with counters you control — Adrix doubles it to two. Every end step you passively accumulate two growing threats without spending any mana or cards.
+*   **Sequence Engine:** Creates a 0/0 Fractal at each end step sized by instants and sorceries cast that turn — Adrix doubles it to two. Pairs with Deekah for a spell-heavy turn that produces four or more Fractals in a single end step.
 
 ### 📈 Counters Engine (8 Cards)
 *   **Managorger Hydra:** Gets a +1/+1 counter whenever *any* player casts a spell. In a four-player game, this becomes an enormous threat by turn 5 with almost no investment.
@@ -45,23 +45,23 @@ deck_status: main
 *   **Zimone, Paradox Sculptor:** At the beginning of combat, puts a +1/+1 counter on each of up to two creatures — free counter injection every turn. The activated ability (GU, tap) doubles every kind of counter on up to two targets, making Managorger or Forgotten Ancient astronomically large within two activations. Core to the engine.
 
 ### 🪄 Token Factory (10 Cards)
-*   **Curiosity Crafter:** A feedback loop in one card — when you create a token draw a card, when you draw a card create a 1/1 Illusion token. Pairs with Esix to make those Illusions into real threats.
-*   **Avenger of Zendikar:** When it enters, creates a 0/1 Plant token for every land you control — with 15 lands that's 15 creatures in one ETB. Every land drop after puts +1/+1 counters on all of them. A singular board-defining moment.
-*   **Biowaste Blob:** A 0/0 Ooze that buffs all other Oozes you control (+1/+1 each). More importantly, at the beginning of each upkeep, if you control a commander, it creates a token copy of itself — two Blobs become four, four become eight. Self-replicating as long as Zimone is in play.
-*   **Scute Swarm:** Landfall creates a 1/1 Insect token, but once you hit 6 lands, it creates a copy of Scute Swarm instead. One land drop can double your Swarm count — a few turns of this produces hundreds of Scute Swarms. A potential standalone win condition.
-*   **Koma, Cosmos Serpent:** Uncounterable 6/6 that creates a 3/3 Koma's Coil token at the start of every upkeep — every player's. Sacrificing a Coil either taps a permanent and shuts off its activated abilities, or makes Koma indestructible until end of turn. Nearly impossible to remove permanently.
-*   **Zimone, All-Questioning:** At your end step, if a land entered this turn and you control a **prime number** of lands, creates Primo — a Fractal token with counters equal to your land count. At 17 lands Primo is a 17/17; at 23 lands a 23/23. Thematic, cheap (1GU), and produces massive threats as the game goes long.
-*   **Hornet Nest:** Defenders that punish attackers — every point of damage dealt to it creates a 1/1 Flying Deathtouch Insect. A powerful political tool and a disguised Fractal enabler with Esix.
-*   **Hornet Queen:** Creates four 1/1 Flying Deathtouch Insects on ETB. Incredible defensive body and a Rite of Replication target to flood the board with 20 Hornets.
-*   **Rampaging Baloths:** Creates a 4/4 Beast token on every landfall trigger. With Avenger, Scute Swarm, and Tireless Provisioner also rewarding land drops, the landfall mini-package becomes a consistent source of pressure.
-*   **Reef Worm:** Creates increasingly large tokens when it and its progeny die — 3/3 Fish → 6/6 Whale → 9/9 Kraken. Hard to permanently remove and a Rite of Replication target.
+*   **Curiosity Crafter:** With Adrix in play this becomes a chain reaction. Creating two tokens (as Adrix ensures) draws two cards, which creates two more Illusion tokens, which Adrix doubles to four, which draws four more cards. A single Deekah trigger can cascade into a massive draw engine. Pairs with Esix to turn every Illusion into a copy of your best creature.
+*   **Avenger of Zendikar:** When it enters, creates a 0/1 Plant for every land you control — with 15 lands that's already 15 Plants, but Adrix doubles that to 30 Plants in a single ETB. Every land drop after buffs all of them. One of the most explosive plays in the deck.
+*   **Biowaste Blob:** A 0/0 Ooze that buffs all other Oozes you control (+1/+1 each). At the beginning of each upkeep, if you control a commander, it creates a token copy of itself — and Adrix doubles that copy to two. One Blob becomes three, three become seven, the growth accelerates rapidly. Self-replicating as long as Adrix and Nev are in play.
+*   **Scute Swarm:** Landfall creates a 1/1 Insect token, but once you hit 6 lands it creates a copy of Scute Swarm instead — and Adrix doubles each of those copies. One land drop doubles the Swarm count, then Adrix doubles it again. With even two Swarms and Adrix in play, a single land drop creates four Swarms and the number becomes uncountable within two or three more land drops. The single most explosive win condition in the deck.
+*   **Koma, Cosmos Serpent:** Uncounterable 6/6 that creates a 3/3 Koma's Coil token at the start of every upkeep — every player's. Adrix doubles each Coil creation, so in a four-player game you accumulate eight Coils per round. Sacrifice Coils to lock down permanents or make Koma indestructible. Nearly impossible to remove permanently and generates an army of fodder in the process.
+*   **Zimone, All-Questioning:** At your end step, if a land entered this turn and you control a **prime number** of lands, creates Primo — a Fractal token with counters equal to your land count. Adrix doubles Primo to two. At 17 lands you get two 17/17s; at 23 lands two 23/23s. Thematic, cheap (1GU), and produces pairs of massive threats as the game goes long.
+*   **Hornet Nest:** Every point of damage dealt to it creates a 1/1 Flying Deathtouch Insect — Adrix doubles each batch. Attack it for 5 damage and get 10 Flying Deathtouch Insects. A powerful political deterrent and a disguised token engine with Esix.
+*   **Hornet Queen:** Creates four 1/1 Flying Deathtouch Insects on ETB — Adrix doubles that to eight. The premier Rite of Replication target: five kicked copies each produce eight Insects for 40 Flying Deathtouch blockers and attackers in one turn.
+*   **Rampaging Baloths:** Creates a 4/4 Beast on every landfall trigger — Adrix doubles that to two 4/4 Beasts per land drop. Alongside Avenger, Scute Swarm, and Tireless Provisioner, the landfall mini-package generates an overwhelming amount of board presence from simply playing lands.
+*   **Reef Worm:** Creates increasingly large tokens when it and its progeny die — 3/3 Fish → 6/6 Whale → 9/9 Kraken. Adrix doubles each death trigger so each step produces two of the next size. Extraordinarily hard to permanently answer and a Rite of Replication target for instant Kraken floods.
 
 ### ♊ Copy & Multiplication (5 Cards)
 *   **Replication Technique:** Copies any of your artifacts, creatures, or enchantments. The Conspire ability lets you copy the spell itself by tapping two creatures — potentially getting two copies for one card.
-*   **Rite of Replication:** The haymaker. Five mana gets one copy; nine mana kicked gets five copies. Target Hornet Queen for 20 Flying Deathtouch Insects, Avenger of Zendikar for five massive Plant armies, or Koma for five indestructible Serpents each generating Coils every upkeep.
+*   **Rite of Replication:** The haymaker. Five mana gets one copy; nine mana kicked gets five copies. With Adrix, target Hornet Queen for 40 Flying Deathtouch Insects (five copies × eight insects each), Avenger of Zendikar for five armies of 30 Plants apiece, or Koma for five indestructible Serpents each generating doubled Coils every upkeep.
 *   **Spitting Image:** Creates a token copy of any creature, then Retrace lets you cast it again from the graveyard by discarding a land — a repeatable copy engine late in the game.
-*   **Second Harvest:** Instant-speed doubling of every token you control. At four mana this can be a game-winning surprise, turning 10 tokens into 20 mid-combat or at end of turn.
-*   **Double Major:** Instant-speed copy of any creature spell you control for just GU — and the copy isn't legendary, so you can copy Zimone, Paradox Sculptor or Koma and keep both. Cast Avenger of Zendikar, pay GU in response, get two massive Plant armies for one turn's work.
+*   **Second Harvest:** For each token you control, creates a copy — and Adrix doubles each copy created. With 10 tokens, Second Harvest creates 20 new ones for a total of 30. Cast it mid-combat or at end of turn as a game-winning surprise that opponents simply cannot block through.
+*   **Double Major:** Instant-speed copy of any creature spell you control for just GU — the copy isn't legendary so you keep both. Cast Avenger of Zendikar, pay GU in response, get two ETBs each creating 30 Plants with Adrix. Copy Koma for two uncounterable 6/6s generating doubled Coils. Outstanding value for two mana.
 
 ### 📚 Card Draw (7 Cards)
 *   **Champion of Wits:** Draws cards equal to its power on ETB (3 cards), then discards 2. Later, Eternalize lets you Flashback a 4/4 version that draws 4 with no discard downside.
@@ -70,7 +70,7 @@ deck_status: main
 *   **Return of the Wildspeaker:** Instant-speed draw equal to your biggest creature's power, or pump all creatures +3/+3. Often draws a massive hand while threatening lethal the same turn.
 *   **Commander's Insight:** Draw cards equal to the power of a chosen creature. Scales perfectly with a counter-laden board.
 *   **Shamanic Revelation:** Draws a card for each creature you control and gains 4 life per creature with power 4 or greater. A refuel spell that also stabilizes your life total.
-*   **Garruk, Primal Hunter:** Creates 3/3 Beast tokens, draws cards based on your biggest creature, and his ultimate gives you a massive creature army. Generates value every turn he's alive.
+*   **Garruk, Primal Hunter:** His +1 creates a 3/3 Beast token — Adrix doubles it to two per activation. His -3 draws cards equal to your biggest creature's power (often 10+ in this deck). His ultimate creates a token army based on your land count. Generates value every turn he survives.
 
 ### 🌱 Ramp (10 Cards)
 *   **Sol Ring:** Turn-1 ramp staple, no explanation needed.
@@ -82,7 +82,7 @@ deck_status: main
 *   **Quandrix Cultivator:** Searches for a basic land on ETB and puts it into play tapped. A body that fixes your mana and is a Rite of Replication target.
 *   **Coiling Oracle:** On ETB reveals the top card of your library — if it's a land, put it into play; otherwise draw it. One of the most efficient two-drop ramp creatures in Simic.
 *   **Eureka Moment:** Draws two cards and lets you put a land from your hand into play. Card draw and ramp in one, fueling both engines simultaneously.
-*   **Tireless Provisioner:** On every landfall trigger, creates either a Food token (gain 2 life) or a Treasure token (mana). With 40 lands and multiple ramp spells, this generates free resources all game and powers the landfall package alongside Avenger and Scute Swarm.
+*   **Tireless Provisioner:** On every landfall trigger, creates a Food or Treasure token — Adrix doubles that to two. Each land drop generates two free resources. With 40 lands and multiple ramp spells this keeps mana flowing and life total stable all game, while also powering the landfall package alongside Avenger and Scute Swarm.
 
 ### ⚔️ Interaction & Removal (9 Cards)
 *   **Beast Within:** Destroys any permanent at instant speed for three mana. The 3/3 Beast it gives opponents is acceptable given the versatility.
@@ -92,7 +92,7 @@ deck_status: main
 *   **Curse of the Swine:** Exiles X creatures for XUU and replaces them with 2/2 Boars — excellent mass targeted removal that handles indestructible threats and doesn't fill the board with dangerous tokens.
 *   **Oversimplify:** One-sided exile of all non-land permanents your opponents control. Each opponent gets a single 0/0 Fractal — which with Esix on the board becomes a copy of your best creature.
 *   **Perplexing Test:** Choose to return all tokens you don't control OR all non-token creatures you don't control to their owners' hands. Either mode is a powerful tempo swing that leaves your board intact.
-*   **Ezuri's Predation:** For each creature opponents control, create a 4/4 Predator Ooze and have it fight the opponent's creature. Clears the board and leaves you with an army.
+*   **Ezuri's Predation:** For each creature opponents control, create a 4/4 Predator Ooze — Adrix doubles each creation. If opponents have 10 creatures you get 20 Oozes, each fighting an opponent's creature. One spell clears the board and leaves you with an overwhelming Ooze army that Biowaste Blob then buffs.
 *   **Terastodon:** Destroys up to three noncreature permanents on ETB, giving each player a 3/3 Elephant for each thing destroyed. Targets lands, problem enchantments, and artifacts — devastating when copied.
 *   **Biomass Mutation:** Sets all your creatures to X/X until end of turn for XGU. A combat trick and a potential finisher — slam this when swinging with 15 creatures to guarantee lethal.
 
@@ -124,7 +124,7 @@ deck_status: main
 ### 💡 High-Impact Tech to Consider
 *These cards are not currently in the deck but are top-tier candidates based on the math/counters theme.*
 
-*   **Doubling Season (3GG):** Doubles tokens AND doubles counters — would turbocharge every engine in the deck simultaneously. The single highest-impact upgrade available.
+*   **Doubling Season (3GG):** Doubles tokens AND doubles counters. Stacks multiplicatively with Adrix and Nev — tokens would be quadrupled (Doubling Season doubles, then Adrix doubles again). Also doubles counters placed on Fractals, Managorger Hydra, and other key threats. The single highest-impact upgrade available.
 *   **Hardened Scales (G):** One extra counter whenever one or more counters are placed on a creature — cheap and exponential in a counter-heavy deck.
 *   **The Ozolith (1):** Whenever a creature with counters leaves the battlefield, move all its counters to the Ozolith. Protects counter investment from removal.
 *   **Vorinclex, Monstrous Raider (4GG):** Doubles counters placed on your permanents, halves counters placed on opponents'. An enormous threat that directly powers every Fractal payoff.
