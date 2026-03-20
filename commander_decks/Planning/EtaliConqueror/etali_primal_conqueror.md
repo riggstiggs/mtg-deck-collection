@@ -1,6 +1,8 @@
 ---
-deck_status: main
+deck_status: reference
 ---
+
+> **Archived:** This is the original $25 extreme budget build ("Primal Budget Blitz"). Superseded by `etali_primal_dominion.md` as of 2026-03-19.
 
 # Deck Guide: Etali, Primal Conqueror — "Primal Budget Blitz"
 
