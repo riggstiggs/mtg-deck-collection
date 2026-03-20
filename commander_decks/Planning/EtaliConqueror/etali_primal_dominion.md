@@ -75,17 +75,17 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 ### 💨 Haste (1 Card)
 *   **Rhythm of the Wild:** Creatures you control can't be countered (addressing one of Etali's key vulnerabilities). Each nontoken creature gets Riot — choose +1/+1 counters or haste. Always choose haste on Etali — she enters, immediately triggers her ETB, and attacks in the same turn.
 
-### 🛡️ Protection & Recovery (6 Cards)
+### 🛡️ Protection & Recovery (5 Cards)
 *   **Conjurer's Closet:** At end of turn, blink a creature you control — exile it and return it to the battlefield. Blink Etali each turn for a free additional ETB trigger every end step. Also protects from targeted removal by responding with the blink.
-*   **Heroic Intervention:** Give your creatures hexproof and indestructible until end of turn. The premier green protection spell — answers board wipes, targeted destroy, and targeted exile simultaneously.
 *   **Swiftfoot Boots:** Equip 1, gives hexproof and haste. The first turn Etali lands, Swiftfoot Boots both protects her from targeted removal and enables her attack trigger for Etali Primal Storm. Cheaper and faster than Lightning Greaves for the equip cost.
 *   **Tamiyo's Safekeeping:** Give target permanent hexproof and indestructible until end of turn for one mana. The cheapest single-target protection spell available — an untapped Forest answers most targeted removal on Etali.
 *   **Temur Sabertooth:** {1}{G}: Return a creature you control to your hand. Protect Etali by bouncing her before removal resolves, then replay her for another ETB. Also enables value loops with Selvala — tap Selvala for 8+ mana, bounce and replay a dork, repeat.
 *   **Voyager Staff:** {1}, Tap, sacrifice: Exile target creature you control until end of turn. A sacrifice-based protection outlet — in response to targeted removal or exile effects, Voyager Staff phases Etali out and returns her at the end step, ready for another ETB on the next turn.
 
-### 🃏 Card Draw & Advantage (4 Cards)
+### 🃏 Card Draw & Advantage (5 Cards)
 *   **Disciple of Freyalise:** Tap to add mana equal to total toughness of creatures you control, or tap to draw cards equal to total power. With Etali, draws 7 cards in a single activation. Doubles as a mana engine in a board state full of token copies.
 *   **Garruk's Uprising:** When a creature with power 4 or greater ETBs, draw a card. Gives all your creatures trample. Every Etali copy draws a card — with Panharmonicon, two cards per copy. Also gives Etali and all copies trample to guarantee combat damage for Etali Primal Storm triggers.
+*   **Lifecrafter's Bestiary:** At the beginning of your upkeep, scry 1. Whenever you cast a creature spell, you may pay {G} to draw a card. With 5 mana dorks, 8 ramp creatures, and every Etali copy triggering the draw, this generates a constant stream of cards throughout the game. Scry 1 each upkeep also smooths out draws.
 *   **Return of the Wildspeaker:** Draw cards equal to the greatest power among non-Human creatures — 7 cards with Etali. Alternatively, as an instant, give all non-Humans +3/+3 and trample as a combat trick to push lethal damage.
 *   **Rishkar's Expertise:** Draw cards equal to the greatest power among your creatures (7 with Etali), then cast a spell with mana value 5 or less from your hand for free. Draws your next copy effect and casts it for nothing.
 
@@ -138,6 +138,10 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-19:** Swapped Heroic Intervention for Lifecrafter's Bestiary.
+    *   **In:** Lifecrafter's Bestiary
+    *   **Out:** Heroic Intervention
+    *   **Reason:** Intervention's mass protection role is partially covered by Swiftfoot Boots, Tamiyo's Safekeeping, Temur Sabertooth, and Voyager Staff. Bestiary adds scry 1 every upkeep and card draw whenever a creature spell is cast — a better fit for a deck that casts 5+ creatures per turn cycle.
 *   **2026-03-19:** Budget optimization pass — replaced 8 high-cost cards with lower-cost functional equivalents.
     *   **In:** Arbor Elf, Myriad Landscape, Paradise Druid, Reclaim, Savage Ventmaw, Strionic Resonator, +1 Mountain (8 total), Wood Elves
     *   **Out:** Birds of Paradise, Delighted Halfling, Molten Duplication, Noxious Revival, Stomping Ground, Three Visits, Treasonous Ogre, Wooded Foothills
@@ -188,10 +192,10 @@ DECK:
 1 Heat Shimmer  
 1 Hellkite Courser  
 1 Helm of the Host  
-1 Heroic Intervention  
 1 Jaxis, the Troublemaker  
 1 Karplusan Forest  
 1 Kodama's Reach  
+1 Lifecrafter's Bestiary  
 1 Llanowar Elves  
 1 Mana Geyser  
 1 Mirage Phalanx  

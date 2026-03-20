@@ -29,10 +29,10 @@
 1 Heat Shimmer
 1 Hellkite Courser
 1 Helm of the Host
-1 Heroic Intervention
 1 Jaxis, the Troublemaker
 1 Karplusan Forest
 1 Kodama's Reach
+1 Lifecrafter's Bestiary
 1 Llanowar Elves
 1 Mana Geyser
 1 Mirage Phalanx
