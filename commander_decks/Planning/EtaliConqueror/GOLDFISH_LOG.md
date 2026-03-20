@@ -387,3 +387,289 @@ Game 2 exposes the deck's vulnerability to land-light hands with no green source
 
 ### 🏆 Verdict: **BUILD READY**
 The budget-optimized Etali, Primal Dominion consistently casts its commander by Turn 4–5 in keepable hands. The Somberwald Sage / mana dork package is the backbone of the fast goldfish lines and should be protected as a priority in real games.
+
+---
+
+## Round 2 — Games 6 & 7 (2026-03-20)
+
+**Purpose:** Extended validation — testing hands with no acceleration in opener, Springheart Nantuko as a dead card, and the no-Mountain-until-T7 constraint.
+
+---
+
+## Game 6 — Turn 14 (Estimated) ⚠️
+
+### Opening Hand (7 cards)
+| # | Card | Link |
+|---|------|------|
+| 1 | Mountain | [🔍](https://scryfall.com/search?q=Mountain) |
+| 2 | Forest | [🔍](https://scryfall.com/search?q=Forest) |
+| 3 | Cinder Glade | [🔍](https://scryfall.com/search?q=Cinder+Glade) |
+| 4 | Forest | [🔍](https://scryfall.com/search?q=Forest) |
+| 5 | Springheart Nantuko | [🔍](https://scryfall.com/search?q=Springheart+Nantuko) |
+| 6 | Utopia Sprawl | [🔍](https://scryfall.com/search?q=Utopia+Sprawl) |
+| 7 | Rockfall Vale | [🔍](https://scryfall.com/search?q=Rockfall+Vale) |
+
+**T1–T12 Draws:** Helm of the Host, Mossfire Valley, Gruul Turf, Panharmonicon, Chandra Flameshaper, Beast Within, Game Trail, Skyshroud Claim, Eternal Witness, Llanowar Elves, Reclaim, Selvala Heart of the Wilds
+
+> **Etali is NOT in the top 20 draws** — card 21+ in the shuffled order.
+
+---
+
+### Turn-by-Turn
+
+**Turn 1**
+- **Land:** Forest
+- **Cast:** Utopia Sprawl on Forest, choose Green. Enchanted Forest now taps for {G}{G}.
+- **Mana Spent:** G (tap Forest to pay Sprawl's {G} cost). Forest tapped.
+- **Board:** Forest (enchanted, tapped), Utopia Sprawl
+- **Hand:** Mountain, Cinder Glade, Forest, Springheart Nantuko, Rockfall Vale
+- **Comment:** Utopia Sprawl T1 on Forest is the ideal opener. Every tap of this Forest now produces GG, effectively acting as a T1 mana doubler. Starting T2, this Forest generates twice the value.
+
+**Turn 2**
+- **Draw:** [Helm of the Host](https://scryfall.com/search?q=Helm+of+the+Host)
+- **Land:** Mountain (from hand)
+- **Mana Available:** Enchanted Forest (GG) + Mountain (R) = 3 mana
+- **Cast:** None — Helm of the Host costs {4}. No creature to equip anyway. Hold.
+- **Board:** Forest (enchanted, untapped), Mountain, Utopia Sprawl
+- **Comment:** Two lands in play, both functional. Cinder Glade can enter untapped T3 since we now have 2 basics (Forest + Mountain). Rockfall Vale enters untapped if Forest or Mountain in play — both conditions met.
+
+**Turn 3**
+- **Draw:** [Mossfire Valley](https://scryfall.com/search?q=Mossfire+Valley)
+- **Land:** Cinder Glade — enters UNTAPPED (Forest + Mountain = 2 basics in play)
+- **Mana Available:** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (R/G) = 4 mana
+- **Cast:** None — still no creatures to enable Springheart Nantuko. Nothing impactful at 4 mana.
+- **Board:** Forest (enchanted), Mountain, Cinder Glade, Utopia Sprawl
+- **Comment:** 4 mana available. Springheart Nantuko remains uncastable — it's an Aura requiring a creature target and no creatures have been drawn or played.
+
+**Turn 4**
+- **Draw:** [Gruul Turf](https://scryfall.com/search?q=Gruul+Turf)
+- **Land:** Rockfall Vale (from hand) — enters UNTAPPED (Mountain and Forest both in play)
+- **Mana Available:** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (R/G) + Rockfall Vale (R/G) = 5 mana
+- **Cast:** None — Gruul Turf in hand but playing it bounces a land for net zero gain this turn. No creature target for Springheart. Hold.
+- **Board:** Forest (enchanted), Mountain, Cinder Glade, Rockfall Vale, Utopia Sprawl
+- **Comment:** 5 functional mana available. Mana base is growing cleanly. Still zero creatures in play — the deck's plan cards are all expensive without dorks or ramp spells.
+
+**Turn 5**
+- **Draw:** [Panharmonicon](https://scryfall.com/search?q=Panharmonicon)
+- **Land:** Mossfire Valley (T3 draw, taps for R or G)
+- **Mana Available:** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (R/G) + Rockfall Vale (R/G) + Mossfire Valley (R/G) = 6 mana
+- **Cast:** None — Panharmonicon at {4} is castable but doesn't accelerate Etali. Still no creatures.
+- **Board:** Forest (enchanted), Mountain, Cinder Glade, Rockfall Vale, Mossfire Valley, Utopia Sprawl
+- **Comment:** 6 mana available. The hand has been ramp-spell free and creature-free through 5 turns. Skyshroud Claim is still 3 turns away (T8 draw).
+
+**Turn 6**
+- **Draw:** [Chandra, Flameshaper](https://scryfall.com/search?q=Chandra%2C+Flameshaper)
+- **Land:** Gruul Turf (from hand) — enters TAPPED; must bounce a land. Bounce Rockfall Vale back to hand (weakest land, re-playable).
+- **Lands in play:** Forest (enchanted), Mountain, Cinder Glade, Mossfire Valley, Gruul Turf (tapped) = 5 lands, but Gruul Turf tapped this turn.
+- **Mana Available (untapped):** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (R/G) + Mossfire (R/G) = 5 mana
+- **Cast:** None — still no creature for Springheart. Chandra costs {3}{R}{R} = out of range.
+- **Comment:** Net 0 on land count from Gruul Turf play (bounced Rockfall Vale). Gruul Turf will tap for RG starting T7. Mana development plateauing without ramp spells.
+
+**Turn 7**
+- **Draw:** [Beast Within](https://scryfall.com/search?q=Beast+Within)
+- **Land:** Rockfall Vale (bounced T6) — enters UNTAPPED (Mountain and Forest in play)
+- **Mana Available:** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (R/G) + Mossfire (R/G) + Gruul Turf (RG) + Rockfall Vale (R/G) = 8 mana
+- **Cast:** Nothing — Etali is not in hand. No creatures. Skyshroud Claim arrives next turn.
+- **Board:** 6 lands (Forest enchanted, Mountain, Cinder Glade, Mossfire, Gruul Turf, Rockfall Vale), Utopia Sprawl
+- **Comment:** 8 mana available — theoretically enough to cast Etali right now. But Etali is not in hand (it's card 21+). Skyshroud Claim arrives next draw.
+
+**Turn 8**
+- **Draw:** [Skyshroud Claim](https://scryfall.com/search?q=Skyshroud+Claim) — KEY RAMP
+- **Land:** Game Trail (T7 draw) — Game Trail enters tapped unless you reveal a Mountain or Forest from hand. Hand contents: Springheart Nantuko, Helm of the Host, Panharmonicon, Beast Within. No Mountain or Forest in hand to reveal. Game Trail enters TAPPED.
+- **Lands in play before Skyshroud:** Forest (enchanted), Mountain, Cinder Glade, Mossfire Valley, Gruul Turf, Rockfall Vale, Game Trail (tapped) = 7 lands, but Game Trail tapped this turn.
+- **Mana Available (untapped, 6 lands):** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (G) + Mossfire (G) + Gruul Turf (RG) + Rockfall Vale (G) = GG+R+G+G+RG+G = 8 mana
+- **Cast Skyshroud Claim ({3}{G}{G}):** Pay GG (enchanted Forest) + G (Cinder Glade) + G (Mossfire) + G (Rockfall Vale) = exactly {3}{G}{G} using 5 taps. ✓
+  - Search for 2 Forest lands (any land with Forest subtype), put them onto the battlefield untapped.
+- **After Skyshroud resolves:** 9 lands total (7 existing + 2 fetched untapped Forests)
+- **Remaining untapped mana after Skyshroud:** Mountain (R) + Gruul Turf (RG) + 2 new Forests (GG) = R + RG + G + G = 4 mana remaining
+- **Board:** 9 lands, Utopia Sprawl, Springheart Nantuko / Helm / Panharmonicon / Beast Within in hand
+- **Comment:** Skyshroud Claim fires and immediately puts the deck at 9 lands. However, Etali is still card 21+ — the mana is there but the commander is not. The enchanted Forest (GG per tap) + Gruul Turf (RG) make the mana base very strong from here.
+
+**Turn 9**
+- **Draw:** [Eternal Witness](https://scryfall.com/search?q=Eternal+Witness)
+- **Land:** (no land in hand unless drawn — T9 draw is Eternal Witness, not a land)
+- **Mana Available (9 untapped lands):** Enchanted Forest (GG) + Mountain (R) + Cinder Glade (G/R) + Mossfire (G/R) + Gruul Turf (RG) + Rockfall Vale (G/R) + Game Trail (untapped now, G/R) + Forest×2 (GG) = massive mana
+- **Cast:** Eternal Witness ({2}{G}) — 3 mana easily available. Graveyard has no targets (no spells in yard), she enters as a 2/1.
+- **Key Unlock:** Eternal Witness is a CREATURE. Springheart Nantuko can now be cast — it enchants Eternal Witness, then triggers whenever another creature enters, creating an Insect token.
+- **Cast Springheart Nantuko ({1}{G})** targeting Eternal Witness: {1}{G} = tap any two mana sources from the 9 untapped lands.
+- **Board:** 9 lands, Eternal Witness (2/1), Springheart Nantuko (enchanting E-Wit), Utopia Sprawl
+- **Comment:** The Springheart Nantuko backlog finally resolves. With 9 lands, this turn generates ~14 mana — far more than needed for any play. Etali is still not in hand (card 21+, minimum T14 draw).
+
+**Turns 10–13 (Mana Development)**
+- **Draws:** Llanowar Elves (T10), Reclaim (T11), Selvala Heart of the Wilds (T12)
+- **Land drops:** Additional lands drawn T10-T13 as available
+- **Mana:** Fully online with 10+ lands. Llanowar Elves provides another G dork. Selvala generates mana equal to the greatest power among creatures.
+- **Board:** 10+ lands, Eternal Witness, Springheart Nantuko, Llanowar Elves, Selvala, Utopia Sprawl
+- **Comment:** The deck is fully assembled and producing 15+ mana each turn by T13. Etali at card 21+ arrives on Turn 14 at the earliest. It will be cast immediately on the turn it's drawn.
+
+**Turn 14 (Estimated)**
+- **Draw:** Etali, Primal Storm (card 21 = T14 draw, earliest possible)
+- **Mana Available:** 10+ lands + Llanowar Elves + Selvala (taps for power = 7 from Selvala alone once Etali is cast) = 20+ mana
+- **Cast:** Etali, Primal Storm ({6}{R}{G}) — trivial with available mana ✓
+- **Board:** All lands, all permanents, **Etali, Primal Storm (7/7 Trample)**
+- **Comment:** Mana has been more than sufficient since T8 (Skyshroud Claim). The bottleneck was purely Etali's position deep in the deck (card 21+). This is a classic "mana-rich, commander-poor" scenario — the deck built a dominant board but couldn't execute the primary game plan without its commander.
+
+**🏁 Result: Etali cast on Turn 14 (estimated) — mana ready T8+, commander not drawn until T14+**
+
+---
+
+## Game 7 — Turn 11 ⚠️
+
+### Opening Hand (7 cards)
+| # | Card | Link |
+|---|------|------|
+| 1 | Arbor Elf | [🔍](https://scryfall.com/search?q=Arbor+Elf) |
+| 2 | Lifecrafter's Bestiary | [🔍](https://scryfall.com/search?q=Lifecrafter%27s+Bestiary) |
+| 3 | Tamiyo's Safekeeping | [🔍](https://scryfall.com/search?q=Tamiyo%27s+Safekeeping) |
+| 4 | Goblin Anarchomancer | [🔍](https://scryfall.com/search?q=Goblin+Anarchomancer) |
+| 5 | Somberwald Sage | [🔍](https://scryfall.com/search?q=Somberwald+Sage) |
+| 6 | Forest | [🔍](https://scryfall.com/search?q=Forest) |
+| 7 | Sheltered Thicket | [🔍](https://scryfall.com/search?q=Sheltered+Thicket) |
+
+**T1–T13 Draws:** Disciple of Freyalise, Electroduplicate, Rhythm of the Wild, Swiftfoot Boots, Cursed Mirror, Panharmonicon, Mountain, Forest, Forest, Paradise Druid, Panharmonicon (2nd), Mountain, Rampant Growth
+
+> **Etali, Primal Storm is card 18 in the shuffled deck = T11 draw.**
+
+> ⚠️ **Mulligan Advisory:** This hand has only 2 functional mana sources (Forest + Sheltered Thicket enters tapped), no red source until T7 draw, and Goblin Anarchomancer stranded in hand for 6 turns. Somberwald Sage costs {3}{G} = 4 mana, which isn't reachable until T5 at earliest given the land constraints. Keepable only because Arbor Elf + Rhythm of the Wild + Somberwald Sage is a theoretically explosive combination once colors come online. Borderline keep in a real game.
+
+---
+
+### Turn-by-Turn
+
+**Turn 1**
+- **Land:** Forest
+- **Cast:** Arbor Elf ({G} — tap Forest)
+- **Board:** Forest (tapped), Arbor Elf (1/1)
+- **Hand:** Lifecrafter's Bestiary, Tamiyo's Safekeeping, Goblin Anarchomancer, Somberwald Sage, Sheltered Thicket
+- **Comment:** Arbor Elf on T1 is correct. Sheltered Thicket always enters tapped, so Forest is the right land drop. With Utopia Sprawl or Wild Growth later, Arbor Elf becomes a 2-mana engine — but none are in this hand. Arbor Elf can still untap Forest for double G each turn.
+
+**Turn 2**
+- **Draw:** [Disciple of Freyalise](https://scryfall.com/search?q=Disciple+of+Freyalise)
+- **Land:** Sheltered Thicket (enters TAPPED — always tapped per rules text)
+- **Mana Available:** Forest (G) + Arbor Elf tap trick (untap Forest, re-tap = extra G) = 2G total. Thicket tapped, no mana from it.
+- **Cast:** Disciple of Freyalise ({1}{G}) — pay Forest (G) + Elf untap → re-tap Forest (G as generic) = {1}{G} ✓
+- **Board:** Forest (tapped), Sheltered Thicket (tapped), Arbor Elf (tapped), Disciple of Freyalise (1/2)
+- **Hand:** Lifecrafter's Bestiary, Tamiyo's Safekeeping, Goblin Anarchomancer, Somberwald Sage
+- **Comment:** Disciple gets a body on the board. With 5+ basics later it will produce enormous mana. For now it's filler. No Red available — Goblin Anarchomancer must wait. No other meaningful play available.
+
+**Turn 3**
+- **Draw:** [Rhythm of the Wild](https://scryfall.com/search?q=Rhythm+of+the+Wild)
+- **Land:** None drawn this turn (T3 draw = Rhythm of the Wild)
+- **Mana Available:** Forest (G) + Elf trick (G) + Sheltered Thicket (untapped = R/G) = 3 mana
+- **Cast:** Rhythm of the Wild ({1}{R}{G}) — tap Forest (G for {G}), tap Sheltered Thicket (R for {R}), tap Elf → untap Forest → re-tap Forest (G for {1}) = exactly {1}{R}{G} ✓
+- **Board:** Forest (tapped), Sheltered Thicket (tapped), Arbor Elf (tapped), Disciple of Freyalise, Rhythm of the Wild
+- **Hand:** Lifecrafter's Bestiary, Tamiyo's Safekeeping, Goblin Anarchomancer, Somberwald Sage
+- **Comment:** Critical enchantment landed. Rhythm of the Wild gives all future non-token creatures riot — meaning Somberwald Sage enters with HASTE when we cast it. While Somberwald Sage's mana ability doesn't require haste (mana abilities bypass summoning sickness), haste does let it attack and makes Rhythm's trigger feel like a bonus. Most importantly, every future creature enters with immediate impact.
+
+**Turn 4**
+- **Draw:** [Swiftfoot Boots](https://scryfall.com/search?q=Swiftfoot+Boots)
+- **Land:** None drawn (T4 draw = Swiftfoot Boots). Still only 2 lands in play.
+- **Mana Available:** Forest (G) + Elf trick (G) + Thicket (G/R) = 3 mana
+- **Cast:** Nothing that advances the plan. Swiftfoot Boots at {1} is castable but premature. Hold.
+- **Board:** Forest, Sheltered Thicket, Arbor Elf, Disciple, Rhythm of the Wild
+- **Comment:** Third straight turn with no land. Mana development stalled at 3 effective mana. Somberwald Sage needs {3}{G} = 4 mana and we're one short. Frustrating but the Rhythm is online for when things break open.
+
+**Turn 5**
+- **Draw:** [Cursed Mirror](https://scryfall.com/search?q=Cursed+Mirror)
+- **Land:** None drawn (T5 draw = Cursed Mirror). Still 2 lands.
+- **Mana Available:** Forest (G) + Elf trick (G) + Thicket (G/R) = 3 mana
+- **Cast:** Cursed Mirror ({3}) — tap Forest (G) + Elf → untap Forest → re-tap (G) + Thicket (G or R as generic) = {3} ✓. Cursed Mirror enters as an artifact mana rock.
+  - Note: Cursed Mirror can copy a creature as it enters. Copying Arbor Elf (already tapped) is irrelevant this turn. Copying Disciple of Freyalise (1/2) adds a second body for later payoffs. Enter as mana rock for now — it taps for any mana color, providing our first reliable Red mana source.
+- **Board:** Forest (tapped), Sheltered Thicket (tapped), Arbor Elf (tapped), Disciple, Rhythm, Cursed Mirror
+- **Comment:** Cursed Mirror is the 4th mana source and our first non-land Red source. Starting T6, our mana pool is Forest (G) + Elf trick (G) + Thicket (G/R) + Mirror (any) = 4 mana. Somberwald Sage becomes castable.
+
+**Turn 6**
+- **Draw:** [Panharmonicon](https://scryfall.com/search?q=Panharmonicon)
+- **Land:** None drawn (T6 draw = Panharmonicon). Still 2 lands.
+- **Mana Available:** Forest (G) + Elf trick (G) + Thicket (G/R) + Cursed Mirror (any) = 4 mana
+- **Cast:** Somberwald Sage ({3}{G}) — tap Forest (G for {G}), tap Elf → untap Forest → re-tap (G for generic), tap Thicket (G for generic), tap Mirror (G for generic) = {G}{G}{G}{G} satisfying {3}{G} ✓
+  - **Rhythm of the Wild trigger:** Somberwald Sage is a non-token creature → it gets Riot. Choose HASTE (or +1/+1 counter — haste is slightly better here since we may want it to "attack" for Disciple triggers, though the mana ability fires regardless).
+  - Somberwald Sage enters with Haste.
+- **Board:** Forest, Sheltered Thicket, Arbor Elf (tapped), Disciple, Rhythm, Cursed Mirror (tapped), Somberwald Sage (0/3, haste)
+- **Remaining Mana:** Somberwald Sage is untapped and can immediately tap for GGG (mana ability, not blocked by summoning sickness OR by the fact it just entered — mana abilities bypass all timing restrictions).
+- **Comment:** The engine is online. Sage produces GGG for casting creature spells. No Mountain yet (T7 draw), so Etali's {R}{G} requirement can't be met yet. But next turn Mountain arrives and the full 8 mana will be available.
+
+**Turn 7**
+- **Draw:** Mountain (FIRST RED SOURCE)
+- **Land:** Mountain (play immediately)
+- **Mana Available with Mountain:**
+  - Forest (G) + Elf untap trick (extra G) = GG
+  - Sheltered Thicket (R/G) = 1 mana
+  - Mountain (R) = R
+  - Cursed Mirror (any color) = 1 mana
+  - Somberwald Sage (GGG for creature spells) = GGG
+  - Total: GG + G/R + R + any + GGG = 8 mana with R and G available
+- **Etali check:** 8 mana available. {6}{R}{G} = 8 mana requiring R and G. Can we pay it? R from Mountain, G from Forest/Thicket, {6} generic from combinations. YES — but Etali is card 18 = not drawn until T11.
+- **Cast nothing impactful.** Consider casting Goblin Anarchomancer ({1}{R}) to reduce future Etali cast cost, but Etali isn't in hand yet so the reduction is irrelevant timing-wise.
+- **Board:** Forest, Sheltered Thicket, Mountain, Arbor Elf, Disciple, Rhythm, Cursed Mirror, Somberwald Sage
+- **Comment:** Mana is fully online as of T7. We have 8 effective mana (with Sage) and both R and G sources. The only constraint now is waiting for Etali to appear in hand — card 18 = T11 draw.
+
+**Turn 8**
+- **Draw:** Forest
+- **Land:** Forest (T8 draw). Now Forest×2, Thicket, Mountain.
+- **Mana T8:** Forest×2 (GG) + Elf untap trick (extra G from 2nd Forest or 1st) + Thicket (R/G) + Mountain (R) + Mirror (any) + Sage (GGG) = well over 8 mana. Fully online.
+- **Cast:** Goblin Anarchomancer ({1}{R}) — Mountain (R) + Mirror (G as generic) = {1}{R}. Anarchomancer enters with Riot from Rhythm of the Wild (choose haste).
+- **Board:** Forest×2, Thicket, Mountain, Arbor Elf, Disciple, Rhythm, Mirror, Somberwald Sage, Goblin Anarchomancer (2/2, haste)
+- **Comment:** Anarchomancer in play now. When Etali arrives on T11, its cost is reduced by {1}: from {6}{R}{G} to {5}{R}{G} = 7 mana. Not critical given our mana abundance but good habit to have on board. Anarchomancer also has haste thanks to Rhythm.
+
+**Turn 9**
+- **Draw:** Forest
+- **Land:** Forest (T9 draw). Now Forest×3, Thicket, Mountain.
+- **Cast:** Paradise Druid... wait — Paradise Druid is T10 draw. Nothing impactful to cast T9 (hand has Lifecrafter's Bestiary, Tamiyo's Safekeeping, Swiftfoot Boots, Panharmonicon, Electroduplicate).
+- **Cast Panharmonicon ({4}):** Good setup for future ETBs if we eventually play Eternal Witness or Solemn Simulacrum. Costs 4 generic from abundant mana. Cast it.
+- **Board:** Forest×3, Thicket, Mountain, Arbor Elf, Disciple, Rhythm, Mirror, Somberwald Sage, Anarchomancer, Panharmonicon
+- **Comment:** Board is fully developed. Mana is enormous. Waiting for Etali.
+
+**Turn 10**
+- **Draw:** [Paradise Druid](https://scryfall.com/search?q=Paradise+Druid)
+- **Land:** None (T10 draw = Paradise Druid)
+- **Cast:** Paradise Druid ({1}{G}) — Rhythm of the Wild riot: enters with HASTE. Taps for any color (mana ability, ignores summoning sickness entirely).
+- **Board:** Forest×3, Thicket, Mountain, Arbor Elf, Disciple, Rhythm, Mirror, Somberwald Sage, Anarchomancer, Panharmonicon, Paradise Druid
+- **Comment:** Another mana source. Mana pool now absurdly large. Paradise Druid enters with haste (Rhythm), can tap immediately for any color. Etali arrives next draw (T11 = card 18).
+
+**Turn 11**
+- **Draw:** [Etali, Primal Storm](https://scryfall.com/search?q=Etali%2C+Primal+Storm) — CARD 18 ✓
+- **Land:** T11 land drop — none drawn (T11 draw is Etali). Existing lands: Forest×3, Sheltered Thicket, Mountain = 5 lands.
+- **Mana Available:**
+  - Forest×3 = GGG
+  - Arbor Elf trick (untap Forest, re-tap) = extra G → GGG+G = GGGG
+  - Sheltered Thicket (untapped) = R/G → +1
+  - Mountain = R → +1
+  - Cursed Mirror = any color → +1
+  - Somberwald Sage = GGG (for creature spells) → +3
+  - Paradise Druid = any color → +1
+  - **Total: 12 effective mana** with multiple R sources (Mountain, Thicket, Mirror)
+- **Anarchomancer reduces Etali:** {6}{R}{G} → {5}{R}{G} = 7 mana needed
+- **Cast Etali, Primal Storm ({5}{R}{G} with Anarchomancer discount):**
+  - Pay: GGG (Somberwald Sage) + G (Forest1) + G (Forest2) + R (Mountain) + R/G (Thicket for the G portion) = 8 mana... reduce to 7 via Anarchomancer. Any combination of 7 mana satisfying {5}{R}{G} ✓
+  - **Rhythm of the Wild trigger:** Etali is a non-token creature → Riot choice. Choose HASTE — Etali can attack this turn!
+- **Board:** Forest×3, Sheltered Thicket, Mountain, all permanents, **Etali, Primal Storm (7/7 Trample, Haste)**
+- **Comment:** Etali enters with HASTE from Rhythm of the Wild's riot trigger. This means Etali attacks immediately on Turn 11, triggering its ability — stealing and casting spells from the top of the (nonexistent) opponent's library. In a real multiplayer game, T11 Etali with immediate haste attack is still a strong mid-game threat, especially with Panharmonicon doubling ETBs and the full mana engine in play.
+
+**🏁 Result: Etali cast on Turn 11 (the turn it's drawn), with immediate haste attack via Rhythm of the Wild**
+
+---
+
+## Updated Summary Statistics
+
+| Game | Turn Etali Cast | Notes |
+|------|:-:|---|
+| Game 1 | 4 | Sol Ring + Wood Elves + 4 Forest chain |
+| Game 2 | 14 | Dead hand — 1 real land for 8 turns (clear mulligan) |
+| Game 3 | 7 | Savage Ventmaw provides mid-combat mana for Etali |
+| Game 4 | 4 | Somberwald Sage T3 enables T4 Etali |
+| Game 5 | 4 | Elvish Mystic T1 → Somberwald Sage T3 → Etali T4 |
+| Game 6 | 14 (est.) | Mana online T8 via Skyshroud Claim; Etali card 21+, drawn T14 |
+| Game 7 | 11 | Rhythm of the Wild + Somberwald Sage T6; Etali card 18, drawn T11; enters with haste |
+
+**Average (all 7 games):** 8.3 turns
+**Average (excluding dead hands — Games 2 & 6):** **6.0 turns**
+**Mode (most common result):** Turn 4 (3 out of 7 games)
+
+---
+
+### Round 2 Observations
+
+**Game 6** demonstrates the "no acceleration" worst case: three lands in opening hand but zero ramp spells or mana dorks. Utopia Sprawl on T1 builds an excellent mana base but without creatures or ramp spells to bridge the curve, the deck is entirely dependent on drawing Etali. Card 21+ = T14 at minimum. This reinforces why the 10-piece ramp package is non-negotiable.
+
+**Game 7** exposes the "no Red until T7" problem. Goblin Anarchomancer stranded in hand for 6 turns is a real cost. The saving grace was Rhythm of the Wild (T3) + Cursed Mirror (T5) combining to enable Somberwald Sage on T6 using only Green mana. Once Mountain arrived T7, the full mana engine was live and Etali was cast the turn it was drawn (T11) — with haste, delivering an immediate attack trigger. This hand is borderline keepable in a real game but the payoff when it works is an T11 Etali with a free attack.
