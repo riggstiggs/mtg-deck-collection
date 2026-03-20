@@ -1,6 +1,6 @@
 1 Arcane Signet
+1 Arbor Elf
 1 Beast Within
-1 Birds of Paradise
 1 Blade of Selves
 1 Blasphemous Act
 1 Chandra, Flameshaper
@@ -10,7 +10,6 @@
 1 Conjurer's Closet
 1 Cultivate
 1 Cursed Mirror
-1 Delighted Halfling
 1 Delina, Wild Mage
 1 Disciple of Freyalise
 1 Electroduplicate
@@ -38,15 +37,16 @@
 1 Mana Geyser
 1 Mirage Phalanx
 1 Mirror March
-1 Molten Duplication
 1 Mossfire Valley
-7 Mountain
+8 Mountain
+1 Myriad Landscape
 1 Nalfeshnee
 1 Nature's Lore
-1 Noxious Revival
 1 Orthion, Hero of Lavabrink
 1 Panharmonicon
+1 Paradise Druid
 1 Rampant Growth
+1 Reclaim
 1 Return of the Wildspeaker
 1 Rhythm of the Wild
 1 Rionya, Fire Dancer
@@ -55,6 +55,7 @@
 1 Rogue's Passage
 1 Rootbound Crag
 1 Sakura-Tribe Elder
+1 Savage Ventmaw
 1 Seething Song
 1 Selvala, Heart of the Wilds
 1 Sheltered Thicket
@@ -63,17 +64,15 @@
 1 Somberwald Sage
 1 Spire Garden
 1 Springheart Nantuko
-1 Stomping Ground
+1 Strionic Resonator
 1 Swiftfoot Boots
 1 Talisman of Impulse
 1 Tamiyo's Safekeeping
 1 Temple of Abandon
 1 Temur Sabertooth
-1 Three Visits
 1 Topiary Stomper
-1 Treasonous Ogre
 1 Twinflame
 1 Utopia Sprawl
 1 Voyager Staff
 1 Wild Growth
-1 Wooded Foothills
+1 Wood Elves

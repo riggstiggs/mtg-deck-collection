@@ -18,21 +18,21 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 ## 🛠️ Card Explanations
 
 ### 🌿 Mana Dorks (5 Cards)
-*   **Birds of Paradise:** One mana, produces any color. The gold standard accelerant — fixes both R and G on turn one.
-*   **Delighted Halfling:** Produces any color when casting legendary spells (Etali is legendary). The added bonus: Etali becomes uncounterable when cast this way. Directly addresses one of the deck's vulnerabilities.
+*   **Arbor Elf:** One mana, untaps a Forest. With Utopia Sprawl or Wild Growth already in the deck, Arbor Elf routinely taps for 2–3 mana by turn two — more mana production than a standard one-drop at a fraction of the cost.
 *   **Elvish Mystic:** The classic one-drop green dork. Puts Etali a full turn ahead of schedule.
 *   **Fyndhorn Elves:** Functionally identical to Llanowar Elves — redundancy ensures a turn-1 dork is consistently available.
-*   **Llanowar Elves:** The original one-drop accelerant. With five one-mana dorks in the deck, turn-2 four-mana plays are common.
+*   **Llanowar Elves:** The original one-drop accelerant. With multiple one-mana dorks in the deck, turn-2 four-mana plays are common.
+*   **Paradise Druid:** One green mana, taps for any color. Fixes both R and G on turn one and has hexproof while untapped, giving it a layer of protection against targeted removal.
 
 ### 🌱 Ramp Spells (8 Cards)
 *   **Cultivate:** The standard — find two basics, one to hand one onto the battlefield tapped. Keeps land drops consistent into the mid-game.
-*   **Farseek:** Find any Forest-typed dual land (Stomping Ground, Cinder Glade, etc.) and put it in play tapped. Better mana fixing than Rampant Growth in this land base.
+*   **Farseek:** Find any Forest-typed dual land (Cinder Glade, Sheltered Thicket, etc.) and put it in play tapped. Better mana fixing than Rampant Growth in this land base.
 *   **Kodama's Reach:** Functionally identical to Cultivate — redundancy is strength in a deck that lives and dies by hitting seven mana.
-*   **Nature's Lore:** Two mana to find any Forest-typed land and put it in untapped. Equivalent to Farseek with better tempo.
+*   **Nature's Lore:** Two mana to find any Forest-typed land and put it in untapped. Fast and efficient mana fixing for this land base.
 *   **Rampant Growth:** Two mana for any basic, tapped. Reliable and cheap.
 *   **Sakura-Tribe Elder:** Blocks an early attacker, then sacrifices to find a basic. Defends early while accelerating toward Etali.
 *   **Skyshroud Claim:** Find any two Forest-typed lands and put both in play untapped. At four mana this generates a massive tempo advantage and effectively provides five mana on the following turn.
-*   **Three Visits:** Find any Forest-typed land untapped for two mana. Strictly better than Nature's Lore for this land base.
+*   **Wood Elves:** A 1/1 for {2}{G} that ETBs to search for a Forest and put it onto the battlefield untapped. Ramp stapled to a body — every copy effect in the deck that duplicates Wood Elves fetches another land.
 
 ### 🪨 Mana Rocks (3 Cards)
 *   **Arcane Signet:** Two mana, taps for either green or red. A Commander staple that covers the color requirements for both Etali's casting cost and the copy package.
@@ -47,10 +47,10 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 *   **Goblin Anarchomancer:** Reduces the cost of every red or green spell by {1}. Cuts Etali from {5}{R}{R} (7 mana) to 6 and reduces the cost of every copy effect and ramp spell in the deck.
 *   **Goreclaw, Terror of Qal Sisma:** Creatures with power 4 or greater cost {2} less — Etali costs only 5 mana with Goreclaw in play. When those creatures attack they get +1/+1 and trample, giving Etali Primal Storm's attack trigger the trample needed to get through.
 *   **Mana Geyser:** Add {R} for each tapped land opponents control. In a mid-game four-player pod where each opponent has 5–6 lands tapped at sorcery speed, this routinely generates 12–18 red mana — enough to cast Etali through heavy commander tax in a single shot. *(Note: appeared in Bracket 3 lists only — see Roadmap.)*
+*   **Savage Ventmaw:** A 4/4 flying dragon for {4}{R}{G} — when it attacks, add {R}{R}{R}{G}{G}{G} to your mana pool. That mana doesn't empty until end of turn, letting you use it post-combat to cast Etali or a copy effect immediately after the attack step. Ramp stapled to a relevant flying body.
 *   **Seething Song:** Instant — add {R}{R}{R}{R}{R}. Five red mana at instant speed is a perfect bridge when your mana base is primarily green. Use it to cast Etali through tax on opponents' turns or in the declare-attackers step.
 *   **Selvala, Heart of the Wilds:** Whenever a creature with the greatest power among all creatures ETBs, you draw a card. Tap to add {G} plus mana equal to the greatest power you control — with Etali, that's {G} plus 7. Effectively a one-card mana engine and draw engine in this deck. *(Note: appeared in Bracket 3 lists only — see Roadmap.)*
 *   **Somberwald Sage:** Tap to add {G}{G}{G} toward casting creature spells. Etali is a creature — this card single-handedly covers half her casting cost every turn.
-*   **Treasonous Ogre:** Pay 3 life: add {R}. With Etali's commander tax at 2 or 4, paying 6–12 life for two rounds of red mana is entirely acceptable. Pairs excellently with Seething Song to cover both colors.
 
 ### 🪄 Copy & ETB Package (15 Cards)
 *   **Blade of Selves:** Equip to Etali and when she attacks, create an attacking token copy for each opponent. In a four-player pod, three tokens each trigger their own ETBs — nine additional stolen spells in one combat step. Each token is exiled at end of combat; the ETBs are already resolved.
@@ -63,10 +63,10 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 *   **Helm of the Host:** Equip 4, equip 5. At the beginning of combat on your turn, create a nonlegendary hasty copy of the equipped creature. Equipped to Etali, this generates a new ETB trigger every single combat step for the rest of the game.
 *   **Jaxis, the Troublemaker:** Discard a card: create a hasty copy of a creature you control with blitz. When the copy dies, draw a card. For effectively one card and {R}, you get an Etali ETB and draw back a replacement. Excellent mana efficiency.
 *   **Mirage Phalanx:** {3}{R}: Create a hasty token copy of a creature you control until end of turn. A body that generates repeatable Etali copies as a mana sink in the late game.
-*   **Molten Duplication:** Create a hasty token copy of a creature you control until end of turn. Two mana instant-speed, similar to Electroduplicate.
 *   **Orthion, Hero of Lavabrink:** {3}{R}: Choose a creature — create a token copy of it. Another creature body with a repeatable copy activation for the late game.
 *   **Rionya, Fire Dancer:** At the beginning of combat, create X hasty copies of target creature, where X equals the number of instants and sorceries cast this turn. Cast two ramp spells on the way to Etali and Rionya creates two copies of her in the same turn — a 3-ETB swing.
 *   **Springheart Nantuko:** Enchant a creature. Whenever another creature ETBs under your control, create a token copy of the enchanted creature. Enchanted on Etali, every creature that enters the battlefield creates another Etali — including the copies created by other effects in this package. A cascade of ETBs.
+*   **Strionic Resonator:** {2}: Copy a triggered ability on the stack. Directly copies Etali's ETB trigger — one Etali entering generates two "cast from each opponent's library" triggers for the cost of two mana. Cheaper and more reliable than most copy effects in the deck, and doubles any other ETB in a pinch.
 *   **Twinflame:** Create a hasty token copy of up to two target creatures until end of turn. For two mana you can copy both Etali and another copy-effect creature simultaneously.
 
 ### 🔁 ETB Doubler (1 Card)
@@ -100,33 +100,31 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 *   **Hellkite Courser:** When it ETBs, put your commander from the command zone onto the battlefield tapped with haste until end of turn. Gets a free Etali ETB and one combat step without spending any command mana. At end of turn Etali returns to the command zone but the ETB value is already realized.
 *   **Mirror March:** When a nontoken creature ETBs, flip coins until you get tails — for each heads create a hasty copy of that creature until end of turn. Pure chaos: on Etali's entry this averages one or two bonus copies but can cascade into five or six with lucky flips. Fits the deck's chaotic spell-theft identity.
 *   **Nalfeshnee:** When it ETBs, exile the top three cards of each opponent's library and copy one instant or sorcery among them. A large body that generates immediate value off Etali's ETBs while also being a strong Etali steal target itself.
-*   **Noxious Revival:** Pay 0 (or pay 2 life): Put any card from any graveyard on top of its owner's library. Free spell — return a key piece (Etali, Heroic Intervention, a stolen bomb) to the top of your library or disrupt an opponent's graveyard recursion at instant speed.
+*   **Reclaim:** {G} sorcery — return any card from your graveyard to the top of your library. Return a countered Etali, a destroyed Helm of the Host, or a stolen bomb back to the top of your deck, ready to draw next turn.
 *   **Topiary Stomper:** 3/4 vigilance for {1}{G}{G}. When it attacks, search for a basic land and put it onto the battlefield tapped. Ramp stapled to a body large enough to block and attack meaningfully. Vigilance means it can attack and still hold back a blocker.
 
 ### 🏔️ Lands (37 Cards)
 *   **Command Tower:** Produces any color in Etali's color identity. Auto-include.
-*   **Stomping Ground:** Shock dual, Forest and Mountain. The premium Gruul dual.
 *   **Rootbound Crag:** Enters untapped if you control a Forest or Mountain. Virtually always untapped by turn 2.
 *   **Karplusan Forest:** Produces G or R with 1 damage. Effectively an untapped dual with a negligible cost.
-*   **Cinder Glade:** Forest and Mountain that enters untapped with two or more basics — consistently live in this 22-basic land base.
+*   **Cinder Glade:** Forest and Mountain that enters untapped with two or more basics — consistently live in this 23-basic land base.
 *   **Rockfall Vale:** Enters untapped if you control two or more basic lands. Near-always untapped.
-*   **Game Trail:** Enters untapped if you reveal a Forest or Mountain. With 22 basics, almost always an untapped dual.
+*   **Game Trail:** Enters untapped if you reveal a Forest or Mountain. With 23 basics, almost always an untapped dual.
 *   **Mossfire Valley:** Taps for G or R, enters untapped. Budget dual that functions consistently.
 *   **Rogue's Passage:** Tap, pay {4}: target creature is unblockable this turn. Guarantees Etali, Primal Storm's attack trigger connects for the first time through any board state.
 *   **Spire Garden:** Produces G or R, enters untapped if an opponent controls two or more lands — always live past turn 2.
 *   **Exotic Orchard:** Produces any color a land an opponent can produce. In a four-player pod, reliably taps for both G and R plus often other colors stolen spells need.
 *   **Gruul Turf:** Bounces a land to hand and enters tapped. Net-zero on land count but can be used to replay land enchantments (Utopia Sprawl, Wild Growth) for double value.
+*   **Myriad Landscape:** Enters tapped, sacrifice it to search for two basics of the same type (Forest or Mountain) and put both onto the battlefield tapped. A two-for-one land that ramps while fixing both colors.
 *   **Temple of Abandon:** Enters tapped, scry 1. The scry pays for the tempo loss with deck filtering to find the right copy effect or ramp piece.
 *   **Sheltered Thicket:** Forest and Mountain that enters tapped, but can be cycled for {1}{R} to dig for a key card. Has Forest typing so Farseek, Nature's Lore, and Skyshroud Claim can find it.
-*   **Wooded Foothills:** Fetch land — sacrifice to find any Mountain or Forest. Finds Stomping Ground, Cinder Glade, Sheltered Thicket, or any basic. Color fixing and land thinning.
-*   **15 Forest / 7 Mountain:** Heavy basic count ensures consistency with Utopia Sprawl, Wild Growth, Cultivate, Kodama's Reach, Farseek, Nature's Lore, Three Visits, and Sakura-Tribe Elder. Mountain count is lower because almost all ramp finds Forests and the red spells are mostly burst mana rather than land-based.
+*   **15 Forest / 8 Mountain:** Heavy basic count ensures consistency with Utopia Sprawl, Wild Growth, Cultivate, Kodama's Reach, Farseek, Nature's Lore, and Sakura-Tribe Elder. The eighth Mountain improves consistency for Seething Song and other red costs.
 
 ---
 
 ## 🚀 Future Roadmap: Upgrades & Considerations
 
 ### 💡 High-Impact Tech to Consider
-*   **Strionic Resonator ({2}):** Copies triggered abilities for {2}. Directly copies Etali's ETB trigger — the most efficient ETB doubler in the deck that isn't Panharmonicon. Strong Bracket 2 include.
 *   **Fires of Yavimaya ({1}{R}{G}):** Gives all your creatures haste and can be sacrificed to pump a creature. A redundant haste enabler that ensures Etali connects even through removal on Rhythm of the Wild.
 *   **Temur Sabertooth loop note:** With Selvala in play and Etali on board, Selvala taps for 8 mana — bouncing and replaying a 1-mana dork costs 2 mana, netting 6. While not an infinite combo, this generates large amounts of green mana and can fuel multiple Seething Song casts. Awareness of this interaction is useful for planning burst turns.
 
@@ -135,13 +133,15 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 
-| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
-| :--- | :--- | :--- | :--- |
-| Strionic Resonator | Mirror March | ETB Package | Pending |
+*No pending swaps.*
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-19:** Budget optimization pass — replaced 8 high-cost cards with lower-cost functional equivalents.
+    *   **In:** Arbor Elf, Myriad Landscape, Paradise Druid, Reclaim, Savage Ventmaw, Strionic Resonator, +1 Mountain (8 total), Wood Elves
+    *   **Out:** Birds of Paradise, Delighted Halfling, Molten Duplication, Noxious Revival, Stomping Ground, Three Visits, Treasonous Ogre, Wooded Foothills
+    *   **Reason:** Price reduction pass. Arbor Elf synergizes with Utopia Sprawl/Wild Growth already in deck. Paradise Druid replaces Birds of Paradise (same any-color tap, adds hexproof while untapped). Savage Ventmaw replaces Treasonous Ogre (attacks generate 6 mana, cleaner Bracket 2 fit). Strionic Resonator replaces Molten Duplication (copies Etali's trigger directly). Wood Elves replaces Three Visits (creature + ramp synergizes with copy effects). Reclaim replaces Noxious Revival. Mountain replaces Stomping Ground; Myriad Landscape replaces Wooded Foothills.
 *   **2026-03-19:** Full rebuild from "Primal Budget Blitz" (extreme budget $25 list) to "Primal Dominion" (Ramp + Clones strategy). Built from cross-reference of four EDHREC average decklists: Bracket 2 Ramp, Bracket 3 Ramp, Bracket 2 Clones, Bracket 3 Clones. Previous file archived as `etali_primal_conqueror.md` (deck_status: reference).
     *   **In:** Arcane Signet, Beast Within, Birds of Paradise, Blade of Selves, Blasphemous Act, Chandra Flameshaper, Chaos Warp, Conjurer's Closet, Cultivate, Cursed Mirror, Delighted Halfling, Delina Wild Mage, Disciple of Freyalise, Electroduplicate, Elvish Mystic, Eternal Witness, Etali Primal Storm, Exotic Orchard, Farseek, Flameshadow Conjuring, Fyndhorn Elves, Garruk's Uprising, Goblin Anarchomancer, Goreclaw, Gruul Turf, Heat Shimmer, Hellkite Courser, Helm of the Host, Heroic Intervention, Jaxis, Karplusan Forest, Kodama's Reach, Llanowar Elves, Mana Geyser, Mirage Phalanx, Mirror March, Molten Duplication, Mossfire Valley, Nalfeshnee, Nature's Lore, Noxious Revival, Orthion, Panharmonicon, Rampant Growth, Return of the Wildspeaker, Rhythm of the Wild, Rionya, Rishkar's Expertise, Rockfall Vale, Rogue's Passage, Rootbound Crag, Sakura-Tribe Elder, Seething Song, Selvala Heart of the Wilds, Sheltered Thicket, Skyshroud Claim, Sol Ring, Somberwald Sage, Spire Garden, Springheart Nantuko, Stomping Ground, Swiftfoot Boots, Talisman of Impulse, Tamiyo's Safekeeping, Temple of Abandon, Temur Sabertooth, Three Visits, Topiary Stomper, Treasonous Ogre, Twinflame, Utopia Sprawl, Voyager Staff, Wild Growth, Wooded Foothills
     *   **Out:** Full prior budget list — Arbor Elf, Chaos Wand, Clifftop Lookout, Collateral Damage, Dire-Strain Rampage, Dissection Tools, Dragonlair Spider, Elvish Rejuvenator, Escape to the Wilds, Evolutionary Leap, Explore, Ezuri's Predation, Flamerush Rider, Fling, Greater Tanuki, Harmonize, Hit the Mother Lode, Krosan Tusker, Magnifying Glass, Metamorphosis, Nissa's Renewal, Rampaging Baloths, Rupture, Search for Tomorrow, Skullwinder, Solemn Simulacrum, Springbloom Druid, Sunset Pyramid, Temple of the False God, Thrill of Possibility, Timeless Witness, Tireless Tracker, Ulvenwald Hydra, Vastwood Surge, Yavimaya Dryad, Yavimaya Elder, 15 excess lands
@@ -158,8 +158,8 @@ COMMANDER:
 
 DECK:  
 1 Arcane Signet  
+1 Arbor Elf  
 1 Beast Within  
-1 Birds of Paradise  
 1 Blade of Selves  
 1 Blasphemous Act  
 1 Chandra, Flameshaper  
@@ -169,7 +169,6 @@ DECK:
 1 Conjurer's Closet  
 1 Cultivate  
 1 Cursed Mirror  
-1 Delighted Halfling  
 1 Delina, Wild Mage  
 1 Disciple of Freyalise  
 1 Electroduplicate  
@@ -197,15 +196,16 @@ DECK:
 1 Mana Geyser  
 1 Mirage Phalanx  
 1 Mirror March  
-1 Molten Duplication  
 1 Mossfire Valley  
-7 Mountain  
+8 Mountain  
+1 Myriad Landscape  
 1 Nalfeshnee  
 1 Nature's Lore  
-1 Noxious Revival  
 1 Orthion, Hero of Lavabrink  
 1 Panharmonicon  
+1 Paradise Druid  
 1 Rampant Growth  
+1 Reclaim  
 1 Return of the Wildspeaker  
 1 Rhythm of the Wild  
 1 Rionya, Fire Dancer  
@@ -214,6 +214,7 @@ DECK:
 1 Rogue's Passage  
 1 Rootbound Crag  
 1 Sakura-Tribe Elder  
+1 Savage Ventmaw  
 1 Seething Song  
 1 Selvala, Heart of the Wilds  
 1 Sheltered Thicket  
@@ -222,17 +223,15 @@ DECK:
 1 Somberwald Sage  
 1 Spire Garden  
 1 Springheart Nantuko  
-1 Stomping Ground  
+1 Strionic Resonator  
 1 Swiftfoot Boots  
 1 Talisman of Impulse  
 1 Tamiyo's Safekeeping  
 1 Temple of Abandon  
 1 Temur Sabertooth  
-1 Three Visits  
 1 Topiary Stomper  
-1 Treasonous Ogre  
 1 Twinflame  
 1 Utopia Sprawl  
 1 Voyager Staff  
 1 Wild Growth  
-1 Wooded Foothills  
+1 Wood Elves  
