@@ -3,6 +3,12 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-20: Etali, Primal Conqueror — Promoted to Owned
+*   **Promotion:** Promoted **Etali, Primal Conqueror (Primal Dominion)** from Planning to Owned.
+*   **Acquisition:** Placed order across 5 sellers (Packages #912674–912678) for 75 cards — the full "Primal Dominion" Ramp + Clones build.
+*   **Status:** 0/5 packages received. Awaiting delivery.
+*   **Verification:** All 75 purchased cards confirmed against the Primal Dominion deck list. Note: Command Tower, Game Trail, Gruul Turf, Rogue's Passage, and basic lands were not ordered — confirm these are already in collection.
+
 ### 2026-03-18: Chainer, Dementia Master — New Mono-Black Reanimator Added to Planning
 *   **New Deck:** Added `commander_decks/Planning/ChainerDementiaMaster/` with the full 100-card list.
 *   **Source:** Adapted from Rachel Weeks' mono-black reanimator list (originally piloted with Blex, Vexing Pest). Replaced commander and fixed 3 color-identity violations introduced by porting from Golgari to mono-black.
