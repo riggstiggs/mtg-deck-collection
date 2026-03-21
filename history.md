@@ -3,6 +3,12 @@
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 
+### 2026-03-20: Norman Osborn / Green Goblin — New Grixis Wheels Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/GreenGoblin/` with the full 100-card "Sinister Six" list.
+*   **Source:** Starting list provided by user — Grixis Discard/Wheels from the Spider-Man Universes Beyond set.
+*   **Strategy:** Grixis Wheels / Discard Madness — use Norman Osborn's discard abilities to chain wheel spells, triggering Bone Miser, Glint-Horn Buccaneer, Brallin, and Burning Vengeance simultaneously. Fill the graveyard for Chainer Nightmare Adept, Animate Dead, and Reanimate reanimation lines. Protected by a premium interaction suite (Mana Drain, Fierce Guardianship, Cyclonic Rift, Deflecting Swat).
+*   **Bracket:** 3 — 2 Game Changers (Cyclonic Rift, Fierce Guardianship). Mana Drain and Deflecting Swat are not on the Game Changers list but elevate the power ceiling significantly.
+
 ### 2026-03-20: Etali, Primal Conqueror — Promoted to Owned
 *   **Promotion:** Promoted **Etali, Primal Conqueror (Primal Dominion)** from Planning to Owned.
 *   **Acquisition:** Placed order across 5 sellers (Packages #912674–912678) for 75 cards — the full "Primal Dominion" Ramp + Clones build.
