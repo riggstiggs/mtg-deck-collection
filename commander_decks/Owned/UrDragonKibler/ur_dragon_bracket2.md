@@ -26,7 +26,7 @@ deck_status: main
 *   **[Bladewing the Risen](https://scryfall.com/search?q=!%22Bladewing+the+Risen%22):** Thematic recursion for the late game.
 *   **[Rivaz of the Claw](https://scryfall.com/search?q=!%22Rivaz+of+the+Claw%22):** **ELITE RAMP.** Taps for two mana and allows you to cast dragons from your graveyard.
 *   **[Steel Hellkite](https://scryfall.com/search?q=!%22Steel+Hellkite%22):** Repeatable mass removal on a body.
-*   **[Dromoka, the Eternal](https://scryfall.com/search?q=!%22Dromoka%2C+the+Eternal%22):** Bolster engine that turns your board into a lethal threat.
+*   **[Terror of the Peaks](https://scryfall.com/search?q=!%22Terror+of+the+Peaks%22):** Every dragon that enters the battlefield deals damage equal to its power to any target — turns each dragon ETB into a removal spell or player burn event.
 *   **[Dragonlord's Servant](https://scryfall.com/search?q=!%22Dragonlord%27s+Servant%22) / [Dragonspeaker Shaman](https://scryfall.com/search?q=!%22Dragonspeaker+Shaman%22):** Tribal cost reducers that stack with Eminence.
 *   **[Herald's Horn](https://scryfall.com/search?q=!%22Herald%27s+Horn%22):** Tribal ramp and consistent "free" card advantage.
 *   **[Two-Headed Hellkite](https://scryfall.com/search?q=!%22Two-Headed+Hellkite%22):** Massive draw engine that draws two cards every time it attacks.
@@ -40,7 +40,6 @@ deck_status: main
 *   **[Elemental Bond](https://scryfall.com/search?q=!%22Elemental+Bond%22) / [Garruk's Uprising](https://scryfall.com/search?q=!%22Garruk%27s+Uprising%22) / [Temur Ascendancy](https://scryfall.com/search?q=!%22Temur+Ascendancy%22):** Rewards you for playing large creatures.
 *   **[Rishkar's Expertise](https://scryfall.com/search?q=!%22Rishkar%27s+Expertise%22) / [Return of the Wildspeaker](https://scryfall.com/search?q=!%22Return+of+the+Wildspeaker%22):** Burst draw based on your largest dragon.
 *   **[Up the Beanstalk](https://scryfall.com/search?q=!%22Up+the+Beanstalk%22):** Consistent value for casting your high-CMC threats.
-*   **[Colossal Majesty](https://scryfall.com/search?q=!%22Colossal+Majesty%22):** Consistent draw since dragons are always the biggest creatures.
 *   **[Escape to the Wilds](https://scryfall.com/search?q=!%22Escape+to+the+Wilds%22):** Impulse draw and extra land drop.
 *   **[Guardian Project](https://scryfall.com/search?q=!%22Guardian+Project%22):** High-value draw for each non-token creature entry.
 
@@ -49,7 +48,8 @@ deck_status: main
 *   **[Dragon's Hoard](https://scryfall.com/search?q=!%22Dragon%27s+Hoard%22):** Thematic ramp and incidental card draw.
 *   **[Farseek](https://scryfall.com/search?q=!%22Farseek%22) / [Nature's Lore](https://scryfall.com/search?q=!%22Nature%27s+Lore%22) / [Three Visits](https://scryfall.com/search?q=!%22Three+Visits%22):** **POWERED.** Now fetch Shock lands for immediate 5-color fixing.
 *   **[Cultivate](https://scryfall.com/search?q=!%22Cultivate%22) / [Kodama's Reach](https://scryfall.com/search?q=!%22Kodama%27s+Reach%22):** Standard green ramp.
-*   **[Faeburrow Elder](https://scryfall.com/search?q=!%22Faeburrow+Elder%22) / [Sylvan Caryatid](https://scryfall.com/search?q=!%22Sylvan+Caryatid%22):** Efficient dorks for 5-color fixing and acceleration.
+*   **[Faeburrow Elder](https://scryfall.com/search?q=!%22Faeburrow+Elder%22) / [Sylvan Caryatid](https://scryfall.com/search?q=!%22Sylvan+Caryatid%22) / [Birds of Paradise](https://scryfall.com/search?q=!%22Birds+of+Paradise%22) / [Bloom Tender](https://scryfall.com/search?q=!%22Bloom+Tender%22):** Efficient dorks for 5-color fixing and acceleration. Birds is the gold standard 1-drop fixer; Bloom Tender taps for up to 5 mana in a 5-color deck.
+*   **[Mirari's Wake](https://scryfall.com/search?q=!%22Mirari%27s+Wake%22):** Doubles all mana produced by your lands and gives all creatures +1/+1 — supercharges your big-mana turns while boosting Terror of the Peaks damage and Expertise/Wildspeaker payoffs.
 
 ### ⚔️ Targeted Disruption (8 Cards)
 *   **[Beast Within](https://scryfall.com/search?q=!%22Beast+Within%22) / [Chaos Warp](https://scryfall.com/search?q=!%22Chaos+Warp%22) / [Generous Gift](https://scryfall.com/search?q=!%22Generous+Gift%22):** Versatile answers.
@@ -74,13 +74,10 @@ deck_status: main
 *   **Tiamat ($22):** The premier dragon tutor. Replaces Sarkhan's Triumph.
 *   **Klauth, Unrivaled Ancient ($18):** Massive mana generation during combat.
 *   **Old Gnawbone ($65):** Incredible treasure generation.
-*   **Terror of the Peaks ($35):** Turns every dragon entry into a lethal board-wipe or player-burn.
 *   **The Great Henge ($55):** Elite ramp, life gain, and card draw.
-*   **Birds of Paradise / Bloom Tender:** Higher efficiency mana dorks to replace 2-mana ramp.
 *   **Stubborn Denial / Swan Song:** Critical 1-mana protection pieces to replace generic counters.
 *   **Roaming Throne:** Doubles all Dragon triggered abilities (Eminence, ETBs, Attack triggers).
 *   **Mox Jasper:** The new tribal-Mox for explosive mid-game acceleration.
-*   **Mirari's Wake:** Doubles all mana produced by your lands and gives all creatures +1/+1. The anthem meaningfully boosts payoffs like Terror of the Peaks, Klauth, Rishkar's Expertise, and Stubborn Denial's Ferocious threshold. Already in the Kibler reference list — validated for the optimized shell.
 
 ### 🛒 Active Acquisition List (Ordered/Purchased)
 
@@ -99,14 +96,18 @@ deck_status: main
 
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
-| **Birds of Paradise** (DMR 439) | Cultivate | Ramp | ⏳ Pending |
-| **Bloom Tender** (LRW-E 166) | Kodama's Reach | Ramp | ⏳ Pending |
-| **Terror of the Peaks** (OTJ 337) | Dromoka, the Eternal | Plan | ⏳ Pending |
-| **Mirari's Wake** (MH2 320) | [TBD] | Ramp/Anthem | ⏳ Pending |
+| **Birds of Paradise** (DMR 439) | Cultivate | Ramp | ✅ Received |
+| **Bloom Tender** (LRW-E 166) | Kodama's Reach | Ramp | ✅ Received |
+| **Terror of the Peaks** (OTJ 337) | Dromoka, the Eternal | Plan | ✅ Received |
+| **Mirari's Wake** (MH2 320) | Colossal Majesty | Ramp/Anthem | ✅ Received |
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-23:** Upgrade Package #241252 Arrived — Ramp & Power Upgrade.
+    *   **In:** Birds of Paradise, Bloom Tender, Terror of the Peaks, Mirari's Wake
+    *   **Out:** Cultivate, Kodama's Reach, Dromoka, the Eternal, Colossal Majesty
+    *   **Reason:** Upgraded 3-mana sorcery ramp to 1-2 mana dorks for faster fixing; Terror replaces the weakest dragon payoff with an ETB damage engine; Mirari's Wake doubles land mana and anthems the board, replacing the slowest draw piece.
 *   **2026-03-06:** First Physical Shipment Arrived.
     *   **Package #820926 (The Feisty Goblin):** Received 6 cards (Dragonlord Kolaghan, Cultivate, Sulfur Falls, Savage Ventmaw, Command Tower, Rootbound Crag).
     *   **Status:** 1/9 Packages Received.
@@ -119,7 +120,7 @@ deck_status: main
 
 ---
 
-## 🃏 Plain Text Copy/Paste (Moxfield Import)
+## 🃏 Plain Text Copy/Paste (Moxfield Import)  
 COMMANDER:  
 1 The Ur-Dragon *CMDR*  
 
@@ -128,7 +129,8 @@ DECK:
 1 Sarkhan's Triumph  
 1 Leyline Tyrant  
 1 Faeburrow Elder  
-1 Colossal Majesty  
+1 Birds of Paradise  
+1 Bloom Tender  
 1 Negate  
 1 Arcane Signet  
 1 Atarka, World Render  
@@ -139,7 +141,6 @@ DECK:
 1 Blasphemous Act  
 1 Chaos Warp  
 1 Crux of Fate  
-1 Cultivate  
 1 Dragon Tempest  
 1 Dragon's Hoard  
 1 Dragonlord Dromoka  
@@ -147,7 +148,7 @@ DECK:
 1 Dragonlord Silumgar  
 1 Dragonlord's Servant  
 1 Dragonspeaker Shaman  
-1 Dromoka, the Eternal  
+1 Terror of the Peaks  
 1 Elemental Bond  
 1 Escape to the Wilds  
 1 Farseek  
@@ -158,7 +159,7 @@ DECK:
 1 Hellkite Courser  
 1 Herald's Horn  
 1 Rivaz of the Claw  
-1 Kodama's Reach  
+1 Mirari's Wake  
 1 Lathliss, Dragon Queen  
 1 Living Death  
 1 Miirym, Sentinel Wyrm  

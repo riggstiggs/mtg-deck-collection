@@ -1,17 +1,17 @@
 # Order Tracking: Ur-Dragon (Order #241252 — Manapool)
 
 **Order Date:** 2026-03-14
-**Status:** 0/1 Packages Received
+**Status:** 1/1 Packages Received — ✅ COMPLETE
 
 ---
 
 ## 📦 Package #241252-884082: Spellfinder
-**Status:** ⏳ Pending
+**Status:** ✅ Arrived
 **Items:**
-- [ ] Mirari's Wake (MH2 320) — NM Borderless — $11.81
-- [ ] Birds of Paradise (DMR 439) — LP Borderless — $11.36
-- [ ] Terror of the Peaks (OTJ 337) — Foil NM Extended Art — $44.76
-- [ ] Bloom Tender (LRW-E 166) — NM — $13.08
+- [x] Mirari's Wake (MH2 320) — NM Borderless — $11.81
+- [x] Birds of Paradise (DMR 439) — LP Borderless — $11.36
+- [x] Terror of the Peaks (OTJ 337) — Foil NM Extended Art — $44.76
+- [x] Bloom Tender (LRW-E 166) — NM — $13.08
 
 ---
 

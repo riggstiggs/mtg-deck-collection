@@ -6,7 +6,8 @@ Deck
 1 Sarkhan's Triumph
 1 Leyline Tyrant
 1 Faeburrow Elder
-1 Colossal Majesty
+1 Birds of Paradise
+1 Bloom Tender
 1 Negate
 1 Arcane Signet
 1 Atarka, World Render
@@ -17,7 +18,6 @@ Deck
 1 Blasphemous Act
 1 Chaos Warp
 1 Crux of Fate
-1 Cultivate
 1 Dragon Tempest
 1 Dragon's Hoard
 1 Dragonlord Dromoka
@@ -25,7 +25,7 @@ Deck
 1 Dragonlord Silumgar
 1 Dragonlord's Servant
 1 Dragonspeaker Shaman
-1 Dromoka, the Eternal
+1 Terror of the Peaks
 1 Elemental Bond
 1 Escape to the Wilds
 1 Farseek
@@ -36,7 +36,7 @@ Deck
 1 Hellkite Courser
 1 Herald's Horn
 1 Rivaz of the Claw
-1 Kodama's Reach
+1 Mirari's Wake
 1 Lathliss, Dragon Queen
 1 Living Death
 1 Miirym, Sentinel Wyrm
