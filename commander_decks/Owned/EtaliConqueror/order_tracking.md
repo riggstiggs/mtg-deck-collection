@@ -1,53 +1,53 @@
 # Order Tracking: Etali, Primal Conqueror (Manapool)
 
-**Status:** 1/5 Packages Received (partial items from #912674)
+**Status:** 2/5 Packages Received (#912674 partial — missing Spire Garden)
 
 > **Note:** Command Tower, Game Trail, Gruul Turf, Rogue's Passage, and all basic lands (15 Forest / 8 Mountain) were not ordered — confirm these are already in your collection before sleeving.
 
 ---
 
 ## 📦 Package #912674: Society Cardboard
-**Status:** ⏳ Pending
+**Status:** ⚠️ Received (2026-03-27) — Missing: Spire Garden
 **Items:**
-- [ ] Sakura-Tribe Elder (DSC 194) — NM — $0.30
-- [ ] Arcane Signet (TMC 57) — NM — $0.40
-- [ ] Wood Elves (LTC 263) — NM — $0.24
-- [ ] Blade of Selves (TDC 313) — NM — $2.53
-- [ ] Farseek (TDC 255) — NM — $0.57
-- [ ] Exotic Orchard (DRC 155) — NM — $0.15
-- [ ] Myriad Landscape (LCC 343) — NM — $0.17
-- [ ] Solemn Simulacrum (DSC 253) — NM — $0.22
-- [ ] Blasphemous Act (EOC 86) — NM — $1.10
-- [ ] Lifecrafter's Bestiary (LCC 307) — NM — $0.34
-- [ ] Hellkite Courser (TDC 218) — NM — $1.89
-- [ ] Skyshroud Claim (EOC 107) — NM — $0.99
-- [ ] Rhythm of the Wild (LCC 287) — NM — $3.92
-- [ ] Panharmonicon (DRC 135) — NM — $6.44
-- [ ] Cinder Glade (TMC 61) — NM — $0.15
-- [ ] Orthion, Hero of Lavabrink (MOM 334) — NM — $5.58
-- [ ] Cultivate (TMC 50) — NM — $0.15
-- [ ] Sheltered Thicket (ECC 167) — NM — $0.15
-- [ ] Paradise Druid (LTC 255) — NM — $0.15
-- [ ] Frontier Siege (TDC 256) — NM — $0.15
-- [ ] Mossfire Valley (TDC 378) — NM — $0.15
-- [ ] Kodama's Reach (LCC 245) — NM — $1.28
-- [ ] Cursed Mirror (WHO 226) — NM — $1.79
-- [ ] Chaos Warp (DRC 48) — NM — $0.38
-- [ ] Beast Within (EOC 93) — NM — $0.63
-- [ ] Karplusan Forest (DRC 163) — NM — $0.37
-- [ ] Rampant Growth (LCC 248) — NM — $0.39
-- [ ] Talisman of Impulse (TDC 332) — NM — $0.17
-- [ ] Rockfall Vale (TDC 387) — NM — $2.52
-- [ ] Sol Ring (TDC 106) — NM — $1.44
-- [ ] Temple of Abandon (MKC 301) — NM — $0.15
-- [ ] Etali, Primal Storm (LCC 224) — NM — $0.49
-- [ ] Rishkar's Expertise (M3C 411) — NM — $2.97
-- [ ] Swiftfoot Boots (LCC 314) — NM — $2.28
+- [x] Sakura-Tribe Elder (DSC 194) — NM — $0.30
+- [x] Arcane Signet (TMC 57) — NM — $0.40
+- [x] Wood Elves (LTC 263) — NM — $0.24
+- [x] Blade of Selves (TDC 313) — NM — $2.53
+- [x] Farseek (TDC 255) — NM — $0.57
+- [x] Exotic Orchard (DRC 155) — NM — $0.15
+- [x] Myriad Landscape (LCC 343) — NM — $0.17
+- [x] Solemn Simulacrum (DSC 253) — NM — $0.22
+- [x] Blasphemous Act (EOC 86) — NM — $1.10
+- [x] Lifecrafter's Bestiary (LCC 307) — NM — $0.34
+- [x] Hellkite Courser (TDC 218) — NM — $1.89
+- [x] Skyshroud Claim (EOC 107) — NM — $0.99
+- [x] Rhythm of the Wild (LCC 287) — NM — $3.92
+- [x] Panharmonicon (DRC 135) — NM — $6.44
+- [x] Cinder Glade (TMC 61) — NM — $0.15
+- [x] Orthion, Hero of Lavabrink (MOM 334) — NM — $5.58
+- [x] Cultivate (TMC 50) — NM — $0.15
+- [x] Sheltered Thicket (ECC 167) — NM — $0.15
+- [x] Paradise Druid (LTC 255) — NM — $0.15
+- [x] Frontier Siege (TDC 256) — NM — $0.15
+- [x] Mossfire Valley (TDC 378) — NM — $0.15
+- [x] Kodama's Reach (LCC 245) — NM — $1.28
+- [x] Cursed Mirror (WHO 226) — NM — $1.79
+- [x] Chaos Warp (DRC 48) — NM — $0.38
+- [x] Beast Within (EOC 93) — NM — $0.63
+- [x] Karplusan Forest (DRC 163) — NM — $0.37
+- [x] Rampant Growth (LCC 248) — NM — $0.39
+- [x] Talisman of Impulse (TDC 332) — NM — $0.17
+- [x] Rockfall Vale (TDC 387) — NM — $2.52
+- [x] Sol Ring (TDC 106) — NM — $1.44
+- [x] Temple of Abandon (MKC 301) — NM — $0.15
+- [x] Etali, Primal Storm (LCC 224) — NM — $0.49
+- [x] Rishkar's Expertise (M3C 411) — NM — $2.97
+- [x] Swiftfoot Boots (LCC 314) — NM — $2.28
 - [x] Garruk's Uprising (FDN 220) — NM — $0.45
-- [ ] Spire Garden (TMC 75) — NM — $4.58
-- [ ] Mana Geyser (SCD 151) — NM — $3.00
-- [ ] Conjurer's Closet (DRC 126) — NM — $2.42
-- [ ] Rootbound Crag (TMC 72) — NM — $0.15
+- [ ] Spire Garden (TMC 75) — NM — $4.58 ⚠️ MISSING — contact seller
+- [x] Mana Geyser (SCD 151) — NM — $3.00
+- [x] Conjurer's Closet (DRC 126) — NM — $2.42
+- [x] Rootbound Crag (TMC 72) — NM — $0.15
 
 ---
 
