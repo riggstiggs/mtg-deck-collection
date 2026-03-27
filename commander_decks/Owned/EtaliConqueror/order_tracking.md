@@ -1,6 +1,6 @@
 # Order Tracking: Etali, Primal Conqueror (Manapool)
 
-**Status:** 0/5 Packages Received
+**Status:** 1/5 Packages Received (partial items from #912674)
 
 > **Note:** Command Tower, Game Trail, Gruul Turf, Rogue's Passage, and all basic lands (15 Forest / 8 Mountain) were not ordered — confirm these are already in your collection before sleeving.
 
@@ -43,7 +43,7 @@
 - [ ] Etali, Primal Storm (LCC 224) — NM — $0.49
 - [ ] Rishkar's Expertise (M3C 411) — NM — $2.97
 - [ ] Swiftfoot Boots (LCC 314) — NM — $2.28
-- [ ] Garruk's Uprising (FDN 220) — NM — $0.45
+- [x] Garruk's Uprising (FDN 220) — NM — $0.45
 - [ ] Spire Garden (TMC 75) — NM — $4.58
 - [ ] Mana Geyser (SCD 151) — NM — $3.00
 - [ ] Conjurer's Closet (DRC 126) — NM — $2.42
@@ -97,12 +97,12 @@
 ---
 
 ## 📦 Package #912678: STG Cards
-**Status:** ⏳ Pending
+**Status:** ✅ Received (2026-03-27)
 **Items:**
-- [ ] Somberwald Sage (INR 418) — LP — $0.72
-- [ ] Helm of the Host (BLC 276) — LP — $7.64
-- [ ] Disciple of Freyalise // Garden of Freyalise (MH3 250) — LP — $2.01
-- [ ] Chandra, Flameshaper (FDN 81) — NM — $1.02
-- [ ] Topiary Stomper (SNC 160) — LP — $0.43
-- [ ] Jaxis, the Troublemaker (SNC 112) — LP — $1.41
-- [ ] Llanowar Elves (FDN 227) — NM — $0.27
+- [x] Somberwald Sage (INR 418) — LP — $0.72
+- [x] Helm of the Host (BLC 276) — LP — $7.64
+- [x] Disciple of Freyalise // Garden of Freyalise (MH3 250) — LP — $2.01
+- [x] Chandra, Flameshaper (FDN 81) — NM — $1.02
+- [x] Topiary Stomper (SNC 160) — LP — $0.43
+- [x] Jaxis, the Troublemaker (SNC 112) — LP — $1.41
+- [x] Llanowar Elves (FDN 227) — NM — $0.27
