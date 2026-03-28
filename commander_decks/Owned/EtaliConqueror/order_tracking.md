@@ -97,7 +97,7 @@
 ---
 
 ## 📦 Package #912678: STG Cards
-**Status:** ✅ Received (2026-03-27)
+**Status:** ✅ Received (2026-03-28)
 **Items:**
 - [x] Somberwald Sage (INR 418) — LP — $0.72
 - [x] Helm of the Host (BLC 276) — LP — $7.64
