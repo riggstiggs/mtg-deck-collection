@@ -30,7 +30,7 @@ Deck
 1 Garruk's Uprising
 1 Goblin Anarchomancer
 1 Goreclaw, Terror of Qal Sisma
-1 Gruul Turf
+1 Rugged Highlands
 1 Heat Shimmer
 1 Hellkite Courser
 1 Helm of the Host

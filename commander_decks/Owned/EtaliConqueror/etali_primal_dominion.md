@@ -114,7 +114,7 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 *   **Rogue's Passage:** Tap, pay {4}: target creature is unblockable this turn. Guarantees Etali, Primal Storm's attack trigger connects for the first time through any board state.
 *   **Spire Garden:** Produces G or R, enters untapped if an opponent controls two or more lands — always live past turn 2.
 *   **Exotic Orchard:** Produces any color a land an opponent can produce. In a four-player pod, reliably taps for both G and R plus often other colors stolen spells need.
-*   **Gruul Turf:** Bounces a land to hand and enters tapped. Net-zero on land count but can be used to replay land enchantments (Utopia Sprawl, Wild Growth) for double value.
+*   **Rugged Highlands:** Enters tapped and gains 1 life. Simple, no-downside dual that taps for R or G without the bounce penalty of Gruul Turf.
 *   **Myriad Landscape:** Enters tapped, sacrifice it to search for two basics of the same type (Forest or Mountain) and put both onto the battlefield tapped. A two-for-one land that ramps while fixing both colors.
 *   **Temple of Abandon:** Enters tapped, scry 1. The scry pays for the tempo loss with deck filtering to find the right copy effect or ramp piece.
 *   **Sheltered Thicket:** Forest and Mountain that enters tapped, but can be cycled for {1}{R} to dig for a key card. Has Forest typing so Farseek, Nature's Lore, and Skyshroud Claim can find it.
@@ -138,6 +138,10 @@ Etali's ETB fires **when she enters the battlefield**, not when she attacks — 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-03-28:** Swapped Gruul Turf for Rugged Highlands.
+    *   **In:** Rugged Highlands
+    *   **Out:** Gruul Turf
+    *   **Reason:** Gruul Turf's mandatory bounce-on-entry was disruptive and felt bad in play. Rugged Highlands also enters tapped but gains 1 life with no land bounce penalty — a cleaner dual for this deck's needs.
 *   **2026-03-19:** Swapped Nalfeshnee and Rionya, Fire Dancer for Solemn Simulacrum and Frontier Siege.
     *   **In:** Solemn Simulacrum, Frontier Siege
     *   **Out:** Nalfeshnee, Rionya, Fire Dancer
@@ -193,7 +197,7 @@ DECK:
 1 Garruk's Uprising  
 1 Goblin Anarchomancer  
 1 Goreclaw, Terror of Qal Sisma  
-1 Gruul Turf  
+1 Rugged Highlands  
 1 Heat Shimmer  
 1 Hellkite Courser  
 1 Helm of the Host  
