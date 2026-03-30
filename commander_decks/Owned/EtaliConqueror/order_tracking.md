@@ -1,6 +1,6 @@
 # Order Tracking: Etali, Primal Conqueror (Manapool)
 
-**Status:** 2/5 Packages Received + replacement received
+**Status:** 3/5 Packages Received + replacement received
 
 > **Note:** Command Tower, Game Trail, Gruul Turf, Rogue's Passage, and all basic lands (15 Forest / 8 Mountain) were not ordered — confirm these are already in your collection before sleeving.
 
@@ -77,22 +77,22 @@
 ---
 
 ## 📦 Package #912677: Spellfinder
-**Status:** ⏳ Pending
+**Status:** ✅ Received (2026-03-30)
 **Items:**
-- [ ] Nature's Lore (PLST DMR-170) — MP — $4.13
-- [ ] Fyndhorn Elves (ICE 244) — MP — $2.80
-- [ ] Twinflame (JOU 115) — MP — $5.19
-- [ ] Return of the Wildspeaker (CLB 831) — MP — $0.88
-- [ ] Strionic Resonator (M14 224) — MP — $7.71
-- [ ] Etali, Primal Conqueror // Etali, Primal Sickness (MOM 298) — NM — $34.54
-- [ ] Savage Ventmaw (DTK 231) — MP — $0.68
-- [ ] Flameshadow Conjuring (ORI 147) — MP — $3.63
-- [ ] Electroduplicate (FDN 465) — MP — $0.77
-- [ ] Delina, Wild Mage (AFR 317) — NM — $6.84
-- [ ] Seething Song (MRD 104) — MP — $7.91
-- [ ] Heat Shimmer (SPG 137) — NM — $7.30
-- [ ] Eternal Witness (CMR 425) — LP — $1.68
-- [ ] Temur Sabertooth (FRF 141) — MP — $1.12
+- [x] Nature's Lore (PLST DMR-170) — MP — $4.13
+- [x] Fyndhorn Elves (ICE 244) — MP — $2.80
+- [x] Twinflame (JOU 115) — MP — $5.19
+- [x] Return of the Wildspeaker (CLB 831) — MP — $0.88
+- [x] Strionic Resonator (M14 224) — MP — $7.71
+- [x] Etali, Primal Conqueror // Etali, Primal Sickness (MOM 298) — NM — $34.54
+- [x] Savage Ventmaw (DTK 231) — MP — $0.68
+- [x] Flameshadow Conjuring (ORI 147) — MP — $3.63
+- [x] Electroduplicate (FDN 465) — MP — $0.77
+- [x] Delina, Wild Mage (AFR 317) — NM — $6.84
+- [x] Seething Song (MRD 104) — MP — $7.91
+- [x] Heat Shimmer (SPG 137) — NM — $7.30
+- [x] Eternal Witness (CMR 425) — LP — $1.68
+- [x] Temur Sabertooth (FRF 141) — MP — $1.12
 
 ---
 
