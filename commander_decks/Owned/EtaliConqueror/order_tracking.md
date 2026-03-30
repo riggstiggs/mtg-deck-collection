@@ -1,13 +1,13 @@
 # Order Tracking: Etali, Primal Conqueror (Manapool)
 
-**Status:** 2/5 Packages Received + 1 replacement en route
+**Status:** 2/5 Packages Received + replacement received
 
 > **Note:** Command Tower, Game Trail, Gruul Turf, Rogue's Passage, and all basic lands (15 Forest / 8 Mountain) were not ordered — confirm these are already in your collection before sleeving.
 
 ---
 
 ## 📦 Package #912674: Society Cardboard
-**Status:** ⚠️ Received (2026-03-27) — Spire Garden replacement en route from Society Cardboard
+**Status:** ✅ Received (2026-03-27) — Spire Garden replacement received (2026-03-30)
 **Items:**
 - [x] Sakura-Tribe Elder (DSC 194) — NM — $0.30
 - [x] Arcane Signet (TMC 57) — NM — $0.40
@@ -44,7 +44,7 @@
 - [x] Rishkar's Expertise (M3C 411) — NM — $2.97
 - [x] Swiftfoot Boots (LCC 314) — NM — $2.28
 - [x] Garruk's Uprising (FDN 220) — NM — $0.45
-- [ ] Spire Garden (TMC 75) — NM — $4.58 ⏳ Replacement en route from Society Cardboard
+- [x] Spire Garden (TMC 75) — NM — $4.58
 - [x] Mana Geyser (SCD 151) — NM — $3.00
 - [x] Conjurer's Closet (DRC 126) — NM — $2.42
 - [x] Rootbound Crag (TMC 72) — NM — $0.15
