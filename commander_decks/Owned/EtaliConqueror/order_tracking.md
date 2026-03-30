@@ -1,6 +1,6 @@
 # Order Tracking: Etali, Primal Conqueror (Manapool)
 
-**Status:** 3/5 Packages Received + replacement received
+**Status:** ✅ All Packages Received
 
 > **Note:** Command Tower, Game Trail, Gruul Turf, Rogue's Passage, and all basic lands (15 Forest / 8 Mountain) were not ordered — confirm these are already in your collection before sleeving.
 
@@ -52,27 +52,27 @@
 ---
 
 ## 📦 Package #912675: Giga-Bites
-**Status:** ⏳ Pending
+**Status:** ✅ Received (2026-03-30)
 **Items:**
-- [ ] Voyager Staff (RAV 274) — LP — $0.35
-- [ ] Mirror March (RNA 108) — LP — $1.39
-- [ ] Arbor Elf (WWK 95) — MP — $0.39
-- [ ] Springheart Nantuko (MH3 171) — NM — $5.90
+- [x] Voyager Staff (RAV 274) — LP — $0.35
+- [x] Mirror March (RNA 108) — LP — $1.39
+- [x] Arbor Elf (WWK 95) — MP — $0.39
+- [x] Springheart Nantuko (MH3 171) — NM — $5.90
 
 ---
 
 ## 📦 Package #912676: Lucky's Shop
-**Status:** ⏳ Pending
+**Status:** ✅ Received (2026-03-30)
 **Items:**
-- [ ] Reclaim (PLST ORI-195) — LP — $0.40
-- [ ] Selvala, Heart of the Wilds (M3C 246) — NM — $3.97
-- [ ] Wild Growth (DMR 184) — LP — $0.48
-- [ ] Mirage Phalanx (VOC 73) — NM — $2.04
-- [ ] Elvish Mystic (M14 169) — LP — $0.56
-- [ ] Goreclaw, Terror of Qal Sisma (M19 186) — LP — $0.96
-- [ ] Tamiyo's Safekeeping (NEO 211) — LP — $3.48
-- [ ] Goblin Anarchomancer (MH2 421) — NM — $0.56
-- [ ] Utopia Sprawl (WOT 63) — LP — $2.11
+- [x] Reclaim (PLST ORI-195) — LP — $0.40
+- [x] Selvala, Heart of the Wilds (M3C 246) — NM — $3.97
+- [x] Wild Growth (DMR 184) — LP — $0.48
+- [x] Mirage Phalanx (VOC 73) — NM — $2.04
+- [x] Elvish Mystic (M14 169) — LP — $0.56
+- [x] Goreclaw, Terror of Qal Sisma (M19 186) — LP — $0.96
+- [x] Tamiyo's Safekeeping (NEO 211) — LP — $3.48
+- [x] Goblin Anarchomancer (MH2 421) — NM — $0.56
+- [x] Utopia Sprawl (WOT 63) — LP — $2.11
 
 ---
 
