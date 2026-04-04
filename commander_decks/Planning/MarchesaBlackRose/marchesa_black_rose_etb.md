@@ -20,16 +20,19 @@
 *   **Puppeteer Clique:** Loops opponents' creatures from their graveyards. Has built-in Persist for self-looping.
 *   **Zealous Conscripts:** Steals permanents; loop them to keep them forever.
 *   **Murderous Redcap:** Deals damage on entry/death. Built-in Persist makes it a self-sustaining loop piece with a counter-enabler.
-*   **River Kelpie:** Draws cards when things enter from the graveyard AND when they leave.
-*   **Grim Haruspex / Midnight Reaper:** Card draw whenever your non-token creatures die.
+*   **Thran Vigil:** Whenever artifact/creature cards leave your graveyard on your turn, put a +1/+1 counter on a creature. Fires every loop cycle for free, acting as a passive counter engine that keeps your board insured.
+*   **Grim Haruspex:** Card draw whenever your non-token creatures die.
 *   **Juri, Master of the Revue:** Grows huge as you sacrifice things and explodes for damage on death.
-*   **Blood Artist / Zulaport Cutthroat:** Drains opponents whenever creatures die.
-*   **Spark Double:** Copies Marchesa (or another engine piece) while ignoring the Legend rule.
+*   **Blood Artist:** Drains opponents whenever creatures die.
+*   **Kardur, Doomscourge:** Loopable ETB that forces opponents to attack each other and drains 1 life per attacking creature that dies. Recurring this every turn cycle redirects attacks away from you while feeding the drain engine.
+*   **Thundering Raiju:** Haste creature that puts a counter on a creature when it attacks, then deals X damage to each opponent where X is the number of modified creatures. With our counter-dense board this can hit for massive damage across all opponents simultaneously.
+*   **Exava, Rakdos Blood Witch:** Unleash (enters with a counter, self-insuring) and grants haste to all your creatures with +1/+1 counters. Creatures returning from the graveyard via Marchesa can attack immediately the following turn.
 *   **Mayhem Devil:** Deals 1 damage to any target whenever ANY player sacrifices a permanent. Elite interaction.
 
-### 🐾 Fodder Generation (2 Cards)
+### 🐾 Fodder Generation (3 Cards)
 *   **Bitterblossom:** Creates one faerie token per turn at the cost of 1 life. Steady stream of expendable sac targets that keep the engine fed before the recursion loop is online.
 *   **Ophiomancer:** Creates a 1/1 deathtouch snake at your upkeep if you control no snakes. Ensures you always have at least one creature to sacrifice, even after a boardwipe.
+*   **Scorn-Blade Berserker:** 1-mana Backup 1 creature — enters and puts a +1/+1 counter on any creature (including Marchesa herself), and can sacrifice itself to draw a card. Absurdly efficient counter installer and cantrip in one.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (6 Cards)
 *   **Yawgmoth, Thran Physician:** **THE PROFESSOR.** Sacrifice for free, draw cards, and use Proliferate to add counters.
@@ -61,10 +64,11 @@
 *   **Toxic Deluge / Blasphemous Act:** Board wipes that help control life totals.
 *   **Living Death:** Mass reanimation finisher that resets the board.
 *   **An Offer You Can't Refuse / Arcane Denial:** Efficient protection for Marchesa.
-*   **Siren Stormtamer:** Interactive protection that prevents targeted removal or discard.
-*   **Victimize / Reanimate:** High-value recursion.
+*   **Mark of Mutiny:** Steal target creature, put a +1/+1 counter on it (auto-insuring it for Marchesa), attack with it, sacrifice it — keep it permanently. The most efficient permanent theft spell at 3 mana.
+*   **Mass Mutiny:** Steal all creatures from each opponent at once. With sacrifice outlets available this becomes a permanent board takeover late game.
 *   **Skullclamp:** The most efficient draw engine for an aristocrats strategy.
-*   **Deadly Dispute / Village Rites:** Card draw that doubles as a sacrifice outlet.
+*   **Deadly Dispute:** Card draw that doubles as a sacrifice outlet.
+*   **Cormela, Glamour Thief:** Haste, taps for {U}{B}{R} to cast instants/sorceries, and returns an instant or sorcery from your graveyard when she dies. Looping her via Marchesa recurs your best instant or sorcery every turn cycle.
 
 ### 🗺️ The Mana Base (38 Lands)
 *   **Shocks:** Watery Grave, Steam Vents, Blood Crypt.
@@ -72,7 +76,8 @@
 *   **Filters/Taps:** Crumbling Necropolis, Xander's Lounge, Smoldering Marsh, Sunken Hollow.
 *   **Utility:** High Market, Opal Palace, Forge of Heroes, Reliquary Tower, Command Tower, Exotic Orchard, Path of Ancestry.
 *   **Pain:** Shivan Reef, Sulfurous Springs, Underground River.
-*   **Fetch:** Evolving Wilds, Terramorphic Expanse.
+*   **Fetch:** Evolving Wilds.
+*   **Counter Utility:** Guildmages' Forum — tap for any color and put a +1/+1 counter on any creature you control, passively insuring every creature you cast.
 *   **Basics:** 6 Swamp, 4 Mountain, 3 Island.
 
 ---
@@ -93,6 +98,14 @@
 | [Card Name] | [Card Name] | [Category] | [Pending/Ordered/Received] |
 
 ---
+*   **2026-04-04:** Land Swap — Counter Utility.
+    *   **In:** Guildmages' Forum
+    *   **Out:** Terramorphic Expanse
+    *   **Reason:** Guildmages' Forum passively installs +1/+1 counters on any creature when used for colored mana, acting as a free counter enabler every time you cast a creature. Terramorphic Expanse is redundant with Evolving Wilds.
+*   **2026-04-04:** Steal Package & Engine Refinement.
+    *   **In:** Kardur, Doomscourge, Thran Vigil, Exava, Rakdos Blood Witch, Scorn-Blade Berserker, Thundering Raiju, Mark of Mutiny, Cormela, Glamour Thief, Mass Mutiny
+    *   **Out:** Zulaport Cutthroat, River Kelpie, Midnight Reaper, Siren Stormtamer, Spark Double, Victimize, Reanimate, Village Rites
+    *   **Reason:** Added a permanent theft axis (Mark of Mutiny, Mass Mutiny) that synergizes with Marchesa — stolen creatures insured with counters return under your control permanently. Replaced weaker/redundant draw and protection pieces with higher-impact engine cards. Thran Vigil provides passive counter installation every loop cycle. Exava gives haste to all returning creatures. Thundering Raiju scales as a win condition with our counter-dense board. Kardur redirects attacks and drains when looped. Cormela recurs best instants every turn cycle. Scorn-Blade Berserker is an ultra-efficient 1-mana counter installer.
 *   **2026-03-12:** Engine Refinement — Fodder & Protection.
     *   **In:** Bitterblossom, Ophiomancer, Swiftfoot Boots, Mind Stone.
     *   **Out:** Herald of Secret Streams, Chasm Skulker, Satoru the Infiltrator, Iron Apprentice.
@@ -125,16 +138,17 @@ DECK:
 1 Puppeteer Clique
 1 Zealous Conscripts
 1 Murderous Redcap
-1 River Kelpie
+1 Thran Vigil
 1 Grim Haruspex
-1 Midnight Reaper
+1 Exava, Rakdos Blood Witch
 1 Juri, Master of the Revue
-1 Spark Double
+1 Thundering Raiju
 1 Mayhem Devil
 1 Blood Artist
-1 Zulaport Cutthroat
+1 Kardur, Doomscourge
 1 Bitterblossom
 1 Ophiomancer
+1 Scorn-Blade Berserker
 1 Yawgmoth, Thran Physician
 1 Viscera Seer
 1 Carrion Feeder
@@ -171,12 +185,11 @@ DECK:
 1 Living Death
 1 An Offer You Can't Refuse
 1 Arcane Denial
-1 Siren Stormtamer
-1 Victimize
-1 Reanimate
+1 Cormela, Glamour Thief
+1 Mark of Mutiny
+1 Mass Mutiny
 1 Skullclamp
 1 Deadly Dispute
-1 Village Rites
 1 Watery Grave
 1 Steam Vents
 1 Blood Crypt
@@ -201,7 +214,7 @@ DECK:
 1 Sulfurous Springs
 1 Underground River
 1 Evolving Wilds
-1 Terramorphic Expanse
+1 Guildmages' Forum
 6 Swamp
 4 Mountain
 3 Island
