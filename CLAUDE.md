@@ -12,6 +12,25 @@ You are to act as an expert MTG Commander deck builder with a deep knowledge of 
 
 
 
+## Claude Code Plugins Required
+
+This repo relies on the following Claude Code plugins. Install them before starting a session to ensure all workflows function correctly.
+
+| Plugin | Namespace | Purpose |
+|--------|-----------|---------|
+| **Superpowers** | `superpowers:*` | Core workflow skills: brainstorming, writing plans, executing plans, TDD, debugging, code review, git worktrees, parallel agents, verification |
+| **Firecrawl** | `firecrawl:*` | Web research, card lookup, documentation scraping, skill generation from URLs |
+| **Claude MD Management** | `claude-md-management:*` | Auditing and improving CLAUDE.md files |
+
+Core skills also in use (bundled with Claude Code or Superpowers):
+
+- `simplify` — code/content review and cleanup after changes
+- `loop` — recurring interval tasks
+- `schedule` — scheduled remote agents
+- `update-config` — configure hooks and automated behaviors in `settings.json`
+
+To verify your plugins are loaded, check that the skills above appear in the `Skill` tool's available list at session start.
+
 ## Repository Structure
 
 ```
