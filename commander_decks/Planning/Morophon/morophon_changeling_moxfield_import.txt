@@ -1,0 +1,103 @@
+COMMANDER:
+1 Morophon, the Boundless
+
+DECK:
+1 Sol Ring
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Llanowar Elves
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Cultivate
+1 Nature's Lore
+1 Kindred Discovery
+1 Vanquisher's Banner
+1 Herald's Horn
+1 Guardian Project
+1 Leaf-Crowned Visionary
+1 Beast Whisperer
+1 Risen Reef
+1 Bident of Thassa
+1 Swords to Plowshares
+1 Path to Exile
+1 Imprisoned in the Moon
+1 Chaos Warp
+1 Terminate
+1 Feed the Swarm
+1 Anguished Unmaking
+1 Kindred Dominance
+1 Patriarch's Bidding
+1 Heroic Intervention
+1 Tamiyo's Safekeeping
+1 Toxic Deluge
+1 Maskwood Nexus
+1 Arcane Adaptation
+1 Urza's Incubator
+1 Universal Automaton
+1 Changeling Outcast
+1 Mothdust Changeling
+1 Amoeboid Changeling
+1 Woodland Changeling
+1 Impostor of the Sixth Pride
+1 Masked Vandal
+1 Avian Changeling
+1 Crib Swap
+1 Taurean Mauler
+1 Realmwalker
+1 Mirror Entity
+1 Bloodline Pretender
+1 Cairn Wanderer
+1 Chameleon Colossus
+1 Imperious Perfect
+1 Elvish Archdruid
+1 Lys Alana Huntmaster
+1 Ezuri, Renegade Leader
+1 Adaptive Automaton
+1 Metallic Mimic
+1 Knight Exemplar
+1 Field Marshal
+1 Drogskol Captain
+1 Bramblewood Paragon
+1 Death Baron
+1 Goblin Warchief
+1 Lyra Dawnbringer
+1 Door of Destinies
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Flooded Strand
+1 Marsh Flats
+1 Polluted Delta
+1 Scalding Tarn
+1 Bloodstained Mire
+1 Arid Mesa
+1 Breeding Pool
+1 Stomping Ground
+1 Temple Garden
+1 Overgrown Tomb
+1 Hallowed Fountain
+1 Godless Shrine
+1 Sacred Foundry
+1 Watery Grave
+1 Steam Vents
+1 Blood Crypt
+1 Spara's Headquarters
+1 Ketria Triome
+1 Indatha Triome
+1 Ziatora's Proving Ground
+1 Command Tower
+1 Reflecting Pool
+1 Exotic Orchard
+1 Path of Ancestry
+1 Unclaimed Territory
+1 Reliquary Tower
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Plains
+1 Island
+1 Swamp
+1 Mountain
