@@ -8,18 +8,40 @@ deck_status: main
 **Morophon, the Boundless**
 *   **Archetype:** 5-Color Changeling Tribal / Midrange
 *   **Bracket:** 2–3
-*   **Core Goal:** Build a wide board of changeling creatures that benefit from every tribal lord simultaneously. Changelings are every creature type natively — no engine pieces required. Cherry-picked lords from Zombies, Elves, Goblins, Warriors, Knights, Soldiers, Spirits, and Angels all buff your entire changeling board at once. Maskwood Nexus and Arcane Adaptation are bonuses that extend this to non-changeling creatures (elf ramp package), but the deck functions without them. Morophon stacks with Goblin Warchief, Herald's Horn, and Urza's Incubator for significant cost reduction.
+*   **Core Goal:** Flood the board with changeling creatures — creatures that are simultaneously every creature type — then amplify them with cherry-picked lords from across multiple tribes. Because every changeling is a Zombie, an Elf, a Knight, a Soldier, a Spirit, an Angel, a Goblin, and every other type at once, a single Zombie lord, Elf lord, and Knight lord each independently buff your entire board simultaneously. The result is a creature base that stacks multiple +1/+1 bonuses and multiple keywords (indestructible, hexproof, deathtouch, lifelink, first strike, haste, trample) from a wide variety of sources — all from a creature pool that is inherently resilient, varied, and hard to fully answer.
 
-### The Changeling Engine
-Changelings are every creature type simultaneously — so a Zombie lord, Elf lord, Knight lord, and Angel lord all buff the same changeling at the same time. 15 changeling creatures form the backbone of the deck; lords are the amplifiers. Maskwood Nexus and Arcane Adaptation extend the "every type" effect to your non-changeling creatures (elf ramp, lords themselves) when they're on the battlefield — a powerful bonus but not the core plan.
+### Origin and Intent
+This deck was built for a friend who was inspired by **Maskwood Nexus** — specifically the moment she read the card and understood what it could do. That "aha" moment — *"wait, if everything is every type, then every lord buffs everything"* — is exactly the idea this deck is built to deliver on every game.
 
-Morophon reduces {W}{U}{B}{R}{G} from creature costs — one pip of each color. Multi-pip cards only lose one pip of each color: Death Baron {1}{B}{B} → {1}{B}. Cards with exactly one pip of each color become very cheap: Drogskol Captain {1}{W}{U} → {1}. Single-pip cards become free: Mothdust Changeling {U} → free, Changeling Outcast {B} → free.
+It is important to understand that **Maskwood Nexus is not the engine of this deck — it is a force multiplier**. The 15 changeling creatures in the deck are every creature type natively, without any setup required. Every lord already buffs every changeling on turn 1 of the game without Maskwood Nexus ever entering play. What Maskwood Nexus (and its companion piece Arcane Adaptation) does is extend that effect to non-changeling creatures — primarily the elf ramp package (Llanowar Elves, Elvish Mystic, Fyndhorn Elves) and the lords themselves. When a type-giver is on the battlefield, those elf ramp creatures also become every type, meaning they too benefit from all lords. But the deck plays and wins without ever drawing either piece.
 
-### Design Notes
-*   Built for a friend inspired by Maskwood Nexus — the card that showed her the potential of the concept.
-*   No symmetric effects — effects that benefit all players equally are excluded.
-*   Elf ramp sub-theme for early mana acceleration into Morophon.
-*   No Slivers — this is not a Sliver deck despite the changeling synergy.
+### This Is Not a Sliver Deck
+The most natural comparison someone might make is to a Sliver deck. Both use a 5-color commander (The First Sliver or Morophon), both flood the board with creatures that share buffs, and both reward critical mass. But this deck is deliberately and specifically **not** a Sliver deck. Slivers were considered and rejected for several reasons:
+
+1. **Thematic identity.** The original inspiration was changelings and Maskwood Nexus — the concept of a creature that is everything at once. Slivers would dilute that identity entirely and turn the deck into something familiar and expected rather than something surprising.
+2. **Symmetric Sliver abilities.** Many of the most powerful Sliver lords (Crystalline Sliver, Sliver Hivelord) give abilities to *all* Slivers — including opponents' Slivers. This deck's owner dislikes symmetric effects that benefit opponents.
+3. **The deck works without them.** Changelings already do everything the concept requires. Adding Slivers would just be adding Slivers for power's sake, which isn't the point.
+
+The lords in this deck were cherry-picked from across many tribes — Zombies for deathtouch, Knights for indestructible, Spirits for hexproof, Soldiers for first strike, Goblins for haste and cost reduction, Angels for lifelink, Elves for sustained mana and tokens. Each lord was chosen because of the *keyword or effect* it provides to the board, not because of any tribal identity.
+
+### How Morophon's Cost Reduction Works
+Morophon reduces creature spell costs by exactly {W}{U}{B}{R}{G} — **one pip of each color, nothing more**. This is frequently misunderstood. The reduction is not {5} generic mana; it removes specifically one white, one blue, one black, one red, and one green pip from the cost. Key examples:
+
+*   Death Baron {1}{B}{B} → **{1}{B}** (one {B} removed, second {B} remains)
+*   Drogskol Captain {1}{W}{U} → **{1}** (both colored pips covered — effectively free of colored mana)
+*   Goblin Warchief {1}{R}{R} → **{1}{R}** (one {R} removed)
+*   Mothdust Changeling {U} → **free** (single pip fully covered)
+*   Changeling Outcast {B} → **free** (single pip fully covered)
+*   Chameleon Colossus {2}{G}{G} → **{2}{G}** (one {G} removed)
+*   Lyra Dawnbringer {3}{W}{W} → **{3}{W}** (one {W} removed)
+
+Morophon stacks with Goblin Warchief ({1} less for Goblins), Herald's Horn ({1} less for chosen type), and Urza's Incubator ({2} less for chosen type). With all four active, creature costs can drop to near zero across the board.
+
+### The Elf Sub-Theme
+Elves serve a dual purpose in this deck. First, the three 1-drop elf ramp creatures (Llanowar Elves, Elvish Mystic, Fyndhorn Elves) are the primary early-game acceleration into Morophon — a T1 elf into T3 Morophon is the ideal opening. Second, the elf sub-theme cards (Imperious Perfect, Elvish Archdruid, Lys Alana Huntmaster, Ezuri) are lords and value engines in their own right that compound with the changeling package. Lys Alana Huntmaster in particular is exceptional here: since all changeling creatures are Elf spells, every creature cast while she is on the battlefield creates a free 1/1 Elf Warrior token. Elvish Archdruid buffs all changelings as Elves while also generating significant mana. Ezuri provides a reusable overrun effect and regeneration protection for the board.
+
+### No Symmetric Effects
+The deck is built for a player who strongly dislikes effects that benefit opponents equally. Every card in the deck was evaluated through this lens. Coat of Arms was considered and rejected — it buffs all creatures sharing a type, which means opponents' tribal decks would also benefit. All board wipes that affect all players equally were replaced with targeted answers or one-sided wipes (Kindred Dominance, choosing Shapeshifter). Patriarch's Bidding is the one exception — it gives all players graveyard recursion by type — but in practice the deck generates enough value from its own graveyard to make this worthwhile, and opponents are unlikely to have enough Shapeshifters to compete.
 
 ---
 
