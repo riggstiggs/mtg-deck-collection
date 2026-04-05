@@ -34,9 +34,9 @@ deck_status: main
 *   **Mayhem Devil:** Deals 1 damage to any target whenever ANY player sacrifices a permanent. Elite interaction.
 
 ### 🐾 Fodder Generation (3 Cards)
-*   **Goblin Assault:** Creates a 1/1 Goblin token with haste every upkeep — same steady token generation as Bitterblossom but no life loss. Goblins must attack each combat which synergizes with Dethrone triggers.
+*   **Goblin Assault:** Creates a 1/1 Goblin token with haste every upkeep — same steady token generation as Bitterblossom but no life loss. Goblins must attack each combat which synergizes with Dethrone triggers and Skullclamp.
 *   **Ophiomancer:** Creates a 1/1 deathtouch snake at your upkeep if you control no snakes. Ensures you always have at least one creature to sacrifice, even after a boardwipe.
-*   **Scorn-Blade Berserker:** 1-mana Backup 1 creature — enters and puts a +1/+1 counter on any creature (including Marchesa herself), and can sacrifice itself to draw a card. Absurdly efficient counter installer and cantrip in one.
+*   **Tainted Adversary:** 2-mana deathtouch Zombie that self-insures — on ETB pay {2}{B} any number of times to load up +1/+1 counters and generate twice that many 2/2 Zombie tokens. Flexible burst fodder on demand with a relevant body.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (5 Cards)
 *   **Viscera Seer / Carrion Feeder:** Free, instant-speed sacrifice outlets.
@@ -54,10 +54,9 @@ deck_status: main
 ### 🛡️ Counter Enablers (The "Insurance" Makers) (6 Cards)
 *   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature at instant speed.
 *   **Vigean Graftmage:** Enters with counters and "Grafts" them onto new arrivals, insuring them the second they touch the board.
-*   **Metallic Mimic:** Naming "Wizard" ensures Marchesa and key protection pieces enter with a counter automatically.
-*   **Reassembling Skeleton:** Pays {1}{B} to return itself from the graveyard tapped. Infinite repeatable sac fodder that keeps the engine fed every turn once online.
+*   **Madame Null, Power Broker:** Deathtouch. Whenever another creature you control enters, pay life equal to its power to put that many +1/+1 counters on it. Passive auto-insurance for every creature that enters — works on all creature types, not just Wizards.
+*   **Scorn-Blade Berserker:** 1-mana Backup 1 creature — enters and puts a +1/+1 counter on any creature (including Marchesa herself), and can sacrifice itself to draw a card. Absurdly efficient counter installer and cantrip in one.
 *   **Uncivil Unrest:** Creatures enter with a counter (Riot) and deal double damage if they have a counter.
-*   **Sage of Fables:** Wizards enter with a counter (Marchesa is a Wizard).
 *   **Swiftfoot Boots:** Grants hexproof and haste to Marchesa or key loop pieces, protecting against targeted removal while keeping your own engine accessible.
 
 ### 💎 Ramp & Utility (10 Cards)
@@ -67,7 +66,8 @@ deck_status: main
 *   **Mind Stone:** Early ramp that converts to card draw late game when no longer needed.
 
 ### ⚔️ Disruption & Board Control (15 Cards)
-*   **Terminate / Chaos Warp / Bedevil / Feed the Swarm:** Flexible removal.
+*   **Terminate / Bedevil / Feed the Swarm:** Flexible removal.
+*   **Massacre Wurm:** ETB gives all opponent creatures -2/-2 and drains life for every creature that dies from it. One-sided wipe that spares your board — against token/weenie strategies this can drain 10-15 life in a single ETB. Loops with Marchesa for repeated devastation.
 *   **Imprisoned in the Moon:** Neutralizes Commanders, problematic Lands, or Planeswalkers.
 *   **Toxic Deluge / Blasphemous Act:** Board wipes that help control life totals.
 *   **Living Death:** Mass reanimation finisher that resets the board.
@@ -80,7 +80,7 @@ deck_status: main
 
 ### 🗺️ The Mana Base (38 Lands)
 *   **Check Lands:** Dragonskull Summit, Drowned Catacomb, Sulfur Falls.
-*   **Taplands:** Crumbling Necropolis, Smoldering Marsh, Sunken Hollow, Canyon Slough, Choked Estuary, Fetid Pools, Foreboding Ruins.
+*   **Taplands:** Crumbling Necropolis, Smoldering Marsh, Sunken Hollow, Canyon Slough, Choked Estuary, Dismal Backwater, Fetid Pools, Foreboding Ruins.
 *   **Utility:** High Market, Opal Palace, Forge of Heroes, Reliquary Tower, Command Tower, Exotic Orchard, Path of Ancestry.
 *   **Pain:** Shivan Reef, Sulfurous Springs, Underground River.
 *   **Fetch:** Evolving Wilds.
@@ -110,6 +110,18 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
+*   **2026-04-04:** Added one-sided board wipe for weenie/token pods.
+    *   **In:** Massacre Wurm
+    *   **Out:** Chaos Warp
+    *   **Reason:** Pod plays weenie/token strategies frequently. Massacre Wurm is a one-sided -2/-2 wipe that drains life for every creature that dies and loops with Marchesa. Chaos Warp is the weakest single-target removal as it randomizes rather than destroys.
+*   **2026-04-04:** Counter enabler and fodder upgrades.
+    *   **In:** Madame Null, Power Broker; Tainted Adversary
+    *   **Out:** Sage of Fables; Reassembling Skeleton
+    *   **Reason:** Madame Null auto-insures every creature that enters (all types, not just Wizards) at the cost of life — strictly better than Sage of Fables. Tainted Adversary provides deathtouch, self-insures, and generates burst token fodder on demand — replaces Reassembling Skeleton which required repeated mana investment for a single fodder target.
+*   **2026-04-03:** Added missing land to reach 99 mainboard cards.
+    *   **In:** Dismal Backwater
+    *   **Out:** (none — was missing)
+    *   **Reason:** Watery Grave (UB) was supposed to be replaced by Sunken Hollow (UB), but Sunken Hollow was already in the premium list. The slot was never filled, leaving the deck at 98 cards. Dismal Backwater fills the UB fixing gap.
 *   **2026-04-04:** Expensive engine pieces replaced with drain package.
     *   **In:** Syr Konrad, the Grim, Zulaport Cutthroat, Bastion of Remembrance
     *   **Out:** Yawgmoth, Thran Physician, Mikaeus, the Unhallowed, Ashnod's Altar
@@ -170,9 +182,9 @@ DECK:
 1 Unspeakable Symbol  
 1 Vigean Graftmage  
 1 Metallic Mimic  
-1 Reassembling Skeleton  
+1 Madame Null, Power Broker  
+1 Tainted Adversary  
 1 Uncivil Unrest  
-1 Sage of Fables  
 1 Swiftfoot Boots  
 1 Arcane Signet  
 1 Sol Ring  
@@ -185,7 +197,7 @@ DECK:
 1 Talisman of Creativity  
 1 Talisman of Dominance  
 1 Terminate  
-1 Chaos Warp  
+1 Massacre Wurm  
 1 Bedevil  
 1 Feed the Swarm  
 1 Imprisoned in the Moon  
@@ -203,6 +215,7 @@ DECK:
 1 Choked Estuary  
 1 Crumbling Necropolis  
 1 Dragonskull Summit  
+1 Dismal Backwater  
 1 Drowned Catacomb  
 1 Evolving Wilds  
 1 Exotic Orchard  

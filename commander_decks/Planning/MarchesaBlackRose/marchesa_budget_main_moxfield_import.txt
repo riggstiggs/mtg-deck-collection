@@ -34,9 +34,9 @@ Deck
 1 Unspeakable Symbol
 1 Vigean Graftmage
 1 Metallic Mimic
-1 Reassembling Skeleton
+1 Madame Null, Power Broker
+1 Tainted Adversary
 1 Uncivil Unrest
-1 Sage of Fables
 1 Swiftfoot Boots
 1 Arcane Signet
 1 Sol Ring
@@ -49,7 +49,7 @@ Deck
 1 Talisman of Creativity
 1 Talisman of Dominance
 1 Terminate
-1 Chaos Warp
+1 Massacre Wurm
 1 Bedevil
 1 Feed the Swarm
 1 Imprisoned in the Moon
@@ -67,6 +67,7 @@ Deck
 1 Choked Estuary
 1 Crumbling Necropolis
 1 Dragonskull Summit
+1 Dismal Backwater
 1 Drowned Catacomb
 1 Evolving Wilds
 1 Exotic Orchard
