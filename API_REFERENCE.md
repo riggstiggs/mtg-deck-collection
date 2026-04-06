@@ -16,7 +16,7 @@ This file is the authoritative reference for all external API interactions in th
 
 ## Local Cache
 
-Both scripts maintain a local JSON cache in the `cache/` directory (gitignored — local only, not committed to the repo). The cache prevents redundant API calls across sessions and is especially valuable for goldfish simulations where the same cards are looked up repeatedly across multiple games.
+Both scripts maintain a shared JSON cache in the `cache/` directory (committed to the repo — shared across all machines). The cache prevents redundant API calls across sessions and is especially valuable for goldfish simulations where the same cards are looked up repeatedly across multiple games. Pull the latest before a session to get the most recent cached lookups from other machines.
 
 | Cache file | Used by | Keyed by | TTL |
 |------------|---------|----------|-----|
