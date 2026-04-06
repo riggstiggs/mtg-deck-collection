@@ -1,3 +1,37 @@
+## 2026-04-05 — Rules fixes + Titania/Marwyn scaling (50 sims, 10 turns, 4-player pod)
+
+**Command:**
+```
+python scripts/multiplayer_goldfish.py "commander_decks/Planning/Morophon/morophon_changeling_moxfield_import.txt" --sims 50 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 175/200 (88%)
+Range:     T3 - T10
+Average:   T6.4
+Distribution:
+  T 3: ###### (6)
+  T 4: ################ (16)
+  T 5: ########################## (26)
+  T 6: ############################################### (47)
+  T 7: ############################################ (44)
+  T 8: ############## (14)
+  T 9: ############### (15)
+  T10: ####### (7)
+```
+
+**Simulator fixes in this session:**
+1. **Commander T1 draw**: All players now draw on turn 1. Previously `if turn > 1: draw()` was skipping T1 draws — wrong for Commander (correct for 1v1 first player only).
+2. **Mulligan rules**: Corrected to Commander rules — first mulligan is free (redraw 7), subsequent mulligans reduce hand size by 1 (6, 5...). Triggers when opening hand has fewer than 2 lands.
+3. **Priest of Titania scaling**: Was hardcoded at 1G per turn. Now produces G equal to `creature_count` (all creatures in play are Elves via changeling). With 3 creatures in play she produces 3G, with 5 creatures = 5G, etc.
+4. **Marwyn, the Nurturer scaling**: Was hardcoded at 1G. Now produces G equal to `1 + creatures_after_marwyn` (base power 1 + a counter for each Elf entering after her). She accelerates with every changeling cast after she's in play.
+
+**Notes:**
+Cast rate improved from 78% to 88%, average improved from T7.0 to T6.4. T6 is now the modal window (47 casts). T3-T5 early casts increased significantly (48 vs 24 previously) reflecting Titania/Marwyn mana amplification on good draws. The remaining 12% misses are genuine variance — players who draw only 5-6 land in 10 turns even after mulliganing. This is a realistic floor for a 7-CMC commander.
+
+---
+
 ## 2026-04-05 — Mulligan fix + 50-sim validation (50 sims, 10 turns, 4-player pod)
 
 **Command:**

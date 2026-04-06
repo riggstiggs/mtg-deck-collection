@@ -46,6 +46,11 @@ class CardData:
     perm_needs_untap: bool = False                  # True for creatures (summoning sickness)
     perm_reducer: bool = False                      # reduces spell costs by {1}
 
+    # Creature type info
+    is_creature: bool = False                       # True for all creature permanents
+    is_titania: bool = False                        # Priest of Titania: taps for G per Elf
+    is_marwyn_card: bool = False                    # Marwyn: taps for G = power (scales with elves)
+
     # Ramp (puts lands into play)
     is_ramp: bool = False
     ramp_tapped: int = 0
@@ -233,6 +238,13 @@ def classify_card(name: str) -> CardData:
             return card
 
     card.cmc, card.pips = parse_mana_cost(mana_cost)
+    card.is_creature = 'Creature' in type_line
+
+    # Named special cases: override perm_amount with dynamic scaling in compute_mana
+    if name == 'Priest of Titania':
+        card.is_titania = True
+    elif name == 'Marwyn, the Nurturer':
+        card.is_marwyn_card = True
 
     # ── Land ─────────────────────────────────────────────────────────────────
     if 'Land' in type_line:
@@ -303,19 +315,31 @@ class Player:
         self.pid = pid
         lib = deck[:]
         random.shuffle(lib)
-        self.hand: List[CardData]  = [lib.pop(0) for _ in range(7)]
-        self.library: List[CardData] = lib
 
-        # Mulligan: if opening 7 has fewer than 2 lands (or MDFCs), redraw 6.
-        # Mirrors real Commander practice — 0-1 land hands are always mulliganed.
+        # Commander mulligan rules:
+        # - First mulligan is free: discard all 7, draw 7 new cards.
+        # - Each subsequent mulligan draws one fewer card (7-1=6, 7-2=5, ...).
+        # - Trigger: fewer than 2 lands (or MDFCs) in opening hand.
         def _land_count(hand):
             return sum(1 for c in hand if c.is_land or c.is_mdfc_land)
 
-        if _land_count(self.hand) < 2:
-            lib2 = self.hand + self.library
+        hand_size = 7
+        self.hand = [lib.pop(0) for _ in range(hand_size)]
+        mull_count = 0
+        while _land_count(self.hand) < 2 and mull_count < 3:
+            lib2 = self.hand + lib
             random.shuffle(lib2)
-            self.hand = [lib2.pop(0) for _ in range(6)]
-            self.library = lib2
+            if mull_count == 0:
+                # Free first mulligan: put all back, draw 7
+                new_size = 7
+            else:
+                # Each subsequent mulligan costs 1 card
+                new_size = 7 - mull_count
+            self.hand = [lib2.pop(0) for _ in range(new_size)]
+            lib = lib2
+            mull_count += 1
+
+        self.library: List[CardData] = lib
         self.lands: List[CardData] = []
         self.mana_perms: List[tuple] = []   # (CardData, ready_turn)
         self.reducer_active = False
@@ -326,6 +350,10 @@ class Player:
         self.commander_tax: int = 0          # increases by 2 each cast
         self.commander_cast_turn: Optional[int] = None
         self.hellkite_cast_turn: Optional[int] = None
+        # Creature tracking for Priest of Titania and Marwyn scaling
+        self.creature_count: int = 0         # total creatures in play
+        self.marwyn_cast_turn: Optional[int] = None
+        self.creatures_after_marwyn: int = 0  # elves entering after Marwyn (= her +1/+1 counters)
 
     def draw(self):
         if self.library:
@@ -371,7 +399,14 @@ def compute_mana(player: Player, turn: int, opponents: List[Player], frac: float
     for (cd, ready) in player.mana_perms:
         if turn < ready:
             continue
-        amt = cd.perm_amount
+        if cd.is_titania:
+            # Taps for G per Elf on battlefield. All creatures here are Elves (changelings).
+            amt = player.creature_count
+        elif cd.is_marwyn_card:
+            # Taps for G equal to power. Power = 1 (base) + counters from elves entering after her.
+            amt = 1 + player.creatures_after_marwyn
+        else:
+            amt = cd.perm_amount
         total += amt
         if 'R' in cd.perm_produces: r += amt
         if 'G' in cd.perm_produces: g += amt
@@ -427,8 +462,7 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
                   frac: float) -> str:
     log = []
 
-    if turn > 1:
-        player.draw()
+    player.draw()  # Commander: all players draw on T1 (unlike 1v1 where first player skips)
 
     # 1. Play a land — prefer untapped duals, then untapped singles, last tapped
     def land_score(cd: CardData) -> int:
@@ -475,6 +509,12 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
                 player.mana_perms.append((cd, ready))
                 if cd.perm_reducer:
                     player.reducer_active = True
+                if cd.perm_needs_untap:  # it's a creature dork
+                    player.creature_count += 1
+                    if cd.is_marwyn_card:
+                        player.marwyn_cast_turn = turn
+                    elif player.marwyn_cast_turn is not None:
+                        player.creatures_after_marwyn += 1
                 log.append(f"Cast: {cd.name}")
                 changed = True
                 break
@@ -560,6 +600,10 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
                 player.mana_perms.append((CardData(name=f'_spent_{cd.cmc}', cmc=cd.cmc,
                                                    is_mana_perm=True, perm_amount=0,
                                                    perm_produces=[]), turn))
+                if cd.is_creature:
+                    player.creature_count += 1
+                    if player.marwyn_cast_turn is not None:
+                        player.creatures_after_marwyn += 1
                 log.append(f"Cast: {cd.name} (generic)")
                 changed = True
                 break
