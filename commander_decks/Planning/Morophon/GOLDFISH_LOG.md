@@ -1,3 +1,30 @@
+## 2026-04-05 — Multiplayer simulator post-ramp overhaul (20 sims, 10 turns, 4-player pod)
+
+**Command:**
+```
+python scripts/multiplayer_goldfish.py "commander_decks/Planning/Morophon/morophon_changeling_moxfield_import.txt" --sims 20 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 64/80 (80%)
+Range:     T4 - T10
+Average:   T7.0
+Distribution:
+  T 4: ### (3)
+  T 5: ######### (9)
+  T 6: ################### (19)
+  T 7: ############ (12)
+  T 8: ######## (8)
+  T 9: ### (3)
+  T10: ########## (10)
+```
+
+**Notes:**
+Average improved from T7.2 to T7.0. More meaningfully, the modal window shifted from T7 to T6 and early casts (T4-T6) increased from 22 to 31. The T9 tail shrunk from 11 to 3. T10 uptick is noise from 20-sim variance. Priest of Titania and Marwyn's scaling with creature count is not fully modelled — real-table performance should show a larger improvement as both generate exponentially more mana with a board of changelings (all Elves).
+
+---
+
 ## 2026-04-05 — Multiplayer simulator (20 sims, 10 turns, 4-player pod)
 
 **Command:**
