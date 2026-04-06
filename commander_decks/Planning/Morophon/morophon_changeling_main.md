@@ -47,16 +47,18 @@ The deck is built for a player who strongly dislikes effects that benefit oppone
 
 ## 🛠️ Card Explanations
 
-### ⚡ Ramp (9 Cards)
+### ⚡ Ramp (11 Cards)
 *   **Sol Ring:** Universal Commander staple — 1 mana for 2 colorless every turn.
 *   **Arcane Signet:** 5-color deck staple, produces mana in your commander's color identity.
 *   **Chromatic Lantern:** Critical in 5-color — turns all lands into any color, fixes everything.
 *   **Fellwar Stone:** Produces colors opponents use; reliable in multiplayer 5-color.
+*   **Birds of Paradise:** {G} 0/1 flying — taps for any color of mana. The definitive 1-drop color fixer; essential in any 5-color deck and a natural turn-1 play alongside or instead of the 1-drop green dorks.
 *   **Llanowar Elves:** 1-drop Elf that adds {G}; benefits from Elf lords and both type-givers when on board.
 *   **Elvish Mystic:** Second Llanowar Elves — redundant for T1 ramp consistency.
 *   **Fyndhorn Elves:** Third 1-drop Elf ramp — critical for T1/T2 acceleration into Morophon.
-*   **Cultivate:** Ramps and fixes — one basic to hand, one to battlefield.
-*   **Nature's Lore:** Cheaper ramp that puts a Forest (including Forest-typed duals) directly into play untapped.
+*   **Bloom Tender:** {1}{G} — tap to add one mana of each color among permanents you control. In a 5-color deck with modest board presence this routinely produces 3–5 mana from a single creature; with a full board it can produce all five colors at once.
+*   **Priest of Titania:** {1}{G} — tap to add {G} for each Elf on the battlefield. Since all 15 changelings are Elves natively, a mid-game board of 5–6 creatures generates 5–6 green mana from one dork. Scales harder than any rock.
+*   **Marwyn, the Nurturer:** {2}{G} — gets a +1/+1 counter whenever another Elf enters the battlefield under your control; taps for {G} equal to her power. Since all 15 changelings are Elves natively, every creature you cast grows her and increases her mana output. Already on the upgrade roadmap — promoted here as a core ramp piece.
 
 ### 📚 Card Draw (8 Cards)
 *   **Kindred Discovery:** Tribal draw engine — draws a card whenever a creature of the chosen type enters or attacks. With changelings, every creature triggers this.
@@ -68,18 +70,16 @@ The deck is built for a player who strongly dislikes effects that benefit oppone
 *   **Risen Reef:** Triggers whenever an Elemental enters (all changelings are Elementals). Puts lands into play or draws cards — frequently triggers multiple times per turn.
 *   **Bident of Thassa:** Forces opponents not to block; draws a card whenever your creatures deal combat damage. Pairs with Changeling Outcast (unblockable) for guaranteed draws.
 
-### 🔫 Targeted Disruption (7 Cards)
+### 🔫 Targeted Disruption (6 Cards)
 *   **Swords to Plowshares:** Best single-target creature removal in the format. Non-negotiable.
 *   **Path to Exile:** Second-best white creature removal. Non-negotiable.
 *   **Imprisoned in the Moon:** Enchants any permanent — creature, planeswalker, or land — turning it into a tapped colorless land. Permanent solution for problem commanders.
 *   **Chaos Warp:** Red's catch-all — destroys any permanent and shuffles it in. The random shuffle is the cost.
 *   **Terminate:** {B}{R} instant — destroys a creature with no regeneration. Clean and efficient.
-*   **Feed the Swarm:** Black's rare enchantment removal that also hits creatures. Covers a gap black normally can't fill.
 *   **Anguished Unmaking:** Exile any nonland permanent for 3 life. Efficient catch-all for artifacts, enchantments, planeswalkers, and creatures.
 
-### 💥 Mass Disruption (5 Cards)
+### 💥 Mass Disruption (4 Cards)
 *   **Kindred Dominance:** One-sided board wipe — choose Shapeshifter; your changelings survive while opponents' boards are destroyed.
-*   **Patriarch's Bidding:** Each player retrieves all creatures of chosen type from graveyard. Choose Shapeshifter — returns your entire changeling base.
 *   **Heroic Intervention:** Flash instant — gives your entire board hexproof and indestructible until EOT. Counters most board wipes.
 *   **Tamiyo's Safekeeping:** {G} instant — hexproof and indestructible for a single key piece.
 *   **Toxic Deluge:** Pay X life — all creatures get -X/-X until EOT. Answers indestructible creatures and boards that traditional wipes can't handle.
@@ -136,7 +136,7 @@ The deck is built for a player who strongly dislikes effects that benefit oppone
 *   **Ezuri's Predation ({4}{G}{G}{G}):** Creates a 4/4 Beast for each non-Beast creature opponents control; each fights the corresponding creature. One-sided board wipe potential.
 *   **Horde of Notions ({W}{U}{B}{R}{G}):** 5/5 trample, haste, vigilance. Free with Morophon (all five pips covered). Can reanimate Elementals — all changelings qualify.
 *   **Kindred Summons ({5}{G}{G}):** Choose a type; reveal cards until you find X creatures of that type (X = creatures you control of that type); put them onto the battlefield. Explosive one-sided cheat effect. Removed for cost concerns; revisit if mana base allows.
-*   **Marwyn, the Nurturer ({2}{G}):** Gets +1/+1 counter when another Elf enters; taps for mana equal to power. Strong ramp with elf density.
+*   ~~**Marwyn, the Nurturer**~~ — promoted to main deck.
 *   **Cavern of Souls:** Uncounterable creatures of chosen type. High value in any tribal deck.
 *   **Shapesharer ({1}{U}):** Changeling that can copy any creature temporarily. Flexible but ability cost is high.
 
@@ -163,6 +163,11 @@ The deck is built for a player who strongly dislikes effects that benefit oppone
     *   **Out:** Elvish Visionary (draw), Distant Melody (draw), Commander's Sphere (ramp), Reality Shift (disruption), Swan Song (disruption), Arcane Denial (disruption — draws opponents cards at Bracket 2–3), Door of Destinies retained per preference
     *   **Reason:** Made room for expanded changeling count. 7 targeted disruption + 5 mass disruption = 12 total disruption pieces, sufficient for Bracket 2–3. Kept Door of Destinies as scaling anthem.
 
+*   **[2026-04-05]:** Ramp overhaul — replaced spell ramp with creature-based ramp; trimmed disruption.
+    *   **In:** Birds of Paradise, Bloom Tender, Priest of Titania, Marwyn the Nurturer
+    *   **Out:** Cultivate, Nature's Lore, Patriarch's Bidding, Feed the Swarm
+    *   **Reason:** Deck is creature-focused — ramp that doubles as a board presence is strictly better than sorceries. Birds of Paradise covers 5-color fixing at {G}. Bloom Tender and Priest of Titania scale with creature count (all changelings are Elves, so Priest of Titania taps for {G} per creature mid-game). Marwyn grows from every changeling ETB. Patriarch's Bidding removed (symmetric — benefits opponents); Feed the Swarm removed (sorcery speed, redundant with remaining removal suite).
+
 *   **[2026-04-05]:** Land base finalized — full fetch + shock suite with green-weighted basics.
     *   **In:** Misty Rainforest, Verdant Catacombs, Windswept Heath, Wooded Foothills, Flooded Strand, Marsh Flats, Polluted Delta, Scalding Tarn, Bloodstained Mire, Arid Mesa (fetches); Breeding Pool, Stomping Ground, Temple Garden, Overgrown Tomb, Hallowed Fountain, Godless Shrine, Sacred Foundry, Watery Grave, Steam Vents, Blood Crypt (shocks); Spara's Headquarters, Ketria Triome, Indatha Triome, Ziatora's Proving Ground (triomes); Command Tower, Reflecting Pool, Exotic Orchard, Path of Ancestry, Unclaimed Territory, Reliquary Tower (utility); Forest x4, Plains, Island, Swamp, Mountain (basics)
     *   **Out:** N/A — first land base
@@ -179,11 +184,13 @@ DECK:
 1 Arcane Signet  
 1 Chromatic Lantern  
 1 Fellwar Stone  
+1 Birds of Paradise  
 1 Llanowar Elves  
 1 Elvish Mystic  
 1 Fyndhorn Elves  
-1 Cultivate  
-1 Nature's Lore  
+1 Bloom Tender  
+1 Priest of Titania  
+1 Marwyn, the Nurturer  
 1 Kindred Discovery  
 1 Vanquisher's Banner  
 1 Herald's Horn  
@@ -197,10 +204,8 @@ DECK:
 1 Imprisoned in the Moon  
 1 Chaos Warp  
 1 Terminate  
-1 Feed the Swarm  
 1 Anguished Unmaking  
 1 Kindred Dominance  
-1 Patriarch's Bidding  
 1 Heroic Intervention  
 1 Tamiyo's Safekeeping  
 1 Toxic Deluge  
