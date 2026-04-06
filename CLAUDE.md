@@ -61,6 +61,12 @@ To verify your plugins are loaded, check that the skills above appear in the `Sk
 * Companion `moxfield\_import.txt` files use raw text with no trailing spaces — these are for direct paste into Moxfield's Bulk Edit tool.
 * **Whenever the main deck file is updated, You need to update THREE places. The deck file contains the card list and a short description for the reason the card was included, the plain text copy/paste section at the bottom of the deck file and a separate `moxfield\_import.txt` file. All three locations must be updated.**
 
+### AI Reliability & Card Verification (CRITICAL)
+
+*   **NEVER guess or assume** any Magic: The Gathering card's abilities, legality, or existence.
+*   **MANDATORY:** Always verify all card data, legality, and properties using official sources (**Scryfall**, **Manapool**, or official searches) before modifying any files.
+*   **Ambiguity Protocol:** If any tool output is ambiguous, or if a card is unrecognized/unverified, you **MUST** stop and ask the user for clarification before proceeding.
+
 ### Main File Tagging
 
 When a deck folder contains multiple versions of a deck (e.g., budget vs. premium, working vs. reference), use YAML frontmatter at the top of each file to identify its role:
