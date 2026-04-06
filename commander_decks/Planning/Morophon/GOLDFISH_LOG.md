@@ -1,3 +1,34 @@
+## 2026-04-05 — Multiplayer simulator (20 sims, 10 turns, 4-player pod)
+
+**Command:**
+```
+python scripts/multiplayer_goldfish.py "commander_decks/Planning/Morophon/morophon_changeling_moxfield_import.txt" --sims 20 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 66/80 (82%)
+Range:     T4 - T10
+Average:   T7.2
+Distribution:
+  T 4: ### (3)
+  T 5: ######## (8)
+  T 6: ########### (11)
+  T 7: ################### (19)
+  T 8: ######## (8)
+  T 9: ########### (11)
+  T10: ###### (6)
+
+Multiplayer card value (end T10):
+  Mana Geyser:    ~13R  (vs 0R solo goldfish)
+  Exotic Orchard: {G, U, B, R, W}  (vs dead solo goldfish)
+```
+
+**Notes:**
+Morophon lands by T7 in the majority of seats. T6-T7 is the modal cast window. 82% cast rate across 80 player-seats within 10 turns is strong for a 7-CMC commander with no tutors. The 18% of seats that don't cast by T10 are likely flood/screw outliers. Exotic Orchard and Fellwar Stone correctly resolve to all 5 colors in a pod context. The T4 outliers are Urza's Incubator or heavy elf ramp draws.
+
+---
+
 ## 2026-04-05 — Cast Morophon by T7 / Creatures on board at cast (5 games)
 
 ### Goldfish Results — Morophon Changeling Tribal
