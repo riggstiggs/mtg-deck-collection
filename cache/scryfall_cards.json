@@ -26503,5 +26503,566 @@
       }
     },
     "cached_at": 1775437357.6163182
+  },
+  "birds of paradise": {
+    "data": {
+      "object": "card",
+      "id": "3d69a3e0-6a2e-475a-964e-0affed1c017d",
+      "oracle_id": "d3a0b660-358c-41bd-9cd2-41fbf3491b1a",
+      "multiverse_ids": [
+        643140
+      ],
+      "mtgo_id": 120793,
+      "tcgplayer_id": 517666,
+      "cardmarket_id": 748486,
+      "name": "Birds of Paradise",
+      "lang": "en",
+      "released_at": "2024-01-12",
+      "uri": "https://api.scryfall.com/cards/3d69a3e0-6a2e-475a-964e-0affed1c017d",
+      "scryfall_uri": "https://scryfall.com/card/rvr/133/birds-of-paradise?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747",
+        "normal": "https://cards.scryfall.io/normal/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747",
+        "large": "https://cards.scryfall.io/large/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747",
+        "png": "https://cards.scryfall.io/png/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.png?1722384747",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747"
+      },
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "type_line": "Creature \u2014 Bird",
+      "oracle_text": "Flying\n{T}: Add one mana of any color.",
+      "power": "0",
+      "toughness": "1",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [
+        "Flying"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "legal",
+        "predh": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+      "set": "rvr",
+      "set_name": "Ravnica Remastered",
+      "set_type": "masters",
+      "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/3d69a3e0-6a2e-475a-964e-0affed1c017d/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad3a0b660-358c-41bd-9cd2-41fbf3491b1a&unique=prints",
+      "collector_number": "133",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "Long ago, birds of paradise littered the skies. Thanks to the city's sprawl, most now exist as pets of society's elite.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Marcelo Vignali",
+      "artist_ids": [
+        "9a910e16-deda-49d1-b2ed-0fe570aec489"
+      ],
+      "illustration_id": "f69208a0-e203-4f7e-bcb8-a8d64c2903db",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 33,
+      "penny_rank": 71,
+      "prices": {
+        "usd": "14.38",
+        "usd_foil": "13.65",
+        "usd_etched": null,
+        "eur": "10.02",
+        "eur_foil": "13.26",
+        "tix": "2.99"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643140&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBirds%2Bof%2BParadise",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBirds%2Bof%2BParadise",
+        "edhrec": "https://edhrec.com/route/?cc=Birds+of+Paradise"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517666%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=748486&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/120793?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1775438294.5156069
+  },
+  "bloom tender": {
+    "data": {
+      "object": "card",
+      "id": "ba86688d-18f0-4b5c-a797-42bf125a6c9f",
+      "oracle_id": "0c23fefe-9891-4dd8-9bb1-eebdb3274e31",
+      "multiverse_ids": [],
+      "resource_id": "043DD8E3B3101786F8D21C8B73EC4DAF1543C8F0891A5AC9CD98E1AA34BA28C0",
+      "mtgo_id": 146723,
+      "tcgplayer_id": 671067,
+      "cardmarket_id": 864600,
+      "name": "Bloom Tender",
+      "lang": "en",
+      "released_at": "2026-01-23",
+      "uri": "https://api.scryfall.com/cards/ba86688d-18f0-4b5c-a797-42bf125a6c9f",
+      "scryfall_uri": "https://scryfall.com/card/ecl/166/bloom-tender?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1767658349",
+        "normal": "https://cards.scryfall.io/normal/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1767658349",
+        "large": "https://cards.scryfall.io/large/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1767658349",
+        "png": "https://cards.scryfall.io/png/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.png?1767658349",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1767658349",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1767658349"
+      },
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "type_line": "Creature \u2014 Elf Druid",
+      "oracle_text": "Vivid \u2014 {T}: For each color among permanents you control, add one mana of that color.",
+      "power": "1",
+      "toughness": "1",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [
+        "Vivid"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "alchemy": "legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal"
+      },
+      "games": [
+        "paper",
+        "arena",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "5d293ad8-a749-4725-bd5c-c4e1db828bd0",
+      "set": "ecl",
+      "set_name": "Lorwyn Eclipsed",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/5d293ad8-a749-4725-bd5c-c4e1db828bd0",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aecl&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/ecl?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/ba86688d-18f0-4b5c-a797-42bf125a6c9f/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c23fefe-9891-4dd8-9bb1-eebdb3274e31&unique=prints",
+      "collector_number": "166",
+      "digital": false,
+      "rarity": "mythic",
+      "flavor_text": "Heart calmed by the beauty of the blossom, the dawnhand wondered who was actually protecting whom.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Nils Hamm",
+      "artist_ids": [
+        "c540d1fc-1500-457f-93cf-d6069ee66546"
+      ],
+      "illustration_id": "341d897d-a0b0-42b5-89da-62b3a60fd6ae",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 285,
+      "penny_rank": 3978,
+      "prices": {
+        "usd": "12.53",
+        "usd_foil": "13.27",
+        "usd_etched": null,
+        "eur": "10.99",
+        "eur_foil": "11.93",
+        "tix": "1.89"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBloom%2BTender",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBloom%2BTender",
+        "edhrec": "https://edhrec.com/route/?cc=Bloom+Tender"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F671067%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=864600&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/146723?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1775438295.1625473
+  },
+  "priest of titania": {
+    "data": {
+      "object": "card",
+      "id": "eb11921b-1b28-483f-a707-4de21a6daa31",
+      "oracle_id": "3a198a16-17b9-481e-b516-5bc945c7e247",
+      "multiverse_ids": [
+        664065
+      ],
+      "mtgo_id": 125983,
+      "arena_id": 91112,
+      "tcgplayer_id": 541278,
+      "cardmarket_id": 759792,
+      "name": "Priest of Titania",
+      "lang": "en",
+      "released_at": "2024-06-14",
+      "uri": "https://api.scryfall.com/cards/eb11921b-1b28-483f-a707-4de21a6daa31",
+      "scryfall_uri": "https://scryfall.com/card/mh3/286/priest-of-titania?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1717013714",
+        "normal": "https://cards.scryfall.io/normal/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1717013714",
+        "large": "https://cards.scryfall.io/large/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1717013714",
+        "png": "https://cards.scryfall.io/png/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.png?1717013714",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1717013714",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1717013714"
+      },
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "type_line": "Creature \u2014 Elf Druid",
+      "oracle_text": "{T}: Add {G} for each Elf on the battlefield.",
+      "power": "1",
+      "toughness": "1",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "G"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "legal",
+        "predh": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+      "set": "mh3",
+      "set_name": "Modern Horizons 3",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/eb11921b-1b28-483f-a707-4de21a6daa31/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a198a16-17b9-481e-b516-5bc945c7e247&unique=prints",
+      "collector_number": "286",
+      "digital": false,
+      "rarity": "uncommon",
+      "watermark": "set",
+      "flavor_text": "Titania rewards all who honor the forest by making them a living part of it.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Rebecca Guay",
+      "artist_ids": [
+        "f8f662fa-d597-46a3-afb2-91d6e13243e2"
+      ],
+      "illustration_id": "e77fc693-835b-4b89-8803-7407bbd405c2",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 788,
+      "penny_rank": 487,
+      "prices": {
+        "usd": "0.91",
+        "usd_foil": "2.71",
+        "usd_etched": null,
+        "eur": "0.72",
+        "eur_foil": "0.88",
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=664065&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPriest%2Bof%2BTitania",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPriest%2Bof%2BTitania",
+        "edhrec": "https://edhrec.com/route/?cc=Priest+of+Titania"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F541278%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=759792&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/125983?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1775438295.770332
+  },
+  "marwyn, the nurturer": {
+    "data": {
+      "object": "card",
+      "id": "aad61d99-5c8e-47b7-ab1a-e70905f59205",
+      "oracle_id": "ee35de1c-aef1-4bd4-85fd-fe77bc927790",
+      "multiverse_ids": [
+        508358
+      ],
+      "mtgo_id": 88041,
+      "tcgplayer_id": 231237,
+      "cardmarket_id": 535338,
+      "name": "Marwyn, the Nurturer",
+      "lang": "en",
+      "released_at": "2021-02-05",
+      "uri": "https://api.scryfall.com/cards/aad61d99-5c8e-47b7-ab1a-e70905f59205",
+      "scryfall_uri": "https://scryfall.com/card/khc/68/marwyn-the-nurturer?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg?1631235039",
+        "normal": "https://cards.scryfall.io/normal/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg?1631235039",
+        "large": "https://cards.scryfall.io/large/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg?1631235039",
+        "png": "https://cards.scryfall.io/png/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.png?1631235039",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg?1631235039",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg?1631235039"
+      },
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Legendary Creature \u2014 Elf Druid",
+      "oracle_text": "Whenever another Elf you control enters, put a +1/+1 counter on Marwyn.\n{T}: Add an amount of {G} equal to Marwyn's power.",
+      "power": "1",
+      "toughness": "1",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "G"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "8ef95e7a-9f07-41f8-908b-2df93e03d391",
+          "component": "combo_piece",
+          "name": "Marwyn's Kindred",
+          "type_line": "Sorcery",
+          "uri": "https://api.scryfall.com/cards/8ef95e7a-9f07-41f8-908b-2df93e03d391"
+        },
+        {
+          "object": "related_card",
+          "id": "aad61d99-5c8e-47b7-ab1a-e70905f59205",
+          "component": "combo_piece",
+          "name": "Marwyn, the Nurturer",
+          "type_line": "Legendary Creature \u2014 Elf Druid",
+          "uri": "https://api.scryfall.com/cards/aad61d99-5c8e-47b7-ab1a-e70905f59205"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "d532ef25-e52b-4276-941a-3a1c095544b0",
+      "set": "khc",
+      "set_name": "Kaldheim Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/d532ef25-e52b-4276-941a-3a1c095544b0",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/khc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/aad61d99-5c8e-47b7-ab1a-e70905f59205/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee35de1c-aef1-4bd4-85fd-fe77bc927790&unique=prints",
+      "collector_number": "68",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "Midwife to mothers and leader to all.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Chris Rahn",
+      "artist_ids": [
+        "7742047e-0f80-4c0f-a530-d07460165e86"
+      ],
+      "illustration_id": "63ac8c76-d027-40ee-8f7f-d6ff8d619227",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 1215,
+      "penny_rank": 1738,
+      "prices": {
+        "usd": "5.67",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "3.08",
+        "eur_foil": null,
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=508358&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarwyn%252C%2Bthe%2BNurturer",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarwyn%252C%2Bthe%2BNurturer",
+        "edhrec": "https://edhrec.com/route/?cc=Marwyn%2C+the+Nurturer"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231237%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=535338&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/88041?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1775438296.3331666
   }
 }

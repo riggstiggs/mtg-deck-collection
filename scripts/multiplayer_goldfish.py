@@ -129,7 +129,7 @@ def parse_mana_cost(cost_str: str):
             if c in 'RGWUBC':
                 pips[c] = pips.get(c, 0) + 1
                 cmc += 1
-        # X, S → ignore
+        # X, S -> ignore
     return cmc, pips
 
 
@@ -202,7 +202,7 @@ def classify_card(name: str) -> CardData:
     data = get_scryfall(name)
 
     if not data or data.get('object') == 'error':
-        return card   # unknown → generic, 0 cmc
+        return card   # unknown -> generic, 0 cmc
 
     faces     = data.get('card_faces')
     oracle    = data.get('oracle_text', '')
@@ -305,6 +305,17 @@ class Player:
         random.shuffle(lib)
         self.hand: List[CardData]  = [lib.pop(0) for _ in range(7)]
         self.library: List[CardData] = lib
+
+        # Mulligan: if opening 7 has fewer than 2 lands (or MDFCs), redraw 6.
+        # Mirrors real Commander practice — 0-1 land hands are always mulliganed.
+        def _land_count(hand):
+            return sum(1 for c in hand if c.is_land or c.is_mdfc_land)
+
+        if _land_count(self.hand) < 2:
+            lib2 = self.hand + self.library
+            random.shuffle(lib2)
+            self.hand = [lib2.pop(0) for _ in range(6)]
+            self.library = lib2
         self.lands: List[CardData] = []
         self.mana_perms: List[tuple] = []   # (CardData, ready_turn)
         self.reducer_active = False
@@ -501,7 +512,7 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
         if hk and _can_cast(hk, t, r, g, player.reducer_active):
             player.hand.remove(hk)
             player.hellkite_cast_turn = turn
-            log.append(f"** CAST Hellkite Courser T{turn} → {cmd_name} enters T{turn+1} **")
+            log.append(f"** CAST Hellkite Courser T{turn} -> {cmd_name} enters T{turn+1} **")
 
     if player.hellkite_cast_turn == turn - 1 and player.commander_cast_turn is None:
         player.commander_cast_turn = turn
@@ -527,10 +538,10 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
     ec = exotic_colors(opponents)
     for cd in player.hand:
         if cd.burst_opp_tapped:
-            log.append(f"  [Mana Geyser → {gv}R with {len(opponents)} opponents]")
+            log.append(f"  [Mana Geyser -> {gv}R with {len(opponents)} opponents]")
             break
     if any('EXOTIC' in land.land_produces for land in player.lands):
-        log.append(f"  [Exotic Orchard → {set(ec) if ec else 'dead'}]")
+        log.append(f"  [Exotic Orchard -> {set(ec) if ec else 'dead'}]")
 
     # 6. Play generic spells if mana permits
     changed = True
@@ -580,7 +591,7 @@ def _run_one(deck_data: List[CardData], commander: CardData, num_turns: int,
             for entry in player.turn_log:
                 print(entry)
             ct = f"T{player.commander_cast_turn}" if player.commander_cast_turn else "NOT CAST"
-            print(f"  → {commander.name}: {ct}\n")
+            print(f"  -> {commander.name}: {ct}\n")
 
     return players
 

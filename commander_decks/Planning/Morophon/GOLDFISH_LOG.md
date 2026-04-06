@@ -1,3 +1,32 @@
+## 2026-04-05 — Mulligan fix + 50-sim validation (50 sims, 10 turns, 4-player pod)
+
+**Command:**
+```
+python scripts/multiplayer_goldfish.py "commander_decks/Planning/Morophon/morophon_changeling_moxfield_import.txt" --sims 50 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 156/200 (78%)
+Range:     T2 - T10
+Average:   T7.0
+Distribution:
+  T 2: # (1)
+  T 3: ## (2)
+  T 4: ###### (6)
+  T 5: #################### (20)
+  T 6: ################################# (33)
+  T 7: ################################## (34)
+  T 8: ####################### (23)
+  T 9: ####################### (23)
+  T10: ############## (14)
+```
+
+**Notes:**
+Added mulligan logic: opening hands with fewer than 2 lands redraw to 6 (mirrors real Commander practice). Despite the fix, cast rate held at ~78-80%. Root cause of remaining misses is mana drought through the draw phase — not opening hand quality. Analysis of verbose output confirmed: failing seats draw only 5-6 lands in 10 turns (no acceleration drawn), making 7 total mana unreachable. This is genuine variance inherent to a 7-CMC commander with no pip requirements. The **distribution** tells the real story: T5-T7 now accounts for 87 of 156 casts (56%) — the modal window is T6-T7 and the ramp package is performing as designed. The 78% floor is realistic; real-table performance will exceed this due to Commander's free mulligan, better sequencing decisions, and Priest of Titania/Marwyn scaling that the simulator cannot model.
+
+---
+
 ## 2026-04-05 — Multiplayer simulator post-ramp overhaul (20 sims, 10 turns, 4-player pod)
 
 **Command:**
