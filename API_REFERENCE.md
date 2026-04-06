@@ -10,6 +10,31 @@ This file is the authoritative reference for all external API interactions in th
 2. **Respect rate limits.** Both APIs enforce limits. Exceeding them causes 429 errors and degrades performance for all subsequent calls. The scripts handle rate limiting automatically — do not bypass delays.
 3. **Use exponential backoff.** On 429 or 5xx errors, both scripts retry with exponential backoff (base 2s, max 5 retries). Do not retry manually on top of this.
 4. **Unknown card = mandatory lookup.** If you are uncertain about any card's oracle text, mana cost, type line, or abilities, you MUST look it up before making decisions based on it. Do not rely on memory or assumption for card rules.
+5. **Cache is automatic.** Both scripts check a local disk cache before making API calls. You do not need to manage the cache manually — it is populated and read transparently. Use `--no-cache` on `scryfall_lookup.py` only when you specifically need fresh data (e.g., checking an updated price or a newly spoiled card).
+
+---
+
+## Local Cache
+
+Both scripts maintain a local JSON cache in the `cache/` directory (gitignored — local only, not committed to the repo). The cache prevents redundant API calls across sessions and is especially valuable for goldfish simulations where the same cards are looked up repeatedly across multiple games.
+
+| Cache file | Used by | Keyed by | TTL |
+|------------|---------|----------|-----|
+| `cache/scryfall_cards.json` | `scryfall_lookup.py` | Lowercase card name (named lookups) | 30 days |
+| `cache/scryfall_search.json` | `scryfall_lookup.py` | Query string + unique parameter | 7 days |
+| `cache/scryfall_printings.json` | `manapool_price_deck.py` | Lowercase card name (printing ID lists) | 7 days |
+
+**TTL rationale:**
+- 30 days for named card objects — oracle text, type lines, and mana costs change only via errata, which is rare.
+- 7 days for search results and printing lists — new set releases and new printings happen on a regular schedule; weekly refresh keeps data reasonably current.
+
+**Cache hit output:** When a result is served from cache, the scripts print `[cache hit] Card Name` to stderr. This does not appear in normal stdout output and will not pollute piped results.
+
+**Bypassing the cache:** Pass `--no-cache` to `scryfall_lookup.py` to force fresh API calls and overwrite stale cache entries:
+```
+python scripts/scryfall_lookup.py --no-cache "Sol Ring"
+```
+The `manapool_price_deck.py` script does not currently support `--no-cache`; delete `cache/scryfall_printings.json` manually if you need to force a refresh.
 
 ---
 

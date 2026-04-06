@@ -21,6 +21,7 @@ Example:
 import sys
 import json
 import time
+import os
 import urllib.request
 import urllib.parse
 from collections import defaultdict
@@ -42,6 +43,54 @@ SCRYFALL_DELAY = 0.5       # 500ms between Scryfall requests (search/named limit
 MANAPOOL_DELAY = 0.3       # 300ms between Manapool batches
 RETRY_BASE_DELAY = 2.0     # Base delay for exponential backoff on 429 (seconds)
 MAX_RETRIES = 5
+
+# Cache settings — Scryfall printing ID lists per card name
+# New printings are released infrequently; 7 days is a safe TTL.
+CACHE_DIR = "cache"
+PRINTINGS_CACHE_FILE = os.path.join(CACHE_DIR, "scryfall_printings.json")
+PRINTINGS_CACHE_TTL = 7 * 24 * 3600   # 7 days
+
+_printings_cache = None
+
+
+def _load_printings_cache():
+    global _printings_cache
+    if _printings_cache is not None:
+        return
+    if os.path.exists(PRINTINGS_CACHE_FILE):
+        try:
+            with open(PRINTINGS_CACHE_FILE, encoding="utf-8") as f:
+                _printings_cache = json.load(f)
+            return
+        except Exception as e:
+            print(f"  [cache] Warning: could not load {PRINTINGS_CACHE_FILE}: {e}")
+    _printings_cache = {}
+
+
+def _save_printings_cache():
+    if _printings_cache is None:
+        return
+    try:
+        os.makedirs(CACHE_DIR, exist_ok=True)
+        with open(PRINTINGS_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(_printings_cache, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"  [cache] Warning: could not save {PRINTINGS_CACHE_FILE}: {e}")
+
+
+def _get_cached_ids(name):
+    """Return cached Scryfall ID list for a card name if within TTL, else None."""
+    _load_printings_cache()
+    entry = _printings_cache.get(name.lower())
+    if entry and (time.time() - entry.get("cached_at", 0)) < PRINTINGS_CACHE_TTL:
+        return entry["ids"]
+    return None
+
+
+def _set_cached_ids(name, ids):
+    """Store Scryfall ID list for a card name in the cache."""
+    _load_printings_cache()
+    _printings_cache[name.lower()] = {"ids": ids, "cached_at": time.time()}
 
 
 def fetch_with_retry(url, headers, label="request"):
@@ -92,7 +141,12 @@ def parse_decklist(path):
 
 
 def get_all_scryfall_ids(card_name):
-    """Return all paper Scryfall IDs for a card, sorted cheapest first."""
+    """Return all paper Scryfall IDs for a card. Checks local cache first."""
+    cached = _get_cached_ids(card_name)
+    if cached is not None:
+        print(f"    [cache hit] {card_name} ({len(cached)} printing(s))")
+        return cached
+
     ids = []
     safe = urllib.parse.quote(f'!"{card_name}" game:paper -is:digital')
     url = f"https://api.scryfall.com/cards/search?q={safe}&order=usd&dir=asc&unique=prints"
@@ -116,6 +170,9 @@ def get_all_scryfall_ids(card_name):
         if data and "id" in data:
             ids.append(data["id"])
             print(f"    (used named fallback for '{card_name}')")
+
+    if ids:
+        _set_cached_ids(card_name, ids)
 
     return ids
 
@@ -316,6 +373,7 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
     print(f"\nFull results saved to {out_path}")
+    _save_printings_cache()
 
 
 if __name__ == "__main__":
