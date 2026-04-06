@@ -574,9 +574,9 @@ def _run_one(deck_data: List[CardData], commander: CardData, num_turns: int,
 
     if verbose:
         for player in players:
-            print(f"{'─'*68}")
+            print(f"{'-'*68}")
             print(f"PLAYER {player.pid}")
-            print(f"{'─'*68}")
+            print(f"{'-'*68}")
             for entry in player.turn_log:
                 print(entry)
             ct = f"T{player.commander_cast_turn}" if player.commander_cast_turn else "NOT CAST"
@@ -606,9 +606,9 @@ def run_sims(deck_data: List[CardData], commander: CardData,
               f"Earliest: {earliest:4s}  |  Turns: {sim_turns or ['none']}")
 
     total_slots = num_sims * 4
-    print(f"\n{'─'*68}")
+    print(f"\n{'-'*68}")
     print("AGGREGATE")
-    print(f"{'─'*68}")
+    print(f"{'-'*68}")
     print(f"  Commander cast rate: {len(all_turns)}/{total_slots} "
           f"({len(all_turns)/total_slots*100:.0f}%)")
     if all_turns:
@@ -619,7 +619,7 @@ def run_sims(deck_data: List[CardData], commander: CardData,
             buckets[t] += 1
         print("  Distribution:")
         for t in sorted(buckets):
-            print(f"    T{t:2d}: {'█' * buckets[t]} ({buckets[t]})")
+            print(f"    T{t:2d}: {'#' * buckets[t]} ({buckets[t]})")
 
     # Final-turn multiplayer card value snapshot
     if last_players:
@@ -680,7 +680,7 @@ def parse_deck_file(file_path: str):
 
 def preload_deck(names: List[str]) -> List[CardData]:
     unique = list(dict.fromkeys(names))
-    uncached = [n for n in unique if n not in _cache]
+    uncached = [n for n in unique if n.lower() not in _cache]
     if uncached:
         print(f"Fetching {len(uncached)} cards from Scryfall "
               f"({len(unique) - len(uncached)} cached)...")
