@@ -2,6 +2,39 @@
 
 This file defines the full protocol for running "Honest Goldfish" simulations on Commander decks in this repository. It governs how sub-agents are dispatched, how each game is played, what decisions are made, and how results are reported back and summarized.
 
+> **API Reference:** All card lookups and pricing queries must follow the rules in `API_REFERENCE.md`. That file is the authoritative reference for Scryfall and Manapool API usage, rate limits, permanent scripts, and error handling. Read it before performing any API calls.
+
+---
+
+## MANDATORY: Card Research Requirement
+
+**Every sub-agent running a goldfish game MUST look up any card it does not know with certainty before making play decisions based on it.**
+
+This is not optional. Oracle text is exact rules language. A card that "seems like" it does something may have a restriction, an exception, or a timing rule that changes the correct play. An incorrect assumption invalidates the entire game's data.
+
+### When you MUST look up a card:
+- You are unsure of the card's exact oracle text
+- You are unsure of the card's mana cost, color identity, or type
+- You are deciding whether or how to play the card this turn
+- The card has a triggered ability, activated ability, or replacement effect and you are not certain of the exact wording
+- The card interacts with another card and you are not certain how the interaction resolves
+
+### How to look up a card:
+Use the permanent Scryfall lookup script. Do not write inline Python. Do not guess.
+
+```
+python scripts/scryfall_lookup.py "Card Name"
+```
+
+Multiple cards at once:
+```
+python scripts/scryfall_lookup.py "Kindred Discovery" "Maskwood Nexus" "Morophon, the Boundless"
+```
+
+The output shows exact oracle text, mana cost, type line, and current USD price. Rate limit is 500ms between requests — the script handles this automatically.
+
+See `API_REFERENCE.md` for full Scryfall and Manapool documentation including query syntax, rate limits, and all usage examples.
+
 ---
 
 ## Overview
@@ -133,11 +166,16 @@ Deck file: [path to moxfield_import.txt]
 Test goal: [specific metric — e.g., "record the turn Morophon, the Boundless is cast and list all other creatures on the battlefield at that moment"]
 
 Instructions:
-1. Run: python scripts/goldfish_shuffler.py "[path to moxfield_import.txt]"
-2. Follow the full goldfish protocol in GOLDFISH.md exactly.
-3. Report your results in the exact format specified in GOLDFISH.md Step 4.
-4. Do not skip turns or abbreviate — report each turn individually.
-5. This is a research task only — do not modify any deck files.
+1. Read GOLDFISH.md and API_REFERENCE.md before starting. Both are in the project root.
+2. Run: python scripts/goldfish_shuffler.py "[path to moxfield_import.txt]"
+3. Before making any play decision involving a card, look up its oracle text if you are not 100% certain:
+      python scripts/scryfall_lookup.py "Card Name"
+   Do not guess. Do not assume. Look it up.
+4. Follow the full goldfish protocol in GOLDFISH.md exactly.
+5. Report your results in the exact format specified in GOLDFISH.md Step 4.
+6. Do not skip turns or abbreviate — report each turn individually.
+7. This is a research task only — do not modify any deck files.
+8. All API usage must follow API_REFERENCE.md — rate limits, parameter formats, and script usage.
 ```
 
 ---
