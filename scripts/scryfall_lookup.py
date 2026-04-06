@@ -1,38 +1,15 @@
+#!/usr/bin/env python3
 """
-scryfall_lookup.py
-------------------
-Reusable Scryfall card lookup utility with local disk cache.
+Scryfall Lookup — Reusable Card Utility
 
-Cache files (in cache/ directory relative to working directory):
-  cache/scryfall_cards.json   — named card lookups    (TTL: 30 days)
-  cache/scryfall_search.json  — search query results  (TTL: 7 days)
+This is a 'utility' script. It doesn't build a deck or run a simulation itself;
+instead, it provides a set of functions that other scripts can use to talk 
+to Scryfall. Think of it like a library or a toolbox.
 
-Cache is checked before every API call. Results are written to cache after
-every successful API response. Run with --no-cache to bypass the cache and
-force fresh API calls (also refreshes cached entries).
-
-Rate limits (per Scryfall API docs):
-  /cards/search, /cards/named — 2/sec (500ms between requests)
-  All other endpoints         — 10/sec (100ms)
-
-Usage:
-    # Look up one card
-    python scripts/scryfall_lookup.py "Sol Ring"
-
-    # Look up multiple cards
-    python scripts/scryfall_lookup.py "Sol Ring" "Command Tower" "Morophon, the Boundless"
-
-    # Look up from a text file (one card name per line)
-    python scripts/scryfall_lookup.py --file cards.txt
-
-    # Search by query (Scryfall syntax)
-    python scripts/scryfall_lookup.py --search "t:shapeshifter game:paper"
-
-    # Search and show all printings
-    python scripts/scryfall_lookup.py --search "!\"Sol Ring\" game:paper" --unique prints
-
-    # Bypass cache and force fresh API calls
-    python scripts/scryfall_lookup.py --no-cache "Sol Ring"
+Features:
+- Look up cards by name.
+- Search for cards using Scryfall syntax (e.g. "t:dragon color:red").
+- Manages a local cache so we don't ask Scryfall for the same card twice.
 """
 
 import sys
@@ -42,30 +19,33 @@ import os
 import urllib.request
 import urllib.parse
 
+# --- Configuration & API Rules ---
 HEADERS = {"User-Agent": "MTGDeckCollection/1.0", "Accept": "application/json"}
-NAMED_DELAY = 0.5    # 500ms — /cards/named limit: 2/sec
-SEARCH_DELAY = 0.5   # 500ms — /cards/search limit: 2/sec
-RETRY_BASE = 2.0
-MAX_RETRIES = 5
+NAMED_DELAY = 0.5    # Wait 0.5s between 'named' calls
+SEARCH_DELAY = 0.5   # Wait 0.5s between 'search' calls
+RETRY_BASE = 2.0     # Base time to wait if the server is busy
+MAX_RETRIES = 5      # Max number of attempts per card
 
-# Cache settings
+# --- Cache Settings ---
+# We store results in 'cache/' to make the script faster.
 CACHE_DIR = "cache"
 CARD_CACHE_FILE = os.path.join(CACHE_DIR, "scryfall_cards.json")
 SEARCH_CACHE_FILE = os.path.join(CACHE_DIR, "scryfall_search.json")
-CARD_CACHE_TTL  = 365 * 24 * 3600   # 1 year — oracle text changes only via errata
-SEARCH_CACHE_TTL = 120 * 24 * 3600  # 120 days — new printings released infrequently
 
-# Module-level cache state — loaded once, saved at end
+# Time To Live (TTL): How long before we consider the cache 'stale'.
+CARD_CACHE_TTL  = 365 * 24 * 3600   # 1 year (Oracle text rarely changes)
+SEARCH_CACHE_TTL = 120 * 24 * 3600  # 120 days (Set lists change every few months)
+
+# Module-level variables to hold the cache data while the script is running.
 _card_cache = None
 _search_cache = None
 
-
 # ---------------------------------------------------------------------------
-# Cache helpers
+# Internal Cache Helpers
 # ---------------------------------------------------------------------------
 
 def _load_cache(path):
-    """Load a JSON cache file from disk. Returns empty dict on missing/corrupt."""
+    """Reads a JSON file from the disk. Returns an empty dictionary if it fails."""
     if os.path.exists(path):
         try:
             with open(path, encoding="utf-8") as f:
@@ -74,9 +54,8 @@ def _load_cache(path):
             print(f"  [cache] Warning: could not load {path}: {e}", file=sys.stderr)
     return {}
 
-
 def _save_cache(path, data):
-    """Write a JSON cache dict to disk."""
+    """Writes a dictionary to a JSON file on the disk."""
     try:
         os.makedirs(CACHE_DIR, exist_ok=True)
         with open(path, "w", encoding="utf-8") as f:
@@ -84,43 +63,44 @@ def _save_cache(path, data):
     except Exception as e:
         print(f"  [cache] Warning: could not save {path}: {e}", file=sys.stderr)
 
-
 def _cache_get(cache, key, ttl):
-    """Return cached data if present and within TTL, else None."""
+    """
+    Checks if a 'key' (like a card name) is in the cache.
+    Returns the data ONLY if it hasn't expired yet.
+    """
     entry = cache.get(key.lower())
     if entry and (time.time() - entry.get("cached_at", 0)) < ttl:
         return entry["data"]
     return None
 
-
 def _cache_set(cache, key, data):
-    """Store data in cache dict with current timestamp."""
+    """Adds a result to the memory cache with the current time."""
     cache[key.lower()] = {"data": data, "cached_at": time.time()}
 
-
 def _init_caches():
-    """Load both cache files into module-level dicts (called once)."""
+    """Starts the caching system by loading files into memory."""
     global _card_cache, _search_cache
     if _card_cache is None:
         _card_cache = _load_cache(CARD_CACHE_FILE)
     if _search_cache is None:
         _search_cache = _load_cache(SEARCH_CACHE_FILE)
 
-
 def _flush_caches():
-    """Write both in-memory caches back to disk."""
+    """Saves the memory caches back to the disk files."""
     if _card_cache is not None:
         _save_cache(CARD_CACHE_FILE, _card_cache)
     if _search_cache is not None:
         _save_cache(SEARCH_CACHE_FILE, _search_cache)
 
-
 # ---------------------------------------------------------------------------
-# Network helpers
+# Network Logic
 # ---------------------------------------------------------------------------
 
 def fetch(url, label="request"):
-    """GET a URL with exponential backoff on 429/5xx."""
+    """
+    Makes a web request to Scryfall. 
+    Includes 'Retry' logic: if the server is busy, it waits and tries again.
+    """
     for attempt in range(MAX_RETRIES):
         try:
             req = urllib.request.Request(url, headers=HEADERS)
@@ -128,26 +108,28 @@ def fetch(url, label="request"):
                 return json.loads(r.read())
         except urllib.error.HTTPError as e:
             if e.code == 429 or e.code >= 500:
-                wait = RETRY_BASE * (2 ** attempt)
-                print(f"  [rate limit] {label} got HTTP {e.code}, waiting {wait:.1f}s...", file=sys.stderr)
+                wait = RETRY_BASE * (2 ** attempt) # Wait longer each time
+                print(f"  [rate limit] {label} busy, waiting {wait:.1f}s...", file=sys.stderr)
                 time.sleep(wait)
             elif e.code == 404:
-                return None
+                return None # Card simply doesn't exist
             else:
-                print(f"  [error] {label} HTTP {e.code}: {e.reason}", file=sys.stderr)
+                print(f"  [error] {label} failed: {e.reason}", file=sys.stderr)
                 return None
         except Exception as e:
-            print(f"  [error] {label}: {e}", file=sys.stderr)
+            print(f"  [error] {label} failed: {e}", file=sys.stderr)
             return None
     return None
 
-
 # ---------------------------------------------------------------------------
-# Card formatting
+# Formatting Logic
 # ---------------------------------------------------------------------------
 
 def format_card(c, verbose=True):
-    """Format a card dict for display."""
+    """
+    Turns a Scryfall JSON object into a pretty Markdown string.
+    Example: '--- Sol Ring {1} [Artifact] $1.50 [Set Name #123]'
+    """
     name = c.get("name", "?")
     cost = c.get("mana_cost", "")
     type_line = c.get("type_line", "")
@@ -162,24 +144,24 @@ def format_card(c, verbose=True):
         lines.append(f"    {oracle}")
     return "\n".join(lines)
 
-
 # ---------------------------------------------------------------------------
-# Lookup functions
+# Core Search/Lookup Functions
 # ---------------------------------------------------------------------------
 
 def lookup_named(name, no_cache=False):
-    """Look up a single card by exact name. Checks local cache first."""
+    """Finds one card by its exact name."""
     _init_caches()
 
     if not no_cache:
+        # Check if we already have it in the file
         cached = _cache_get(_card_cache, name, CARD_CACHE_TTL)
         if cached is not None:
-            print(f"  [cache hit] {name}", file=sys.stderr)
             return cached
 
+    # Not in cache, so we call Scryfall
     safe = urllib.parse.quote(name)
     url = f"https://api.scryfall.com/cards/named?exact={safe}"
-    time.sleep(NAMED_DELAY)
+    time.sleep(NAMED_DELAY) # Respect the rate limit
     result = fetch(url, label=f"named '{name}'")
 
     if result is not None:
@@ -187,75 +169,72 @@ def lookup_named(name, no_cache=False):
 
     return result
 
-
 def lookup_search(query, unique="cards", order="name", no_cache=False):
-    """Search cards using Scryfall query syntax. Returns all pages. Checks local cache."""
+    """Search for cards using Scryfall's powerful search syntax."""
     _init_caches()
+    # Create a unique key for this search so we can cache it
     cache_key = f"{query}|unique={unique}|order={order}"
 
     if not no_cache:
         cached = _cache_get(_search_cache, cache_key, SEARCH_CACHE_TTL)
         if cached is not None:
-            print(f"  [cache hit] search: {query!r}", file=sys.stderr)
             return cached
 
     results = []
     safe = urllib.parse.quote(query)
     url = f"https://api.scryfall.com/cards/search?q={safe}&unique={unique}&order={order}"
-    page = 1
+    
+    # Scryfall returns 175 cards at a time. We loop through 'pages' to get them all.
     while url:
         time.sleep(SEARCH_DELAY)
-        data = fetch(url, label=f"search '{query}' p{page}")
+        data = fetch(url, label=f"search page")
         if not data:
             break
         results.extend(data.get("data", []))
+        # Check if there is a 'next_page' URL in the result
         url = data.get("next_page") if data.get("has_more") else None
-        page += 1
 
     if results:
         _cache_set(_search_cache, cache_key, results)
 
     return results
 
-
 # ---------------------------------------------------------------------------
-# Main
+# CLI Management
 # ---------------------------------------------------------------------------
 
 def main():
+    """The command-line interface logic."""
     args = sys.argv[1:]
     if not args:
-        print(__doc__)
+        print(__doc__) # Print the help text at the top of the script
         sys.exit(0)
 
     no_cache = "--no-cache" in args
     args = [a for a in args if a != "--no-cache"]
 
     try:
-        # -- Search mode
+        # SEARCH MODE
         if "--search" in args:
             idx = args.index("--search")
             query = args[idx + 1]
-            unique = "cards"
-            if "--unique" in args:
-                uidx = args.index("--unique")
-                unique = args[uidx + 1]
-            results = lookup_search(query, unique=unique, no_cache=no_cache)
-            print(f"=== Search: {query!r} ({len(results)} results) ===")
+            results = lookup_search(query, no_cache=no_cache)
+            print(f"=== Search Results ({len(results)}) ===")
             for c in results:
                 print(format_card(c))
             return
 
-        # -- File mode
+        # FILE MODE (Read a list of names from a .txt file)
         if "--file" in args:
             idx = args.index("--file")
             path = args[idx + 1]
             with open(path, encoding="utf-8") as f:
                 names = [line.strip() for line in f if line.strip()]
         else:
+            # DIRECT MODE (names typed directly in the terminal)
             names = [a for a in args if not a.startswith("--")]
 
-        # -- Named lookup mode
+        # PERFORM LOOKUPS
         not_found = []
         for name in names:
             card = lookup_named(name, no_cache=no_cache)
@@ -266,11 +245,11 @@ def main():
                 print(f"--- NOT FOUND: {name}")
 
         if not_found:
-            print(f"\nNot found ({len(not_found)}): {', '.join(not_found)}")
+            print(f"\nCould not find: {', '.join(not_found)}")
 
     finally:
+        # ALWAYS save the cache, even if there was an error
         _flush_caches()
-
 
 if __name__ == "__main__":
     main()
