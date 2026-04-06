@@ -9,6 +9,8 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 *   Plan card crafting (Arena Wildcards) and purchasing (Paper) decisions.
 *   Ensure Commander decks adhere to specific power-level constraints (The Bracket System).
 
+**Role:** You are to act as an expert MTG Commander deck builder with deep knowledge of cards, synergies, and meta. When building decks, follow the standards below.
+
 **GitHub Repository:** [mtg-deck-collection](https://github.com/chayde/mtg-deck-collection)
 
 ## 2. Directory Structure & Key Files
@@ -16,8 +18,9 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 ### 📂 Root Directory
 *   **`README.md`**: The primary index of the project, listing all active and planned decks.
 *   **`history.md`**: A chronological log of conversations, major decisions, and match history. **Always check this first** to understand recent choices.
-*   **`COMMANDER_DECKBUILDING_RULES.md`**: Source of truth for power-level compliance and the "Game Changers" list.
-*   **`COMMANDER_TEMPLATE.md`**: Standard card category ratios (The "New Era" Template) for building consistent decks.
+*   **`COMMANDER_DECKBUILDING_RULES.md`**: Source of truth for Brackets 1-5 and the "Game Changers" list.
+*   **`COMMANDER_TEMPLATE.md`**: Standard card category ratios (The "New Era" Template: 38 lands, 10 ramp, 12 draw, etc.).
+*   **`DECK_TEMPLATE.md`**: Structural template for all new deck files.
 *   **`GEMINI.md`**: This file. Context for AI agents.
 *   **`collection.csv`**: Database of the user's digital/physical card collection.
 
@@ -25,6 +28,7 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 *   **`/Owned`**: Decks the user physically owns (e.g., `TheHive-Slivers.md`, `KarametraAngels`).
 *   **`/Planning`**: Decks under development (e.g., `OmnathLocusOfCreation`, `ThaliaGitrog`).
 *   **`/PreCons`**: Original and modified Preconstructed deck lists.
+*   **`/External`**: Decks built for others (e.g., John: Rafiq, Christina: Alela).
 
 ### 📂 `/arena_decks`
 *   **`dimir_midrange.md`**: Current primary Standard deck.
@@ -32,26 +36,55 @@ This project serves as a comprehensive knowledge base and tracker for the user's
 
 ## 3. Usage & Maintenance Guidelines
 
-### Reading & Creating Deck Lists
-*   **Format:** Deck files are Markdown (`.md`).
-*   **Template:** **MANDATORY:** Always use `DECK_TEMPLATE.md` as the structural foundation when creating new deck files to ensure consistency across the project.
-*   **Structure:** Typically include strategy, categorized card lists (Core, Payoffs, Interaction), Mana Base, and a **Moxfield Import** section for easy copying.
-*   **Versions:** Track **"Budget" vs "Premium"** versions to assist with financial/wildcard planning.
-*   **GFM Line Breaks:** **CRITICAL:** In the "Plain Text Copy/Paste" section, add **two spaces** at the end of every line (including "COMMANDER:", "DECK:", and every card name) to ensure GitHub renders them as individual lines instead of a single paragraph.
-*   **Moxfield Readiness:** **MANDATORY:** For every deck, create a separate `moxfield_import.txt` file in the deck's directory. This file must use standard Moxfield headers (`Commander`, `Deck`) and tags (e.g., `1 [Card Name] *CMDR*`). Do **NOT** add the two spaces at the end of lines in this `.txt` file; it should be raw text for direct copy-pasting into Moxfield's Bulk Edit tool.
+### Deck Building Standards
+*   **Format:** Commander decks must be 100-card singleton (1 Commander + 99 cards) and adhere strictly to the commander's color identity.
+*   **Template:** **MANDATORY:** Always use `DECK_TEMPLATE.md` as the structural foundation for new deck files.
+*   **Triple Update Rule (CRITICAL):** Whenever a deck is updated, you must update **THREE** locations:
+    1.  The main deck file's card list and descriptions.
+    2.  The **Plain Text Copy/Paste** section at the bottom of the deck file.
+    3.  The separate `moxfield_import.txt` file in the deck's directory.
+*   **GFM Line Breaks:** In the "Plain Text Copy/Paste" section, every line **MUST** end with **two spaces** to ensure GitHub renders them correctly.
+*   **Moxfield Import File:** `moxfield_import.txt` uses raw text (standard Moxfield headers and tags) with **no** trailing spaces for direct copy-pasting.
 
-### Maintenance Conventions
-*   **GitHub Synchronization:** **CRITICAL:** All changes made to this project must be committed and pushed to the GitHub repository to maintain synchronization across environments.
-*   **Deck Changelog:** Maintain a `## Deck Changelog` section in every deck file. Document all card changes (In/Out) with a date and a brief reason. Format must match `commander_decks/Planning/OmnathLocusOfCreation/omnath_locus_of_creation_landfall.md`.
-*   **Moxfield Sync:** **MANDATORY:** Whenever the main deck file is updated, ensure the `moxfield_import.txt` file is synchronized to reflect the changes.
-*   **Bracket Compliance:** When modifying Commander decks, verify the "Game Changers" count against `COMMANDER_DECKBUILDING_RULES.md`.
-*   **Goldfish Validation:** **MANDATORY:** After completing a new build or a major overhaul, perform a 5-game "Honest Goldfish" simulation (following the protocol in `COMMANDER_TEMPLATE.md`) using `scripts/goldfish_shuffler.py` to verify mana stability and strategy. Log the results in a `GOLDFISH_LOG.md` within the deck's directory. **MANDATORY:** Provide visual links or Markdown card renders for every card drawn or played to ensure the user can visually track the game state.
-    *   **Honest Goldfish Definition:** A "Honest" simulation forbids perfect foresight. The deck is shuffled via script (using nanosecond seeds), and cards are drawn one-by-one. If a card searches/shuffles the library, the script must be re-run (or the sequence abandoned and restarted) to maintain true randomization. Strict mana costs and land entry conditions (tapped/untapped/life-pay) must be followed to accurately test the deck's speed and reliability.
-*   **History Updates:** Summarize significant decisions or deck overhauls in `history.md`.
+### Main File Tagging
+When a folder contains multiple versions (e.g., budget vs. premium), use YAML frontmatter at the top:
+```yaml
+---
+deck_status: main
+---
+```
+Valid values: `main` (active working deck), `reference` (archived/aspirational list).
+
+### Bracket Compliance
+Verify "Game Changers" count against `COMMANDER_DECKBUILDING_RULES.md`:
+*   **Bracket 1-2:** Zero Game Changers.
+*   **Bracket 3:** Up to three Game Changers.
+*   **Bracket 4-5:** No restrictions.
+
+### Deck Changelog Format
+Every deck change must be logged in `## Deck Changelog` using this template:
+```markdown
+- **[YYYY-MM-DD]:** [Summary]
+    - **In:** [Card Names]
+    - **Out:** [Card Names]
+    - **Reason:** [Brief logic]
+```
+
+### Goldfish Validation
+After major overhauls, a 5-game "Honest Goldfish" simulation is **MANDATORY** using `scripts/goldfish_shuffler.py`.
+*   Log results in `GOLDFISH_LOG.md` in the deck's directory.
+*   Provide **Scryfall links or Markdown card renders** for every card drawn or played.
+*   Follow the "Honest Goldfish" protocol in `COMMANDER_TEMPLATE.md` (no foresight, re-shuffling on searches).
+
+### Order Tracking & History
+*   **Order Tracking:** Track active physical card orders in `order_tracking.md` within the deck's directory.
+*   **History Log:** Summarize significant decisions or deck promotions in `history.md` under the appropriate month header.
+*   **GitHub Synchronization:** **CRITICAL:** All changes must be committed and pushed to keep environments synchronized.
 
 ## 4. User Preferences & Context
 
 ### MTG Preferences
-*   **Playstyle:** Enjoys complex interactions (Cascade, Landfall), Tribal strategies (Slivers), and Midrange/Control (Dimir).
+*   **Playstyle:** Enjoys complex interactions and value engines (Aristocrats, ETB Triggers, Landfall, Cascade/Chaos), Tribal strategies (Slivers, Dragons, Angels), and Midrange/Combo-Control. Prefers decks with meaningful decisions.
 *   **Dislikes:** Linear Aggro (e.g., Mono-Red).
-*   **Resources:** "Wildcard Rich" on Arena. Has a **paid subscription to Untapped.gg** for gathering decklists and meta information.
+*   **Arena:** "Wildcard Rich" on Arena. Has a paid Untapped.gg subscription for meta data.
+*   **Paper:** Tracks Budget vs. Premium versions; actively acquires cards via Manapool/similar marketplaces.
