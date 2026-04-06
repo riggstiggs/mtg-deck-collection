@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Deck Analysis: The Hive (Slivers)
 
 **Date:** January 17, 2026

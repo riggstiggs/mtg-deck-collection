@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Sideboard Analysis & Upgrade Recommendations
 **Deck:** The Hive (5-Color Slivers)
 **Missing Card:** *Lazotep Sliver* (Main Deck)

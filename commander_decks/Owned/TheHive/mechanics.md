@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Magic: The Gathering Mechanics & Keywords Glossary
 
 This file serves as a reference for keywords and abilities encountered in the "The Hive" Sliver deck.

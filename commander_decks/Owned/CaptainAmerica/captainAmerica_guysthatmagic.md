@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Captain America Deck Guide (High Power Version)
 
 **A Note on the Commander:** "Captain America, First Avenger" is a custom commander. In this high-power build, its abilities are used as a value engine and removal piece while assembling a primary Voltron or combo kill.

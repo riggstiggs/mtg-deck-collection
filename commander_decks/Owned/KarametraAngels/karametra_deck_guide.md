@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Karametra, God of Harvests: Pilot's Handbook
 
 This guide is tailored for the **Budget Angel/Landfall** version of the deck. Unlike "Combo Karametra" decks that use bouncing creatures (*Whitemane Lion*) to strip-mine the library, this deck is a **Midrange Stompy** deck. It wins by creating an insurmountable board state of high-value Angels and massive Landfall armies.

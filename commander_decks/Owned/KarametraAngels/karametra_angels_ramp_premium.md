@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Karametra Deck Guide: "The Heavenly Host (Premium)"
 
 ## Commander Strategy
