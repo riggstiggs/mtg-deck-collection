@@ -243,6 +243,34 @@ After completing a goldfish session, write full results to `GOLDFISH_LOG.md` in 
 
 ---
 
+## Pod Assumptions
+
+Goldfish games are simulated as if playing in a **full pod of 4 players** (yourself + 3 opponents). All 3 opponents are assumed to be playing an identical copy of the deck being tested. This assumption exists so that cards referencing opponents or opponent resources behave correctly and consistently across all games.
+
+### What this means in practice:
+
+**Mana-producing lands that reference opponents:**
+- **Exotic Orchard** — taps for any color of mana an opponent's land can produce. Since opponents are playing the same 5-color deck, Exotic Orchard produces any of {W}{U}{B}{R}{G}. Treat it as a 5-color land.
+- **Fellwar Stone** — produces any color a land an opponent controls could produce. Same assumption — treat it as producing any of the 5 colors.
+- **Reflecting Pool** — produces any color your other lands can produce. Evaluate this honestly based on what you actually control.
+
+**Cards that reference opponents existing:**
+- Assume at least one opponent is always present and able to be targeted.
+- Cards like **Imprisoned in the Moon**, **Chaos Warp**, and **Bident of Thassa** that can target opponents — in goldfish these are held as reactive tools. You do not simulate opponent actions, but you may note "held for opponent interaction" in your turn notes.
+
+**Cards that trigger from opponent actions:**
+- **Taurean Mauler** — gets +1/+1 counters whenever an opponent casts a spell. In a full pod, opponents are casting spells every turn. For simulation purposes, assume each opponent casts **1 spell per turn on average**. Taurean Mauler gains **3 counters per full round** (one per opponent turn between your turns). Apply this at the start of each of your turns beginning turn 2.
+- **Exotic Orchard / Fellwar Stone** — covered above.
+
+**Cards that give all players a benefit (symmetric effects):**
+- **Patriarch's Bidding** — each player chooses a creature type and retrieves matching creatures. Opponents choose Shapeshifter (same deck). In goldfish this is fine — focus only on your own retrieved creatures when evaluating the card's impact.
+
+**Starting life total:** 40 (Commander). Shock land life payments reduce this. Track life total throughout.
+
+**Turn order:** You are assumed to be going first (no draw on turn 1 in Commander). If a specific test wants to simulate going later in the turn order (more opponents have had chances to cast spells, affecting Taurean Mauler etc.), that will be specified in the test goal.
+
+---
+
 ## Notes and Limitations
 
 - **20-card window:** The shuffler script shows only 20 cards. Games with heavy draw engine activity (Kindred Discovery, Guardian Project, Beast Whisperer) may run past this window. Sub-agents should note when they exhaust visible cards and report that draw effects fired but outcomes are unknown.
