@@ -4,7 +4,7 @@ deck_status: reference
 
 # Captain America Deck Guide (High Power Version)
 
-**A Note on the Commander:** "Captain America, First Avenger" is a custom commander. In this high-power build, its abilities are used as a value engine and removal piece while assembling a primary Voltron or combo kill.
+**The Commander:** **[Captain America, First Avenger](https://scryfall.com/search?q=!Captain+America,+First+Avenger)** is a {R}{W}{U} Human Soldier Hero. At the beginning of combat on your turn, he can **Catch** an Equipment you control and attach it to himself for free. By paying {3} and unattaching an Equipment, he can **Throw** it to deal damage equal to its mana value divided among up to three targets, then he taps.
 
 ## Deck Strategy
 **Archetype:** Jeskai (Blue/Red/White) Equipment Voltron/Combo
