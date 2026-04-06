@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Deck Guide: Thalia and The Gitrog Monster - "Land, Tax, and Sacrifice" (Budget)
 
 ## Commander Strategy

@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Deck Guide: Marchesa, the Black Rose (The Iron Throne)
 
 ## Commander Strategy

@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Yidris Deck Guide: "The Maelstrom Engine"
 
 ## Commander Strategy

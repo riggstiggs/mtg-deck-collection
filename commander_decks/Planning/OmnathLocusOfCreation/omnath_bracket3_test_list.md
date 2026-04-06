@@ -1,3 +1,7 @@
+---
+deck_status: reference
+---
+
 # Deck Guide: Omnath, Locus of Creation - EDHREC Bracket 3 Test List
 
 ## Commander Strategy
