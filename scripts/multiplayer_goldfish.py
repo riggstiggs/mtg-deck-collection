@@ -635,7 +635,7 @@ def _run_one(deck_data: List[CardData], commander: CardData, num_turns: int,
             for entry in player.turn_log:
                 print(entry)
             ct = f"T{player.commander_cast_turn}" if player.commander_cast_turn else "NOT CAST"
-            print(f"  -> {commander.name}: {ct}\n")
+            print(f"  -> {commander.name}: {ct}  |  Creatures cast: {player.creature_count}\n")
 
     return players
 
@@ -643,6 +643,7 @@ def _run_one(deck_data: List[CardData], commander: CardData, num_turns: int,
 def run_sims(deck_data: List[CardData], commander: CardData,
              num_sims: int, num_turns: int, frac: float):
     all_turns = []
+    all_creature_counts = []
     last_players = []
 
     print(f"\n{'='*68}")
@@ -655,10 +656,14 @@ def run_sims(deck_data: List[CardData], commander: CardData,
         players = _run_one(deck_data, commander, num_turns, frac, verbose)
         last_players = players
         sim_turns = [p.commander_cast_turn for p in players if p.commander_cast_turn]
+        sim_creatures = [p.creature_count for p in players]
         all_turns.extend(sim_turns)
-        earliest = f"T{min(sim_turns)}" if sim_turns else "—"
+        all_creature_counts.extend(sim_creatures)
+        earliest = f"T{min(sim_turns)}" if sim_turns else "-"
+        avg_cr = sum(sim_creatures) / len(sim_creatures)
         print(f"  Sim {sim}: Commander cast {len(sim_turns)}/4  |  "
-              f"Earliest: {earliest:4s}  |  Turns: {sim_turns or ['none']}")
+              f"Earliest: {earliest:4s}  |  Turns: {sim_turns or ['none']}  |  "
+              f"Avg creatures: {avg_cr:.1f}")
 
     total_slots = num_sims * 4
     print(f"\n{'-'*68}")
@@ -667,7 +672,7 @@ def run_sims(deck_data: List[CardData], commander: CardData,
     print(f"  Commander cast rate: {len(all_turns)}/{total_slots} "
           f"({len(all_turns)/total_slots*100:.0f}%)")
     if all_turns:
-        print(f"  Range:     T{min(all_turns)} – T{max(all_turns)}")
+        print(f"  Range:     T{min(all_turns)} - T{max(all_turns)}")
         print(f"  Average:   T{sum(all_turns)/len(all_turns):.1f}")
         buckets = defaultdict(int)
         for t in all_turns:
@@ -675,6 +680,19 @@ def run_sims(deck_data: List[CardData], commander: CardData,
         print("  Distribution:")
         for t in sorted(buckets):
             print(f"    T{t:2d}: {'#' * buckets[t]} ({buckets[t]})")
+
+    if all_creature_counts:
+        avg_cr = sum(all_creature_counts) / len(all_creature_counts)
+        min_cr = min(all_creature_counts)
+        max_cr = max(all_creature_counts)
+        cr_buckets = defaultdict(int)
+        for c in all_creature_counts:
+            cr_buckets[c] += 1
+        print(f"\n  Creatures cast per seat (end T{num_turns}):")
+        print(f"    Average: {avg_cr:.1f}  |  Range: {min_cr}-{max_cr}")
+        print("    Distribution:")
+        for c in sorted(cr_buckets):
+            print(f"      {c:2d} creatures: {'#' * cr_buckets[c]} ({cr_buckets[c]})")
 
     # Final-turn multiplayer card value snapshot
     if last_players:
