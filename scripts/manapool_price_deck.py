@@ -48,7 +48,7 @@ MAX_RETRIES = 5
 # New printings are released infrequently; 7 days is a safe TTL.
 CACHE_DIR = "cache"
 PRINTINGS_CACHE_FILE = os.path.join(CACHE_DIR, "scryfall_printings.json")
-PRINTINGS_CACHE_TTL = 7 * 24 * 3600   # 7 days
+PRINTINGS_CACHE_TTL = 120 * 24 * 3600  # 120 days
 
 _printings_cache = None
 

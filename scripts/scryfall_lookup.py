@@ -52,8 +52,8 @@ MAX_RETRIES = 5
 CACHE_DIR = "cache"
 CARD_CACHE_FILE = os.path.join(CACHE_DIR, "scryfall_cards.json")
 SEARCH_CACHE_FILE = os.path.join(CACHE_DIR, "scryfall_search.json")
-CARD_CACHE_TTL  = 30 * 24 * 3600   # 30 days — oracle text changes rarely
-SEARCH_CACHE_TTL = 7 * 24 * 3600   # 7 days  — search results more volatile
+CARD_CACHE_TTL  = 365 * 24 * 3600   # 1 year — oracle text changes only via errata
+SEARCH_CACHE_TTL = 120 * 24 * 3600  # 120 days — new printings released infrequently
 
 # Module-level cache state — loaded once, saved at end
 _card_cache = None

@@ -20,13 +20,13 @@ Both scripts maintain a local JSON cache in the `cache/` directory (gitignored �
 
 | Cache file | Used by | Keyed by | TTL |
 |------------|---------|----------|-----|
-| `cache/scryfall_cards.json` | `scryfall_lookup.py` | Lowercase card name (named lookups) | 30 days |
-| `cache/scryfall_search.json` | `scryfall_lookup.py` | Query string + unique parameter | 7 days |
-| `cache/scryfall_printings.json` | `manapool_price_deck.py` | Lowercase card name (printing ID lists) | 7 days |
+| `cache/scryfall_cards.json` | `scryfall_lookup.py` | Lowercase card name (named lookups) | 1 year |
+| `cache/scryfall_search.json` | `scryfall_lookup.py` | Query string + unique parameter | 120 days |
+| `cache/scryfall_printings.json` | `manapool_price_deck.py` | Lowercase card name (printing ID lists) | 120 days |
 
 **TTL rationale:**
-- 30 days for named card objects — oracle text, type lines, and mana costs change only via errata, which is rare.
-- 7 days for search results and printing lists — new set releases and new printings happen on a regular schedule; weekly refresh keeps data reasonably current.
+- 1 year for named card objects — oracle text, type lines, and mana costs change only via errata, which is extremely rare.
+- 120 days for search results and printing lists — new set releases happen on a regular schedule but infrequently enough that quarterly refresh is sufficient.
 
 **Cache hit output:** When a result is served from cache, the scripts print `[cache hit] Card Name` to stderr. This does not appear in normal stdout output and will not pollute piped results.
 
