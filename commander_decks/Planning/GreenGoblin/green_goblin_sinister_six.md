@@ -4,7 +4,7 @@ deck_status: main
 
 # Deck Guide: Norman Osborn / Green Goblin — "The Sinister Six"
 
-![Norman Osborn / Green Goblin](https://cards.scryfall.io/normal/front/b/2/b2860277-5b9e-444a-81f9-58e23355a722.jpg?1757376455)
+![Norman Osborn / Green Goblin](https://cards.scryfall.io/normal/front/d/5/d5c53af9-7150-4e78-8771-2de7980aa307.jpg?1757433048)
 
 ## Commander Strategy
 **Norman Osborn / Green Goblin**

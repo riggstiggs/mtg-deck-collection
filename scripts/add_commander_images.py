@@ -9,7 +9,7 @@ import urllib.parse
 NAME_OVERRIDES = {
     "Captain America Voltron": "Captain America, First Avenger",
     "The Emperor of Palamecia // The Lord Master of Hell": "The Emperor of Palamecia",
-    "Norman Osborn / Green Goblin": "Green Goblin, Nemesis",
+    "Norman Osborn / Green Goblin": "Norman Osborn",
     "Zangief, the Red Cyclone": "Zangief, the Red Cyclone",
     "Etali, Primal Conqueror": "Etali, Primal Conqueror"
 }
