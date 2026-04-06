@@ -15,9 +15,10 @@ from dataclasses import dataclass, field
 from collections import defaultdict
 from typing import List, Optional
 
-CACHE_FILE = Path(__file__).parent / '.card_cache.json'
+CACHE_FILE = Path('cache') / 'scryfall_cards.json'
 SCRYFALL_BASE = 'https://api.scryfall.com/cards/named'
-API_DELAY = 0.12   # seconds between Scryfall calls
+API_DELAY = 0.5    # seconds between Scryfall calls (2/sec limit on /cards/named)
+CARD_CACHE_TTL = 365 * 24 * 3600   # 1 year — oracle text changes only via errata
 
 HELLKITE = 'Hellkite Courser'   # special deck card that cheats the commander into play
 
@@ -78,12 +79,13 @@ def _load_cache():
 
 def _save_cache():
     try:
+        CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
         CACHE_FILE.write_text(json.dumps(_cache, indent=2))
     except Exception:
         pass
 
 def _fetch_scryfall(name: str) -> Optional[dict]:
-    url = SCRYFALL_BASE + '?fuzzy=' + urllib.parse.quote(name)
+    url = SCRYFALL_BASE + '?exact=' + urllib.parse.quote(name)
     try:
         req = urllib.request.Request(url, headers={
             'User-Agent': 'MTGGoldfishSim/2.0',
@@ -95,11 +97,13 @@ def _fetch_scryfall(name: str) -> Optional[dict]:
         return None
 
 def get_scryfall(name: str) -> Optional[dict]:
-    if name in _cache:
-        return _cache[name]
+    key = name.lower()
+    entry = _cache.get(key)
+    if entry and (time.time() - entry.get('cached_at', 0)) < CARD_CACHE_TTL:
+        return entry['data']
     time.sleep(API_DELAY)
     data = _fetch_scryfall(name)
-    _cache[name] = data
+    _cache[key] = {'data': data, 'cached_at': time.time()}
     _save_cache()
     return data
 

@@ -20,7 +20,7 @@ Both scripts maintain a shared JSON cache in the `cache/` directory (committed t
 
 | Cache file | Used by | Keyed by | TTL |
 |------------|---------|----------|-----|
-| `cache/scryfall_cards.json` | `scryfall_lookup.py` | Lowercase card name (named lookups) | 1 year |
+| `cache/scryfall_cards.json` | `scryfall_lookup.py`, `multiplayer_goldfish.py` | Lowercase card name (named lookups) | 1 year |
 | `cache/scryfall_search.json` | `scryfall_lookup.py` | Query string + unique parameter | 120 days |
 | `cache/scryfall_printings.json` | `manapool_price_deck.py` | Lowercase card name (printing ID lists) | 120 days |
 
