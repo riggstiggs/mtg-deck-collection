@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Sauron, the Dark Lord (Finalized Grixis Amass)
 
+![Sauron, the Dark Lord](https://cards.scryfall.io/normal/front/0/3/034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1.jpg?1693611218)
+
 ## Commander Strategy
 **Sauron, the Dark Lord**
 *   **Archetype:** Grixis Midrange / Amass / Ring Temptation

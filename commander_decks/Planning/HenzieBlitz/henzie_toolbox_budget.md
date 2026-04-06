@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Henzie "Toolbox" Torre — "Budget Blitz"
 
+![Henzie "Toolbox" Torre](https://cards.scryfall.io/normal/front/e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1673481644)
+
 ## Commander Strategy
 **Henzie "Toolbox" Torre**
 *   **Archetype:** Jund (Black/Red/Green) Blitz / Sacrifice / Reanimation

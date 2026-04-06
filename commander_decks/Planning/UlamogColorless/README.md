@@ -4,6 +4,8 @@ deck_status: main
 
 # Ulamog Deck Guide: "The Great Distortion"
 
+![Ulamog, the Ceaseless Hunger](https://cards.scryfall.io/normal/front/c/7/c74ae706-b3b3-4097-a387-6f6c38a9b603.jpg?1689995438)
+
 ## Commander Strategy
 **Ulamog, the Ceaseless Hunger**
 *   **Role:** The Ultimate Threat.

@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Thalia and The Gitrog Monster - "Land, Tax, and Sacrifice"
 
+![Thalia and The Gitrog Monster](https://cards.scryfall.io/normal/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1682205702)
+
 ## Commander Strategy
 **Thalia and The Gitrog Monster**
 *   **Archetype:** Abzan Midrange / Lands Matter / Hatebears

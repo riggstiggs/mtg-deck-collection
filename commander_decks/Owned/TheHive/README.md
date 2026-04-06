@@ -4,6 +4,8 @@ deck_status: main
 
 # Sliver Deck Guide: "The Hive"
 
+![The First Sliver](https://cards.scryfall.io/normal/front/0/6/06d4fbe1-8a2f-4958-bb85-1a1e5f1e8d87.jpg?1562202321)
+
 ## Commander Strategy
 **The First Sliver**
 *   **Role:** The Value Engine.

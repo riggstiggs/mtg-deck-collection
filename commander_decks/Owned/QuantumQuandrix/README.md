@@ -3,6 +3,8 @@ deck_status: main
 ---
 
 # Deck Guide: Quantum Quandrix (Upgraded Precon)
+
+![Adrix and Nev, Twincasters](https://cards.scryfall.io/normal/front/b/9/b9c11061-bb34-4904-b9f1-ea106b517bbe.jpg?1706240967)
 ### Commander: Adrix and Nev, Twincasters
 
 > **Origin:** This deck began as the **Quantum Quandrix** Commander precon from *Strixhaven: School of Mages* (Commander 2021). It has been significantly upgraded by Jamie beyond the out-of-the-box list. Because of the extent of those changes it lives in Owned rather than the PreCons folder. See the **Precon Upgrade Log** section below for a record of all changes made from the original precon.

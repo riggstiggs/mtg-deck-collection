@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Norman Osborn / Green Goblin — "The Sinister Six"
 
+![Norman Osborn / Green Goblin](https://cards.scryfall.io/normal/front/b/2/b2860277-5b9e-444a-81f9-58e23355a722.jpg?1757376455)
+
 ## Commander Strategy
 **Norman Osborn / Green Goblin**
 *   **Archetype:** Grixis (Blue/Black/Red) Wheels / Discard Madness / Graveyard Value

@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Chainer, Dementia Master (Nightmare Reanimator)
 
+![Chainer, Dementia Master](https://cards.scryfall.io/normal/front/1/8/186c30e6-2b84-415d-83e4-ecddaeb11ca1.jpg?1689996964)
+
 ## Commander Strategy
 **Chainer, Dementia Master**
 *   **Archetype:** Mono-Black Reanimator / Value Engine

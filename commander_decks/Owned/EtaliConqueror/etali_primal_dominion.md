@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Etali, Primal Conqueror — "Primal Dominion"
 
+![Etali, Primal Conqueror](https://cards.scryfall.io/normal/front/9/5/95c14c4d-6c16-4826-8d93-d89ad04aee09.jpg?1739657577)
+
 ## Commander Strategy
 **Etali, Primal Conqueror**
 *   **Archetype:** Gruul (Red/Green) Ramp + Clones / ETB Copy Engine

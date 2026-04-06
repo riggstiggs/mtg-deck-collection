@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: The Emperor of Palamecia (Emperor's Dominion)
 
+![The Emperor of Palamecia // The Lord Master of Hell](https://cards.scryfall.io/normal/front/3/d/3d75e8fd-6139-4b10-9ce3-195b47d72e0c.jpg?1748707825)
+
 ## Commander Strategy
 **The Emperor of Palamecia // The Lord Master of Hell**
 *   **Archetype:** Izzet (Blue/Red) Spellslinger / Graveyard Value / Voltron

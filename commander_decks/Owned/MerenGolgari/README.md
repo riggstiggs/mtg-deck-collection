@@ -4,6 +4,8 @@ deck_status: main
 
 # Meren Deck Guide: "The Grave Tender"
 
+![Meren of Clan Nel Toth](https://cards.scryfall.io/normal/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1743207181)
+
 ## Commander Strategy
 **Meren of Clan Nel Toth**
 *   **Role:** The Engine.

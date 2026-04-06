@@ -4,6 +4,8 @@ deck_status: main
 
 # Yidris Deck Guide: "The Maelstrom Engine"
 
+![Yidris, Maelstrom Wielder](https://cards.scryfall.io/normal/front/c/2/c219dd22-433c-4f6a-a0c4-fae12239291c.jpg?1562418099)
+
 ## Commander Strategy
 **Yidris, Maelstrom Wielder**
 *   **Role:** The Enabler.

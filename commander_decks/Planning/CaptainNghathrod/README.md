@@ -4,6 +4,8 @@ deck_status: main
 
 # Captain N'ghathrod Deck Guide: "Budget Horror Mill"
 
+![Captain N'ghathrod](https://cards.scryfall.io/normal/front/5/5/55c02dc8-0743-400c-b334-ca029caf0463.jpg?1728436128)
+
 ## Deck Strategy
 **Archetype:** Dimir (Blue/Black) Horror Tribal / Mill / Theft
 **Focus:** Horror Tribal, Combat Mill, Reanimator

@@ -4,6 +4,8 @@ deck_status: main
 
 # Captain America Voltron Deck Guide
 
+![Captain America Voltron](https://cards.scryfall.io/normal/front/b/b/bba7e9c8-c24c-4bd3-b398-fe42b1fcfb5d.jpg?1730758326)
+
 **The Commander:** **[Captain America, First Avenger](https://scryfall.com/search?q=!Captain+America,+First+Avenger)** is a {R}{W}{U} Human Soldier Hero. At the beginning of combat on your turn, you can **Catch** an Equipment you control and attach it to him for free. For {3} and unattaching an Equipment, he can **Throw** it to deal damage equal to its mana value divided among up to three targets, then he taps.
 
 ## Deck Strategy

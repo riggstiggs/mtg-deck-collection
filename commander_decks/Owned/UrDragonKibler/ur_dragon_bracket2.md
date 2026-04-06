@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: The Ur-Dragon (Kibler's Flight - Bracket 2 Mid-Budget Edition)
 
+![The Ur-Dragon](https://cards.scryfall.io/normal/front/1/0/10d42b35-844f-4a64-9981-c6118d45e826.jpg?1689999317)
+
 ## Commander Strategy
 **The Ur-Dragon**
 *   **Archetype:** 5-Color Dragon Tribal / Midrange

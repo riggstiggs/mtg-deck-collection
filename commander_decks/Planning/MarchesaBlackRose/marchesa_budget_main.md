@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Marchesa, the Black Rose (The Iron Throne — Budget)
 
+![Marchesa, the Black Rose](https://cards.scryfall.io/normal/front/3/2/3242a9f0-2ba3-4852-ac8f-366772ac1c62.jpg?1673148917)
+
 ## Commander Strategy
 **Marchesa, the Black Rose**
 *   **Archetype:** Grixis Aristocrats / "Entry-Insured" Loops
