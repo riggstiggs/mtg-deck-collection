@@ -1,5 +1,19 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ April 2026: Marchesa Acquisition & Ur-Dragon Completion
+
+### 2026-04-11: Marchesa, the Black Rose — Promoted to Owned
+*   **Promotion:** Promoted **Marchesa, the Black Rose (ETB Aristocrats)** from Planning to Owned.
+*   **Acquisition:** Placed 4 orders (Orders #272464, #273115, #273211, #273216) across Journeys End Games, Spellfinder, Grove Warden Games, and Cape Fear Games for the full deck build.
+*   **Tracking:** Order tracking established in `commander_decks/Owned/MarchesaBlackRose/order_tracking.md`.
+*   **Status:** 1 card received (Tainted Adversary). Remaining packages pending.
+
+### 2026-04-10: The Ur-Dragon — Mana Base Overhaul Complete
+*   **Physical Integration:** Received final land package (Order #267822) completing the full fetch/shock/triome mana base.
+*   **Key Arrivals:** 10 Fetchlands, all 10 Triomes, remaining Shock lands (Godless Shrine, Watery Grave, Steam Vents, Hallowed Fountain, Sacred Foundry).
+*   **Cut:** Farseek removed as redundant — fetches now handle all fixing. All check lands and pain lands replaced.
+*   **Status:** Ur-Dragon mana base physically complete. Lightning Greaves and Swiftfoot Boots received but not yet slotted.
+
 ## 🗓️ March 2026: Expansion & Physical Integration
 *Focus on acquiring and building physical decks from planning.*
 

@@ -48,7 +48,7 @@ deck_status: main
 ### 💎 Ramp & Acceleration (11 Cards)
 *   **[Sol Ring](https://scryfall.com/search?q=!%22Sol+Ring%22) / [Arcane Signet](https://scryfall.com/search?q=!%22Arcane+Signet%22):** Standard acceleration.
 *   **[Dragon's Hoard](https://scryfall.com/search?q=!%22Dragon%27s+Hoard%22):** Thematic ramp and incidental card draw.
-*   **[Farseek](https://scryfall.com/search?q=!%22Farseek%22) / [Nature's Lore](https://scryfall.com/search?q=!%22Nature%27s+Lore%22) / [Three Visits](https://scryfall.com/search?q=!%22Three+Visits%22):** **POWERED.** Now fetch Shock lands for immediate 5-color fixing.
+*   **[Nature's Lore](https://scryfall.com/search?q=!%22Nature%27s+Lore%22) / [Three Visits](https://scryfall.com/search?q=!%22Three+Visits%22):** **POWERED.** Fetch Shock lands with Forest type for immediate 5-color fixing.
 *   **[Cultivate](https://scryfall.com/search?q=!%22Cultivate%22) / [Kodama's Reach](https://scryfall.com/search?q=!%22Kodama%27s+Reach%22):** Standard green ramp.
 *   **[Faeburrow Elder](https://scryfall.com/search?q=!%22Faeburrow+Elder%22) / [Sylvan Caryatid](https://scryfall.com/search?q=!%22Sylvan+Caryatid%22) / [Birds of Paradise](https://scryfall.com/search?q=!%22Birds+of+Paradise%22) / [Bloom Tender](https://scryfall.com/search?q=!%22Bloom+Tender%22):** Efficient dorks for 5-color fixing and acceleration. Birds is the gold standard 1-drop fixer; Bloom Tender taps for up to 5 mana in a 5-color deck.
 *   **[Mirari's Wake](https://scryfall.com/search?q=!%22Mirari%27s+Wake%22):** Doubles all mana produced by your lands and gives all creatures +1/+1 — supercharges your big-mana turns while boosting Terror of the Peaks damage and Expertise/Wildspeaker payoffs.
@@ -83,29 +83,15 @@ deck_status: main
 
 ### 🛒 Active Acquisition List (Ordered/Purchased)
 
-**Order #235644 — High-Power Land Transition (In Progress)**
-
-| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
-| :--- | :--- | :--- | :--- |
-| **10 Triomes** | 5 Tri-Lands / 5 Basics | Mana Base | ⏳ 3/10 Received |
-| **7 Fetch Lands** | 5 Pain Lands / 2 Basics | Mana Base | ⏳ 1/7 Received |
-| **5 Shock Lands** | 5 Tapped Duals | Mana Base | ⏳ 3/5 Received |
-| **Lightning Greaves** | [TBD] | Protection | ⏳ Pending |
-| **Swiftfoot Boots** | [TBD] | Protection | ⏳ Pending |
-| **Dragon's Hoard (Spare)** | [N/A] | Ramp | ✅ Received |
-
-**Order #241252 — Manapool/Spellfinder (Upgrade Package)**
-
-| **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
-| :--- | :--- | :--- | :--- |
-| **Birds of Paradise** (DMR 439) | Cultivate | Ramp | ✅ Received |
-| **Bloom Tender** (LRW-E 166) | Kodama's Reach | Ramp | ✅ Received |
-| **Terror of the Peaks** (OTJ 337) | Dromoka, the Eternal | Plan | ✅ Received |
-| **Mirari's Wake** (MH2 320) | Colossal Majesty | Ramp/Anthem | ✅ Received |
+All ordered upgrades have been received and integrated. Mana base overhaul complete as of 2026-04-10.
 
 ---
 
 ## 📜 Deck Changelog
+*   **2026-04-10:** Land Base Overhaul Complete + Farseek Cut.
+    *   **In:** Steam Vents, Hallowed Fountain, Sacred Foundry, Godless Shrine, Watery Grave, Bloodstained Mire, Arid Mesa, Verdant Catacombs, Scalding Tarn, Flooded Strand, Polluted Delta, Marsh Flats, Ketria Triome, Indatha Triome, Raffine's Tower, Xander's Lounge, Jetmir's Garden, Raugrin Triome, Zagoth Triome, Savai Triome, Spara's Headquarters, Ziatora's Proving Ground
+    *   **Out:** Savage Lands, Sandsteppe Citadel, Arcane Sanctum, Crumbling Necropolis, Jungle Shrine, Dragonskull Summit, Drowned Catacomb, Glacial Fortress, Hinterland Harbor, Rootbound Crag, Sunpetal Grove, Clifftop Retreat, Sulfur Falls, Woodland Cemetery, Isolated Chapel, Sulfurous Springs, Karplusan Forest, Llanowar Wastes, Shivan Reef, Adarkar Wastes, Forest (1x), Farseek
+    *   **Reason:** Completed full mana base upgrade — all 10 check lands replaced with Triomes (cycle + basic land types), pain lands replaced with fetch lands for a full fetch/shock/triome mana base. Farseek cut as redundant with fetches now handling all fixing. Lightning Greaves and Swiftfoot Boots received but not yet slotted into the deck.
 *   **2026-03-23:** Upgrade Package #241252 Arrived — Ramp & Power Upgrade.
     *   **In:** Birds of Paradise, Bloom Tender, Terror of the Peaks, Mirari's Wake
     *   **Out:** Cultivate, Kodama's Reach, Dromoka, the Eternal, Colossal Majesty
@@ -153,11 +139,9 @@ DECK:
 1 Terror of the Peaks  
 1 Elemental Bond  
 1 Escape to the Wilds  
-1 Farseek  
 1 Garruk's Uprising  
 1 Generous Gift  
 1 Guardian Project  
-1 Haven of the Spirit Dragon  
 1 Hellkite Courser  
 1 Herald's Horn  
 1 Rivaz of the Claw  
@@ -191,37 +175,40 @@ DECK:
 1 Anguished Unmaking  
 1 Blood Crypt  
 1 Breeding Pool  
+1 Godless Shrine  
+1 Hallowed Fountain  
 1 Overgrown Tomb  
+1 Sacred Foundry  
+1 Steam Vents  
 1 Stomping Ground  
 1 Temple Garden  
-1 Wooded Foothills  
-1 Windswept Heath  
+1 Watery Grave  
+1 Arid Mesa  
+1 Bloodstained Mire  
+1 Flooded Strand  
+1 Marsh Flats  
 1 Misty Rainforest  
-1 Reflecting Pool  
+1 Polluted Delta  
+1 Scalding Tarn  
+1 Verdant Catacombs  
+1 Windswept Heath  
+1 Wooded Foothills  
 1 Command Tower  
 1 Exotic Orchard  
-1 Savage Lands  
-1 Sandsteppe Citadel  
-1 Arcane Sanctum  
-1 Crumbling Necropolis  
-1 Jungle Shrine  
-1 Dragonskull Summit  
-1 Drowned Catacomb  
-1 Glacial Fortress  
-1 Hinterland Harbor  
-1 Rootbound Crag  
-1 Sunpetal Grove  
-1 Clifftop Retreat  
-1 Sulfur Falls  
-1 Woodland Cemetery  
-1 Isolated Chapel  
-1 Sulfurous Springs  
-1 Karplusan Forest  
-1 Llanowar Wastes  
-1 Shivan Reef  
-1 Adarkar Wastes  
+1 Haven of the Spirit Dragon  
+1 Reflecting Pool  
+1 Indatha Triome  
+1 Jetmir's Garden  
+1 Ketria Triome  
+1 Raffine's Tower  
+1 Raugrin Triome  
+1 Savai Triome  
+1 Spara's Headquarters  
+1 Xander's Lounge  
+1 Zagoth Triome  
+1 Ziatora's Proving Ground  
 2 Forest  
 1 Mountain  
-1 Swamp  
 1 Plains  
 1 Island  
+1 Swamp  

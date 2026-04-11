@@ -180,33 +180,63 @@
 
 ---
 
+# Order Tracking: Ur-Dragon (Order #267822)
+
+**Order Date:** 2026-04-01  
+**Status:** 1/1 Packages Received — ✅ COMPLETE
+
+---
+
+## 📦 Package #267822: Manapool
+**Status:** ✅ Arrived (confirmed 2026-04-10)
+**Items:**
+- [x] Scalding Tarn (ZEN 223)
+- [x] Watery Grave (GTC 249)
+- [x] Bloodstained Mire (KTK 230)
+- [x] Flooded Strand (KTK 233)
+- [x] Polluted Delta (KTK 239)
+- [x] Lightning Greaves (C17 215)
+- [x] Godless Shrine (RNA 248)
+- [x] Indatha Triome (IKO 309) — LP Showcase
+- [x] Ketria Triome (IKO 250) — LP
+- [x] Savai Triome (IKO 253) — NM
+- [x] Arid Mesa (MH2 244) — LP
+- [x] Verdant Catacombs (MH2 479) — NM Extended Art
+- [x] Raffine's Tower (SNC 254P) — NM Promo
+- [x] Xander's Lounge (SNC 260P) — NM Promo
+- [x] Jetmir's Garden (SNC 250) — NM
+- [x] Spara's Headquarters (SNC 355) — NM Showcase
+- [x] Swiftfoot Boots (FDN 258) — NM
+
+---
+
 # Order Tracking: Ur-Dragon (Order #235644)
 
 **Order Date:** 2026-03-10  
-**Status:** 1/2 Packages Received
+**Status:** 2/2 Packages Received — ✅ COMPLETE (items fulfilled via Order #267822)
 
 ---
 
 ## 📦 Package #235644-865060: Spellfinder
-**Status:** ⏳ Pending  
+**Status:** ✅ Fulfilled via Order #267822 (2026-04-10)
 **Items:**
-- [ ] Arid Mesa (ZEN 211)
-- [ ] Godless Shrine (GTC 242)
-- [ ] Flooded Strand (KTK 233)
-- [ ] Scalding Tarn (MM3 244)
-- [ ] Watery Grave (GRN 259)
-- [ ] Indatha Triome (IKO 309)
-- [ ] Savai Triome (IKO 253)
-- [ ] Ketria Triome (IKO 250P)
-- [ ] Swiftfoot Boots (KHC 105)
-- [ ] Verdant Catacombs (MH2 479)
-- [ ] Jetmir's Garden (SNC 250)
-- [ ] Raffine's Tower (SNC 254)
-- [ ] Spara's Headquarters (SNC 257)
-- [ ] Xander's Lounge (SNC 358)
-- [ ] Lightning Greaves (PIP 233)
-- [ ] Bloodstained Mire (MH3 216)
-- [ ] Polluted Delta (MH3 224)
+- [x] Arid Mesa (ZEN 211)
+- [x] Godless Shrine (GTC 242)
+- [x] Flooded Strand (KTK 233)
+- [x] Scalding Tarn (MM3 244)
+- [x] Watery Grave (GRN 259)
+- [x] Indatha Triome (IKO 309)
+- [x] Savai Triome (IKO 253)
+- [x] Ketria Triome (IKO 250P)
+- [x] Swiftfoot Boots (KHC 105)
+- [x] Verdant Catacombs (MH2 479)
+- [x] Jetmir's Garden (SNC 250)
+- [x] Raffine's Tower (SNC 254)
+- [x] Spara's Headquarters (SNC 257)
+- [x] Xander's Lounge (SNC 358)
+- [x] Lightning Greaves (PIP 233)
+- [x] Bloodstained Mire (MH3 216)
+- [x] Polluted Delta (MH3 224)
 
 ---
 
