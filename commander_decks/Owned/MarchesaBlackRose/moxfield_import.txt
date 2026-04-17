@@ -19,24 +19,26 @@ Deck
 1 Mayhem Devil
 1 Blood Artist
 1 Kardur, Doomscourge
-1 Bitterblossom
+1 Goblin Assault
 1 Ophiomancer
 1 Scorn-Blade Berserker
-1 Yawgmoth, Thran Physician
 1 Viscera Seer
 1 Carrion Feeder
-1 Ashnod's Altar
-1 Phyrexian Altar
+1 Woe Strider
 1 Yahenni, Undying Partisan
 1 Goblin Bombardment
 1 Immersturm Predator
+1 Zulaport Cutthroat
+1 Bastion of Remembrance
+1 Syr Konrad, the Grim
 1 Unspeakable Symbol
 1 Vigean Graftmage
 1 Metallic Mimic
+1 Madame Null, Power Broker
+1 Tainted Adversary
 1 Mikaeus, the Unhallowed
-1 The Ozolith
+1 Yawgmoth, Thran Physician
 1 Uncivil Unrest
-1 Sage of Fables
 1 Swiftfoot Boots
 1 Arcane Signet
 1 Sol Ring
@@ -49,45 +51,43 @@ Deck
 1 Talisman of Creativity
 1 Talisman of Dominance
 1 Terminate
-1 Chaos Warp
+1 Massacre Wurm
 1 Bedevil
 1 Feed the Swarm
 1 Imprisoned in the Moon
 1 Toxic Deluge
 1 Blasphemous Act
 1 Living Death
-1 An Offer You Can't Refuse
-1 Arcane Denial
+1 Reassembling Skeleton
+1 Sage of Fables
 1 Cormela, Glamour Thief
-1 Mark of Mutiny
-1 Mass Mutiny
 1 Skullclamp
 1 Deadly Dispute
-1 Watery Grave
-1 Steam Vents
-1 Blood Crypt
-1 Dragonskull Summit
-1 Drowned Catacomb
-1 Sulfur Falls
-1 Morphic Pool
-1 Luxury Suite
-1 Training Center
+1 Canyon Slough
+1 Choked Estuary
 1 Crumbling Necropolis
-1 Xander's Lounge
-1 Smoldering Marsh
-1 Sunken Hollow
+1 Dragonskull Summit
+1 Dismal Backwater
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fetid Pools
+1 Foreboding Ruins
+1 Forge of Heroes
+1 Guildmages' Forum
 1 High Market
 1 Opal Palace
-1 Forge of Heroes
+1 Path of Ancestry
 1 Reliquary Tower
 1 Command Tower
-1 Exotic Orchard
-1 Path of Ancestry
 1 Shivan Reef
+1 Smoldering Marsh
+1 Sulfur Falls
 1 Sulfurous Springs
+1 Sunken Hollow
+1 Temple of Deceit
+1 Temple of Epiphany
 1 Underground River
-1 Evolving Wilds
-1 Guildmages' Forum
 6 Swamp
 4 Mountain
 3 Island

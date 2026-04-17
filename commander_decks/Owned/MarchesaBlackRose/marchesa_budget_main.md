@@ -35,9 +35,10 @@ deck_status: main
 *   **Exava, Rakdos Blood Witch:** Unleash (enters with a counter, self-insuring) and grants haste to all your creatures with +1/+1 counters. Creatures returning from the graveyard via Marchesa can attack immediately the following turn.
 *   **Mayhem Devil:** Deals 1 damage to any target whenever ANY player sacrifices a permanent. Elite interaction.
 
-### 🐾 Fodder Generation (3 Cards)
+### 🐾 Fodder Generation (4 Cards)
 *   **Goblin Assault:** Creates a 1/1 Goblin token with haste every upkeep — same steady token generation as Bitterblossom but no life loss. Goblins must attack each combat which synergizes with Dethrone triggers and Skullclamp.
 *   **Ophiomancer:** Creates a 1/1 deathtouch snake at your upkeep if you control no snakes. Ensures you always have at least one creature to sacrifice, even after a boardwipe.
+*   **Reassembling Skeleton:** Pay {1}{B} to return from the graveyard to the battlefield tapped. Reliable, repeatable sac target that combos with Skullclamp (sac for 2 cards, replay for 2 mana) and Yawgmoth (free sac, draw a card, replay).
 *   **Tainted Adversary:** 2-mana deathtouch Zombie that self-insures — on ETB pay {2}{B} any number of times to load up +1/+1 counters and generate twice that many 2/2 Zombie tokens. Flexible burst fodder on demand with a relevant body.
 
 ### 💉 Sacrifice Outlets (The "Kill" Switches) (5 Cards)
@@ -53,10 +54,11 @@ deck_status: main
 *   **Bastion of Remembrance:** Enchantment drain effect — harder to remove than a creature. ETBs with a 1/1 token and drains each opponent whenever a creature you control dies.
 *   **Syr Konrad, the Grim:** Deals 1 damage to each opponent whenever any creature dies AND whenever a creature card leaves a graveyard — double triggers every Marchesa loop cycle.
 
-### 🛡️ Counter Enablers (The "Insurance" Makers) (6 Cards)
+### 🛡️ Counter Enablers (The "Insurance" Makers) (7 Cards)
 *   **Unspeakable Symbol:** **MV-PIECE.** Pay 3 life to put a counter on a creature at instant speed.
 *   **Vigean Graftmage:** Enters with counters and "Grafts" them onto new arrivals, insuring them the second they touch the board.
 *   **Madame Null, Power Broker:** Deathtouch. Whenever another creature you control enters, pay life equal to its power to put that many +1/+1 counters on it. Passive auto-insurance for every creature that enters — works on all creature types, not just Wizards.
+*   **Sage of Fables:** Whenever a Wizard enters under your control, put a +1/+1 counter on it — guarantees Marchesa enters with a counter if Sage is already on board, making her immediately recur-protected.
 *   **Scorn-Blade Berserker:** 1-mana Backup 1 creature — enters and puts a +1/+1 counter on any creature (including Marchesa herself), and can sacrifice itself to draw a card. Absurdly efficient counter installer and cantrip in one.
 *   **Uncivil Unrest:** Creatures enter with a counter (Riot) and deal double damage if they have a counter.
 *   **Swiftfoot Boots:** Grants hexproof and haste to Marchesa or key loop pieces, protecting against targeted removal while keeping your own engine accessible.
@@ -67,15 +69,12 @@ deck_status: main
 *   **Talisman of Indulgence / Creativity / Dominance:** Fast fixing.
 *   **Mind Stone:** Early ramp that converts to card draw late game when no longer needed.
 
-### ⚔️ Disruption & Board Control (15 Cards)
+### ⚔️ Disruption & Board Control (13 Cards)
 *   **Terminate / Bedevil / Feed the Swarm:** Flexible removal.
 *   **Massacre Wurm:** ETB gives all opponent creatures -2/-2 and drains life for every creature that dies from it. One-sided wipe that spares your board — against token/weenie strategies this can drain 10-15 life in a single ETB. Loops with Marchesa for repeated devastation.
 *   **Imprisoned in the Moon:** Neutralizes Commanders, problematic Lands, or Planeswalkers.
 *   **Toxic Deluge / Blasphemous Act:** Board wipes that help control life totals.
 *   **Living Death:** Mass reanimation finisher that resets the board.
-*   **An Offer You Can't Refuse / Arcane Denial:** Efficient protection for Marchesa.
-*   **Mark of Mutiny:** Steal target creature, put a +1/+1 counter on it (auto-insuring it for Marchesa), attack with it, sacrifice it — keep it permanently. The most efficient permanent theft spell at 3 mana.
-*   **Mass Mutiny:** Steal all creatures from each opponent at once. With sacrifice outlets available this becomes a permanent board takeover late game.
 *   **Skullclamp:** The most efficient draw engine for an aristocrats strategy.
 *   **Deadly Dispute:** Card draw that doubles as a sacrifice outlet.
 *   **Cormela, Glamour Thief:** Haste, taps for {U}{B}{R} to cast instants/sorceries, and returns an instant or sorcery from your graveyard when she dies. Looping her via Marchesa recurs your best instant or sorcery every turn cycle.
@@ -112,6 +111,14 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
+*   **2026-04-15:** Replaced counterspells with creatures.
+    *   **In:** Reassembling Skeleton; Sage of Fables
+    *   **Out:** An Offer You Can't Refuse; Arcane Denial
+    *   **Reason:** Deck is creature-focused and benefits more from additional fodder and counter insurance than reactive counterspells. Sage of Fables proactively protects Marchesa by guaranteeing she enters with a counter. Reassembling Skeleton is a reliable Skullclamp/Yawgmoth combo piece.
+*   **2026-04-14:** Added infinite loop engine.
+    *   **In:** Mikaeus, the Unhallowed; Yawgmoth, Thran Physician
+    *   **Out:** Mark of Mutiny; Mass Mutiny
+    *   **Reason:** Theft spells are situational and don't loop. Mikaeus gives the entire non-Human board Undying; Yawgmoth is a free sac outlet that draws cards and enables infinite loops with Mikaeus + Murderous Redcap or Puppeteer Clique. Significant power upgrade.
 *   **2026-04-04:** Added one-sided board wipe for weenie/token pods.
     *   **In:** Massacre Wurm
     *   **Out:** Chaos Warp
@@ -206,11 +213,11 @@ DECK:
 1 Toxic Deluge  
 1 Blasphemous Act  
 1 Living Death  
-1 An Offer You Can't Refuse  
-1 Arcane Denial  
+1 Reassembling Skeleton  
+1 Sage of Fables  
 1 Cormela, Glamour Thief  
-1 Mark of Mutiny  
-1 Mass Mutiny  
+1 Mikaeus, the Unhallowed  
+1 Yawgmoth, Thran Physician  
 1 Skullclamp  
 1 Deadly Dispute  
 1 Canyon Slough  
