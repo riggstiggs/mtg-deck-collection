@@ -34,7 +34,8 @@ This is a **documentation-only repository** — no build system, no tests. All c
 
 ```
 /
-├── COMMANDER_DECKBUILDING_RULES.md  ← Source of truth: Brackets 1-5 and Game Changers list
+├── BRACKETS.md                      ← Source of truth: full bracket definitions, philosophy, and per-bracket restrictions
+├── COMMANDER_DECKBUILDING_RULES.md  ← Game Changers list, Banned list, format philosophy; bracket section defers to BRACKETS.md
 ├── COMMANDER_TEMPLATE.md            ← "New Era" card ratios (38 lands, 10 ramp, 12 draw, etc.)
 ├── DECK_TEMPLATE.md                 ← Structural template for all new deck files
 ├── history.md                       ← Chronological decision log — READ BEFORE major changes
@@ -94,13 +95,17 @@ Whenever a deck's card list changes, you **MUST** update **all three** of these 
 
 ### 5.4 Bracket Compliance
 
-Before adding any card, cross-reference the "Game Changers" list in `COMMANDER_DECKBUILDING_RULES.md`:
+Before adding any card:
+1. Consult **`BRACKETS.md`** to confirm the deck's bracket, its philosophy, and all applicable restrictions (Game Changers, MLD, extra turns, 2-card combos).
+2. Cross-reference the "Game Changers" list in `COMMANDER_DECKBUILDING_RULES.md` to check if the card appears there.
 
 | Bracket | Game Changers Allowed |
 |---|---|
 | 1–2 | Zero |
 | 3 | Up to three |
 | 4–5 | No restriction |
+
+**Bracket is a holistic assessment, not a checklist.** Passing the restriction checklist (no Game Changers, no combos, no MLD) is necessary but not sufficient to classify a deck at a given bracket. A deck's true bracket is determined by its overall optimization level, construction philosophy, and how it will play at the table. A tightly built deck with an efficient mana base, 10 ramp pieces, 12 draw engines, and maximally synergistic card choices is a Bracket 3 deck even if it contains zero Game Changers. When in doubt, ask: *does this deck's power feel match what players at this bracket expect to face?* If the honest answer is no, assign the higher bracket.
 
 Exceeding the limit for a deck's bracket is a hard block — do not proceed without flagging it to the user.
 
@@ -281,7 +286,7 @@ Examples:
 
 ### Phase 2: Strategy & Reasoning
 *   **Expert Agency:** While `COMMANDER_TEMPLATE.md` provides base ratios, you are encouraged to deviate if the deck's strategy demands it (e.g., more creatures for a Tribal deck). You must explicitly justify these deviations in your strategy summary.
-*   **Bracket Compliance:** Check "Game Changers" in `COMMANDER_DECKBUILDING_RULES.md` to ensure the deck remains within its target Bracket (1-5).
+*   **Bracket Compliance:** Consult `BRACKETS.md` to determine the correct bracket and its full restrictions, then verify "Game Changers" in `COMMANDER_DECKBUILDING_RULES.md` to ensure the deck stays within its target Bracket (1-5).
 
 ### Phase 3: The Triple-Update Transaction
 Whenever a deck is modified, you must update all three locations in a single "transactional" effort:
