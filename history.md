@@ -1,5 +1,13 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ May 2026: New Planning Decks
+
+### 2026-05-01: Grolnok, the Omnivore — New Simic Frog Tribal Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/GrolnokFrogs/` with a full 100-card list.
+*   **Source:** Starting list imported from Moxfield.
+*   **Strategy:** Simic Frog Tribal mill/value engine. Attacking Frogs mill three cards each, exiling permanents with croak counters for free casting. Type-lords (Arcane Adaptation, Maskwood Nexus, Leyline of Transformation) and Changelings turn every creature into a Frog. Flash interaction suite (Mystic Snake, Frilled Mystic, Venser, Overcharged Amalgam) provides reactive control. Doc Aurlock reduces costs on spells cast from exile.
+*   **Bracket:** 2
+
 ## 🗓️ April 2026: Marchesa Acquisition & Ur-Dragon Completion
 
 ### 2026-04-11: Marchesa, the Black Rose — Promoted to Owned
