@@ -16,6 +16,9 @@ deck_status: main
 ### The Frog Engine
 Every attacking Frog mills three cards, exiling permanents with croak counters. Type-lords (Arcane Adaptation, Maskwood Nexus, Leyline of Transformation, Runed Stalactite) and Changelings make every creature a Frog, turning the whole board into a mill/exile engine. Doc Aurlock reduces costs on spells cast from exile, making the rebuy effect even more explosive.
 
+### Zero Instants/Sorceries — Hard Rule
+This deck runs **no instant or sorcery spells by design**. Grolnok only exiles permanent cards from the graveyard — instants and sorceries milled would be wasted. All interaction is delivered on permanent cards: counterspells on creatures (Mystic Snake, Frilled Mystic, Overcharged Amalgam), removal on enchantment Auras (Lignify, Eaten by Piranhas, Imprisoned in the Moon), and flash enablers on creatures and lands (Alchemist's Refuge). **Do not add instants or sorceries without removing this constraint from the strategy.**
+
 ---
 
 ## 🛠️ Card Explanations
@@ -23,7 +26,7 @@ Every attacking Frog mills three cards, exiling permanents with croak counters. 
 ### 🐸 Commander (1 Card)
 - **Grolnok, the Omnivore** ({2}{G}{U}): Mills 3 on each Frog attack; exiles milled permanents with croak counters for free casting later.
 
-### 🐸 Frogs & Frog Payoffs (17 Cards)
+### 🐸 Frogs & Frog Payoffs (18 Cards)
 - **Clement, the Worrywort** ({1}{G}{U}): Taps Frogs for {G}/{U} to cast creature spells; bounces your own creatures for replay value.
 - **Clifftop Lookout** ({2}{G}): Ramps by putting a land onto the battlefield when it enters.
 - **Chomping Changeling** ({2}{G}): Changeling; destroys an artifact or enchantment on entry.
@@ -33,6 +36,7 @@ Every attacking Frog mills three cards, exiling permanents with croak counters. 
 - **Long River Lurker** ({2}{U}): Ward {1}; gives another creature unblockability and blink-resets it for ETB value.
 - **Poison Dart Frog** ({1}{G}): Reach mana dork; can gain deathtouch as a combat trick.
 - **Rampant Frogantua** ({2}{G}): Trample; mills and drops lands from combat damage; gets massive if a player is eliminated.
+- **Radioactive Spider** ({G}): Cheap deathtouch/reach blocker; sacrifices to tutor any Spider Hero card — in practice a toolbox piece that fetches whatever you need (removal, ramp, or a type-changer).
 - **Spore Frog** ({G}): Fog on a stick; sacrifices to prevent all combat damage.
 - **Risen Reef** ({1}{G}{U}): Every Elemental (or Frog via type-lords) entering puts a land into play or draws a card.
 
@@ -78,7 +82,7 @@ Every attacking Frog mills three cards, exiling permanents with croak counters. 
 - **Hylda's Crown of Winter** ({3}): Taps creatures; mass draw by sacrificing when opponents have many tapped creatures.
 - **Kellan, Inquisitive Prodigy** ({2}{G}{U}): Adventure card; provides card selection and a solid Frog-eligible body.
 - **Willow Geist** ({G}): Grows whenever cards leave your graveyard; gains life on death — incidental payoff for milling.
-- **Rooftop Storm** ({5}{U}): Makes Zombie spells free — primarily here if type-lords make your creatures Zombies; notable synergy with Overcharged Amalgam and the Zombie package.
+- **Rooftop Storm** ({5}{U}): Intentional "unplayable" combo piece — with a persistent type-changer (Maskwood Nexus, Arcane Adaptation naming Zombie) making your whole board Zombies, every creature costs {0}. Free creatures = free attacks = unlimited mill triggers.
 - **Perpetual Timepiece** ({2}): Mills 2 per tap; can shuffle graveyard back into library as insurance against decking yourself.
 - **Hedge Shredder** ({2}{G}{G}): Vehicle that mills on attacks and puts land cards from the graveyard onto the battlefield.
 - **Tlincalli Hunter** ({5}{G}{G}): Adventure half retrieves a creature; large trample body as top-end.
