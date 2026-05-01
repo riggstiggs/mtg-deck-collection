@@ -282,6 +282,7 @@ Examples:
 ### Phase 1: Research & Verification (CRITICAL)
 *   **Check History:** ALWAYS read `history.md` before proposing changes to understand recent decisions and match results.
 *   **Verify Cards:** NEVER assume a card's abilities, mana cost, or legality. You MUST verify every card using Scryfall, Manapool, or integrated search tools before adding it to a list.
+*   **Card Discovery (preferred):** When the task is finding candidate cards (e.g., "suggest ramp options", "find me removal"), use `scripts/scryfall_recommend.py` rather than relying on training knowledge. Run `--search` to fetch a verified candidate list, select IDs, then run `--resolve` to confirm choices before presenting them. This is the ID-based workflow — see Section 13 and `API_REFERENCE.md` for full documentation.
 *   **Ambiguity Protocol:** If a card name is ambiguous or tool output is unclear, you MUST stop and ask the user for clarification. Do not guess.
 
 ### Phase 2: Strategy & Reasoning
@@ -356,6 +357,34 @@ python3 scripts/scryfall_lookup.py --no-cache "Sol Ring"
 ```
 
 **Output:** Formatted card data including mana cost, type, Oracle text, price, and set.
+
+---
+
+### `scripts/scryfall_recommend.py` — ID-Based Card Recommendation (Experimental)
+**What it does:** An optional workflow layer built on top of `scryfall_lookup.py` that makes card recommendations structurally hallucination-proof. Instead of Claude suggesting card names from memory, this script fetches a real Scryfall result set, assigns each card a temporary numbered ID (R001, R002...), and Claude selects only by ID. The resolve step confirms every chosen ID maps to a real card before anything is added to a deck.
+
+**This is an experiment.** It does not replace any existing workflow — `scryfall_lookup.py` and all existing flows remain unchanged. Use this script when the task is *discovering* candidate cards. See `API_REFERENCE.md` for the full two-step protocol and query examples.
+
+**When to use:**
+- Any time Claude needs to research and recommend cards for a deck slot (ramp, removal, draw, tribal pieces, etc.)
+- When you want card suggestions grounded entirely in live Scryfall data rather than Claude's training knowledge
+- Claude runs both steps — you never need to write a Scryfall query yourself
+
+**Two-step usage (both steps run by Claude):**
+```bash
+# Step 1: Fetch candidates and assign IDs — Claude picks from this list
+python3 scripts/scryfall_recommend.py --search "QUERY" --label "DESCRIPTION" --limit 30
+
+# Step 2: Resolve the chosen IDs to confirmed card details
+python3 scripts/scryfall_recommend.py --resolve R003 R011 R024
+
+# Optional: inspect the current session without resolving
+python3 scripts/scryfall_recommend.py --list-session
+```
+
+**Session file:** `cache/recommend_session.json` — committed to the repo and shared across machines. Overwritten on each new `--search` run; resolve IDs before starting a new search if you need data from both.
+
+**Hallucination guard:** The `--resolve` step rejects any ID not present in the session and prints a `[WARNING]` for each invalid ID. Only cards that resolve successfully are safe to add to a deck.
 
 ---
 

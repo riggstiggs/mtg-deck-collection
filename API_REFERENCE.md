@@ -226,6 +226,61 @@ Maximum retries: 5. After 5 failures, the script logs the error and moves on —
 
 ---
 
+## ID-Based Card Recommendation (Hallucination Prevention)
+
+### Purpose
+
+`scripts/scryfall_recommend.py` is an optional experimental workflow layer built on top of `scryfall_lookup.py`. Its purpose is to make card recommendations structurally hallucination-proof by ensuring Claude can only select from a pre-verified, numbered list of real Scryfall results — never from memory or assumption.
+
+Use this script when the task is **discovering candidate cards** (e.g., "find me ramp options for this deck"). It is not a replacement for `scryfall_lookup.py`, which remains the tool for named lookups and general card verification.
+
+### How It Works
+
+The workflow has two steps, both run by Claude:
+
+**Step 1 — Search and number candidates:**
+```
+python3 scripts/scryfall_recommend.py --search "QUERY" --label "DESCRIPTION" --limit N
+```
+This fetches real Scryfall results, assigns each card a temporary ID (R001, R002...), saves the session to `cache/recommend_session.json`, and prints a numbered list. Claude reads the output and selects IDs — never card names.
+
+**Step 2 — Resolve IDs to confirmed card details:**
+```
+python3 scripts/scryfall_recommend.py --resolve R001 R005 R012
+```
+This looks up the chosen IDs in the session file and prints full card data. Any ID that doesn't exist in the session is flagged as invalid — this is the hallucination guard. Only cards that resolve successfully are safe to add to a deck.
+
+**Additional commands:**
+```
+# View the full current session without resolving
+python3 scripts/scryfall_recommend.py --list-session
+```
+
+### Session File
+
+The session is saved to `cache/recommend_session.json` and committed to the repo alongside the other cache files. This means a session started on one machine is available after `git pull` on another. The session is **overwritten** on each new `--search` run — resolve IDs from a search before running a new one if you need to reference both.
+
+### Cache Entry
+
+| Cache file | Used by | Keyed by | TTL |
+|------------|---------|----------|-----|
+| `cache/recommend_session.json` | `scryfall_recommend.py` | N/A (single file, overwritten per search) | Until next search |
+
+### Key Query Syntax for Recommendation Searches
+
+When constructing `--search` queries for recommendation sessions, the same Scryfall syntax applies as documented in the Scryfall section above. Common patterns for Commander deck building:
+
+| Goal | Example query |
+|------|---------------|
+| Frog creatures in UBG | `t:creature o:frog id<=UBG commander:legal` |
+| Self-mill creatures, CMC ≤ 4 | `o:mill id<=UBG commander:legal t:creature cmc<=4` |
+| Green ramp sorceries | `t:sorcery o:'search your library' o:'basic land' id<=G commander:legal` |
+| Budget removal under $2 | `o:'destroy target' id<=B commander:legal usd<=2` |
+
+The `id<=` filter enforces color identity. Always include `commander:legal` to exclude banned or format-illegal cards.
+
+---
+
 ## When Agents Must Look Up a Card
 
 Any agent performing a task in this repository must look up a card using `scripts/scryfall_lookup.py` if any of the following are true:
