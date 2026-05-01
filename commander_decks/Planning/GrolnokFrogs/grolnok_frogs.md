@@ -6,6 +6,13 @@ deck_status: main
 
 ![Grolnok, the Omnivore](https://cards.scryfall.io/normal/front/5/3/531cace5-98df-4291-af18-ace91a5a40dc.jpg)
 
+## Source
+**Channel:** [Unplayable MTG](https://www.youtube.com/@UnplayableMTG)
+**Video:** [I Built a Certified Unplayable Deck for $100](https://www.youtube.com/watch?v=EsnDpfEdR8Y)
+This list was built and presented by Unplayable MTG as a ~$100 budget Grolnok brew. The deck structure, card choices, and design philosophy (zero instants/sorceries, Rooftop Storm combo, surveil/explore as alternate enablers) originate from that video.
+
+---
+
 ## Commander Strategy
 **Grolnok, the Omnivore** ({2}{G}{U})
 
