@@ -1,0 +1,83 @@
+COMMANDER:
+1 Edgar Markov
+
+DECK:
+8 Mountain
+8 Plains
+7 Swamp
+1 Akoum Refuge
+1 Command Tower
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Haunted Ridge
+1 Inspiring Vantage
+1 Nomad Outpost
+1 Restless Bivouac
+1 Restless Fortress
+1 Scoured Barrens
+1 Shattered Sanctum
+1 Sundown Pass
+1 Vault of Champions
+1 Voldaren Estate
+1 Wind-Scarred Crag
+1 Sol Ring
+1 Arcane Signet
+1 Mardu Banner
+1 Patchwork Banner
+1 Chromatic Star
+1 Abrade
+1 All-Out Assault
+1 Anje, Maid of Dishonor
+1 Anowon, the Ruin Sage
+1 Arrogant Outlaw
+1 Astarion, the Decadent
+1 Baron Bertram Graywater
+1 Bloodline Keeper
+1 Bloodthirsty Adversary
+1 Bloodtithe Harvester
+1 Bound by Moonsilver
+1 Can't Stay Away
+1 Cathars' Crusade
+1 Cemetery Gatekeeper
+1 Drana, Liberator of Malakir
+1 Edgar, Charmed Groom
+1 Edgar's Awakening
+1 Exquisite Blood
+1 Florian, Voldaren Scion
+1 Gluttonous Guest
+1 Go for the Throat
+1 Henrika Domnathi
+1 Hero's Downfall
+1 Infernal Grasp
+1 Intangible Virtue
+1 Liesa, Forgotten Archangel
+1 Liliana of the Veil
+1 Markov Purifier
+1 Markov Retribution
+1 Mass Hysteria
+1 Metallic Mimic
+1 Necropolis Regent
+1 Necrosynthesis
+1 Odric, Blood-Cursed
+1 Odric, Lunarch Marshal
+1 Olivia, Crimson Bride
+1 Olivia's Attendants
+1 Path to Exile
+1 Restless Bloodseeker
+1 Ruinous Ultimatum
+1 Sanguine Bond
+1 Scourge of the Undercity
+1 Sorin the Mirthless
+1 Stensia Masquerade
+1 Stromkirk Bloodthief
+1 Thalia, Heretic Cathar
+1 The Meathook Massacre
+1 Thirsting Bloodlord
+1 Vampire Socialite
+1 Vampire's Kiss
+1 Voldaren Ambusher
+1 Voldaren Bloodcaster
+1 Voldaren Epicure
+1 Wedding Announcement
+1 Welcoming Vampire
+1 Windcrag Siege
