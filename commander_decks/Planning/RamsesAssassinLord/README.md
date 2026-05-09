@@ -34,28 +34,27 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 ### 👑 Commander (1 Card)
 *   **Ramses, Assassin Lord:** 4/4 deathtouch lord — other Assassins get +1/+1. Wins the game immediately if a player you attacked with an Assassin dies that turn from any source. Deck is built around enabling and accelerating this trigger.
 
-### ⚡ Ramp (8 Cards)
+### ⚡ Ramp (7 Cards)
 *   **Sol Ring:** Universal two-mana accelerant.
 *   **Arcane Signet:** Produces U or B — the most efficient color-fixing rock.
 *   **Dimir Signet:** {1}, {T}: Add {U}{B} — pairs perfectly with the color identity.
 *   **Talisman of Dominance:** Produces colorless or U/B at 1 life — efficient early mana.
 *   **Thought Vessel:** Colorless ramp plus no maximum hand size — important on high-draw turns with Whispering Madness or Vanquisher's Banner.
-*   **Mind Stone:** Colorless ramp early; sacrifices into a card draw in the late game.
 *   **Commander's Sphere:** Produces any color in commander's identity; sacrifices for a card — flexible and convertible.
 *   **Dark Ritual:** Add {B}{B}{B} — critical burst mana for Exsanguinate or Torment finishes; also enables turn-1 or turn-2 acceleration.
 
-### 📖 Card Advantage (4 Cards)
+### 📖 Card Advantage (3 Cards)
 *   **Phyrexian Arena:** Draw a card per upkeep at the cost of 1 life — primary repeatable draw engine.
-*   **Sign in Blood:** Draw two, lose 2 life — burst draw; can target an opponent at 2 life to close the game.
-*   **Night's Whisper:** Draw two, lose 2 life — easier to cast than Sign in Blood in the early turns.
-*   **Read the Bones:** Scry 2 then draw two, lose 2 life — the scry makes this the strongest of the three draw spells.
+*   **Night's Whisper:** Draw two, lose 2 life — efficient burst draw at {1}{B}.
+*   **Read the Bones:** Scry 2 then draw two, lose 2 life — the scry makes this the strongest of the sorcery draw spells.
 
-### 🗡️ Legendary Assassins (5 Cards)
+### 🗡️ Legendary Assassins (6 Cards)
 *   **Ezio, Blade of Vengeance:** 5/5 deathtouch — draws a card whenever any Assassin you control deals combat damage to a player. Primary value engine; turns the whole Assassin board into a card draw machine.
 *   **Etrata, the Silencer:** Can't be blocked; on combat damage exiles a creature and places a hit counter; target player loses the game at 3 hit counters. Secondary alternate win condition alongside Ramses.
 *   **Achilles Davenport:** Backup lord — other Assassins get +1/+1; Menace; Freerunning {U}{B} reduces him to 2 mana after any Assassin connects.
 *   **Desmond Miles:** Menace; grows +1/+0 for each other Assassin you control and each Assassin in your graveyard — scales hard with the tribal engine; surveil X on combat damage synergizes directly with Darkblade Agent's deathtouch + draw trigger.
 *   **Basim Ibn Ishaq:** Draws a card whenever you cast a historic spell (artifacts, legendaries, sagas); becomes unblockable the same turn. Grows with +1/+1 counters from combat hits.
+*   **Mari, the Killing Quill:** Whenever an opponent's creature dies, exile it with a hit counter; your Assassins, Mercenaries, and Rogues gain deathtouch and can remove a hit counter from an exiled card on combat damage to draw a card and create two Treasure tokens — board-wide deathtouch plus a sustained card draw and ramp engine.
 
 ### 🔪 Removal Assassins (5 Cards)
 *   **Royal Assassin:** {T}: Destroy target tapped creature — classic thematic removal, pairs with King's Assassin to orchestrate targeted kills.
@@ -80,13 +79,14 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 *   **Vein Ripper:** Flying; Ward — sacrifice a creature; whenever any creature dies, target opponent loses 2 life and you gain 2 life — powerful sustained drain engine in a board-wipe-heavy deck.
 *   **Shadowmage Infiltrator:** Fear (can't be blocked except by artifacts or black creatures); whenever it deals combat damage to a player, you may draw a card — reliable evasive draw engine.
 
-### 🎯 Plan Cards (15 Cards)
+### 🎯 Plan Cards (16 Cards)
 
 #### Tribal Engine
 *   **Door of Destinies:** Whenever you cast an Assassin spell, put a charge counter on this; Assassins you control get +1/+1 per counter — one-sided lord that snowballs with every Assassin cast.
 *   **Vanquisher's Banner:** Assassins you control get +1/+1; whenever you cast an Assassin spell, draw a card — combines lord and draw in one artifact.
 *   **Herald's Horn:** Assassin spells cost {1} less; at the beginning of your upkeep, reveal the top card and draw it if it's an Assassin — cost reduction plus potential card advantage.
 *   **Crypt Ghast:** Whenever you tap a Swamp for mana, add an additional {B}; Extort — with Urborg in play, this doubles all mana production. Extort drains each opponent a little every spell you cast.
+*   **Rooftop Bypass:** Whenever any nontoken creature you control deals combat damage to a player, create a 1/1 black Assassin token with menace — every successful attack generates a new Assassin body that feeds Achilles and Desmond's lord bonuses, contributes to Door of Destinies, and can carry cipher spells.
 
 #### Evasion
 *   **Cover of Darkness:** Choose Assassin — all Assassins have Fear; can't be blocked except by artifacts and black creatures — massive evasion upgrade for the entire team.
@@ -178,6 +178,10 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 ---
 
 ## 📜 Deck Changelog
+*   **2026-05-09:** Add Assassin token engine and board-wide deathtouch.
+    *   **In:** Rooftop Bypass, Mari, the Killing Quill
+    *   **Out:** Mind Stone, Sign in Blood
+    *   **Reason:** Mind Stone produces only colorless mana — the weakest rock in a two-color deck where Commander's Sphere, Arcane Signet, and Dimir Signet provide on-color fixing. Sign in Blood is the weakest of the three sorcery draw spells (Night's Whisper does the same for less mana). Rooftop Bypass generates a 1/1 Assassin with menace on every successful attack, snowballing the tribal engine. Mari gives the whole team deathtouch and converts combat damage into card draw plus Treasure tokens.
 *   **2026-05-09:** Fix color identity violation; upgrade cipher host.
     *   **In:** Desmond Miles, Brotherhood Spy
     *   **Out:** Ezio Auditore da Firenze, Hookblade Veteran
@@ -203,6 +207,7 @@ DECK:
 1 Achilles Davenport  
 1 Desmond Miles  
 1 Basim Ibn Ishaq  
+1 Mari, the Killing Quill  
 1 Unstoppable Slasher  
 1 Royal Assassin  
 1 King's Assassin  
@@ -225,11 +230,9 @@ DECK:
 1 Dimir Signet  
 1 Talisman of Dominance  
 1 Thought Vessel  
-1 Mind Stone  
 1 Commander's Sphere  
 1 Dark Ritual  
 1 Phyrexian Arena  
-1 Sign in Blood  
 1 Night's Whisper  
 1 Read the Bones  
 1 Feed the Swarm  
@@ -248,6 +251,7 @@ DECK:
 1 Crypt Ghast  
 1 Vanquisher's Banner  
 1 Herald's Horn  
+1 Rooftop Bypass  
 1 Cover of Darkness  
 1 Whispersilk Cloak  
 1 Trailblazer's Boots  
