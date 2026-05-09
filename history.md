@@ -2,6 +2,12 @@
 
 ## 🗓️ May 2026: New Planning Decks
 
+### 2026-05-09: Ramses, Assassin Lord — New Dimir Assassin Tribal Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/RamsesAssassinLord/` with a full 100-card list.
+*   **Strategy:** Dimir Assassin Tribal alt-win condition. Build a board of evasive, deathtouch Assassins to "tag" players with Ramses' win trigger, then close via Exsanguinate/Torment of Hailfire drain or Unstoppable Slasher + Wound Reflection life-halving. Cipher spells (Whispering Madness, Undercity Plague, Hidden Strings) on evasive Assassins generate sustained card advantage and pressure. Kindred Dominance serves as a one-sided board wipe (choose Assassin). Cabal Coffers + Urborg + Crypt Ghast power up massive Exsanguinate finishes.
+*   **Key Includes:** Ezio Auditore da Firenze (Freerunning discount for all Assassins), Ezio Blade of Vengeance (draw on every Assassin hit), Etrata the Silencer (secondary alt-win), Unstoppable Slasher + Wound Reflection (kill combo), Door of Destinies (tribal anthem).
+*   **Bracket:** 3 — 0 Game Changers, no infinite combos, no MLD, no extra turns.
+
 ### 2026-05-01: Grolnok, the Omnivore — New Simic Frog Tribal Deck Added to Planning
 *   **New Deck:** Added `commander_decks/Planning/GrolnokFrogs/` with a full 100-card list.
 *   **Source:** Starting list imported from Moxfield.

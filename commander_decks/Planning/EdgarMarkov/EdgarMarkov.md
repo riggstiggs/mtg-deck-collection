@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Edgar Markov (Vampire Tribal)
 
+![Edgar Markov](https://cards.scryfall.io/normal/front/a/5/a577ba08-0aa8-45be-aa83-d5078770127c.jpg?1736468492)
+
 ![Edgar Markov](https://cards.scryfall.io/normal/front/5/8/5831da5c-da05-49b8-8d74-b16d6b3bde62.jpg?1735288696)
 
 ## Commander Strategy

@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Omnath, Locus of Creation - "Locus of Landfall"
 
+![Omnath, Locus of Creation](https://cards.scryfall.io/normal/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1776479048)
+
 ![Omnath, Locus of Creation](https://cards.scryfall.io/normal/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1639436752)
 
 ## Commander Strategy

@@ -48,6 +48,7 @@ Decks under development, research, or being optimized.
 *   **Henzie Blitz:** Jund sacrifice and aggro.
 *   **Ulamog Ramp:** Colorless high-power ramp.
 *   **Zimone Engine:** Simic Landfall for **Christina**.
+*   **Ramses, Assassin Lord:** Dimir Assassin Tribal alt-win condition (Shadow Brotherhood).
 
 ### 🎮 `/arena_decks`
 Optimized lists for MTG Arena formats (Standard, Brawl, Timeless).

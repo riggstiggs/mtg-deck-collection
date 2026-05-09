@@ -1,0 +1,88 @@
+COMMANDER:
+1 Ramses, Assassin Lord
+
+DECK:
+1 Ezio, Blade of Vengeance
+1 Etrata, the Silencer
+1 Achilles Davenport
+1 Ezio Auditore da Firenze
+1 Basim Ibn Ishaq
+1 Unstoppable Slasher
+1 Royal Assassin
+1 King's Assassin
+1 Thorn of the Black Rose
+1 Termination Facilitator
+1 Callidus Assassin
+1 Scarblade Elite
+1 Poison-Blade Mentor
+1 Dark Impostor
+1 Guildsworn Prowler
+1 Vein Ripper
+1 Midnight Assassin
+1 Merciless Harlequin
+1 Darkblade Agent
+1 Hookblade Veteran
+1 Aven Heartstabber
+1 Shadowmage Infiltrator
+1 Sol Ring
+1 Arcane Signet
+1 Dimir Signet
+1 Talisman of Dominance
+1 Thought Vessel
+1 Mind Stone
+1 Commander's Sphere
+1 Dark Ritual
+1 Phyrexian Arena
+1 Sign in Blood
+1 Night's Whisper
+1 Read the Bones
+1 Feed the Swarm
+1 Go for the Throat
+1 Snuff Out
+1 Hero's Downfall
+1 Counterspell
+1 Arcane Denial
+1 Negate
+1 Damnation
+1 Toxic Deluge
+1 Extinction Event
+1 Black Sun's Zenith
+1 Kindred Dominance
+1 Door of Destinies
+1 Crypt Ghast
+1 Vanquisher's Banner
+1 Herald's Horn
+1 Cover of Darkness
+1 Whispersilk Cloak
+1 Trailblazer's Boots
+1 Lightning Greaves
+1 Swiftfoot Boots
+1 Wound Reflection
+1 Exsanguinate
+1 Torment of Hailfire
+1 Whispering Madness
+1 Undercity Plague
+1 Hidden Strings
+1 Command Tower
+1 Watery Grave
+1 Polluted Delta
+1 Bloodstained Mire
+1 Flooded Strand
+1 Scalding Tarn
+1 Misty Rainforest
+1 Underground River
+1 Sunken Ruins
+1 Drowned Catacomb
+1 Darkwater Catacombs
+1 Clearwater Pathway
+1 River of Tears
+1 Morphic Pool
+1 Darkslick Shores
+1 Urborg, Tomb of Yawgmoth
+1 Cabal Coffers
+1 Rogue's Passage
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Exotic Orchard
+9 Island
+8 Swamp

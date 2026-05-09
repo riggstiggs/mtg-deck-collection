@@ -4,6 +4,8 @@ deck_status: main
 
 # Deck Guide: Grolnok, the Omnivore (The Frog Pond)
 
+![Grolnok, the Omnivore](https://cards.scryfall.io/normal/front/7/a/7aaba76b-9cec-4c2b-b0eb-8f44201f6422.jpg?1643594120)
+
 ![Grolnok, the Omnivore](https://cards.scryfall.io/normal/front/5/3/531cace5-98df-4291-af18-ace91a5a40dc.jpg)
 
 ## Source
