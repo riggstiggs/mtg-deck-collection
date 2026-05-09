@@ -431,10 +431,9 @@ def mana_geyser_val(opponents: List[Player], frac: float) -> int:
 def compute_mana(player: Player, turn: int, opponents: List[Player], frac: float):
     """
     Calculates total mana available this turn.
-    Returns (total_mana, red_available, green_available).
-    Currently only tracks R and G for specific deck optimizations.
+    Returns (total_mana, r, g, w, u, b).
     """
-    total = r = g = 0
+    total = r = g = w = u = b = 0
 
     # 1. Process Lands
     for land in player.lands:
@@ -446,48 +445,61 @@ def compute_mana(player: Player, turn: int, opponents: List[Player], frac: float
                 total += amt
                 if 'R' in ec: r += amt
                 if 'G' in ec: g += amt
+                if 'W' in ec: w += amt
+                if 'U' in ec: u += amt
+                if 'B' in ec: b += amt
         else:
             total += amt
             if 'R' in produces: r += amt
             if 'G' in produces: g += amt
+            if 'W' in produces: w += amt
+            if 'U' in produces: u += amt
+            if 'B' in produces: b += amt
 
     # 2. Process Ready Permanents (Dorks/Rocks)
     for (cd, ready) in player.mana_perms:
         if turn < ready: # Check for summoning sickness or 'enters tapped' rocks
             continue
-        
+
         if cd.is_titania:
             amt = player.creature_count # priest taps for elf count
         elif cd.is_marwyn_card:
             amt = 1 + player.creatures_after_marwyn # marwyn taps for power
         else:
             amt = cd.perm_amount
-            
+
         total += amt
         if 'R' in cd.perm_produces: r += amt
         if 'G' in cd.perm_produces: g += amt
+        if 'W' in cd.perm_produces: w += amt
+        if 'U' in cd.perm_produces: u += amt
+        if 'B' in cd.perm_produces: b += amt
 
-    return total, r, g
+    return total, r, g, w, u, b
 
 
 def burst_bonus(player: Player, turn: int, opponents: List[Player], frac: float,
-                base_total: int, base_r: int, base_g: int):
+                base_total: int, base_r: int, base_g: int, base_w: int, base_u: int,
+                base_b: int):
     """
     Checks hand for Rituals (Seething Song, etc.).
     Returns how much extra mana we get if we cast them right now.
     """
-    bonus_t = bonus_r = bonus_g = 0
+    bonus_t = bonus_r = bonus_g = bonus_w = bonus_u = bonus_b = 0
     for cd in player.hand:
         if not cd.is_burst:
             continue
-        
+
         # Check if we have enough mana to cast the ritual itself
         cur_t = base_total + bonus_t
         cur_r = base_r + bonus_r
         cur_g = base_g + bonus_g
-        if not _can_cast(cd, cur_t, cur_r, cur_g, player.reducer_active):
+        cur_w = base_w + bonus_w
+        cur_u = base_u + bonus_u
+        cur_b = base_b + bonus_b
+        if not _can_cast(cd, cur_t, cur_r, cur_g, cur_w, cur_u, cur_b, player.reducer_active):
             continue
-            
+
         if cd.burst_opp_tapped: # Mana Geyser
             produced = mana_geyser_val(opponents, frac)
             net = produced - cd.cmc
@@ -499,13 +511,17 @@ def burst_bonus(player: Player, turn: int, opponents: List[Player], frac: float,
             for c in cd.burst_produces:
                 if c == 'R': bonus_r += 1
                 elif c == 'G': bonus_g += 1
-                
-    return bonus_t, bonus_r, bonus_g
+                elif c == 'W': bonus_w += 1
+                elif c == 'U': bonus_u += 1
+                elif c == 'B': bonus_b += 1
+
+    return bonus_t, bonus_r, bonus_g, bonus_w, bonus_u, bonus_b
 
 
-def _can_cast(cd: CardData, total: int, r: int, g: int, reducer: bool) -> bool:
+def _can_cast(cd: CardData, total: int, r: int, g: int, w: int, u: int, b: int,
+              reducer: bool) -> bool:
     """
-    The 'Is it Legal?' check. 
+    The 'Is it Legal?' check.
     Compares card CMC and Pips against available mana.
     """
     cost = max(0, cd.cmc - (1 if reducer else 0))
@@ -515,10 +531,12 @@ def _can_cast(cd: CardData, total: int, r: int, g: int, reducer: bool) -> bool:
         return False
     if cd.pips.get('G', 0) > g:
         return False
-    # Off-color protection (WUB not yet fully tracked in this R/G engine)
-    for c in ('W', 'U', 'B'):
-        if cd.pips.get(c, 0) > 0:
-            return False    
+    if cd.pips.get('W', 0) > w:
+        return False
+    if cd.pips.get('U', 0) > u:
+        return False
+    if cd.pips.get('B', 0) > b:
+        return False
     return True
 
 
@@ -571,19 +589,19 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
     changed = True
     while changed:
         changed = False
-        t, r, g = compute_mana(player, turn, opponents, frac)
+        t, r, g, w, u, b = compute_mana(player, turn, opponents, frac)
         for i, cd in enumerate(player.hand):
             if not cd.is_mana_perm:
                 continue
-            if _can_cast(cd, t, r, g, player.reducer_active):
+            if _can_cast(cd, t, r, g, w, u, b, player.reducer_active):
                 player.hand.pop(i)
                 # Mark when it becomes usable (next turn for creatures)
                 ready = turn + (1 if cd.perm_needs_untap else 0)
                 player.mana_perms.append((cd, ready))
-                
+
                 if cd.perm_reducer:
                     player.reducer_active = True
-                if cd.perm_needs_untap:  
+                if cd.perm_needs_untap:
                     player.creature_count += 1
                     if cd.is_marwyn_card:
                         player.marwyn_cast_turn = turn
@@ -597,17 +615,17 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
     changed = True
     while changed:
         changed = False
-        t, r, g = compute_mana(player, turn, opponents, frac)
+        t, r, g, w, u, b = compute_mana(player, turn, opponents, frac)
         for i, cd in enumerate(player.hand):
             if not cd.is_ramp:
                 continue
-            if _can_cast(cd, t, r, g, player.reducer_active):
+            if _can_cast(cd, t, r, g, w, u, b, player.reducer_active):
                 player.hand.pop(i)
                 # Add the "ghost" lands put into play by the ramp spell
                 for _ in range(cd.ramp_untapped):
                     player.lands.append(CardData(name='Forest(ramp)', is_land=True, land_produces=['G']))
                 for _ in range(cd.ramp_tapped):
-                    player.lands.append(CardData(name='Forest(ramp,tapped)', is_land=True, 
+                    player.lands.append(CardData(name='Forest(ramp,tapped)', is_land=True,
                                                  land_produces=['G'], land_tapped=True))
                 extra = cd.ramp_tapped + cd.ramp_untapped
                 log.append(f"Cast: {cd.name} (+{extra} land)")
@@ -615,13 +633,13 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
                 break
 
     # Refresh mana pool after all ramp actions
-    t, r, g = compute_mana(player, turn, opponents, frac)
+    t, r, g, w, u, b = compute_mana(player, turn, opponents, frac)
 
     # --- 4. Hellkite Courser Tech ---
     cmd_name = player.commander.name
     if player.commander_cast_turn is None and player.hellkite_cast_turn is None:
         hk = next((cd for cd in player.hand if cd.name == HELLKITE), None)
-        if hk and _can_cast(hk, t, r, g, player.reducer_active):
+        if hk and _can_cast(hk, t, r, g, w, u, b, player.reducer_active):
             player.hand.remove(hk)
             player.hellkite_cast_turn = turn
             log.append(f"** CAST Hellkite Courser T{turn} -> {cmd_name} enters T{turn+1} **")
@@ -635,31 +653,32 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
         cmd = player.commander
         taxed_cmc = cmd.cmc + player.commander_tax
         taxed = CardData(name=cmd.name, cmc=taxed_cmc, pips=cmd.pips)
-        
+
         # Ritual check
-        bt, br, bg = burst_bonus(player, turn, opponents, frac, t, r, g)
-        
-        if _can_cast(taxed, t + bt, r + br, g + bg, player.reducer_active):
+        bt, br, bg, bw, bu, bb = burst_bonus(player, turn, opponents, frac, t, r, g, w, u, b)
+
+        if _can_cast(taxed, t + bt, r + br, g + bg, w + bw, u + bu, b + bb,
+                     player.reducer_active):
             player.commander_cast_turn = turn
             tax_note = f" (tax +{player.commander_tax})" if player.commander_tax else ""
             burst_note = f" +{bt}burst" if bt > 0 else ""
             log.append(f"** CAST {cmd_name} T{turn}{tax_note} "
-                       f"[{t}{burst_note}mana | {r}R {g}G] **")
-            player.commander_tax += 2   
+                       f"[{t}{burst_note}mana | {r}R {g}G {w}W {u}U {b}B] **")
+            player.commander_tax += 2
 
     # --- 6. Spend remaining mana on generic spells ---
     changed = True
     while changed:
         changed = False
-        t, r, g = compute_mana(player, turn, opponents, frac)
+        t, r, g, w, u, b = compute_mana(player, turn, opponents, frac)
         for i, cd in enumerate(player.hand):
             # Skip cards we already tried to play or can't play
             if cd.is_land or cd.is_mana_perm or cd.is_ramp or cd.is_burst:
                 continue
             if cd.name == HELLKITE or cd.cmc == 0:
                 continue
-                
-            if _can_cast(cd, t, r, g, player.reducer_active):
+
+            if _can_cast(cd, t, r, g, w, u, b, player.reducer_active):
                 player.hand.pop(i)
                 # Record the mana as 'spent' so we don't double-dip
                 player.mana_perms.append((CardData(name=f'_spent_{cd.cmc}', cmc=cd.cmc,
@@ -673,7 +692,7 @@ def simulate_turn(player: Player, turn: int, opponents: List[Player],
                 break
 
     # Record turn-end stats
-    t, r, g = compute_mana(player, turn, opponents, frac)
+    t, r, g, w, u, b = compute_mana(player, turn, opponents, frac)
     player.mana_per_turn.append(t)
 
     return f"  T{turn:2d}: " + (" | ".join(log) if log else "(no plays)")

@@ -139,6 +139,9 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 *   **Watery Grave:** Shock land — enters untapped at 2 life; produces U or B.
 *   **Morphic Pool:** Enters untapped with two or more opponents (always in Commander) — free dual.
 *   **Darkslick Shores:** Enters untapped if you control two or fewer other lands — untapped on turns 1 and 2.
+*   **Tainted Isle:** Enters untapped; produces {U} or {B} if you control a Swamp — with Urborg in play this is always an untapped dual; reliable even without it given 9 basic Swamps.
+*   **Sunken Hollow:** Enters untapped if you control two or more basic lands — with 17 basics, enters untapped on virtually every draw.
+*   **Choked Estuary:** Enters untapped if you reveal an Island or Swamp from hand — near-guaranteed untapped with the high basic count.
 *   **Underground River:** Pain land — produces U or B at 1 damage; colorless alternative.
 *   **Sunken Ruins:** Filter land — {U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B} — excellent color fixing and filtering.
 *   **Drowned Catacomb:** Check land — enters untapped if you control an Island or Swamp (almost always).
@@ -147,15 +150,12 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 *   **River of Tears:** Produces {U} normally; produces {B} instead if you played a land this turn — nuanced but reliable.
 
 #### Fetch Lands
-*   **Polluted Delta:** Fetches Island or Swamp — premier Dimir fetch.
-*   **Bloodstained Mire:** Fetches Swamp — secondary black fetch.
-*   **Flooded Strand:** Fetches Island — secondary blue fetch.
-*   **Scalding Tarn:** Fetches Island — tertiary blue fetch.
-*   **Misty Rainforest:** Fetches Island — tertiary blue fetch.
+*   **Polluted Delta:** Fetches Island or Swamp — the only fetch that can find either basic type; premier Dimir fetch.
+*   **Misty Rainforest:** Fetches Island — secondary fetch for deck thinning.
 
 #### Basic Lands
-*   9x Island
-*   8x Swamp
+*   8x Island
+*   9x Swamp
 
 ---
 
@@ -178,6 +178,10 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 ---
 
 ## 📜 Deck Changelog
+*   **2026-05-09:** Land base overhaul — cut 3 off-color fetches, added 3 untapped Dimir duals, flipped basic Island/Swamp split to favor black.
+    *   **In:** Tainted Isle, Sunken Hollow, Choked Estuary; 1 additional basic Swamp
+    *   **Out:** Bloodstained Mire, Flooded Strand, Scalding Tarn; 1 basic Island
+    *   **Reason:** 5 fetches is excessive for a 2-color deck with a single shock land. Bloodstained Mire/Flooded Strand/Scalding Tarn can each only find one basic type, providing no advantage over the duals they replaced. Tainted Isle/Sunken Hollow/Choked Estuary all enter untapped reliably given the high basic count. Basic split flipped to 9 Swamp / 8 Island to better support the heavy black pip requirements (Kindred Dominance, Exsanguinate, Crypt Ghast).
 *   **2026-05-09:** Initial deck creation — Ramses Assassin Lord, Shadow Brotherhood (Dimir Assassin Tribal, Bracket 3).
     *   **In:** Full 99-card list.
     *   **Out:** N/A
@@ -254,10 +258,10 @@ DECK:
 1 Command Tower  
 1 Watery Grave  
 1 Polluted Delta  
-1 Bloodstained Mire  
-1 Flooded Strand  
-1 Scalding Tarn  
 1 Misty Rainforest  
+1 Tainted Isle  
+1 Sunken Hollow  
+1 Choked Estuary  
 1 Underground River  
 1 Sunken Ruins  
 1 Drowned Catacomb  
@@ -272,5 +276,5 @@ DECK:
 1 Otawara, Soaring City  
 1 Takenuma, Abandoned Mire  
 1 Exotic Orchard  
-9 Island  
-8 Swamp  
+8 Island  
+9 Swamp  

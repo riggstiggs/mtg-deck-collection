@@ -61012,5 +61012,2941 @@
       }
     },
     "cached_at": 1778351315.8931985
+  },
+  "royal assassin": {
+    "data": {
+      "object": "card",
+      "id": "67ef9842-7142-4c63-8aea-fa73f02722a5",
+      "oracle_id": "9ed6f28f-a3db-48c5-9ab0-b90a7fba5f57",
+      "multiverse_ids": [
+        598975
+      ],
+      "mtgo_id": 107691,
+      "tcgplayer_id": 457186,
+      "cardmarket_id": 688501,
+      "name": "Royal Assassin",
+      "lang": "en",
+      "released_at": "2023-01-13",
+      "uri": "https://api.scryfall.com/cards/67ef9842-7142-4c63-8aea-fa73f02722a5",
+      "scryfall_uri": "https://scryfall.com/card/dmr/101/royal-assassin?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/7/67ef9842-7142-4c63-8aea-fa73f02722a5.jpg?1698796245",
+        "normal": "https://cards.scryfall.io/normal/front/6/7/67ef9842-7142-4c63-8aea-fa73f02722a5.jpg?1698796245",
+        "large": "https://cards.scryfall.io/large/front/6/7/67ef9842-7142-4c63-8aea-fa73f02722a5.jpg?1698796245",
+        "png": "https://cards.scryfall.io/png/front/6/7/67ef9842-7142-4c63-8aea-fa73f02722a5.png?1698796245",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/67ef9842-7142-4c63-8aea-fa73f02722a5.jpg?1698796245",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/7/67ef9842-7142-4c63-8aea-fa73f02722a5.jpg?1698796245"
+      },
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "type_line": "Creature — Human Assassin",
+      "oracle_text": "{T}: Destroy target tapped creature.",
+      "power": "1",
+      "toughness": "1",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+      "set": "dmr",
+      "set_name": "Dominaria Remastered",
+      "set_type": "masters",
+      "set_uri": "https://api.scryfall.com/sets/ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admr&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/dmr?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/67ef9842-7142-4c63-8aea-fa73f02722a5/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ed6f28f-a3db-48c5-9ab0-b90a7fba5f57&unique=prints",
+      "collector_number": "101",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Mark Zug",
+      "artist_ids": [
+        "48e2b98c-5467-4671-bd42-4c3746115117"
+      ],
+      "illustration_id": "6c24a711-fc33-4cd0-9fe8-a4dca296a0a6",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 2098,
+      "penny_rank": 7938,
+      "prices": {
+        "usd": "0.38",
+        "usd_foil": "0.50",
+        "usd_etched": null,
+        "eur": "0.40",
+        "eur_foil": "0.62",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=598975&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRoyal%2BAssassin",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRoyal%2BAssassin",
+        "edhrec": "https://edhrec.com/route/?cc=Royal+Assassin"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F457186%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688501&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/107691?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352083.2604797
+  },
+  "king's assassin": {
+    "data": {
+      "object": "card",
+      "id": "670a3149-54fb-4fd2-bc66-3ee9bcc3519d",
+      "oracle_id": "4e3f89e2-2be6-4b96-b81c-007b6840af82",
+      "multiverse_ids": [
+        4227
+      ],
+      "tcgplayer_id": 707,
+      "cardmarket_id": 10006,
+      "name": "King's Assassin",
+      "lang": "en",
+      "released_at": "1997-05-01",
+      "uri": "https://api.scryfall.com/cards/670a3149-54fb-4fd2-bc66-3ee9bcc3519d",
+      "scryfall_uri": "https://scryfall.com/card/por/98/kings-assassin?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/7/670a3149-54fb-4fd2-bc66-3ee9bcc3519d.jpg?1562446854",
+        "normal": "https://cards.scryfall.io/normal/front/6/7/670a3149-54fb-4fd2-bc66-3ee9bcc3519d.jpg?1562446854",
+        "large": "https://cards.scryfall.io/large/front/6/7/670a3149-54fb-4fd2-bc66-3ee9bcc3519d.jpg?1562446854",
+        "png": "https://cards.scryfall.io/png/front/6/7/670a3149-54fb-4fd2-bc66-3ee9bcc3519d.png?1562446854",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/670a3149-54fb-4fd2-bc66-3ee9bcc3519d.jpg?1562446854",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/7/670a3149-54fb-4fd2-bc66-3ee9bcc3519d.jpg?1562446854"
+      },
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "type_line": "Creature — Human Assassin",
+      "oracle_text": "{T}: Destroy target tapped creature. Activate only during your turn, before attackers are declared.",
+      "power": "1",
+      "toughness": "1",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "478c47df-5058-4ce6-830e-7e80732b2ca9",
+      "set": "por",
+      "set_name": "Portal",
+      "set_type": "starter",
+      "set_uri": "https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/por?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/670a3149-54fb-4fd2-bc66-3ee9bcc3519d/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4e3f89e2-2be6-4b96-b81c-007b6840af82&unique=prints",
+      "collector_number": "98",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "Fear is as effective a weapon as the blade.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Zina Saunders",
+      "artist_ids": [
+        "eff6a2bb-7ca1-432e-8af9-aa85ee2359a2"
+      ],
+      "illustration_id": "26628fb0-6a2a-4f0f-ad2a-d54a375d828b",
+      "border_color": "black",
+      "frame": "1997",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 20523,
+      "prices": {
+        "usd": "9.28",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "4.93",
+        "eur_foil": null,
+        "tix": null
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4227&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKing%2527s%2BAssassin",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKing%2527s%2BAssassin",
+        "edhrec": "https://edhrec.com/route/?cc=King%27s+Assassin"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F707%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=10006&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=King%27s+Assassin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352083.8737729
+  },
+  "termination facilitator": {
+    "data": {
+      "object": "card",
+      "id": "5db59164-f0b1-4b5a-b821-ad0b2e1612d1",
+      "oracle_id": "56edd306-8676-49c4-b3c3-5ff840536c3a",
+      "multiverse_ids": [
+        589582
+      ],
+      "tcgplayer_id": 454893,
+      "cardmarket_id": 686390,
+      "name": "Termination Facilitator",
+      "lang": "en",
+      "released_at": "2022-12-02",
+      "uri": "https://api.scryfall.com/cards/5db59164-f0b1-4b5a-b821-ad0b2e1612d1",
+      "scryfall_uri": "https://scryfall.com/card/j22/28/termination-facilitator?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1684320785",
+        "normal": "https://cards.scryfall.io/normal/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1684320785",
+        "large": "https://cards.scryfall.io/large/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1684320785",
+        "png": "https://cards.scryfall.io/png/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.png?1684320785",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1684320785",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1684320785"
+      },
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "type_line": "Creature — Human Assassin",
+      "oracle_text": "{T}: Put a bounty counter on target creature or planeswalker. Activate only as a sorcery.\nWhenever a creature or planeswalker an opponent controls with a bounty counter on it is dealt damage, destroy it.",
+      "power": "1",
+      "toughness": "3",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+      "set": "j22",
+      "set_name": "Jumpstart 2022",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/5db59164-f0b1-4b5a-b821-ad0b2e1612d1/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56edd306-8676-49c4-b3c3-5ff840536c3a&unique=prints",
+      "collector_number": "28",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "\"You sign. They die. Simple as that.\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Justine Cruz",
+      "artist_ids": [
+        "4d6acc42-7bac-42cb-ac57-a56355292e89"
+      ],
+      "illustration_id": "a703d76c-0d14-45da-9697-3d61c83e4aeb",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 8617,
+      "prices": {
+        "usd": "2.48",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "1.39",
+        "eur_foil": null,
+        "tix": null
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=589582&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTermination%2BFacilitator",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTermination%2BFacilitator",
+        "edhrec": "https://edhrec.com/route/?cc=Termination+Facilitator"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F454893%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686390&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Termination+Facilitator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352084.5625584
+  },
+  "callidus assassin": {
+    "data": {
+      "object": "card",
+      "id": "18a5e38a-6c8c-427f-9143-59212e711f1c",
+      "oracle_id": "4240dab9-ace7-490d-97c3-489a9fd52038",
+      "multiverse_ids": [
+        580931
+      ],
+      "mtgo_id": 108690,
+      "tcgplayer_id": 286542,
+      "cardmarket_id": 675722,
+      "name": "Callidus Assassin",
+      "lang": "en",
+      "released_at": "2022-10-07",
+      "uri": "https://api.scryfall.com/cards/18a5e38a-6c8c-427f-9143-59212e711f1c",
+      "scryfall_uri": "https://scryfall.com/card/40k/109/callidus-assassin?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/8/18a5e38a-6c8c-427f-9143-59212e711f1c.jpg?1673309270",
+        "normal": "https://cards.scryfall.io/normal/front/1/8/18a5e38a-6c8c-427f-9143-59212e711f1c.jpg?1673309270",
+        "large": "https://cards.scryfall.io/large/front/1/8/18a5e38a-6c8c-427f-9143-59212e711f1c.jpg?1673309270",
+        "png": "https://cards.scryfall.io/png/front/1/8/18a5e38a-6c8c-427f-9143-59212e711f1c.png?1673309270",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18a5e38a-6c8c-427f-9143-59212e711f1c.jpg?1673309270",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/18a5e38a-6c8c-427f-9143-59212e711f1c.jpg?1673309270"
+      },
+      "mana_cost": "{4}{U}{B}",
+      "cmc": 6.0,
+      "type_line": "Creature — Human Shapeshifter Assassin",
+      "oracle_text": "Flash\nPolymorphine — You may have this creature enter tapped as a copy of any creature on the battlefield, except it has \"When this creature enters, destroy up to one other target creature with the same name as this creature.\"",
+      "power": "3",
+      "toughness": "3",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [
+        "Polymorphine",
+        "Flash"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+      "set": "40k",
+      "set_name": "Warhammer 40,000 Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/18a5e38a-6c8c-427f-9143-59212e711f1c/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4240dab9-ace7-490d-97c3-489a9fd52038&unique=prints",
+      "collector_number": "109",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Bryan Sola",
+      "artist_ids": [
+        "e6879299-a28b-48bc-8db1-9cafcf36de09"
+      ],
+      "illustration_id": "fd1fde98-f511-4719-bcfe-379a39e2a7bf",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "triangle",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 5326,
+      "preview": {
+        "source": "PleasantKenobi",
+        "source_uri": "https://www.youtube.com/watch?v=cZUMys8LVis",
+        "previewed_at": "2022-09-16"
+      },
+      "prices": {
+        "usd": "8.64",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "7.19",
+        "eur_foil": null,
+        "tix": "0.22"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580931&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCallidus%2BAssassin",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCallidus%2BAssassin",
+        "edhrec": "https://edhrec.com/route/?cc=Callidus+Assassin"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F286542%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=675722&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/108690?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352085.2089047
+  },
+  "scarblade elite": {
+    "data": {
+      "object": "card",
+      "id": "1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a",
+      "oracle_id": "e5fbd5c8-7b0c-4740-9430-456e86267966",
+      "multiverse_ids": [
+        153278
+      ],
+      "mtgo_id": 29194,
+      "mtgo_foil_id": 29195,
+      "tcgplayer_id": 18056,
+      "cardmarket_id": 18906,
+      "name": "Scarblade Elite",
+      "lang": "en",
+      "released_at": "2008-02-01",
+      "uri": "https://api.scryfall.com/cards/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a",
+      "scryfall_uri": "https://scryfall.com/card/mor/77/scarblade-elite?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163",
+        "normal": "https://cards.scryfall.io/normal/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163",
+        "large": "https://cards.scryfall.io/large/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163",
+        "png": "https://cards.scryfall.io/png/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.png?1562877163",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163"
+      },
+      "mana_cost": "{B}{B}",
+      "cmc": 2.0,
+      "type_line": "Creature — Elf Assassin",
+      "oracle_text": "{T}, Exile an Assassin card from your graveyard: Destroy target creature.",
+      "power": "2",
+      "toughness": "2",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "c41550df-7b41-41a3-85ab-8612eb2f168f",
+      "set": "mor",
+      "set_name": "Morningtide",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/mor?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae5fbd5c8-7b0c-4740-9430-456e86267966&unique=prints",
+      "collector_number": "77",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "\"Rejoice, eyeblight. In your last hours above the earth, those who bury you will finally make you beautiful.\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Greg Staples",
+      "artist_ids": [
+        "93d65564-bf00-447b-8406-e2031f03b6b1"
+      ],
+      "illustration_id": "c4b5f5a5-79d3-4be2-9a33-d5a8cab3d523",
+      "border_color": "black",
+      "frame": "2003",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 16024,
+      "penny_rank": 10453,
+      "prices": {
+        "usd": "2.95",
+        "usd_foil": "12.21",
+        "usd_etched": null,
+        "eur": "1.06",
+        "eur_foil": "7.91",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153278&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScarblade%2BElite",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScarblade%2BElite",
+        "edhrec": "https://edhrec.com/route/?cc=Scarblade+Elite"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F18056%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=18906&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/29194?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352085.9333768
+  },
+  "dark impostor": {
+    "data": {
+      "object": "card",
+      "id": "bd9384c2-1b55-4da3-91f1-db3d65e98a85",
+      "oracle_id": "96e25887-e556-423a-8a69-0cd148216f6a",
+      "multiverse_ids": [
+        545747
+      ],
+      "mtgo_id": 95028,
+      "tcgplayer_id": 254118,
+      "cardmarket_id": 584107,
+      "name": "Dark Impostor",
+      "lang": "en",
+      "released_at": "2021-11-19",
+      "uri": "https://api.scryfall.com/cards/bd9384c2-1b55-4da3-91f1-db3d65e98a85",
+      "scryfall_uri": "https://scryfall.com/card/voc/127/dark-impostor?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/d/bd9384c2-1b55-4da3-91f1-db3d65e98a85.jpg?1641602558",
+        "normal": "https://cards.scryfall.io/normal/front/b/d/bd9384c2-1b55-4da3-91f1-db3d65e98a85.jpg?1641602558",
+        "large": "https://cards.scryfall.io/large/front/b/d/bd9384c2-1b55-4da3-91f1-db3d65e98a85.jpg?1641602558",
+        "png": "https://cards.scryfall.io/png/front/b/d/bd9384c2-1b55-4da3-91f1-db3d65e98a85.png?1641602558",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd9384c2-1b55-4da3-91f1-db3d65e98a85.jpg?1641602558",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd9384c2-1b55-4da3-91f1-db3d65e98a85.jpg?1641602558"
+      },
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "type_line": "Creature — Vampire Assassin",
+      "oracle_text": "{4}{B}{B}: Exile target creature and put a +1/+1 counter on this creature.\nThis creature has all activated abilities of all creature cards exiled with it.",
+      "power": "2",
+      "toughness": "2",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+      "set": "voc",
+      "set_name": "Crimson Vow Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avoc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/voc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/bd9384c2-1b55-4da3-91f1-db3d65e98a85/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96e25887-e556-423a-8a69-0cd148216f6a&unique=prints",
+      "collector_number": "127",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "\"Ah, this is a nice life. I can see why you were so desperate to keep it.\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Johannes Voss",
+      "artist_ids": [
+        "3593dd7e-c547-4a32-81cd-7da725f60118"
+      ],
+      "illustration_id": "7d961772-5ffd-4dd1-a49b-8c34d4185804",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 9997,
+      "penny_rank": 11221,
+      "prices": {
+        "usd": "0.50",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.27",
+        "eur_foil": null,
+        "tix": "0.14"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545747&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDark%2BImpostor",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDark%2BImpostor",
+        "edhrec": "https://edhrec.com/route/?cc=Dark+Impostor"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254118%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584107&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/95028?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352086.4870546
+  },
+  "guildsworn prowler": {
+    "data": {
+      "object": "card",
+      "id": "d7efb10f-c760-431c-8ac6-904965d850dc",
+      "oracle_id": "72e2aa4f-b4b4-42ab-adc0-d0ac09cd5f92",
+      "multiverse_ids": [
+        563013
+      ],
+      "mtgo_id": 100276,
+      "tcgplayer_id": 273404,
+      "cardmarket_id": 660875,
+      "name": "Guildsworn Prowler",
+      "lang": "en",
+      "released_at": "2022-06-10",
+      "uri": "https://api.scryfall.com/cards/d7efb10f-c760-431c-8ac6-904965d850dc",
+      "scryfall_uri": "https://scryfall.com/card/clb/130/guildsworn-prowler?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.jpg?1674136122",
+        "normal": "https://cards.scryfall.io/normal/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.jpg?1674136122",
+        "large": "https://cards.scryfall.io/large/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.jpg?1674136122",
+        "png": "https://cards.scryfall.io/png/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.png?1674136122",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.jpg?1674136122",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.jpg?1674136122"
+      },
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "type_line": "Creature — Tiefling Rogue Assassin",
+      "oracle_text": "Deathtouch\nWhen this creature dies, if it wasn't blocking, draw a card.",
+      "power": "2",
+      "toughness": "1",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [
+        "Deathtouch"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "d7efb10f-c760-431c-8ac6-904965d850dc",
+          "component": "combo_piece",
+          "name": "Guildsworn Prowler",
+          "type_line": "Creature — Tiefling Rogue Assassin",
+          "uri": "https://api.scryfall.com/cards/d7efb10f-c760-431c-8ac6-904965d850dc"
+        },
+        {
+          "object": "related_card",
+          "id": "e3137e38-e509-4d3f-9e20-44271a7fdf47",
+          "component": "combo_piece",
+          "name": "A-Guildsworn Prowler",
+          "type_line": "Creature — Tiefling Rogue Assassin",
+          "uri": "https://api.scryfall.com/cards/e3137e38-e509-4d3f-9e20-44271a7fdf47"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+      "set": "clb",
+      "set_name": "Commander Legends: Battle for Baldur's Gate",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/d7efb10f-c760-431c-8ac6-904965d850dc/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A72e2aa4f-b4b4-42ab-adc0-d0ac09cd5f92&unique=prints",
+      "collector_number": "130",
+      "digital": false,
+      "rarity": "common",
+      "flavor_text": "\"Of course it's part of my plan. Who do you think started the bar fight?\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Fariba Khamseh",
+      "artist_ids": [
+        "f18a7bd6-4aca-4201-b2f5-942c28ee4f18"
+      ],
+      "illustration_id": "4c9ec56f-d3c3-4d88-98d6-5ed7a0b159b9",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 10027,
+      "prices": {
+        "usd": "0.25",
+        "usd_foil": "0.21",
+        "usd_etched": null,
+        "eur": "0.18",
+        "eur_foil": "0.28",
+        "tix": "2.50"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=563013&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGuildsworn%2BProwler",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGuildsworn%2BProwler",
+        "edhrec": "https://edhrec.com/route/?cc=Guildsworn+Prowler"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273404%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660875&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/100276?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352087.1307702
+  },
+  "vein ripper": {
+    "data": {
+      "object": "card",
+      "id": "078933b3-6d82-45f2-94e8-addf54cf1704",
+      "oracle_id": "f83a768c-162d-46f0-8ebd-d9c6b2c69322",
+      "multiverse_ids": [
+        646668
+      ],
+      "mtgo_id": 121698,
+      "arena_id": 89025,
+      "tcgplayer_id": 533392,
+      "cardmarket_id": 751367,
+      "name": "Vein Ripper",
+      "lang": "en",
+      "released_at": "2024-02-09",
+      "uri": "https://api.scryfall.com/cards/078933b3-6d82-45f2-94e8-addf54cf1704",
+      "scryfall_uri": "https://scryfall.com/card/mkm/110/vein-ripper?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.jpg?1706241798",
+        "normal": "https://cards.scryfall.io/normal/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.jpg?1706241798",
+        "large": "https://cards.scryfall.io/large/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.jpg?1706241798",
+        "png": "https://cards.scryfall.io/png/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.png?1706241798",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.jpg?1706241798",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.jpg?1706241798"
+      },
+      "mana_cost": "{3}{B}{B}{B}",
+      "cmc": 6.0,
+      "type_line": "Creature — Vampire Assassin",
+      "oracle_text": "Flying\nWard—Sacrifice a creature.\nWhenever a creature dies, target opponent loses 2 life and you gain 2 life.",
+      "power": "6",
+      "toughness": "5",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [
+        "Flying",
+        "Ward"
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "arena",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+      "set": "mkm",
+      "set_name": "Murders at Karlov Manor",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/078933b3-6d82-45f2-94e8-addf54cf1704/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af83a768c-162d-46f0-8ebd-d9c6b2c69322&unique=prints",
+      "collector_number": "110",
+      "digital": false,
+      "rarity": "mythic",
+      "flavor_text": "\"I'm afraid your investigation has reached a dead end.\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Bastien L. Deharme",
+      "artist_ids": [
+        "798f63ec-41ad-474e-9708-df08193345c6"
+      ],
+      "illustration_id": "bb9f9c43-c724-490a-9563-39a32ebd2513",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 2472,
+      "preview": {
+        "source": "Wizards of the Coast",
+        "source_uri": "https://weibo.com/2643025570/4991125029388936",
+        "previewed_at": "2024-01-16"
+      },
+      "prices": {
+        "usd": "8.19",
+        "usd_foil": "8.52",
+        "usd_etched": null,
+        "eur": "7.60",
+        "eur_foil": "8.51",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646668&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVein%2BRipper",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVein%2BRipper",
+        "edhrec": "https://edhrec.com/route/?cc=Vein+Ripper"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533392%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=751367&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/121698?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352087.7725148
+  },
+  "midnight assassin": {
+    "data": {
+      "object": "card",
+      "id": "02a4a5b3-0477-4709-8bce-3e01f54001b6",
+      "oracle_id": "f394d2bf-89aa-44c1-b473-8c7a8874a9a3",
+      "multiverse_ids": [
+        555288
+      ],
+      "mtgo_id": 98393,
+      "arena_id": 80238,
+      "tcgplayer_id": 269088,
+      "cardmarket_id": 652179,
+      "name": "Midnight Assassin",
+      "lang": "en",
+      "released_at": "2022-04-29",
+      "uri": "https://api.scryfall.com/cards/02a4a5b3-0477-4709-8bce-3e01f54001b6",
+      "scryfall_uri": "https://scryfall.com/card/snc/87/midnight-assassin?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/2/02a4a5b3-0477-4709-8bce-3e01f54001b6.jpg?1664411115",
+        "normal": "https://cards.scryfall.io/normal/front/0/2/02a4a5b3-0477-4709-8bce-3e01f54001b6.jpg?1664411115",
+        "large": "https://cards.scryfall.io/large/front/0/2/02a4a5b3-0477-4709-8bce-3e01f54001b6.jpg?1664411115",
+        "png": "https://cards.scryfall.io/png/front/0/2/02a4a5b3-0477-4709-8bce-3e01f54001b6.png?1664411115",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/2/02a4a5b3-0477-4709-8bce-3e01f54001b6.jpg?1664411115",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/2/02a4a5b3-0477-4709-8bce-3e01f54001b6.jpg?1664411115"
+      },
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "type_line": "Creature — Vampire Assassin",
+      "oracle_text": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+      "power": "1",
+      "toughness": "2",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [
+        "Deathtouch",
+        "Flying"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "37409205-a750-475a-9755-5ad21792acd7",
+          "component": "combo_piece",
+          "name": "A-Midnight Assassin",
+          "type_line": "Creature — Vampire Assassin",
+          "uri": "https://api.scryfall.com/cards/37409205-a750-475a-9755-5ad21792acd7"
+        },
+        {
+          "object": "related_card",
+          "id": "02a4a5b3-0477-4709-8bce-3e01f54001b6",
+          "component": "combo_piece",
+          "name": "Midnight Assassin",
+          "type_line": "Creature — Vampire Assassin",
+          "uri": "https://api.scryfall.com/cards/02a4a5b3-0477-4709-8bce-3e01f54001b6"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+      "set": "snc",
+      "set_name": "Streets of New Capenna",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/02a4a5b3-0477-4709-8bce-3e01f54001b6/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af394d2bf-89aa-44c1-b473-8c7a8874a9a3&unique=prints",
+      "collector_number": "87",
+      "digital": false,
+      "rarity": "common",
+      "flavor_text": "The broad avenues and graceful spires of Park Heights are the playground of the affluent. After nightfall, they also make a fine hunting ground.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Christina Davis",
+      "artist_ids": [
+        "01352a25-8032-471e-a6b1-c9642b1ee825"
+      ],
+      "illustration_id": "7b967bf0-c391-4c99-8b87-c67d75c6db30",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 12223,
+      "penny_rank": 14509,
+      "prices": {
+        "usd": "0.16",
+        "usd_foil": "0.18",
+        "usd_etched": null,
+        "eur": "0.03",
+        "eur_foil": "0.24",
+        "tix": "0.01"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555288&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMidnight%2BAssassin",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMidnight%2BAssassin",
+        "edhrec": "https://edhrec.com/route/?cc=Midnight+Assassin"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269088%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652179&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/98393?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352088.479436
+  },
+  "darkblade agent": {
+    "data": {
+      "object": "card",
+      "id": "f0b610c5-61e5-43df-a87b-3eaaa915402b",
+      "oracle_id": "9a293c87-ad40-4c6c-9fa4-9a8b5f081ac9",
+      "multiverse_ids": [
+        452914
+      ],
+      "mtgo_id": 69701,
+      "arena_id": 68625,
+      "tcgplayer_id": 176574,
+      "cardmarket_id": 364108,
+      "name": "Darkblade Agent",
+      "lang": "en",
+      "released_at": "2018-10-05",
+      "uri": "https://api.scryfall.com/cards/f0b610c5-61e5-43df-a87b-3eaaa915402b",
+      "scryfall_uri": "https://scryfall.com/card/grn/164/darkblade-agent?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/f/0/f0b610c5-61e5-43df-a87b-3eaaa915402b.jpg?1572893578",
+        "normal": "https://cards.scryfall.io/normal/front/f/0/f0b610c5-61e5-43df-a87b-3eaaa915402b.jpg?1572893578",
+        "large": "https://cards.scryfall.io/large/front/f/0/f0b610c5-61e5-43df-a87b-3eaaa915402b.jpg?1572893578",
+        "png": "https://cards.scryfall.io/png/front/f/0/f0b610c5-61e5-43df-a87b-3eaaa915402b.png?1572893578",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0b610c5-61e5-43df-a87b-3eaaa915402b.jpg?1572893578",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0b610c5-61e5-43df-a87b-3eaaa915402b.jpg?1572893578"
+      },
+      "mana_cost": "{1}{U}{B}",
+      "cmc": 3.0,
+      "type_line": "Creature — Human Assassin",
+      "oracle_text": "As long as you've surveilled this turn, this creature has deathtouch and \"Whenever this creature deals combat damage to a player, you draw a card.\"",
+      "power": "2",
+      "toughness": "3",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "arena",
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+      "set": "grn",
+      "set_name": "Guilds of Ravnica",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agrn&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/grn?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/f0b610c5-61e5-43df-a87b-3eaaa915402b/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9a293c87-ad40-4c6c-9fa4-9a8b5f081ac9&unique=prints",
+      "collector_number": "164",
+      "digital": false,
+      "rarity": "common",
+      "watermark": "dimir",
+      "flavor_text": "\"I've seen your house, and you've been a lovely, if unwitting, host. But at last it's time for farewells.\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Joe Slucher",
+      "artist_ids": [
+        "13b6c9ee-f7a8-46a4-934f-ea6b4a1b14b2"
+      ],
+      "illustration_id": "1289e4f6-28d8-4941-9268-0572bd1f4dce",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 22166,
+      "penny_rank": 13516,
+      "prices": {
+        "usd": "0.14",
+        "usd_foil": "0.27",
+        "usd_etched": null,
+        "eur": "0.04",
+        "eur_foil": "0.20",
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452914&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDarkblade%2BAgent",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDarkblade%2BAgent",
+        "edhrec": "https://edhrec.com/route/?cc=Darkblade+Agent"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F176574%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=364108&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/69701?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352089.198983
+  },
+  "hookblade veteran": {
+    "data": {
+      "object": "card",
+      "id": "551d1f1e-8bc0-4196-8998-0aa7db23b388",
+      "oracle_id": "bad2385b-6981-46fa-a012-d3992c3bc118",
+      "multiverse_ids": [
+        668408
+      ],
+      "mtgo_id": 127596,
+      "tcgplayer_id": 556389,
+      "cardmarket_id": 775542,
+      "name": "Hookblade Veteran",
+      "lang": "en",
+      "released_at": "2024-07-05",
+      "uri": "https://api.scryfall.com/cards/551d1f1e-8bc0-4196-8998-0aa7db23b388",
+      "scryfall_uri": "https://scryfall.com/card/acr/283/hookblade-veteran?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1721425622",
+        "normal": "https://cards.scryfall.io/normal/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1721425622",
+        "large": "https://cards.scryfall.io/large/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1721425622",
+        "png": "https://cards.scryfall.io/png/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.png?1721425622",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1721425622",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1721425622"
+      },
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "type_line": "Creature — Human Assassin",
+      "oracle_text": "During your turn, this creature has flying. (It can't be blocked except by creatures with flying or reach.)",
+      "power": "1",
+      "toughness": "2",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+      "set": "acr",
+      "set_name": "Assassin's Creed",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aacr&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/acr?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/551d1f1e-8bc0-4196-8998-0aa7db23b388/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abad2385b-6981-46fa-a012-d3992c3bc118&unique=prints",
+      "collector_number": "283",
+      "digital": false,
+      "rarity": "common",
+      "flavor_text": "\"The standard Ottoman hookblade has two parts, you see—the hook, and the blade.\"\n—Yusuf Tazim",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Borja Pindado",
+      "artist_ids": [
+        "1624a1a8-3492-4c0b-9abc-83dcf2653111"
+      ],
+      "illustration_id": "a199aaaf-51c8-496f-8058-30a1ae7a9559",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "triangle",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 11269,
+      "penny_rank": 8261,
+      "prices": {
+        "usd": "0.23",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.17",
+        "eur_foil": null,
+        "tix": "0.33"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=668408&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHookblade%2BVeteran",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHookblade%2BVeteran",
+        "edhrec": "https://edhrec.com/route/?cc=Hookblade+Veteran"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F556389%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=775542&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/127596?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352089.8124852
+  },
+  "aven heartstabber": {
+    "data": {
+      "object": "card",
+      "id": "acef329c-61e6-41c1-8d89-ff2417949839",
+      "oracle_id": "fee73267-b0ef-4f43-a0bd-7728691d6f17",
+      "multiverse_ids": [
+        555367
+      ],
+      "mtgo_id": 98551,
+      "arena_id": 80317,
+      "tcgplayer_id": 268795,
+      "cardmarket_id": 651707,
+      "name": "Aven Heartstabber",
+      "lang": "en",
+      "released_at": "2022-04-29",
+      "uri": "https://api.scryfall.com/cards/acef329c-61e6-41c1-8d89-ff2417949839",
+      "scryfall_uri": "https://scryfall.com/card/snc/166/aven-heartstabber?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/c/acef329c-61e6-41c1-8d89-ff2417949839.jpg?1664412646",
+        "normal": "https://cards.scryfall.io/normal/front/a/c/acef329c-61e6-41c1-8d89-ff2417949839.jpg?1664412646",
+        "large": "https://cards.scryfall.io/large/front/a/c/acef329c-61e6-41c1-8d89-ff2417949839.jpg?1664412646",
+        "png": "https://cards.scryfall.io/png/front/a/c/acef329c-61e6-41c1-8d89-ff2417949839.png?1664412646",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/acef329c-61e6-41c1-8d89-ff2417949839.jpg?1664412646",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/acef329c-61e6-41c1-8d89-ff2417949839.jpg?1664412646"
+      },
+      "mana_cost": "{U}{B}",
+      "cmc": 2.0,
+      "type_line": "Creature — Bird Assassin",
+      "oracle_text": "Flying\nAs long as there are five or more mana values among cards in your graveyard, this creature gets +2/+2 and has deathtouch.\nWhen this creature dies, mill two cards, then draw a card.",
+      "power": "1",
+      "toughness": "1",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [
+        "Flying",
+        "Mill"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+      "set": "snc",
+      "set_name": "Streets of New Capenna",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/acef329c-61e6-41c1-8d89-ff2417949839/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afee73267-b0ef-4f43-a0bd-7728691d6f17&unique=prints",
+      "collector_number": "166",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Dan Murayama Scott",
+      "artist_ids": [
+        "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+      ],
+      "illustration_id": "93f0bb8d-567c-42ea-85ff-c7f47205c3a6",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 12137,
+      "penny_rank": 6046,
+      "prices": {
+        "usd": "0.33",
+        "usd_foil": "0.30",
+        "usd_etched": null,
+        "eur": "0.13",
+        "eur_foil": "0.30",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555367&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAven%2BHeartstabber",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAven%2BHeartstabber",
+        "edhrec": "https://edhrec.com/route/?cc=Aven+Heartstabber"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268795%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=651707&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/98551?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352090.492113
+  },
+  "night's whisper": {
+    "data": {
+      "object": "card",
+      "id": "d12fefdf-d13f-4638-ac8d-112fa7c6f970",
+      "oracle_id": "7ffae8f8-3006-4969-a339-6d30678f87ea",
+      "multiverse_ids": [],
+      "resource_id": "5E43E1B6AED8DCC822FD256D8A9397BCD0837E7C66E459FDCB1E41D7817237E3",
+      "mtgo_id": 148909,
+      "tcgplayer_id": 687466,
+      "cardmarket_id": 881540,
+      "name": "Night's Whisper",
+      "lang": "en",
+      "released_at": "2026-04-24",
+      "uri": "https://api.scryfall.com/cards/d12fefdf-d13f-4638-ac8d-112fa7c6f970",
+      "scryfall_uri": "https://scryfall.com/card/soc/221/nights-whisper?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/d/1/d12fefdf-d13f-4638-ac8d-112fa7c6f970.jpg?1775941121",
+        "normal": "https://cards.scryfall.io/normal/front/d/1/d12fefdf-d13f-4638-ac8d-112fa7c6f970.jpg?1775941121",
+        "large": "https://cards.scryfall.io/large/front/d/1/d12fefdf-d13f-4638-ac8d-112fa7c6f970.jpg?1775941121",
+        "png": "https://cards.scryfall.io/png/front/d/1/d12fefdf-d13f-4638-ac8d-112fa7c6f970.png?1775941121",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d12fefdf-d13f-4638-ac8d-112fa7c6f970.jpg?1775941121",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d12fefdf-d13f-4638-ac8d-112fa7c6f970.jpg?1775941121"
+      },
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "type_line": "Sorcery",
+      "oracle_text": "You draw two cards and lose 2 life.",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "97fab8d1-480a-419d-ab14-663968e29b9c",
+      "set": "soc",
+      "set_name": "Secrets of Strixhaven Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/97fab8d1-480a-419d-ab14-663968e29b9c",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asoc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/soc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/d12fefdf-d13f-4638-ac8d-112fa7c6f970/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7ffae8f8-3006-4969-a339-6d30678f87ea&unique=prints",
+      "collector_number": "221",
+      "digital": false,
+      "rarity": "common",
+      "flavor_text": "\"I have seen things that would reduce a weaker person to blubbering and raving. Want to hear about them?\"\n—Vraska",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "John Severin Brassell",
+      "artist_ids": [
+        "a4f50310-4b01-4cd3-8ab8-85b31e6876db"
+      ],
+      "illustration_id": "9c16c0ed-ac81-4176-94ad-437c298aba1e",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 187,
+      "prices": {
+        "usd": "0.29",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.22",
+        "eur_foil": null,
+        "tix": "0.39"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNight%2527s%2BWhisper",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNight%2527s%2BWhisper",
+        "edhrec": "https://edhrec.com/route/?cc=Night%27s+Whisper"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F687466%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=881540&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/148909?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352091.0414522
+  },
+  "drowned catacomb": {
+    "data": {
+      "object": "card",
+      "id": "07b4a6dd-0e2f-43be-93c6-7578c34a9443",
+      "oracle_id": "819fc966-434e-470f-91e9-a38df974ad17",
+      "multiverse_ids": [
+        658734
+      ],
+      "mtgo_id": 125043,
+      "tcgplayer_id": 545225,
+      "cardmarket_id": 764928,
+      "name": "Drowned Catacomb",
+      "lang": "en",
+      "released_at": "2024-04-19",
+      "uri": "https://api.scryfall.com/cards/07b4a6dd-0e2f-43be-93c6-7578c34a9443",
+      "scryfall_uri": "https://scryfall.com/card/otc/290/drowned-catacomb?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997",
+        "normal": "https://cards.scryfall.io/normal/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997",
+        "large": "https://cards.scryfall.io/large/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997",
+        "png": "https://cards.scryfall.io/png/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.png?1712354997",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}.",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "B",
+        "U"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+      "set": "otc",
+      "set_name": "Outlaws of Thunder Junction Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/07b4a6dd-0e2f-43be-93c6-7578c34a9443/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A819fc966-434e-470f-91e9-a38df974ad17&unique=prints",
+      "collector_number": "290",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "None can tell how many vessels are tangled up on the sea floor—or how much treasure remains unclaimed.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Jung Park",
+      "artist_ids": [
+        "269392ac-4c06-4650-98e2-d49a5a7f2371"
+      ],
+      "illustration_id": "e411bf25-c112-4c98-b3c1-64387c2402da",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 111,
+      "penny_rank": 93,
+      "prices": {
+        "usd": "2.47",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "2.59",
+        "eur_foil": null,
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658734&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrowned%2BCatacomb",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrowned%2BCatacomb",
+        "edhrec": "https://edhrec.com/route/?cc=Drowned+Catacomb"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545225%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764928&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/125043?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352091.6765966
+  },
+  "urborg, tomb of yawgmoth": {
+    "data": {
+      "object": "card",
+      "id": "9e1a9e38-6ffc-490f-b0be-23ba4e8204c6",
+      "oracle_id": "db6174d7-211d-4817-b8e4-8384594c83f9",
+      "multiverse_ids": [
+        509652
+      ],
+      "mtgo_id": 86949,
+      "tcgplayer_id": 234275,
+      "cardmarket_id": 548301,
+      "name": "Urborg, Tomb of Yawgmoth",
+      "lang": "en",
+      "released_at": "2021-03-19",
+      "uri": "https://api.scryfall.com/cards/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6",
+      "scryfall_uri": "https://scryfall.com/card/tsr/287/urborg-tomb-of-yawgmoth?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1619399578",
+        "normal": "https://cards.scryfall.io/normal/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1619399578",
+        "large": "https://cards.scryfall.io/large/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1619399578",
+        "png": "https://cards.scryfall.io/png/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.png?1619399578",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1619399578",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1619399578"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Legendary Land",
+      "oracle_text": "Each land is a Swamp in addition to its other land types.",
+      "colors": [],
+      "color_identity": [],
+      "keywords": [],
+      "produced_mana": [
+        "B"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+      "set": "tsr",
+      "set_name": "Time Spiral Remastered",
+      "set_type": "masters",
+      "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adb6174d7-211d-4817-b8e4-8384594c83f9&unique=prints",
+      "collector_number": "287",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "\"Yawgmoth's corpse is a wound in the universe. His foul blood seeps out, infecting the land with his final curse.\"\n—Lord Windgrace",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "John Avon",
+      "artist_ids": [
+        "798f3932-30e0-4420-aa3f-db4d613f89ca"
+      ],
+      "illustration_id": "28d2ea86-5021-4f36-a5ec-028dae5bc71d",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 71,
+      "preview": {
+        "source": "Commander Rules Committee",
+        "source_uri": "https://mtgcommander.net/index.php/2021/03/04/time-spiral-remastered-previews/",
+        "previewed_at": "2021-03-04"
+      },
+      "prices": {
+        "usd": "57.28",
+        "usd_foil": "63.24",
+        "usd_etched": null,
+        "eur": "33.16",
+        "eur_foil": "43.32",
+        "tix": "0.57"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509652&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUrborg%252C%2BTomb%2Bof%2BYawgmoth",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUrborg%252C%2BTomb%2Bof%2BYawgmoth",
+        "edhrec": "https://edhrec.com/route/?cc=Urborg%2C+Tomb+of+Yawgmoth"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F234275%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=548301&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/86949?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352092.2248147
+  },
+  "cabal coffers": {
+    "data": {
+      "object": "card",
+      "id": "e1efb0d3-2c72-46ff-bdc1-1069967365a0",
+      "oracle_id": "7358e164-5704-4e78-9b21-6a9bf2a968ce",
+      "multiverse_ids": [
+        526272
+      ],
+      "mtgo_id": 91029,
+      "tcgplayer_id": 239396,
+      "tcgplayer_etched_id": 240800,
+      "cardmarket_id": 565741,
+      "name": "Cabal Coffers",
+      "lang": "en",
+      "released_at": "2021-06-18",
+      "uri": "https://api.scryfall.com/cards/e1efb0d3-2c72-46ff-bdc1-1069967365a0",
+      "scryfall_uri": "https://scryfall.com/card/mh2/301/cabal-coffers?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1626101023",
+        "normal": "https://cards.scryfall.io/normal/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1626101023",
+        "large": "https://cards.scryfall.io/large/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1626101023",
+        "png": "https://cards.scryfall.io/png/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.png?1626101023",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1626101023",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1626101023"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "{2}, {T}: Add {B} for each Swamp you control.",
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "B"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil",
+        "etched"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+      "set": "mh2",
+      "set_name": "Modern Horizons 2",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/e1efb0d3-2c72-46ff-bdc1-1069967365a0/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7358e164-5704-4e78-9b21-6a9bf2a968ce&unique=prints",
+      "collector_number": "301",
+      "digital": false,
+      "rarity": "mythic",
+      "watermark": "set",
+      "flavor_text": "Deep within the Cabal's vault, the Mirari pulsed like a dead sun—and its darkness radiated across Otaria.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Don Hazeltine",
+      "artist_ids": [
+        "b4117364-73af-47e5-8cf0-901eeea09e01"
+      ],
+      "illustration_id": "74967497-96f9-4edf-aa08-f4e100164df0",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 188,
+      "preview": {
+        "source": "Wizards of the Coast",
+        "source_uri": "https://www.twitch.tv/videos/1029499176",
+        "previewed_at": "2021-05-20"
+      },
+      "prices": {
+        "usd": "29.84",
+        "usd_foil": "34.90",
+        "usd_etched": "33.56",
+        "eur": "17.73",
+        "eur_foil": "22.44",
+        "tix": "0.09"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526272&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCabal%2BCoffers",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCabal%2BCoffers",
+        "edhrec": "https://edhrec.com/route/?cc=Cabal+Coffers"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239396%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=565741&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/91029?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352092.9085493
+  },
+  "otawara, soaring city": {
+    "data": {
+      "object": "card",
+      "id": "486d7edc-d983-41f0-8b78-c99aecd72996",
+      "oracle_id": "e9b6a394-691c-425a-9307-76d8edc7375e",
+      "multiverse_ids": [
+        548584
+      ],
+      "mtgo_id": 97492,
+      "arena_id": 79711,
+      "tcgplayer_id": 262434,
+      "cardmarket_id": 607514,
+      "name": "Otawara, Soaring City",
+      "lang": "en",
+      "released_at": "2022-02-18",
+      "uri": "https://api.scryfall.com/cards/486d7edc-d983-41f0-8b78-c99aecd72996",
+      "scryfall_uri": "https://scryfall.com/card/neo/271/otawara-soaring-city?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960",
+        "normal": "https://cards.scryfall.io/normal/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960",
+        "large": "https://cards.scryfall.io/large/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960",
+        "png": "https://cards.scryfall.io/png/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.png?1654568960",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Legendary Land",
+      "oracle_text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control.",
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "keywords": [
+        "Channel"
+      ],
+      "produced_mana": [
+        "U"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+      "set": "neo",
+      "set_name": "Kamigawa: Neon Dynasty",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/486d7edc-d983-41f0-8b78-c99aecd72996/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9b6a394-691c-425a-9307-76d8edc7375e&unique=prints",
+      "collector_number": "271",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Alayna Danner",
+      "artist_ids": [
+        "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+      ],
+      "illustration_id": "92355104-5745-4012-b903-7f5be8699b78",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 90,
+      "preview": {
+        "source": "Wizards of the Coast",
+        "source_uri": "https://twitter.com/mtgjp/status/1488067025477849094",
+        "previewed_at": "2022-01-31"
+      },
+      "prices": {
+        "usd": "29.60",
+        "usd_foil": "30.65",
+        "usd_etched": null,
+        "eur": "21.09",
+        "eur_foil": "25.94",
+        "tix": "1.90"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548584&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOtawara%252C%2BSoaring%2BCity",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOtawara%252C%2BSoaring%2BCity",
+        "edhrec": "https://edhrec.com/route/?cc=Otawara%2C+Soaring+City"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262434%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=607514&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/97492?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352093.460585
+  },
+  "takenuma, abandoned mire": {
+    "data": {
+      "object": "card",
+      "id": "499037cc-a577-41cb-8ca2-5e117945634f",
+      "oracle_id": "ac2dd694-d2f1-4025-8400-12332bdc882a",
+      "multiverse_ids": [
+        548591
+      ],
+      "mtgo_id": 97506,
+      "arena_id": 79718,
+      "tcgplayer_id": 262420,
+      "cardmarket_id": 607525,
+      "name": "Takenuma, Abandoned Mire",
+      "lang": "en",
+      "released_at": "2022-02-18",
+      "uri": "https://api.scryfall.com/cards/499037cc-a577-41cb-8ca2-5e117945634f",
+      "scryfall_uri": "https://scryfall.com/card/neo/278/takenuma-abandoned-mire?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039",
+        "normal": "https://cards.scryfall.io/normal/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039",
+        "large": "https://cards.scryfall.io/large/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039",
+        "png": "https://cards.scryfall.io/png/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.png?1654569039",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Legendary Land",
+      "oracle_text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control.",
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [
+        "Mill",
+        "Channel"
+      ],
+      "produced_mana": [
+        "B"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+      "set": "neo",
+      "set_name": "Kamigawa: Neon Dynasty",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/499037cc-a577-41cb-8ca2-5e117945634f/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac2dd694-d2f1-4025-8400-12332bdc882a&unique=prints",
+      "collector_number": "278",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Sam Burley",
+      "artist_ids": [
+        "f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f"
+      ],
+      "illustration_id": "12be7a1e-dfa7-4160-8fb1-fc068b0facc9",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 241,
+      "preview": {
+        "source": "Wizards of the Coast",
+        "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/takenuma-abandoned-mire-2022-02-01",
+        "previewed_at": "2022-02-01"
+      },
+      "prices": {
+        "usd": "11.33",
+        "usd_foil": "11.80",
+        "usd_etched": null,
+        "eur": "8.93",
+        "eur_foil": "9.56",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548591&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTakenuma%252C%2BAbandoned%2BMire",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTakenuma%252C%2BAbandoned%2BMire",
+        "edhrec": "https://edhrec.com/route/?cc=Takenuma%2C+Abandoned+Mire"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262420%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=607525&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/97506?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778352094.0156074
+  },
+  "tainted isle": {
+    "data": {
+      "object": "card",
+      "id": "70e8e7e2-e9ea-4358-805e-c5110c8d8443",
+      "oracle_id": "0222414f-98b5-458a-a0fd-831a66cd8b07",
+      "multiverse_ids": [
+        676176
+      ],
+      "mtgo_id": 131231,
+      "tcgplayer_id": 579338,
+      "cardmarket_id": 789061,
+      "name": "Tainted Isle",
+      "lang": "en",
+      "released_at": "2024-09-27",
+      "uri": "https://api.scryfall.com/cards/70e8e7e2-e9ea-4358-805e-c5110c8d8443",
+      "scryfall_uri": "https://scryfall.com/card/dsc/303/tainted-isle?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/0/70e8e7e2-e9ea-4358-805e-c5110c8d8443.jpg?1726285508",
+        "normal": "https://cards.scryfall.io/normal/front/7/0/70e8e7e2-e9ea-4358-805e-c5110c8d8443.jpg?1726285508",
+        "large": "https://cards.scryfall.io/large/front/7/0/70e8e7e2-e9ea-4358-805e-c5110c8d8443.jpg?1726285508",
+        "png": "https://cards.scryfall.io/png/front/7/0/70e8e7e2-e9ea-4358-805e-c5110c8d8443.png?1726285508",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70e8e7e2-e9ea-4358-805e-c5110c8d8443.jpg?1726285508",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/70e8e7e2-e9ea-4358-805e-c5110c8d8443.jpg?1726285508"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {C}.\n{T}: Add {U} or {B}. Activate only if you control a Swamp.",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "B",
+        "C",
+        "U"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+      "set": "dsc",
+      "set_name": "Duskmourn: House of Horror Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/70e8e7e2-e9ea-4358-805e-c5110c8d8443/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0222414f-98b5-458a-a0fd-831a66cd8b07&unique=prints",
+      "collector_number": "303",
+      "digital": false,
+      "rarity": "uncommon",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Alan Pollack",
+      "artist_ids": [
+        "70c20ea3-5ad6-4082-a337-6e994ae5828e"
+      ],
+      "illustration_id": "688991be-4256-45fe-a887-ca4f01d3a487",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 491,
+      "prices": {
+        "usd": "0.59",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.59",
+        "eur_foil": null,
+        "tix": "0.18"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=676176&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTainted%2BIsle",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTainted%2BIsle",
+        "edhrec": "https://edhrec.com/route/?cc=Tainted+Isle"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F579338%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=789061&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/131231?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778354350.0160804
+  },
+  "sunken hollow": {
+    "data": {
+      "object": "card",
+      "id": "7ab0a5f2-5260-403d-9522-954efc91e96d",
+      "oracle_id": "cd2c90ac-2b04-461c-92f3-939871b6b6a3",
+      "multiverse_ids": [],
+      "resource_id": "F655FEC70113C6E6AF7F22D786666AAC1E251DD113E44EF95A41A9B8F47BBB3B",
+      "mtgo_id": 147485,
+      "tcgplayer_id": 679634,
+      "cardmarket_id": 873545,
+      "name": "Sunken Hollow",
+      "lang": "en",
+      "released_at": "2026-03-06",
+      "uri": "https://api.scryfall.com/cards/7ab0a5f2-5260-403d-9522-954efc91e96d",
+      "scryfall_uri": "https://scryfall.com/card/tmc/76/sunken-hollow?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/a/7ab0a5f2-5260-403d-9522-954efc91e96d.jpg?1771424662",
+        "normal": "https://cards.scryfall.io/normal/front/7/a/7ab0a5f2-5260-403d-9522-954efc91e96d.jpg?1771424662",
+        "large": "https://cards.scryfall.io/large/front/7/a/7ab0a5f2-5260-403d-9522-954efc91e96d.jpg?1771424662",
+        "png": "https://cards.scryfall.io/png/front/7/a/7ab0a5f2-5260-403d-9522-954efc91e96d.png?1771424662",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7ab0a5f2-5260-403d-9522-954efc91e96d.jpg?1771424662",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7ab0a5f2-5260-403d-9522-954efc91e96d.jpg?1771424662"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land — Island Swamp",
+      "oracle_text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands.",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "B",
+        "U"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "178a07bb-cd54-4443-8b62-675e0c52cfe3",
+      "set": "tmc",
+      "set_name": "Teenage Mutant Ninja Turtles Eternal",
+      "set_type": "eternal",
+      "set_uri": "https://api.scryfall.com/sets/178a07bb-cd54-4443-8b62-675e0c52cfe3",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/tmc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/7ab0a5f2-5260-403d-9522-954efc91e96d/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd2c90ac-2b04-461c-92f3-939871b6b6a3&unique=prints",
+      "collector_number": "76",
+      "digital": false,
+      "rarity": "rare",
+      "flavor_text": "\"The Caribbean in 1530? Rad! Pirates are totally cold! Is that what you say in your time? Or tepid? Cool? Anyway, the Time Scepter says Bebop and Rocksteady should be here somewhere.\"\n—Renet",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Samuele Bandini",
+      "artist_ids": [
+        "f16f5903-990f-4ffe-88fb-fd54d0d8752b"
+      ],
+      "illustration_id": "c8a0f9a3-2e04-4c2a-b5b3-35681795ad13",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "surgefoil",
+        "universesbeyond"
+      ],
+      "edhrec_rank": 84,
+      "penny_rank": 240,
+      "prices": {
+        "usd": "0.43",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.25",
+        "eur_foil": "2.00",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSunken%2BHollow",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSunken%2BHollow",
+        "edhrec": "https://edhrec.com/route/?cc=Sunken+Hollow"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F679634%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=873545&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/147485?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778354350.5575197
+  },
+  "choked estuary": {
+    "data": {
+      "object": "card",
+      "id": "e9ad18b2-1061-4893-9171-07ffe142a762",
+      "oracle_id": "d473b507-8c33-4118-bc10-b0a268776074",
+      "multiverse_ids": [
+        650348
+      ],
+      "mtgo_id": 122656,
+      "tcgplayer_id": 535789,
+      "cardmarket_id": 753320,
+      "name": "Choked Estuary",
+      "lang": "en",
+      "released_at": "2024-02-09",
+      "uri": "https://api.scryfall.com/cards/e9ad18b2-1061-4893-9171-07ffe142a762",
+      "scryfall_uri": "https://scryfall.com/card/mkc/254/choked-estuary?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/9/e9ad18b2-1061-4893-9171-07ffe142a762.jpg?1706241137",
+        "normal": "https://cards.scryfall.io/normal/front/e/9/e9ad18b2-1061-4893-9171-07ffe142a762.jpg?1706241137",
+        "large": "https://cards.scryfall.io/large/front/e/9/e9ad18b2-1061-4893-9171-07ffe142a762.jpg?1706241137",
+        "png": "https://cards.scryfall.io/png/front/e/9/e9ad18b2-1061-4893-9171-07ffe142a762.png?1706241137",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9ad18b2-1061-4893-9171-07ffe142a762.jpg?1706241137",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9ad18b2-1061-4893-9171-07ffe142a762.jpg?1706241137"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "As this land enters, you may reveal an Island or Swamp card from your hand. If you don't, this land enters tapped.\n{T}: Add {U} or {B}.",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "B",
+        "U"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+      "set": "mkc",
+      "set_name": "Murders at Karlov Manor Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/mkc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/e9ad18b2-1061-4893-9171-07ffe142a762/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad473b507-8c33-4118-bc10-b0a268776074&unique=prints",
+      "collector_number": "254",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Vincent Proce",
+      "artist_ids": [
+        "d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a"
+      ],
+      "illustration_id": "26c08eb2-a65e-4518-a17a-08874a70090b",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 286,
+      "penny_rank": 251,
+      "prices": {
+        "usd": "0.35",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.29",
+        "eur_foil": null,
+        "tix": "0.18"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=650348&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChoked%2BEstuary",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChoked%2BEstuary",
+        "edhrec": "https://edhrec.com/route/?cc=Choked+Estuary"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535789%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753320&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/122656?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778354351.2177348
+  },
+  "bojuka bog": {
+    "data": {
+      "object": "card",
+      "id": "55b5b094-9d2d-4d96-b90c-78fecdae725a",
+      "oracle_id": "04b7362d-0490-4cb0-b5d7-2a7732f659ce",
+      "multiverse_ids": [],
+      "resource_id": "63C022EA095F6668EEC90B159883673A9351FACEC66F9C6910958040A231D423",
+      "mtgo_id": 149191,
+      "tcgplayer_id": 687669,
+      "cardmarket_id": 881696,
+      "name": "Bojuka Bog",
+      "lang": "en",
+      "released_at": "2026-04-24",
+      "uri": "https://api.scryfall.com/cards/55b5b094-9d2d-4d96-b90c-78fecdae725a",
+      "scryfall_uri": "https://scryfall.com/card/soc/363/bojuka-bog?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1775942139",
+        "normal": "https://cards.scryfall.io/normal/front/5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1775942139",
+        "large": "https://cards.scryfall.io/large/front/5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1775942139",
+        "png": "https://cards.scryfall.io/png/front/5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.png?1775942139",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1775942139",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1775942139"
+      },
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "oracle_text": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}.",
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "B"
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "97fab8d1-480a-419d-ab14-663968e29b9c",
+      "set": "soc",
+      "set_name": "Secrets of Strixhaven Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/97fab8d1-480a-419d-ab14-663968e29b9c",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asoc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/soc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/55b5b094-9d2d-4d96-b90c-78fecdae725a/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04b7362d-0490-4cb0-b5d7-2a7732f659ce&unique=prints",
+      "collector_number": "363",
+      "digital": false,
+      "rarity": "common",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Howard Lyon",
+      "artist_ids": [
+        "6dd06426-59fe-4b9c-aad5-6da8446a5c3d"
+      ],
+      "illustration_id": "3f411487-e24c-45b8-90f4-e195ff208c30",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 26,
+      "prices": {
+        "usd": "0.50",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "0.90",
+        "eur_foil": null,
+        "tix": "1.60"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBojuka%2BBog",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBojuka%2BBog",
+        "edhrec": "https://edhrec.com/route/?cc=Bojuka+Bog"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F687669%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=881696&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/149191?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1778354351.8251781
   }
 }
