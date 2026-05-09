@@ -83,8 +83,8 @@ Run through this at the start of every working session:
 
 Whenever a deck's card list changes, you **MUST** update **all three** of these locations in the same edit session — never leave them out of sync:
 
-1. **Main deck file** — card list entries with their one-line descriptions
-2. **Plain Text Copy/Paste section** at the bottom of the main deck file (every line ends with two trailing spaces for GitHub GFM line breaks)
+1. **`README.md`** — card list entries with their one-line descriptions (the main deck file, always named README.md)
+2. **Plain Text Copy/Paste section** at the bottom of `README.md` (every line ends with two trailing spaces for GitHub GFM line breaks)
 3. **`moxfield_import.txt`** — raw text, Moxfield-compatible headers, **no** trailing spaces
 
 ### 5.3 100-Card Singleton Rule
@@ -135,6 +135,8 @@ Use `COMMANDER_TEMPLATE.md` as the source of truth. Default targets:
 These are **guidelines**, not hard requirements. A creature-heavy tribal deck may run more Plan Cards and fewer of another category. Explain any meaningful deviations.
 
 ### Deck File Structure (use `DECK_TEMPLATE.md`)
+
+**File naming:** The main deck file must always be named **`README.md`** inside the deck's directory. GitHub automatically renders `README.md` when browsing to a folder, so the full deck guide is visible immediately without clicking into a file. Do not name the file after the commander (e.g., avoid `MarchesaBlackRose.md` as the primary file).
 
 Every deck file must contain these sections in order:
 
@@ -291,8 +293,8 @@ Examples:
 
 ### Phase 3: The Triple-Update Transaction
 Whenever a deck is modified, you must update all three locations in a single "transactional" effort:
-1.  **Main Deck File:** Update the card list and the "Card Explanations" categories.
-2.  **Plain Text Section:** Update the "Plain Text Copy/Paste" at the bottom of the `.md` file. Every line **MUST** end with two spaces for GitHub GFM line breaks.
+1.  **`README.md`:** Update the card list and the "Card Explanations" categories. (The main deck file is always named `README.md`.)
+2.  **Plain Text Section:** Update the "Plain Text Copy/Paste" at the bottom of `README.md`. Every line **MUST** end with two spaces for GitHub GFM line breaks.
 3.  **Moxfield Import:** Update the `moxfield_import.txt` file in the deck folder. This file uses raw text with **NO** trailing spaces.
 
 ### Phase 4: Validation & Sync
@@ -472,7 +474,7 @@ Use this before finalizing any deck edit:
 - [ ] All new cards verified on Scryfall (name, color identity, legality)
 - [ ] Deck is exactly 100 cards, Commander + 99 cards in the deck.
 - [ ] Bracket's Game Changer limit is not exceeded
-- [ ] Main deck file updated (card list + descriptions)
+- [ ] `README.md` updated (card list + descriptions) — main deck file is always named README.md
 - [ ] Plain Text section updated (two trailing spaces per line)
 - [ ] `moxfield_import.txt` updated (no trailing spaces)
 - [ ] Changelog entry added with today's date
