@@ -54,7 +54,7 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 *   **Ezio, Blade of Vengeance:** 5/5 deathtouch — draws a card whenever any Assassin you control deals combat damage to a player. Primary value engine; turns the whole Assassin board into a card draw machine.
 *   **Etrata, the Silencer:** Can't be blocked; on combat damage exiles a creature and places a hit counter; target player loses the game at 3 hit counters. Secondary alternate win condition alongside Ramses.
 *   **Achilles Davenport:** Backup lord — other Assassins get +1/+1; Menace; Freerunning {U}{B} reduces him to 2 mana after any Assassin connects.
-*   **Ezio Auditore da Firenze:** Menace; all Assassin spells you cast gain Freerunning {B}{B} — dramatically reduces the cost of the entire creature suite after any successful hit.
+*   **Desmond Miles:** Menace; grows +1/+0 for each other Assassin you control and each Assassin in your graveyard — scales hard with the tribal engine; surveil X on combat damage synergizes directly with Darkblade Agent's deathtouch + draw trigger.
 *   **Basim Ibn Ishaq:** Draws a card whenever you cast a historic spell (artifacts, legendaries, sagas); becomes unblockable the same turn. Grows with +1/+1 counters from combat hits.
 
 ### 🔪 Removal Assassins (5 Cards)
@@ -75,7 +75,7 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 ### 🦅 Evasion / Cipher Targets (6 Cards)
 *   **Midnight Assassin:** Flying + deathtouch — reliable evasive attacker and primary cipher host in the early game.
 *   **Darkblade Agent:** Gains deathtouch and "whenever deals combat damage draw a card" as long as you've surveilled this turn — pairs with Read the Bones and Basim.
-*   **Hookblade Veteran:** Has flying during your turn — cheapest possible cipher host at {U}; slides under most defenses early.
+*   **Brotherhood Spy:** Unblockable at the start of your combat whenever you control a legendary Assassin — since Ramses is always available from the command zone, this is effectively always-on unblockable; more reliable cipher host than Hookblade Veteran.
 *   **Aven Heartstabber:** Flying; becomes a 3/3 flying deathtouch creature when 5+ mana values are in your graveyard — escalates into a serious threat by mid-game.
 *   **Vein Ripper:** Flying; Ward — sacrifice a creature; whenever any creature dies, target opponent loses 2 life and you gain 2 life — powerful sustained drain engine in a board-wipe-heavy deck.
 *   **Shadowmage Infiltrator:** Fear (can't be blocked except by artifacts or black creatures); whenever it deals combat damage to a player, you may draw a card — reliable evasive draw engine.
@@ -178,6 +178,10 @@ Ramses dealing combat damage, or any other Assassin hitting a player, unlocks Fr
 ---
 
 ## 📜 Deck Changelog
+*   **2026-05-09:** Fix color identity violation; upgrade cipher host.
+    *   **In:** Desmond Miles, Brotherhood Spy
+    *   **Out:** Ezio Auditore da Firenze, Hookblade Veteran
+    *   **Reason:** Ezio Auditore's WUBRG ability in rules text makes his color identity 5-color — illegal in Dimir. Desmond Miles fills the Menace slot, scales with the Assassin count (including graveyard), and the surveil-on-damage synergizes with Darkblade Agent. Brotherhood Spy is a strict upgrade over Hookblade Veteran as a cipher host — effectively always unblockable in this deck since Ramses in the command zone satisfies the legendary Assassin condition.
 *   **2026-05-09:** Land base overhaul — cut 3 off-color fetches, added 3 untapped Dimir duals, flipped basic Island/Swamp split to favor black.
     *   **In:** Tainted Isle, Sunken Hollow, Choked Estuary; 1 additional basic Swamp
     *   **Out:** Bloodstained Mire, Flooded Strand, Scalding Tarn; 1 basic Island
@@ -197,7 +201,7 @@ DECK:
 1 Ezio, Blade of Vengeance  
 1 Etrata, the Silencer  
 1 Achilles Davenport  
-1 Ezio Auditore da Firenze  
+1 Desmond Miles  
 1 Basim Ibn Ishaq  
 1 Unstoppable Slasher  
 1 Royal Assassin  
@@ -213,7 +217,7 @@ DECK:
 1 Midnight Assassin  
 1 Merciless Harlequin  
 1 Darkblade Agent  
-1 Hookblade Veteran  
+1 Brotherhood Spy  
 1 Aven Heartstabber  
 1 Shadowmage Infiltrator  
 1 Sol Ring  

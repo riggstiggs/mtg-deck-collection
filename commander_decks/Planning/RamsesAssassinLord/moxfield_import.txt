@@ -5,7 +5,7 @@ DECK:
 1 Ezio, Blade of Vengeance
 1 Etrata, the Silencer
 1 Achilles Davenport
-1 Ezio Auditore da Firenze
+1 Desmond Miles
 1 Basim Ibn Ishaq
 1 Unstoppable Slasher
 1 Royal Assassin
@@ -21,7 +21,7 @@ DECK:
 1 Midnight Assassin
 1 Merciless Harlequin
 1 Darkblade Agent
-1 Hookblade Veteran
+1 Brotherhood Spy
 1 Aven Heartstabber
 1 Shadowmage Infiltrator
 1 Sol Ring
