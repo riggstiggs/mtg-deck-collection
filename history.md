@@ -1,5 +1,12 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ June 2026: Quantum Quandrix Alignment
+
+### 2026-06-05: Quantum Quandrix — Land Count Alignment
+*   **Alignment:** Aligned the physical deck list with the active Moxfield list.
+*   **Basic Lands:** Adjusted Forest count from 11 to 10.
+*   **Status:** Quantum-Quandrix is now 99 cards total, matching Moxfield.
+
 ## 🗓️ May 2026: New Planning Decks
 
 ### 2026-05-09: Ramses, Assassin Lord — New Dimir Assassin Tribal Deck Added to Planning

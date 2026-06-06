@@ -81,4 +81,4 @@ DECK:
 1 Tranquil Thicket
 1 Yavimaya Coast
 10 Island
-11 Forest
+10 Forest

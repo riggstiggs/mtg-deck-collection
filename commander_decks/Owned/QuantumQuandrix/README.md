@@ -117,7 +117,7 @@ deck_status: main
 *   **Study Hall:** Taps for colorless normally; sacrifices to draw a card if you cast 3+ spells in a turn — a bonus reward for spell-heavy turns.
 *   **Temple of the False God:** Produces two mana once you hit five lands — typically active by turn 4-5.
 *   **Lonely Sandbar / Tranquil Thicket:** Cycling lands that convert to cards in the late game rather than sitting as dead draws.
-*   **10 Island / 11 Forest:** Core basic mana base.
+*   **10 Island / 10 Forest:** Core basic mana base.
 
 ---
 
@@ -167,6 +167,10 @@ deck_status: main
 ---
 
 ## 📜 Deck Changelog
+*   **2026-06-05:** Updated basic lands to match active Moxfield list.
+    *   **In:** None
+    *   **Out:** 1 Forest
+    *   **Reason:** Aligned Forest count with active Moxfield build (99 cards total).
 *   **2026-03-18:** Corrected commander to Adrix and Nev, Twincasters. Zimone, Quandrix Prodigy removed from the list entirely for now.
     *   **In:** Adrix and Nev, Twincasters (as commander)
     *   **Out:** Zimone, Quandrix Prodigy (removed)
@@ -266,4 +270,4 @@ DECK:
 1 Tranquil Thicket  
 1 Yavimaya Coast  
 10 Island  
-11 Forest  
+10 Forest  
