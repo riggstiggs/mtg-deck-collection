@@ -20,10 +20,18 @@ python scripts/multiplayer_goldfish.py <deck_file> [--sims N] [--turns N] [--tap
 | `--sims N` | 1 | Number of simulations to run (use 20+ for meaningful statistics) |
 | `--turns N` | 15 | Number of turns to simulate per game |
 | `--tapped F` | 0.60 | Fraction of opponent lands assumed tapped (for Mana Geyser-style cards) |
+| `--commander-back` | off | For a **transform DFC commander**, measure deployment of the BACK face (its hard-cast / flip cost) instead of the cheap front face |
+| `--commander-cost "{..}"` | none | Manually override the commander cost used for the cast check, e.g. `"{2}{R}{R}{G}{G}"`. Takes priority over `--commander-back` |
 
 **Example — standard 20-sim run:**
 ```
 python scripts/multiplayer_goldfish.py "commander_decks/Planning/Morophon/morophon_changeling_moxfield_import.txt" --sims 20 --turns 10
+```
+
+### Flip / Double-Faced Commanders
+For a transform DFC commander whose meaningful threat is the **back** face (e.g. **Bruce Banner // The Incredible Hulk** — a {U} front that flips/hard-casts into a `{2}{R}{R}{G}{G}` back), the default run only measures dropping the cheap front face, which is not the real deployment clock. The simulator auto-detects these and prints a `[commander] NOTE:` telling you to rerun with `--commander-back` (uses the back face's cost) or `--commander-cost "{..}"` (any explicit cost). Log both numbers when relevant: the front tells you when the early-game piece lands, the back tells you when the payoff comes online.
+```
+python scripts/multiplayer_goldfish.py "commander_decks/Owned/IncredibleHulk/moxfield_import.txt" --sims 20 --turns 12 --commander-back
 ```
 
 ---

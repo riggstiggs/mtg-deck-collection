@@ -76,6 +76,14 @@ class CardData:
     mdfc_produces: List[str] = field(default_factory=list)
     mdfc_tapped: bool = False
 
+    # Transform / flip DFCs where the back is a non-land face
+    # (e.g. Bruce Banner // The Incredible Hulk). The cheap front is what the sim
+    # casts by default, but the meaningful deployment is often the back face —
+    # reached by hard-casting it or paying a flip/transform activation cost.
+    is_flip_dfc: bool = False
+    back_cost_str: str = ''                         # Back face mana cost, e.g. '{2}{R}{R}{G}{G}'
+    flip_cost_str: str = ''                         # Activation cost to transform from the front, if any
+
 
 # ---------------------------------------------------------------------------
 # Scryfall API + Local Caching
@@ -276,6 +284,17 @@ def classify_card(name: str) -> CardData:
                 card.ramp_tapped   = rt
                 card.ramp_untapped = ru
             return card
+
+        # Transform DFC with a non-land back face (e.g. Bruce Banner // The Incredible Hulk).
+        # Record the back face's cost and any "{cost}: Transform" flip cost so the sim / its
+        # caller can optionally measure the back-face deployment instead of the cheap front.
+        back_cost = face1.get('mana_cost', '')
+        if back_cost and 'Land' not in face1.get('type_line', ''):
+            card.is_flip_dfc = True
+            card.back_cost_str = back_cost
+            m = re.search(r'(\{[^:]+\})\s*:\s*Transform', oracle)
+            if m:
+                card.flip_cost_str = m.group(1).strip()
 
     # Standard card processing
     card.cmc, card.pips = parse_mana_cost(mana_cost)
@@ -836,12 +855,47 @@ def preload_deck(names: List[str]) -> List[CardData]:
 # CLI Entry Point
 # ---------------------------------------------------------------------------
 
+def apply_commander_cost_override(cmd: CardData, commander_cost: Optional[str], use_back: bool):
+    """
+    Adjusts which cost the sim treats as "casting the commander".
+
+    By default a transform DFC commander is measured by its (often cheap) front face —
+    e.g. Bruce Banner // The Incredible Hulk gets goldfished as a {U} 1-drop, which tells
+    us nothing about when the Hulk actually lands. This lets the caller measure the
+    back-face deployment instead (hard-cast or flip, which cost the same for Bruce).
+
+    Priority: explicit --commander-cost > --commander-back (back face cost) > default.
+    If a flip DFC is left on the default front face, print a NOTE so the case is visible.
+    """
+    override, src = None, None
+    if commander_cost:
+        override, src = commander_cost, 'override'
+    elif use_back and cmd.back_cost_str:
+        override, src = cmd.back_cost_str, 'back face'
+
+    if override:
+        cmd.cmc, cmd.pips = parse_mana_cost(override)
+        print(f"[commander] Measuring '{cmd.name}' by {src} cost {override} "
+              f"-> CMC {cmd.cmc}, pips {cmd.pips or '{}'}.")
+    elif cmd.is_flip_dfc:
+        hint = cmd.flip_cost_str or cmd.back_cost_str
+        print(f"[commander] NOTE: '{cmd.name}' is a transform DFC — measuring the FRONT face "
+              f"(CMC {cmd.cmc}). To measure the back/flip ({hint}), rerun with "
+              f"--commander-back or --commander-cost \"{hint}\".")
+
+
 def main():
     parser = argparse.ArgumentParser(description='Multiplayer Goldfish Simulator')
     parser.add_argument('deck_file', help='Path to the deck Markdown file')
     parser.add_argument('--sims',   type=int,   default=1,  help='Number of 4-player games to run')
     parser.add_argument('--turns',  type=int,   default=15, help='Max turns per game')
     parser.add_argument('--tapped', type=float, default=0.60, help='Est % of opponent lands tapped')
+    parser.add_argument('--commander-back', action='store_true',
+        help='For a transform DFC commander, measure deployment of the BACK face '
+             '(its hard-cast / flip cost) instead of the cheap front face.')
+    parser.add_argument('--commander-cost', type=str, default=None,
+        help='Override the commander cost used for the cast check, e.g. "{2}{R}{R}{G}{G}". '
+             'Takes priority over --commander-back; useful for any flip/DFC/odd commander.')
     args = parser.parse_args()
 
     _load_cache()
@@ -855,6 +909,8 @@ def main():
 
     commander_data = all_data[0] if commander_name else CardData(name='Unknown')
     deck_data = all_data[1:] if commander_name else all_data
+
+    apply_commander_cost_override(commander_data, args.commander_cost, args.commander_back)
 
     run_sims(deck_data, commander_data, args.sims, args.turns, args.tapped)
 
