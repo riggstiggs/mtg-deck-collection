@@ -11,7 +11,7 @@ Usage:
   python3 scripts/multiplayer_goldfish.py <deck_file> [--sims N] [--turns N] [--tapped F]
 """
 
-import random, re, sys, time, json, argparse, urllib.request, urllib.parse
+import os, random, re, sys, time, json, argparse, urllib.request, urllib.parse
 from pathlib import Path
 from dataclasses import dataclass, field
 from collections import defaultdict
@@ -752,6 +752,7 @@ def run_sims(deck_data: List[CardData], commander: CardData,
     all_turns = []
     all_creature_counts = []
     last_players = []
+    sim_records = []
 
     print(f"\n{'='*68}\nRUNNING {num_sims} × 4-PLAYER SIMULATIONS")
     print(f"Commander: {commander.name} (CMC {commander.cmc})\n{'='*68}\n")
@@ -761,36 +762,56 @@ def run_sims(deck_data: List[CardData], commander: CardData,
         verbose = (num_sims == 1)
         players = _run_one(deck_data, commander, num_turns, frac, verbose)
         last_players = players
-        
+
         sim_turns = [p.commander_cast_turn for p in players if p.commander_cast_turn]
         sim_creatures = [p.creature_count for p in players]
-        
+
         all_turns.extend(sim_turns)
         all_creature_counts.extend(sim_creatures)
-        
-        earliest = f"T{min(sim_turns)}" if sim_turns else "-"
+
         avg_cr = sum(sim_creatures) / len(sim_creatures)
+        earliest = min(sim_turns) if sim_turns else None
+        sim_records.append({'sim': sim, 'cast': len(sim_turns), 'earliest': earliest,
+                            'turns': sim_turns, 'avg_creatures': avg_cr})
+        earliest_s = f"T{earliest}" if earliest else "-"
         print(f"  Sim {sim}: Commander cast {len(sim_turns)}/4  |  "
-              f"Earliest: {earliest:4s}  |  Turns: {sim_turns or ['none']}  |  "
+              f"Earliest: {earliest_s:4s}  |  Turns: {sim_turns or ['none']}  |  "
               f"Avg creatures: {avg_cr:.1f}")
 
     # --- Print Aggregate Stats ---
     total_slots = num_sims * 4
+    buckets = defaultdict(int)
+    for t in all_turns: buckets[t] += 1
+    agg_avg_cr = (sum(all_creature_counts) / len(all_creature_counts)) if all_creature_counts else None
+
     print(f"\n{'-'*68}\nAGGREGATE\n{'-'*68}")
     print(f"  Commander cast rate: {len(all_turns)}/{total_slots} ({len(all_turns)/total_slots*100:.0f}%)")
-    
+
     if all_turns:
         print(f"  Range:     T{min(all_turns)} - T{max(all_turns)}")
         print(f"  Average:   T{sum(all_turns)/len(all_turns):.1f}")
-        buckets = defaultdict(int)
-        for t in all_turns: buckets[t] += 1
         print("  Distribution:")
         for t in sorted(buckets):
             print(f"    T{t:2d}: {'#' * buckets[t]} ({buckets[t]})")
 
-    if all_creature_counts:
-        avg_cr = sum(all_creature_counts) / len(all_creature_counts)
-        print(f"\n  Avg creatures per seat (end T{num_turns}): {avg_cr:.1f}")
+    if agg_avg_cr is not None:
+        print(f"\n  Avg creatures per seat (end T{num_turns}): {agg_avg_cr:.1f}")
+
+    # --- Structured results (for HTML report / callers) ---
+    return {
+        'commander': commander.name,
+        'commander_cmc': commander.cmc,
+        'num_sims': num_sims,
+        'num_turns': num_turns,
+        'total_slots': total_slots,
+        'cast_count': len(all_turns),
+        'cast_rate': (len(all_turns) / total_slots) if total_slots else 0.0,
+        'range': (min(all_turns), max(all_turns)) if all_turns else None,
+        'average': (sum(all_turns) / len(all_turns)) if all_turns else None,
+        'distribution': dict(buckets),
+        'avg_creatures': agg_avg_cr,
+        'sims': sim_records,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -866,6 +887,8 @@ def apply_commander_cost_override(cmd: CardData, commander_cost: Optional[str], 
 
     Priority: explicit --commander-cost > --commander-back (back face cost) > default.
     If a flip DFC is left on the default front face, print a NOTE so the case is visible.
+
+    Returns a short human label describing which cost was measured (used in reports).
     """
     override, src = None, None
     if commander_cost:
@@ -877,11 +900,125 @@ def apply_commander_cost_override(cmd: CardData, commander_cost: Optional[str], 
         cmd.cmc, cmd.pips = parse_mana_cost(override)
         print(f"[commander] Measuring '{cmd.name}' by {src} cost {override} "
               f"-> CMC {cmd.cmc}, pips {cmd.pips or '{}'}.")
+        return f"{src} cost {override} (CMC {cmd.cmc})"
     elif cmd.is_flip_dfc:
         hint = cmd.flip_cost_str or cmd.back_cost_str
         print(f"[commander] NOTE: '{cmd.name}' is a transform DFC — measuring the FRONT face "
               f"(CMC {cmd.cmc}). To measure the back/flip ({hint}), rerun with "
               f"--commander-back or --commander-cost \"{hint}\".")
+        return f"front face (CMC {cmd.cmc})"
+    return f"CMC {cmd.cmc}"
+
+
+def write_html_report(path: str, results: dict, meta: dict):
+    """
+    Renders a self-contained HTML report (inline CSS, no external assets) from the
+    dict returned by run_sims(). Includes summary stat cards, a bar-chart of the
+    deployment-turn distribution, and a per-simulation breakdown table.
+    """
+    def esc(s):
+        return (str(s).replace('&', '&amp;').replace('<', '&lt;')
+                      .replace('>', '&gt;').replace('"', '&quot;'))
+
+    dist = results['distribution']
+    max_bucket = max(dist.values()) if dist else 0
+    dist_rows = ''
+    for t in sorted(dist):
+        n = dist[t]
+        pct = (n / max_bucket * 100) if max_bucket else 0
+        share = (n / results['cast_count'] * 100) if results['cast_count'] else 0
+        dist_rows += (
+            f'<tr><td class="turn">T{t}</td>'
+            f'<td class="barcell"><div class="bar" style="width:{pct:.1f}%"></div></td>'
+            f'<td class="count">{n} <span class="muted">({share:.0f}%)</span></td></tr>')
+
+    sim_rows = ''
+    for s in results['sims']:
+        turns = ', '.join(f'T{x}' for x in s['turns']) if s['turns'] else '—'
+        earliest = f"T{s['earliest']}" if s['earliest'] else '—'
+        miss = ' class="miss"' if s['cast'] < 4 else ''
+        sim_rows += (
+            f'<tr{miss}><td>{s["sim"]}</td><td>{s["cast"]}/4</td>'
+            f'<td>{earliest}</td><td class="turns">{turns}</td>'
+            f'<td>{s["avg_creatures"]:.1f}</td></tr>')
+
+    avg   = f'T{results["average"]:.1f}' if results['average'] is not None else '—'
+    rng   = f'T{results["range"][0]}–T{results["range"][1]}' if results['range'] else '—'
+    avgcr = f'{results["avg_creatures"]:.1f}' if results['avg_creatures'] is not None else '—'
+    rate  = f'{results["cast_rate"]*100:.0f}%'
+
+    doc = f"""<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Goldfish Report — {esc(results['commander'])}</title>
+<style>
+  :root {{ --bg:#0f1420; --card:#1a2130; --ink:#e6ebf2; --muted:#8b97ab;
+          --accent:#4ade80; --accent2:#38bdf8; --line:#2a3346; }}
+  * {{ box-sizing:border-box; }}
+  body {{ margin:0; background:var(--bg); color:var(--ink);
+          font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }}
+  .wrap {{ max-width:900px; margin:0 auto; padding:32px 20px 60px; }}
+  h1 {{ font-size:26px; margin:0 0 4px; }}
+  .sub {{ color:var(--muted); margin:0 0 24px; font-size:14px; }}
+  .sub code {{ background:#0009; padding:2px 6px; border-radius:5px; color:var(--accent2); }}
+  .cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+            gap:14px; margin-bottom:32px; }}
+  .stat {{ background:var(--card); border:1px solid var(--line); border-radius:12px;
+           padding:18px 20px; }}
+  .stat .k {{ color:var(--muted); font-size:12px; text-transform:uppercase;
+              letter-spacing:.05em; }}
+  .stat .v {{ font-size:30px; font-weight:700; margin-top:6px; }}
+  .stat .v.accent {{ color:var(--accent); }}
+  h2 {{ font-size:15px; text-transform:uppercase; letter-spacing:.06em;
+        color:var(--muted); border-bottom:1px solid var(--line);
+        padding-bottom:8px; margin:34px 0 16px; }}
+  table {{ width:100%; border-collapse:collapse; }}
+  td, th {{ padding:7px 10px; text-align:left; }}
+  .dist td {{ border:0; }}
+  .dist .turn {{ width:52px; color:var(--muted); font-variant-numeric:tabular-nums; }}
+  .dist .barcell {{ width:100%; }}
+  .dist .count {{ width:90px; text-align:right; font-variant-numeric:tabular-nums; }}
+  .bar {{ height:20px; border-radius:5px;
+          background:linear-gradient(90deg,var(--accent2),var(--accent)); min-width:2px; }}
+  .simtable {{ font-size:14px; }}
+  .simtable th {{ color:var(--muted); font-weight:600; border-bottom:1px solid var(--line); }}
+  .simtable td {{ border-bottom:1px solid #202839; }}
+  .simtable tr.miss td {{ color:#f7a08a; }}
+  .simtable .turns {{ color:var(--muted); }}
+  .muted {{ color:var(--muted); }}
+  footer {{ margin-top:40px; color:var(--muted); font-size:12px; }}
+</style></head><body><div class="wrap">
+  <h1>🐟 Goldfish Report — {esc(results['commander'])}</h1>
+  <p class="sub">Deck: <code>{esc(meta['deck_file'])}</code> &nbsp;·&nbsp;
+     Measuring: {esc(meta['measured_label'])} &nbsp;·&nbsp;
+     {results['num_sims']} sims × T{results['num_turns']} &nbsp;·&nbsp;
+     {esc(meta['timestamp'])}</p>
+
+  <div class="cards">
+    <div class="stat"><div class="k">Deploy rate</div><div class="v accent">{rate}</div>
+      <div class="muted">{results['cast_count']}/{results['total_slots']} seats</div></div>
+    <div class="stat"><div class="k">Average turn</div><div class="v">{avg}</div></div>
+    <div class="stat"><div class="k">Range</div><div class="v">{rng}</div></div>
+    <div class="stat"><div class="k">Avg creatures / seat</div><div class="v">{avgcr}</div>
+      <div class="muted">end of T{results['num_turns']}</div></div>
+  </div>
+
+  <h2>Deployment turn distribution</h2>
+  <table class="dist">{dist_rows or '<tr><td class="muted">No successful casts.</td></tr>'}</table>
+
+  <h2>Per-simulation breakdown</h2>
+  <table class="simtable">
+    <tr><th>Sim</th><th>Seats cast</th><th>Earliest</th><th>Turns</th><th>Avg creatures</th></tr>
+    {sim_rows}
+  </table>
+
+  <footer>Generated by <code>scripts/multiplayer_goldfish.py</code>. A 4-player goldfish pod;
+  all seats run the same deck. "Deploy" = the measured commander cost becomes castable.</footer>
+</div></body></html>"""
+
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(doc)
+    print(f"[html] Report written to {path}")
 
 
 def main():
@@ -896,6 +1033,9 @@ def main():
     parser.add_argument('--commander-cost', type=str, default=None,
         help='Override the commander cost used for the cast check, e.g. "{2}{R}{R}{G}{G}". '
              'Takes priority over --commander-back; useful for any flip/DFC/odd commander.')
+    parser.add_argument('--html', nargs='?', const='__AUTO__', default=None, metavar='PATH',
+        help='Write a formatted HTML report. With no path, auto-names it next to the deck file '
+             '(goldfish_report_<timestamp>.html).')
     args = parser.parse_args()
 
     _load_cache()
@@ -910,9 +1050,23 @@ def main():
     commander_data = all_data[0] if commander_name else CardData(name='Unknown')
     deck_data = all_data[1:] if commander_name else all_data
 
-    apply_commander_cost_override(commander_data, args.commander_cost, args.commander_back)
+    measured_label = apply_commander_cost_override(
+        commander_data, args.commander_cost, args.commander_back)
 
-    run_sims(deck_data, commander_data, args.sims, args.turns, args.tapped)
+    results = run_sims(deck_data, commander_data, args.sims, args.turns, args.tapped)
+
+    if args.html is not None:
+        if args.html == '__AUTO__':
+            stamp = time.strftime('%Y%m%d_%H%M%S')
+            html_path = os.path.join(os.path.dirname(os.path.abspath(args.deck_file)),
+                                     f'goldfish_report_{stamp}.html')
+        else:
+            html_path = args.html
+        write_html_report(html_path, results, {
+            'deck_file': args.deck_file,
+            'measured_label': measured_label,
+            'timestamp': time.strftime('%Y-%m-%d %H:%M'),
+        })
 
 
 if __name__ == '__main__':

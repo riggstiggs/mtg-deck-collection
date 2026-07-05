@@ -321,7 +321,7 @@ All runnable scripts live in `scripts/`. Run them from the **repository root** (
 
 **Usage:**
 ```bash
-python3 scripts/multiplayer_goldfish.py <path/to/moxfield_import.txt> [--sims N] [--turns N] [--tapped F] [--commander-back] [--commander-cost "{..}"]
+python3 scripts/multiplayer_goldfish.py <path/to/moxfield_import.txt> [--sims N] [--turns N] [--tapped F] [--commander-back] [--commander-cost "{..}"] [--html [PATH]]
 ```
 
 **Key flags:**
@@ -330,6 +330,7 @@ python3 scripts/multiplayer_goldfish.py <path/to/moxfield_import.txt> [--sims N]
 - `--tapped F` — fraction of opponent lands assumed tapped, for cards like Mana Geyser (default: 0.60)
 - `--commander-back` — for a **transform DFC commander**, measure deployment of the BACK face (its hard-cast / flip cost) instead of the cheap front face
 - `--commander-cost "{..}"` — manually override the commander cost used for the cast check (e.g. `"{2}{R}{R}{G}{G}"`); takes priority over `--commander-back`
+- `--html [PATH]` — also write a formatted, self-contained HTML report (summary cards, distribution bar chart, per-sim table); with no PATH it auto-names `goldfish_report_<timestamp>.html` next to the deck file
 
 > **Flip / DFC commanders:** by default the sim measures the front face, so a commander like *Bruce Banner // The Incredible Hulk* goldfishes as a {U} 1-drop rather than the `{2}{R}{R}{G}{G}` back face that matters. The sim auto-detects these and prints a `[commander] NOTE:` prompting you to rerun with `--commander-back` or `--commander-cost`. See `GOLDFISH.md` for details.
 

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Goldfish Report — Bruce Banner // The Incredible Hulk</title>
+<style>
+  :root { --bg:#0f1420; --card:#1a2130; --ink:#e6ebf2; --muted:#8b97ab;
+          --accent:#4ade80; --accent2:#38bdf8; --line:#2a3346; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+          font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+  .wrap { max-width:900px; margin:0 auto; padding:32px 20px 60px; }
+  h1 { font-size:26px; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 24px; font-size:14px; }
+  .sub code { background:#0009; padding:2px 6px; border-radius:5px; color:var(--accent2); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+            gap:14px; margin-bottom:32px; }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:12px;
+           padding:18px 20px; }
+  .stat .k { color:var(--muted); font-size:12px; text-transform:uppercase;
+              letter-spacing:.05em; }
+  .stat .v { font-size:30px; font-weight:700; margin-top:6px; }
+  .stat .v.accent { color:var(--accent); }
+  h2 { font-size:15px; text-transform:uppercase; letter-spacing:.06em;
+        color:var(--muted); border-bottom:1px solid var(--line);
+        padding-bottom:8px; margin:34px 0 16px; }
+  table { width:100%; border-collapse:collapse; }
+  td, th { padding:7px 10px; text-align:left; }
+  .dist td { border:0; }
+  .dist .turn { width:52px; color:var(--muted); font-variant-numeric:tabular-nums; }
+  .dist .barcell { width:100%; }
+  .dist .count { width:90px; text-align:right; font-variant-numeric:tabular-nums; }
+  .bar { height:20px; border-radius:5px;
+          background:linear-gradient(90deg,var(--accent2),var(--accent)); min-width:2px; }
+  .simtable { font-size:14px; }
+  .simtable th { color:var(--muted); font-weight:600; border-bottom:1px solid var(--line); }
+  .simtable td { border-bottom:1px solid #202839; }
+  .simtable tr.miss td { color:#f7a08a; }
+  .simtable .turns { color:var(--muted); }
+  .muted { color:var(--muted); }
+  footer { margin-top:40px; color:var(--muted); font-size:12px; }
+</style></head><body><div class="wrap">
+  <h1>🐟 Goldfish Report — Bruce Banner // The Incredible Hulk</h1>
+  <p class="sub">Deck: <code>commander_decks/Owned/IncredibleHulk/moxfield_import.txt</code> &nbsp;·&nbsp;
+     Measuring: back face cost {2}{R}{R}{G}{G} (CMC 6) &nbsp;·&nbsp;
+     20 sims × T12 &nbsp;·&nbsp;
+     2026-07-04 21:18</p>
+
+  <div class="cards">
+    <div class="stat"><div class="k">Deploy rate</div><div class="v accent">94%</div>
+      <div class="muted">75/80 seats</div></div>
+    <div class="stat"><div class="k">Average turn</div><div class="v">T6.1</div></div>
+    <div class="stat"><div class="k">Range</div><div class="v">T2–T12</div></div>
+    <div class="stat"><div class="k">Avg creatures / seat</div><div class="v">5.4</div>
+      <div class="muted">end of T12</div></div>
+  </div>
+
+  <h2>Deployment turn distribution</h2>
+  <table class="dist"><tr><td class="turn">T2</td><td class="barcell"><div class="bar" style="width:15.8%"></div></td><td class="count">3 <span class="muted">(4%)</span></td></tr><tr><td class="turn">T3</td><td class="barcell"><div class="bar" style="width:47.4%"></div></td><td class="count">9 <span class="muted">(12%)</span></td></tr><tr><td class="turn">T4</td><td class="barcell"><div class="bar" style="width:36.8%"></div></td><td class="count">7 <span class="muted">(9%)</span></td></tr><tr><td class="turn">T5</td><td class="barcell"><div class="bar" style="width:100.0%"></div></td><td class="count">19 <span class="muted">(25%)</span></td></tr><tr><td class="turn">T6</td><td class="barcell"><div class="bar" style="width:68.4%"></div></td><td class="count">13 <span class="muted">(17%)</span></td></tr><tr><td class="turn">T7</td><td class="barcell"><div class="bar" style="width:15.8%"></div></td><td class="count">3 <span class="muted">(4%)</span></td></tr><tr><td class="turn">T8</td><td class="barcell"><div class="bar" style="width:36.8%"></div></td><td class="count">7 <span class="muted">(9%)</span></td></tr><tr><td class="turn">T9</td><td class="barcell"><div class="bar" style="width:15.8%"></div></td><td class="count">3 <span class="muted">(4%)</span></td></tr><tr><td class="turn">T10</td><td class="barcell"><div class="bar" style="width:21.1%"></div></td><td class="count">4 <span class="muted">(5%)</span></td></tr><tr><td class="turn">T11</td><td class="barcell"><div class="bar" style="width:15.8%"></div></td><td class="count">3 <span class="muted">(4%)</span></td></tr><tr><td class="turn">T12</td><td class="barcell"><div class="bar" style="width:21.1%"></div></td><td class="count">4 <span class="muted">(5%)</span></td></tr></table>
+
+  <h2>Per-simulation breakdown</h2>
+  <table class="simtable">
+    <tr><th>Sim</th><th>Seats cast</th><th>Earliest</th><th>Turns</th><th>Avg creatures</th></tr>
+    <tr><td>1</td><td>4/4</td><td>T5</td><td class="turns">T5, T5, T5, T10</td><td>6.0</td></tr><tr><td>2</td><td>4/4</td><td>T4</td><td class="turns">T8, T8, T4, T12</td><td>4.5</td></tr><tr><td>3</td><td>4/4</td><td>T2</td><td class="turns">T12, T9, T2, T6</td><td>5.0</td></tr><tr><td>4</td><td>4/4</td><td>T3</td><td class="turns">T4, T7, T3, T6</td><td>6.2</td></tr><tr><td>5</td><td>4/4</td><td>T3</td><td class="turns">T10, T3, T6, T5</td><td>6.2</td></tr><tr><td>6</td><td>4/4</td><td>T5</td><td class="turns">T5, T6, T5, T5</td><td>3.8</td></tr><tr class="miss"><td>7</td><td>3/4</td><td>T3</td><td class="turns">T10, T3, T6</td><td>5.5</td></tr><tr><td>8</td><td>4/4</td><td>T4</td><td class="turns">T12, T9, T11, T4</td><td>6.2</td></tr><tr><td>9</td><td>4/4</td><td>T5</td><td class="turns">T6, T5, T5, T5</td><td>6.8</td></tr><tr><td>10</td><td>4/4</td><td>T3</td><td class="turns">T8, T3, T11, T5</td><td>5.2</td></tr><tr class="miss"><td>11</td><td>3/4</td><td>T3</td><td class="turns">T6, T3, T4</td><td>5.5</td></tr><tr><td>12</td><td>4/4</td><td>T4</td><td class="turns">T8, T4, T5, T4</td><td>5.2</td></tr><tr class="miss"><td>13</td><td>2/4</td><td>T5</td><td class="turns">T10, T5</td><td>7.0</td></tr><tr><td>14</td><td>4/4</td><td>T2</td><td class="turns">T11, T2, T9, T5</td><td>5.8</td></tr><tr><td>15</td><td>4/4</td><td>T2</td><td class="turns">T6, T2, T5, T5</td><td>4.0</td></tr><tr><td>16</td><td>4/4</td><td>T3</td><td class="turns">T3, T3, T6, T6</td><td>5.0</td></tr><tr><td>17</td><td>4/4</td><td>T3</td><td class="turns">T7, T3, T4, T5</td><td>5.0</td></tr><tr class="miss"><td>18</td><td>3/4</td><td>T6</td><td class="turns">T8, T6, T8</td><td>4.2</td></tr><tr><td>19</td><td>4/4</td><td>T5</td><td class="turns">T5, T6, T5, T6</td><td>5.0</td></tr><tr><td>20</td><td>4/4</td><td>T3</td><td class="turns">T12, T3, T7, T8</td><td>6.2</td></tr>
+  </table>
+
+  <footer>Generated by <code>scripts/multiplayer_goldfish.py</code>. A 4-player goldfish pod;
+  all seats run the same deck. "Deploy" = the measured commander cost becomes castable.</footer>
+</div></body></html>

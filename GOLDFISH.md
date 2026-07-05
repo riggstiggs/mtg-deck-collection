@@ -22,6 +22,7 @@ python scripts/multiplayer_goldfish.py <deck_file> [--sims N] [--turns N] [--tap
 | `--tapped F` | 0.60 | Fraction of opponent lands assumed tapped (for Mana Geyser-style cards) |
 | `--commander-back` | off | For a **transform DFC commander**, measure deployment of the BACK face (its hard-cast / flip cost) instead of the cheap front face |
 | `--commander-cost "{..}"` | none | Manually override the commander cost used for the cast check, e.g. `"{2}{R}{R}{G}{G}"`. Takes priority over `--commander-back` |
+| `--html [PATH]` | off | Also write a formatted, self-contained **HTML report** (summary stat cards, a distribution bar chart, and a per-sim table). With no PATH, auto-names `goldfish_report_<timestamp>.html` next to the deck file |
 
 **Example — standard 20-sim run:**
 ```
