@@ -321,13 +321,17 @@ All runnable scripts live in `scripts/`. Run them from the **repository root** (
 
 **Usage:**
 ```bash
-python3 scripts/multiplayer_goldfish.py <path/to/moxfield_import.txt> [--sims N] [--turns N] [--tapped F]
+python3 scripts/multiplayer_goldfish.py <path/to/moxfield_import.txt> [--sims N] [--turns N] [--tapped F] [--commander-back] [--commander-cost "{..}"]
 ```
 
 **Key flags:**
 - `--sims N` — number of simulations (default protocol: **20**)
 - `--turns N` — turns to simulate per game (default protocol: **10**)
 - `--tapped F` — fraction of opponent lands assumed tapped, for cards like Mana Geyser (default: 0.60)
+- `--commander-back` — for a **transform DFC commander**, measure deployment of the BACK face (its hard-cast / flip cost) instead of the cheap front face
+- `--commander-cost "{..}"` — manually override the commander cost used for the cast check (e.g. `"{2}{R}{R}{G}{G}"`); takes priority over `--commander-back`
+
+> **Flip / DFC commanders:** by default the sim measures the front face, so a commander like *Bruce Banner // The Incredible Hulk* goldfishes as a {U} 1-drop rather than the `{2}{R}{R}{G}{G}` back face that matters. The sim auto-detects these and prints a `[commander] NOTE:` prompting you to rerun with `--commander-back` or `--commander-cost`. See `GOLDFISH.md` for details.
 
 **Cache:** `scripts/.card_cache.json` — committed to the repo and shared across machines. First run on a new deck fetches from Scryfall; all subsequent runs are instant.
 
