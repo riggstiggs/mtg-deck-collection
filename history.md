@@ -1,5 +1,22 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ July 2026: Incredible Hulk Build & Promotion
+
+### 2026-07-04: Bruce Banner, the Incredible Hulk — Promoted to Owned (order placed)
+*   **Promotion:** Moved `commander_decks/Planning/IncredibleHulk/` → `commander_decks/Owned/IncredibleHulk/`.
+*   **Acquisition milestone:** Placed Manapool Order #438440 — 91 cards across 13 sellers, **$499.24 total**. Commander (gifted) plus 8 cards (Doc Samson, Hulk Gamma Goliath, Red Hulk, She-Hulk Jade Defender, Abomination Terrifying Titan, Hulkling Burgeoning Bruiser, HULK SMASH!, Restorative Technique) already in hand from a Marvel Super Heroes box scan; the remaining 75 singles + 16 full-art Unstable basics were ordered. Per-package tracking lives in the deck's `order_tracking.md`.
+*   **Same-day tuning after the initial build:** Added the Fling reach package (Fling, Soul's Fire, Chandra's Ignition) over the Simic Ascendancy axis; overhauled the land base (dropped premium fetches + Cavern of Souls for msc duals Plaza of Heroes, Fabled Passage, Rejuvenating Springs, Cinder Glade, Scorched Geyser); swapped Heroic Intervention → Tyvar's Stand and Hunt the Weak → Restorative Technique; and added two owned cards (The Thing, Ben Grimm; Epic Fight) over Rapid Hybridization and Inspiring Call.
+*   **Validation:** 20-sim goldfish re-run after all changes — 99% commander cast rate, avg T2.3, 4.5 creatures/seat by T10 (see deck `GOLDFISH_LOG.md`).
+*   **Bracket:** 3 — still just one Game Changer (Cyclonic Rift, of 3 allowed).
+
+### 2026-07-04: Bruce Banner, the Incredible Hulk — New Temur Counters / Gamma Tribal Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/IncredibleHulk/` with a full 100-card list.
+*   **Source:** Built around the MSH (Marvel Super Heroes) commander gifted to the user; flavor-forward Incredible Hulk / Gamma theme.
+*   **Strategy:** Temur (U/R/G) +1/+1 counters midrange. Banner deploys turn 1 as a draw engine, then flips into an 8/8 Enrage finisher. Wide board of Gamma Heroes generates counters, multiplied by four fair doublers (Hulk Strongest There Is, Doc Samson, Hardened Scales, Branching Evolution) and Kalonian Hydra, then closed via team trample + Herald of Secret Streams. Soft secondary wincon: flipped Hulk + Caltrops near-unbounded extra-combat loop. Tertiary wincon: the Fling package (Fling / Soul's Fire / Chandra's Ignition — "throw the Hulk" for a burst / multiplayer kill).
+*   **Key Includes:** Hulk, Strongest There Is (doubles counters on each Gamma each upkeep), Doc Samson (doubler + ramp), The Great Henge, Cyclonic Rift, Herald of Secret Streams, Caltrops (enrage loop enabler), Chandra's Ignition (semi-one-sided finisher).
+*   **Bracket:** 3 — 1 Game Changer (Cyclonic Rift, of 3 allowed), no infinite combos as primary plan (Caltrops loop gated behind the flipped commander), no MLD, no extra turns. Premium doublers (Doubling Season, Vorinclex) deliberately omitted to hold an honest Bracket 3.
+*   **Validation:** 20-sim goldfish — 98% commander cast rate, avg T2.3, 4.8 creatures/seat by T10.
+
 ## 🗓️ June 2026: Quantum Quandrix Alignment
 
 ### 2026-06-05: Quantum Quandrix — Land Count Alignment
