@@ -44,17 +44,17 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Tyvar's Stand — $0.96 · LP · ONE
 
 ### NUTMEG GAMES — Package #1560644 · 10 items · $89.51
-- [ ] Delivered
-- [ ] Caltrops — $19.79 · LP · UDS
-- [ ] 4x Island — $14.52 · MP · UST (full-art)
-- [ ] 4x Forest — $13.40 · MP · UST (full-art)
-- [ ] Bloom Tender — $13.33 · LP · ECL
-- [ ] 5x Mountain — $11.80 · MP · UST (full-art)
-- [ ] Breeding Pool — $10.72 · LP · EOE
-- [ ] Evolution Sage — $2.86 · LP · WAR
-- [ ] Soul's Fire — $1.98 · MP · Foil · ALA
-- [ ] Origin of the Hulk — $0.60 · LP · Foil · MSC
-- [ ] Rogue's Passage — $0.51 · LP · FDN
+- [x] Delivered
+- [x] Caltrops — $19.79 · LP · UDS
+- [x] 4x Island — $14.52 · MP · UST (full-art)
+- [x] 4x Forest — $13.40 · MP · UST (full-art)
+- [x] Bloom Tender — $13.33 · LP · ECL
+- [x] 5x Mountain — $11.80 · MP · UST (full-art)
+- [x] Breeding Pool — $10.72 · LP · EOE
+- [x] Evolution Sage — $2.86 · LP · WAR
+- [x] Soul's Fire — $1.98 · MP · Foil · ALA
+- [x] Origin of the Hulk — $0.60 · LP · Foil · MSC
+- [x] Rogue's Passage — $0.51 · LP · FDN
 
 ### Hometown Games — Package #1560637 · 23 items · $40.54
 - [ ] Delivered
@@ -87,15 +87,15 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Hulk, Brutal Brawler — $40.00 · NM · Foil · MSC
 
 ### Analog Games — Package #1560639 · 8 items · $25.27
-- [ ] Delivered
-- [ ] Command Tower — $13.76 · LP · Foil · PW25
-- [ ] Rejuvenating Springs — $4.88 · NM · MSC
-- [ ] Karn's Bastion — $3.30 · NM · WAR
-- [ ] Abomination, Irradiated Brute — $1.43 · LP · Foil · MSC
-- [ ] Beast Within — $0.59 · NM · MSC
-- [ ] Garruk's Uprising — $0.52 · NM · FDN
-- [ ] Inspiring Call — $0.44 · NM · FDN *(SPARE — cut from deck 2026-07-04 for Epic Fight)*
-- [ ] Brawn, Amadeus Cho — $0.35 · NM · MSC
+- [x] Delivered
+- [x] Command Tower — $13.76 · LP · Foil · PW25
+- [x] Rejuvenating Springs — $4.88 · NM · MSC
+- [x] Karn's Bastion — $3.30 · NM · WAR
+- [x] Abomination, Irradiated Brute — $1.43 · LP · Foil · MSC
+- [x] Beast Within — $0.59 · NM · MSC
+- [x] Garruk's Uprising — $0.52 · NM · FDN
+- [x] Inspiring Call — $0.44 · NM · FDN *(SPARE — cut from deck 2026-07-04 for Epic Fight)*
+- [x] Brawn, Amadeus Cho — $0.35 · NM · MSC
 
 ### Hyperview Gaming — Package #1560636 · 8 items · $14.98
 - [ ] Delivered
@@ -109,9 +109,9 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Farseek — $0.75 · NM · MSC
 
 ### Fox & Fable Games — Package #1560641 · 2 items · $13.42
-- [ ] Delivered
-- [ ] Steam Vents — $12.98 · NM · GRN
-- [ ] Hulking Raptor — $0.44 · MP · Foil · PMEI
+- [x] Delivered
+- [x] Steam Vents — $12.98 · NM · GRN
+- [x] Hulking Raptor — $0.44 · MP · Foil · PMEI
 
 ### Cape Fear Collectibles — Package #1560646 · 2 items · $10.59
 - [ ] Delivered
@@ -130,21 +130,21 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Hulkbuster Armor — $6.62 · NM · MSC
 
 ### TheBrokenLute — Package #1560643 · 4 items · $6.20
-- [ ] Delivered
-- [ ] Toski, Bearer of Secrets — $5.39 · LP · KHM
-- [ ] Chaos Warp — $0.36 · NM · MSC
-- [ ] Hinterland Harbor — $0.30 · NM · MSC
-- [ ] Abrade — $0.15 · NM · TDC
+- [x] Delivered
+- [x] Toski, Bearer of Secrets — $5.39 · LP · KHM
+- [x] Chaos Warp — $0.36 · NM · MSC
+- [x] Hinterland Harbor — $0.30 · NM · MSC
+- [x] Abrade — $0.15 · NM · TDC
 
 ### FoundryStreetDenizen — Package #1560640 · 3 items · $3.67
-- [ ] Delivered
-- [ ] Rishkar's Expertise — $3.35 · NM · AER
-- [ ] Bloom Hulk — $0.17 · LP · WAR
-- [ ] Fling — $0.15 · LP · ELD
+- [x] Delivered
+- [x] Rishkar's Expertise — $3.35 · NM · AER
+- [x] Bloom Hulk — $0.17 · LP · WAR
+- [x] Fling — $0.15 · LP · ELD
 
 ### PattersonsPastimes — Package #1560647 · 1 item · $1.75
-- [ ] Delivered
-- [ ] World War Hulk — $1.75 · NM · MSH
+- [x] Delivered
+- [x] World War Hulk — $1.75 · NM · MSH
 
 ---
 
