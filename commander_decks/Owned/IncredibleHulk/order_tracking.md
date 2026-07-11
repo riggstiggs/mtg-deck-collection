@@ -29,19 +29,19 @@ Cards confirmed in hand — not ordered.
 Check off each card as it arrives, then tick the package's **Delivered** box when the whole shipment lands.
 
 ### Spellfinder — Package #1560638 · 12 items · $238.71
-- [ ] Delivered
-- [ ] The Ozolith — $74.23 · NM · SLD
-- [ ] The Great Henge — $62.77 · LP · ELD
-- [ ] Cyclonic Rift — $32.61 · LP · SLD
-- [ ] Ketria Triome — $19.15 · NM · IKO
-- [ ] Guardian Project — $13.39 · LP · RNA
-- [ ] 3x Forest — $8.91 · MP · UST (full-art)
-- [ ] Beast Whisperer — $8.08 · MP · TSR
-- [ ] Stomping Ground — $7.91 · LP · Foil · EOE
-- [ ] Chandra's Ignition — $6.40 · MP · M3C
-- [ ] Hardened Scales — $2.48 · MP · KTK
-- [ ] Kodama's Reach — $1.82 · MP · UMA
-- [ ] Tyvar's Stand — $0.96 · LP · ONE
+- [x] Delivered
+- [x] The Ozolith — $74.23 · NM · SLD
+- [x] The Great Henge — $62.77 · LP · ELD
+- [x] Cyclonic Rift — $32.61 · LP · SLD
+- [x] Ketria Triome — $19.15 · NM · IKO
+- [x] Guardian Project — $13.39 · LP · RNA
+- [x] 3x Forest — $8.91 · MP · UST (full-art)
+- [x] Beast Whisperer — $8.08 · MP · TSR
+- [x] Stomping Ground — $7.91 · LP · Foil · EOE
+- [x] Chandra's Ignition — $6.40 · MP · M3C
+- [x] Hardened Scales — $2.48 · MP · KTK
+- [x] Kodama's Reach — $1.82 · MP · UMA
+- [x] Tyvar's Stand — $0.96 · LP · ONE
 
 ### NUTMEG GAMES — Package #1560644 · 10 items · $89.51
 - [x] Delivered
@@ -83,8 +83,8 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Rishkar, Peema Renegade — $0.19 · NM · SCD
 
 ### Crit and Clatter Games — Package #1560642 · 1 item · $40.00
-- [ ] Delivered
-- [ ] Hulk, Brutal Brawler — $40.00 · NM · Foil · MSC
+- [x] Delivered
+- [x] Hulk, Brutal Brawler — $40.00 · NM · Foil · MSC
 
 ### Analog Games — Package #1560639 · 8 items · $25.27
 - [x] Delivered
@@ -114,9 +114,9 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [x] Hulking Raptor — $0.44 · MP · Foil · PMEI
 
 ### Cape Fear Collectibles — Package #1560646 · 2 items · $10.59
-- [ ] Delivered
-- [ ] Plaza of Heroes — $8.93 · NM · MSC
-- [ ] Abomination, World Ravager — $1.66 · NM · MSC
+- [x] Delivered
+- [x] Plaza of Heroes — $8.93 · NM · MSC
+- [x] Abomination, World Ravager — $1.66 · NM · MSC
 
 ### The Wasteland Gaming — Package #1560635 · 4 items · $7.98
 - [ ] Delivered
@@ -126,8 +126,8 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Verdurous Gearhulk — $0.49 · NM · MIC
 
 ### DoublemintCards — Package #1560645 · 1 item · $6.62
-- [ ] Delivered
-- [ ] Hulkbuster Armor — $6.62 · NM · MSC
+- [x] Delivered
+- [x] Hulkbuster Armor — $6.62 · NM · MSC
 
 ### TheBrokenLute — Package #1560643 · 4 items · $6.20
 - [x] Delivered
