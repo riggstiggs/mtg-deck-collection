@@ -21,6 +21,7 @@ Cards confirmed in hand — not ordered.
 - [x] Restorative Technique *(4 copies)*
 - [x] The Thing, Ben Grimm *(added to deck 2026-07-04)*
 - [x] Epic Fight *(added to deck 2026-07-04)*
+- [x] Sol Ring *(Marvel edition gifted by wife — added to deck)*
 
 ---
 
@@ -63,7 +64,7 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [ ] Kalonian Hydra — $6.00 · NM · BLC
 - [ ] Three Visits — $3.91 · NM · MSC
 - [ ] Professor Hulk — $3.51 · NM · MSC
-- [ ] Sol Ring — $1.99 · NM · MKC
+- [ ] Sol Ring — $1.99 · NM · MKC *(SPARE — set aside upon arrival; replaced by Marvel edition)*
 - [ ] She-Hulk, Wallbreaker — $1.65 · NM · MSC
 - [ ] Pongify — $1.43 · NM · TDC
 - [ ] Gyre Sage — $1.17 · NM · FIC
