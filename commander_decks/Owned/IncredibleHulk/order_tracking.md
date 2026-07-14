@@ -99,15 +99,15 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [x] Brawn, Amadeus Cho — $0.35 · NM · MSC
 
 ### Hyperview Gaming — Package #1560636 · 8 items · $14.98
-- [ ] Delivered
-- [ ] Branching Evolution — $5.39 · NM · LCC
-- [ ] Hulk, Strongest There Is — $3.48 · NM · MSC
-- [ ] Gamma Grotesque — $2.14 · NM · MSC
-- [ ] Fabled Passage — $0.97 · NM · SOC
-- [ ] Hulk's Thunderclap — $0.75 · NM · MSC
-- [ ] Lightning Bolt — $0.75 · NM · MSC
-- [ ] She-Hulk, Jennifer Walters — $0.75 · NM · MSC
-- [ ] Farseek — $0.75 · NM · MSC
+- [x] Delivered
+- [x] Branching Evolution — $5.39 · NM · LCC
+- [x] Hulk, Strongest There Is — $3.48 · NM · MSC
+- [x] Gamma Grotesque — $2.14 · NM · MSC
+- [x] Fabled Passage — $0.97 · NM · SOC
+- [x] Hulk's Thunderclap — $0.75 · NM · MSC
+- [x] Lightning Bolt — $0.75 · NM · MSC
+- [x] She-Hulk, Jennifer Walters — $0.75 · NM · MSC
+- [x] Farseek — $0.75 · NM · MSC
 
 ### Fox & Fable Games — Package #1560641 · 2 items · $13.42
 - [x] Delivered
