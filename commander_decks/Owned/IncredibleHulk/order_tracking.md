@@ -58,30 +58,31 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [x] Rogue's Passage — $0.51 · LP · FDN
 
 ### Hometown Games — Package #1560637 · 23 items · $40.54
-- [ ] Delivered
-- [ ] Birds of Paradise — $7.63 · NM · MSC
-- [ ] Spire Garden — $6.36 · NM · TMC
-- [ ] Kalonian Hydra — $6.00 · NM · BLC
-- [ ] Three Visits — $3.91 · NM · MSC
-- [ ] Professor Hulk — $3.51 · NM · MSC
-- [ ] Sol Ring — $1.99 · NM · MKC *(SPARE — set aside upon arrival; replaced by Marvel edition)*
-- [ ] She-Hulk, Wallbreaker — $1.65 · NM · MSC
-- [ ] Pongify — $1.43 · NM · TDC
-- [ ] Gyre Sage — $1.17 · NM · FIC
-- [ ] Incubation Druid — $1.11 · NM · FIC
-- [ ] Rapid Hybridization — $0.90 · NM · TDC *(SPARE — cut from deck 2026-07-04 for The Thing, Ben Grimm)*
-- [ ] Scorched Geyser — $0.86 · NM · MSC
-- [ ] Arcane Signet — $0.72 · NM · MSC
-- [ ] Cultivate — $0.48 · NM · WHO
-- [ ] Karplusan Forest — $0.45 · NM · DRC
-- [ ] Kessig Wolf Run — $0.38 · NM · M3C
-- [ ] Shivan Reef — $0.36 · NM · DRC
-- [ ] Rootbound Crag — $0.33 · NM · TMC
-- [ ] Cinder Glade — $0.31 · NM · M3C
-- [ ] Sulfur Falls — $0.29 · NM · MSC
-- [ ] Frontier Bivouac — $0.27 · NM · TDM
-- [ ] Exotic Orchard — $0.24 · NM · TDC
-- [ ] Rishkar, Peema Renegade — $0.19 · NM · SCD
+- [x] Delivered
+- [x] Birds of Paradise — $7.63 · NM · MSC
+- [x] Spire Garden — $6.36 · NM · TMC
+- [x] Kalonian Hydra — $6.00 · NM · BLC
+- [x] Three Visits — $3.91 · NM · MSC
+- [x] Professor Hulk — $3.51 · NM · MSC
+- [x] Sol Ring — $1.99 · NM · MKC *(SPARE — set aside upon arrival; replaced by Marvel edition)*
+- [x] She-Hulk, Wallbreaker — $1.65 · NM · MSC
+- [x] Pongify — $1.43 · NM · TDC
+- [x] Gyre Sage — $1.17 · NM · FIC
+- [x] Incubation Druid — $1.11 · NM · FIC
+- [x] Rapid Hybridization — $0.90 · NM · TDC *(SPARE — cut from deck 2026-07-04 for The Thing, Ben Grimm)*
+- [x] Scorched Geyser — $0.86 · NM · MSC
+- [x] Arcane Signet — $0.72 · NM · MSC
+- [x] Cultivate — $0.48 · NM · WHO
+- [x] Karplusan Forest — $0.45 · NM · DRC
+- [x] Kessig Wolf Run — $0.38 · NM · M3C
+- [x] Shivan Reef — $0.36 · NM · DRC
+- [x] Rootbound Crag — $0.33 · NM · TMC
+- [x] Cinder Glade — $0.31 · NM · M3C
+- [x] Sulfur Falls — $0.29 · NM · MSC
+- [x] Frontier Bivouac — $0.27 · NM · TDM
+- [x] Exotic Orchard — $0.24 · NM · TDC
+- [x] Rishkar, Peema Renegade — $0.19 · NM · SCD
+
 
 ### Crit and Clatter Games — Package #1560642 · 1 item · $40.00
 - [x] Delivered
