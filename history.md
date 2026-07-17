@@ -2,6 +2,9 @@
 
 ## 🗓️ July 2026: Incredible Hulk Build & Promotion
 
+### 2026-07-17: Bruce Banner, the Incredible Hulk — Physically Complete
+*   **Physical completeness:** Received the final package (Package #1560635 from The Wasteland Gaming) of Order #438440. All cards (including Herald of Secret Streams, Pyrewood Gearhulk, Ram Through, and Verdurous Gearhulk) are now in hand. The deck is 100% physically built.
+
 ### 2026-07-04: Bruce Banner, the Incredible Hulk — Promoted to Owned (order placed)
 *   **Promotion:** Moved `commander_decks/Planning/IncredibleHulk/` → `commander_decks/Owned/IncredibleHulk/`.
 *   **Acquisition milestone:** Placed Manapool Order #438440 — 91 cards across 13 sellers, **$499.24 total**. Commander (gifted) plus 8 cards (Doc Samson, Hulk Gamma Goliath, Red Hulk, She-Hulk Jade Defender, Abomination Terrifying Titan, Hulkling Burgeoning Bruiser, HULK SMASH!, Restorative Technique) already in hand from a Marvel Super Heroes box scan; the remaining 75 singles + 16 full-art Unstable basics were ordered. Per-package tracking lives in the deck's `order_tracking.md`.

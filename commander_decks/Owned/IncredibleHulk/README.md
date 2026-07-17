@@ -159,6 +159,10 @@ The most on-theme finish: pump the Hulk (or a Kalonian-doubled Hero) and hurl it
 ---
 
 ## 📜 Deck Changelog
+*   **2026-07-17:** Physical integration of the final package.
+    - **In:** Herald of Secret Streams; Pyrewood Gearhulk; Ram Through; Verdurous Gearhulk
+    - **Out:** N/A
+    - **Reason:** Received the final shipment (Package #1560635 from The Wasteland Gaming) for Order #438440. All cards are now in hand, making the deck 100% physically complete.
 *   **2026-07-04:** Added two owned Marvel cards (The Thing, Ben Grimm; Epic Fight) from the collection.
     *   **In:** The Thing, Ben Grimm; Epic Fight
     *   **Out:** Rapid Hybridization; Inspiring Call

@@ -121,11 +121,11 @@ Check off each card as it arrives, then tick the package's **Delivered** box whe
 - [x] Abomination, World Ravager — $1.66 · NM · MSC
 
 ### The Wasteland Gaming — Package #1560635 · 4 items · $7.98
-- [ ] Delivered
-- [ ] Herald of Secret Streams — $5.25 · NM · XLN
-- [ ] Pyrewood Gearhulk — $1.49 · NM · DFT
-- [ ] Ram Through — $0.75 · NM · IKO
-- [ ] Verdurous Gearhulk — $0.49 · NM · MIC
+- [x] Delivered
+- [x] Herald of Secret Streams — $5.25 · NM · XLN
+- [x] Pyrewood Gearhulk — $1.49 · NM · DFT
+- [x] Ram Through — $0.75 · NM · IKO
+- [x] Verdurous Gearhulk — $0.49 · NM · MIC
 
 ### DoublemintCards — Package #1560645 · 1 item · $6.62
 - [x] Delivered
