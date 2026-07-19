@@ -1,5 +1,16 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ July 2026: The Fantastic Four (Jamie's first solo build)
+
+### 2026-07-19: The Fantastic Four — New Four-Color "Cast 4s" Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/FantasticFour/` with a full 100-card list. **Jamie's first deck built solo** (with Claude), on her own fork.
+*   **Source / concept:** Built around The Fantastic Four (MSH commander, {R}{G}{W}{U}), which triggers on ETB and whenever you cast a spell with power 4, toughness 4, or mana value 4 (modes: 0/4 Wall / 3 to each opponent / two +1/+1 counters / draw). The deckbuilding constraint IS the flavor — cast "4s" — and the four members anchor sub-themes (Reed = Stretch/draw, Sue = Invisible/protection, Johnny = Fire/reach, Ben = Beastly/counters). The "4s" motif is sentimental (a "4s" thing between Jamie and Mark).
+*   **Strategy:** Four-color go-wide value engine, green-anchored. ~2/3 of non-utility spells either trigger the commander or care about power-4 creatures (Goreclaw, Garruk's Uprising, Colossal Majesty, Herald of Secret Streams). Removal/wipes deliberately left at efficient costs. Built to the New Era template (38 lands / 10 ramp / 12 draw / 12 targeted / 4 mass / plan).
+*   **Manabase:** Assembled entirely from cards Jamie already owned — untapped Strixhaven-era slowlands, filter/check/typed duals (fetchable), campuses, tri-lands (Jungle Shrine, Seaside Citadel), Baxter Building. No premium fetchlands (owner's preference).
+*   **Key includes:** The four members, Black Panther Vanguard, Goreclaw, Valeria Richards, Beast Whisperer, Herald of Secret Streams, Door of Destinies, Cyclonic Rift, Baxter Building.
+*   **Validation:** 20-sim goldfish — 94% commander cast rate, avg T4.2, 3.3 creatures/seat by T10 (see deck `GOLDFISH_LOG.md`). Then a 4-rule audit tuning pass (Great Henge/Cultivator Colossus/flavor-only cards out; Enduring Curiosity/Reconnaissance Mission/on-plan 4s in).
+*   **Bracket:** 3 — one Game Changer (Cyclonic Rift, of 3 allowed), no infinite combos, no MLD, no extra turns. No stax/hard-control (owner's playstyle).
+
 ## 🗓️ July 2026: Incredible Hulk Build & Promotion
 
 ### 2026-07-17: Bruce Banner, the Incredible Hulk — Physically Complete

@@ -1,0 +1,96 @@
+COMMANDER:
+1 The Fantastic Four
+
+DECK:
+1 Sol Ring
+1 Arcane Signet
+1 Chromatic Lantern
+1 Farseek
+1 Nature's Lore
+1 Three Visits
+1 Cultivate
+1 Kodama's Reach
+1 Sakura-Tribe Elder
+1 Wayfarer's Bauble
+1 Solemn Simulacrum
+1 Guardian Project
+1 Tribute to the World Tree
+1 Enduring Curiosity
+1 Distant Melody
+1 Return of the Wildspeaker
+1 Shamanic Revelation
+1 Rishkar's Expertise
+1 Garruk's Uprising
+1 Mister Fantastic, Reed Richards
+1 Beast Within
+1 Generous Gift
+1 Chaos Warp
+1 Swords to Plowshares
+1 Path to Exile
+1 Rapid Hybridization
+1 Cyclonic Rift
+1 Abrade
+1 Prismari Command
+1 Colossal Majesty
+1 Collective Resistance
+1 Fiery Confluence
+1 Austere Command
+1 Vanquish the Horde
+1 Blasphemous Act
+1 Clever Concealment
+1 The Thing
+1 Black Panther, Vanguard
+1 Human Torch
+1 Invisible Woman
+1 Valeria Richards, Precocious
+1 Beast Whisperer
+1 Skyclave Apparition
+1 H.E.R.B.I.E., Lovable Robot
+1 Goreclaw, Terror of Qal Sisma
+1 Questing Beast
+1 Renata, Called to the Hunt
+1 Crystalline Crawler
+1 Herald of Secret Streams
+1 Mina and Denn, Wildborn
+1 Atsushi, the Blazing Sky
+1 Reconnaissance Mission
+1 Chandra, Torch of Defiance
+1 Leyline Tyrant
+1 Heroic Intervention
+1 Shalai, Voice of Plenty
+1 Restoration Angel
+1 Teleportation Circle
+1 Saryth, the Viper's Fang
+1 Semester's End
+1 Door of Destinies
+1 Baxter Building
+1 Command Tower
+1 Jungle Shrine
+1 Seaside Citadel
+1 Prismari Campus
+1 Quandrix Campus
+1 Lorehold Campus
+1 Clifftop Retreat
+1 Rootbound Crag
+1 Sulfur Falls
+1 Glacial Fortress
+1 Sunpetal Grove
+1 Highland Forest
+1 Highland Lake
+1 Alpine Meadow
+1 Turbulent Steppe
+1 Turbulent Wilderness
+1 Turbulent Springs
+1 Sundown Pass
+1 Coastal Peak
+1 Scorched Geyser
+1 Rain-Slicked Copse
+1 Sodden Verdure
+1 Vineglimmer Snarl
+1 Dreamroot Cascade
+1 Flooded Grove
+1 Lumbering Falls
+5 Forest
+3 Island
+2 Mountain
+1 Plains
