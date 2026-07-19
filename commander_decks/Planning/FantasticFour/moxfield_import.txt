@@ -91,6 +91,6 @@ DECK:
 1 Flooded Grove
 1 Lumbering Falls
 5 Forest
-3 Island
+2 Island
 2 Mountain
-1 Plains
+2 Plains

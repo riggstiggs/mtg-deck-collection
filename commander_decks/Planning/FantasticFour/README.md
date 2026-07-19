@@ -102,7 +102,7 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
 *   Typed duals (fetchable): **Highland Forest**, **Highland Lake**, **Alpine Meadow**.
 *   Untapped slowlands: **Turbulent Steppe/Wilderness/Springs**, **Sundown Pass**, **Coastal Peak**, **Scorched Geyser**, **Rain-Slicked Copse**, **Sodden Verdure**, **Vineglimmer Snarl**, **Dreamroot Cascade**.
 *   Filter: **Flooded Grove**. Creature-land: **Lumbering Falls**.
-*   Basics: 5 Forest, 3 Island, 2 Mountain, 1 Plains.
+*   Basics: 5 Forest, 2 Island, 2 Mountain, 2 Plains.
 
 ---
 
@@ -128,6 +128,8 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
     *   **Reason:** Establish a four-color "cast 4s" go-wide value engine matching Jamie's playstyle (green-anchored, go-wide, flavor-first, host-friendly, no stax/combo/hard-control).
 *   **[2026-07-19]:** 4-rule audit + tuning. **Out:** The Great Henge, Cultivator Colossus (off-theme high-MV bombs), Alicia Masters, Power Pack (flavor-only), The Thing Ben Grimm (7-drop, no 4). **In:** Enduring Curiosity, Reconnaissance Mission, Black Panther Vanguard, Storm/Vision→then Beast Whisperer/Skyclave Apparition/Heroic Intervention/Colossal Majesty.
     *   **Reason:** Raise the share of spells that trigger or care about the 4-rule while keeping removal efficient; every flavor card must also advance the plan.
+*   **[2026-07-19]:** Manabase tweak. **Out:** 1 Island. **In:** 1 Plains (basics now 5F/2I/2M/2P).
+    *   **Reason:** White was the thinnest color (12 sources) but the deck runs four {W}{W} cards (Austere Command, Vanquish the Horde, Clever Concealment, Skyclave Apparition). Bumps white to 13 sources; blue still ample at 19.
 
 ---
 
@@ -225,6 +227,6 @@ DECK:
 1 Flooded Grove  
 1 Lumbering Falls  
 5 Forest  
-3 Island  
+2 Island  
 2 Mountain  
-1 Plains  
+2 Plains  
