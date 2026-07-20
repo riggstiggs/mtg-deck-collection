@@ -38,7 +38,19 @@ AGGREGATE
   sim measures commander deployment + board width, not spell-cast-4 triggers). That's
   a play-pattern question for real games, not the goldfish.
 
-## [2026-07-19] — REAL GAME LOG: Tiggs def. Gustov (Gruul ramp), win
+## [2026-07-19] — REAL GAME LOG: Tiggs LOSS vs Gustov (RG ramp), poison
+
+**Result:** Loss (4-1 overall). Died to 11 poison from a flipped **Etali, Primal
+Sickness** on ~turn 15, at 22 life (poison ignores life total).
+**What happened:** Gustov's mono-green-ish ramp went over the top fast (Sol Ring,
+Yavimaya Dryad, Search for Tomorrow, Solemn → Etali by T8). Tiggs played WELL — cast
+Blasphemous Act to wipe his whole board (Etali/Solemn/Crystalline Crawler), Chaos
+Warp'd a Baloths — but Gustov rebuilt (Timeless Witness returned Etali), recast, and
+flipped to the poison side for the kill. White was NOT the problem this game (had it);
+it was pure SPEED — dedicated ramp goes bigger faster than 4c midrange can stabilize.
+**Verdict (Jamie's call):** Known HARD MATCHUP, not a deck flaw. Log and move on; no
+changes. Deck is 4-1, beats fair decks handily (incl. beating Etali the first game).
+Only revisit if losses start coming from non-ramp decks too.
 
 **Result:** Win. Gustov (RG ramp: Etali, Ulvenwald Hydra, Arbor Elf, Nissa's Renewal
 to 47 life) taken from 12 → -25 on a single alpha strike.
@@ -52,7 +64,9 @@ to 47 life) taken from 12 → -25 on a single alpha strike.
   cleared his board pre-lethal ("quiet until it isn't"). Ground through a 47-life ramp
   deck via sustained value, not a lucky burst.
 **Takeaway:** Deck plays exactly to its identity — value engine that builds then takes
-over. 4-0 lifetime in real games. No changes indicated.
+over. Record: 1 logged win (this game) + 3 earlier wins reported by Jamie but not
+logged (Forge's game log clears each match; only this one was copied out). 4-0
+reported overall. No changes indicated.
 
 ## [2026-07-19] — 4-rule audit + tuning (no re-sim needed, same curve)
 
