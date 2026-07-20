@@ -56,7 +56,7 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
 *   **Reconnaissance Mission** ({2}{U}{U}): Draw on combat damage; go-wide payoff.
 *   **Colossal Majesty** ({2}{G}): Draw each turn if you control a power-4+ creature (cares about 4s).
 *   **Garruk's Uprising** ({2}{G}): Trample + draw whenever a power-4+ creature enters (cares about 4s).
-*   **Tribute to the World Tree** ({G}{G}{G}): Draw / counters as creatures enter.
+*   **Bramble Sovereign** ({2}{G}{G}): 4/4 (MV4/P4/T4); pay {2} to copy each creature that enters — a go-wide token/doubling engine that triggers the commander.
 *   **Return of the Wildspeaker** ({4}{G}): Big instant-speed refill off a large creature.
 *   **Shamanic Revelation** ({3}{G}{G}): Draw per creature; lifegain go-wide payoff.
 *   **Rishkar's Expertise** ({4}{G}{G}): Huge draw + free spell.
@@ -130,6 +130,8 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
     *   **Reason:** Raise the share of spells that trigger or care about the 4-rule while keeping removal efficient; every flavor card must also advance the plan.
 *   **[2026-07-19]:** Manabase tweak. **Out:** 1 Island. **In:** 1 Plains (basics now 5F/2I/2M/2P).
     *   **Reason:** White was the thinnest color (12 sources) but the deck runs four {W}{W} cards (Austere Command, Vanquish the Horde, Clever Concealment, Skyclave Apparition). Bumps white to 13 sources; blue still ample at 19.
+*   **[2026-07-19]:** **Out:** Tribute to the World Tree. **In:** Bramble Sovereign.
+    *   **Reason:** Tribute was MV3 (no commander trigger), triple-green pip, and redundant with Guardian Project (already the MV4 "draw on creature" effect). Bramble Sovereign is MV4/P4/T4 (triggers three ways), double-pip, and a copy/doubling go-wide engine that fits the deck's style.
 
 ---
 
@@ -150,7 +152,7 @@ DECK:
 1 Wayfarer's Bauble  
 1 Solemn Simulacrum  
 1 Guardian Project  
-1 Tribute to the World Tree  
+1 Bramble Sovereign  
 1 Enduring Curiosity  
 1 Distant Melody  
 1 Return of the Wildspeaker  

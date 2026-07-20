@@ -14,7 +14,7 @@ DECK:
 1 Wayfarer's Bauble
 1 Solemn Simulacrum
 1 Guardian Project
-1 Tribute to the World Tree
+1 Bramble Sovereign
 1 Enduring Curiosity
 1 Distant Melody
 1 Return of the Wildspeaker
