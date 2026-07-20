@@ -8,9 +8,9 @@ deck_status: main
 
 ## Commander Strategy
 **The Fantastic Four** ({R}{G}{W}{U})
-*   **Archetype:** Four-Color Go-Wide Value Engine ("cast 4s")
+*   **Archetype:** Four-Color "Cast 4s" Value + Beaters
 *   **Bracket:** 3
-*   **Core Goal:** Cast a stream of spells that are power 4, toughness 4, or mana value 4 to repeatedly trigger the commander (Wall / burn each opponent / +1/+1 counters / draw), building a wide board that quietly takes over. Green anchors ramp, fixing, and card draw across four colors.
+*   **Core Goal:** Cast a stream of spells that are power 4, toughness 4, or mana value 4 to repeatedly trigger the commander (Wall / burn each opponent / +1/+1 counters / draw), grinding out card and board advantage with efficient creatures until the game is yours. Green anchors ramp, fixing, and card draw across four colors. (This is NOT a token/go-wide deck — it wins on quality creatures + counters + draw, not a token swarm.)
 
 ### The "4s" Mechanic
 The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4, toughness 4, or mana value 4** — choose one mode not yet chosen that turn. The deck is built to hit that condition constantly. Roughly two-thirds of the non-utility spells either trigger the commander directly or care about power-4 creatures (e.g. **Garruk's Uprising**, **Colossal Majesty**). Removal and board wipes are intentionally left at their efficient costs rather than distorted to fit the theme. The four team members map to sub-themes: Mister Fantastic = Stretch (flexible/draw), Invisible Woman = Invisible (protection/Walls), Human Torch = Fire (reach/haste), The Thing = Beastly (counters/trample).
@@ -23,7 +23,7 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
 *   **The Fantastic Four** ({R}{G}{W}{U}): The engine. Every 4 you cast is a free mode. MV 4 / 4/4, so it triggers itself and is cheap to recast.
 
 ### 🌟 The Team & 4-Power Beaters (13)
-*   **Mister Fantastic, Reed Richards** ({3}{U}): MV4, Reach; draws a card when tokens enter. Go-wide draw + trigger.
+*   **Mister Fantastic, Reed Richards** ({3}{U}): MV4, Reach; draws a card when tokens enter (fed by the commander's/Invisible Woman's Walls + Black Panther Soldiers).
 *   **Invisible Woman** ({2}{W}): Makes 0/4 Walls; can make a creature unblockable. Protection + evasion.
 *   **Human Torch** ({3}{R}): MV4; gains flying/double strike/haste; can spread combat damage to each opponent.
 *   **The Thing** ({5}{G}): Trample; loads +1/+1 counters and can double all your counters when you've cast a noncreature spell. Member + rewards the noncreature synergy.
@@ -48,19 +48,18 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
 *   **Saryth, the Viper's Fang** ({2}{G}{G}): MV4; untapped creatures hexproof, tapped ones deathtouch.
 *   **Heroic Intervention** ({1}{G}): Protect your whole board from a wipe/removal. "Quiet until it isn't."
 
-### 🃏 Card Advantage (12)
+### 🃏 Card Advantage (11)
 *   **Guardian Project** ({3}{G}): MV4; draw when a nontoken creature enters.
 *   **Distant Melody** ({3}{U}): MV4; draw a card per creature of a chosen type.
 *   **Beast Whisperer** ({2}{G}{G}): MV4; draw a card every creature you cast.
 *   **Enduring Curiosity** ({2}{U}{U}): 4/3; draw when a creature deals combat damage; recurs.
-*   **Reconnaissance Mission** ({2}{U}{U}): Draw on combat damage; go-wide payoff.
+*   **Reconnaissance Mission** ({2}{U}{U}): Draw when your creatures deal combat damage.
 *   **Colossal Majesty** ({2}{G}): Draw each turn if you control a power-4+ creature (cares about 4s).
 *   **Garruk's Uprising** ({2}{G}): Trample + draw whenever a power-4+ creature enters (cares about 4s).
-*   **Bramble Sovereign** ({2}{G}{G}): 4/4 (MV4/P4/T4); pay {2} to copy each creature that enters — a go-wide token/doubling engine that triggers the commander.
+*   **Bramble Sovereign** ({2}{G}{G}): 4/4 (MV4/P4/T4); pay {2} to copy each creature that enters — duplicate your best beaters, and it triggers the commander three ways.
 *   **Return of the Wildspeaker** ({4}{G}): Big instant-speed refill off a large creature.
-*   **Shamanic Revelation** ({3}{G}{G}): Draw per creature; lifegain go-wide payoff.
-*   **Rishkar's Expertise** ({4}{G}{G}): Huge draw + free spell.
-*   **Idol/Engine slot** — see Roadmap for premium draw options.
+*   **Shamanic Revelation** ({3}{G}{G}): Draw a card per creature you control + lifegain.
+*   **Rishkar's Expertise** ({4}{G}{G}): Huge draw off your biggest creature + a free spell.
 
 ### ⚔️ Targeted Disruption (12)
 *   **Swords to Plowshares** ({W}) / **Path to Exile** ({W}): Premium creature exile.
@@ -80,12 +79,11 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
 *   **Blasphemous Act** ({8}{R}): Cheap-in-practice red wipe.
 *   **Cyclonic Rift** ({1}{U}): One-sided board reset (owned; the table-annoyer).
 
-### 🧩 Plan / Payoffs (5)
-*   **Door of Destinies** ({4}): MV4; names a type and grows all of it.
-*   **Crystalline Crawler / counters synergy** (see Team).
-*   *(Additional plan flex handled by the Team + Card Advantage sections above.)*
+### 🧩 Plan / Payoffs (2)
+*   **Door of Destinies** ({4}): MV4; names a type and grows all creatures of it.
+*   **Semester's End** ({3}{W}): MV4; blink your team to dodge a wipe and bring them back with extra counters (also protection).
 
-### ⚡ Ramp & Fixing (10)
+### ⚡ Ramp & Fixing (12)
 *   **Sol Ring** ({1}), **Arcane Signet** ({2}), **Chromatic Lantern** ({3}): Rocks + 4-color fixing.
 *   **H.E.R.B.I.E., Lovable Robot** ({2}): Any-color mana rock + surveil.
 *   **Farseek** ({1}{G}), **Nature's Lore** ({1}{G}), **Three Visits** ({1}{G}): Fetch typed duals untapped.
@@ -111,10 +109,9 @@ The Fantastic Four triggers on ETB **and whenever you cast a spell with power 4,
 ### 💡 High-Impact Tech to Consider
 *Premium engine upgrades. Noted for completeness; owner is budget-conscious and does not buy the ~$50-200 tier, so these are optional only.*
 
-*   **Parallel Lives** ({3}{G}): Doubles token creation — supercharges the go-wide plan.
-*   **Anointed Procession** ({3}{W}): Second token doubler (white).
-*   **Smothering Tithe** ({3}{W}) / **Rhystic Study** ({2}{U}): Premium card/mana advantage engines.
-*   **The Great Henge** ({7}{G}{G}): Ramp/draw/life payoff (cut for budget + off-theme to 4s).
+*   **Smothering Tithe** ({3}{W}) / **Rhystic Study** ({2}{U}): Premium repeatable card/mana advantage engines — fit any deck.
+
+*(Note: token doublers like Parallel Lives / Anointed Procession were removed from this list — this is NOT a token deck. It makes only a handful of tokens (Walls + Black Panther Soldiers), so token doublers would be near-dead. This deck is a "cast 4s" value + beaters deck, not a go-wide token deck.)*
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |

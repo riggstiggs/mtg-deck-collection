@@ -53,7 +53,7 @@ mana value 4 → triggers commander). Of ~51 such cards:
   the noncreature synergy).
 
 **Swaps this pass:** The Great Henge (MV9, off-theme, $64) → Enduring Curiosity (P4,
-triggers, go-wide combat draw); Cultivator Colossus (MV7) → Reconnaissance Mission
-(cheap go-wide combat draw, cares about attackers). Deck still 100 / 38 lands / all
+triggers, combat-damage draw); Cultivator Colossus (MV7) → Reconnaissance Mission
+(cheap combat-damage draw). Deck still 100 / 38 lands / all
 legal. Curve essentially unchanged (both swaps are cheaper), so the 20-sim result
 above still holds.
