@@ -38,6 +38,22 @@ AGGREGATE
   sim measures commander deployment + board width, not spell-cast-4 triggers). That's
   a play-pattern question for real games, not the goldfish.
 
+## [2026-07-19] — REAL GAME LOG: Tiggs def. Gustov (Gruul ramp), win
+
+**Result:** Win. Gustov (RG ramp: Etali, Ulvenwald Hydra, Arbor Elf, Nissa's Renewal
+to 47 life) taken from 12 → -25 on a single alpha strike.
+**How it came together (the design working as intended):**
+- The Thing's noncreature-trigger put 4 counters on itself, then RGWU ability DOUBLED
+  counters across the whole team → The Thing swung for 13, Atsushi 8, commander 8, etc.
+  = ~27 in one turn. The Beastly counter engine is the closer.
+- The "cast 4s" engine fired repeatedly: Beast Whisperer (MV4), Atsushi (4/4), Valeria
+  (MV4), Shalai (MV4) each triggered the commander + drew cards (Beast Whisperer/Valeria).
+- Generous Gift killed Etali (flexible removal earning its slot); Cyclonic Rift OVERLOAD
+  cleared his board pre-lethal ("quiet until it isn't"). Ground through a 47-life ramp
+  deck via sustained value, not a lucky burst.
+**Takeaway:** Deck plays exactly to its identity — value engine that builds then takes
+over. 4-0 lifetime in real games. No changes indicated.
+
 ## [2026-07-19] — 4-rule audit + tuning (no re-sim needed, same curve)
 
 Audited every nonland/non-ramp spell against the 4-rule (power 4 OR toughness 4 OR
