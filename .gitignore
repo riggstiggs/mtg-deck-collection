@@ -2,3 +2,6 @@
 db/mtg_database.json
 .firecrawl/
 logs/
+.git/.mtg-credentials
+scripts/__pycache__/
+*.dck
