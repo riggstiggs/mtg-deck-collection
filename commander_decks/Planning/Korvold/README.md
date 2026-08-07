@@ -69,10 +69,15 @@ ring, vows — it drags in a whole specific scene and gets niche fast. A
 **Crasher** just means "a party exists and someone wasn't invited," which is
 true of ANY banquet, including this one. So:
 - ❌ CUT: Olivia, Crimson **Bride** (declares the occasion). Wedding Security
-  (literal word). Anje, Maid of **Dishonor** (a maid-of-honor pun — still
-  declares a wedding-party role even without the word).
+  (literal word).
 - ✅ KEPT: Wolfkin Outcast // **Wedding Crasher** (describes uninvited-guest
   behavior, not the occasion — "Crasher" works at this banquet same as any).
+- ✅ KEPT (reinstated 2026-08-06): **Anje, Maid of Dishonor** — initially cut as
+  a maid-of-honor pun, but Jamie's actual read was "Maid" in the older/cruder
+  sense (a companion someone brought), with "of Dishonor" describing HER — the
+  scandalous plus-one everyone's gossiping about, not a bridal-party role at
+  all. **Lesson: a single word can carry two totally different senses — check
+  which one the person actually means before cutting on a pattern match.**
 
 Test any future edge case against this, don't just pattern-match the word
 "wedding."
@@ -308,7 +313,7 @@ murder-for-hire.
 | Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
-| ~~Anje, Maid of Dishonor~~ | {2}{B}{R} | $0.40 | ❌ | 7 | CUT per occasion guard — "Maid of Dishonor" only makes sense as a maid-of-honor pun, i.e. a wedding joke, even without the literal word "wedding" |
+| Anje, Maid of Dishonor | {2}{B}{R} | $0.40 | 8 | 7 | REINSTATED per Jamie 2026-08-06 — reread "Maid" in the older/cruder sense (a companion, not a bridal-party role): "of Dishonor" describes HER, the scandalous plus-one nobody quite approves of but everyone's talking about. Not a wedding pun after all — a guest, the exact "gossip about who someone brought" energy from the original brief. |
 
 ### 🎻 Court entertainers + the uninvited guest
 | Card | Cost | Price | Flavor | Mech | Note |
