@@ -3,6 +3,9 @@ deck_status: main
 ---
 
 # Deck Guide: Korvold, Fae-Cursed King ("The Guest List")
+*A production bible, not a decklist. Casting → screenplay → post-production
+(Arlo, 2026-08-06). Jamie: showrunner & exec producer deciding the theatrical
+cut. Arlo: director/cinematographer. Claude: head writer.*
 
 ## ⭐⭐ SEATING CHART pivot (2026-08-06, later same session) — READ THIS FIRST
 The question "who is Korvold's co-host?" was the wrong question. The deck doesn't
@@ -172,14 +175,21 @@ house"; Grave Betrayal "isn't one betrayal, it's the atmosphere of
 distrust." Enchantments specifically aren't scenes — they're **the mood**,
 what's become permanently true about this world.
 
-**The full production-bible taxonomy (Arlo, 2026-08-06):**
+**The full production-bible taxonomy (Arlo, 2026-08-06, refined same
+session).** The type line chooses the question; the art/flavor text/
+mechanics answer it — that's what keeps the taxonomy from collapsing into
+"everything evocative is a Moment." Refined wording: "When?" was close, but
+"what just happened" is screenplay language and "what is now true" is
+worldbuilding language — those pair correctly. Instants don't change the
+world, they interrupt it. Sorceries move it forward, not forever.
+Enchantments say "from now on...".
 | Card type | Question it answers |
 |---|---|
 | Creatures | Who? |
 | Lands | Where? |
 | Artifacts | What (object)? |
-| Instants / Sorceries | When (what moment)? |
-| Enchantments | What has become true about this world? |
+| Instants / Sorceries | What just happened? |
+| Enchantments | What is now true? |
 
 **TWO searches now, not one:** Character Search ("who belongs?") and Moment
 Search ("what happens?") — these are genuinely different questions and need
@@ -207,6 +217,13 @@ already in the deck (Arlo, 2026-08-06).** Not "is this a good card" but
 inheritance / collapse in the pool?" Once a role is filled ("the cutting
 remark" = Mayhem Devil now, permanently), stop searching for that specific
 role — move on to a role that's still empty.
+
+**Rule 17, second sentence (Arlo's refinement, same session): every role
+should have a DEFINITIVE performance.** Not "a gossip" — THE Gossip. Not
+"a toast" — THE Toast. Not "a duel" — THE Duel. Not "a collapse" — THE
+Collapse. That's how a story stays memorable rather than diffuse — one card
+per role, played with total confidence, not several adequate options
+hedging the same job.
 
 **Rule 17 applied immediately, same session:**
 - **Captive Audience — RE-CLASSIFIED, not a Moment.** It's an Enchantment,
