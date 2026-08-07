@@ -452,17 +452,32 @@ point — some of those may be interchangeable and worth trimming.
 | Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
 | Leering Onlooker | {1}{B} | $0.18 | 👀 Spectator | THE onlooker — watching from the corner, converts to flying Bats on death |
 | Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving |
+| Rogues' Gallery | {2}{B} | $0.15 | 🏛️ Location | The estate's gallery — recovers a fallen guest of any color to your hand |
+| Thorn of the Black Rose | {3}{B} | $0.13 | 🎁 Prop (flagged) | Monarch-granting; "Black Rose" is elegant estate-flower imagery w/ a poison undertone — flagged since it's an Assassin type, Jamie's call whether that reads too murder-adjacent |
 
 "Herald" was a dead end despite looking promising — almost every hit was a
 5-color-tutor tribal archetype (sac one of each color to fetch a specific
 bomb), nothing to do with actually announcing/heralding anyone.
 
-**⏭ Still untouched from Arlo's full list:** The Ceremony (toast/welcome/
-introductions/speeches as its own category, not yet searched as a set),
-Etiquette-adjacent terms (courtesy/honor/respect/ceremony/protocol), Estate
-location words (gallery/library/cellar/hedge/maze/parlor), remaining Atmosphere
-objects (portrait/painting/fan/bouquet/rose), and the redundancy audit on
-Nobles/Socialites per the new hard rule.
+**Ceremony / Estate-location / remaining-Atmosphere sweep completed 2026-08-06:**
+- **The Ceremony** (toast/speech/announce/introduce/seating) — genuinely
+  EMPTY in these colors. Real dead end, not a research gap — Magic doesn't
+  have this vocabulary as nameable cards in BRG.
+- **Portrait/painting** — also empty. Another real dead end.
+- **Estate locations** (gallery/library/cellar/hedge/maze/parlor) — mostly
+  Ravnica "Maze" set-mechanic noise, unrelated to the word's meaning here.
+  One find: **Rogues' Gallery** {2}{B}, $0.15 — recovers a fallen creature of
+  any color, "gallery" flavor fits, flexible recursion.
+- **Black Rose** — found **Thorn of the Black Rose** {3}{B}, $0.13 — Monarch-
+  granting, and "Black Rose" is a genuinely elegant estate-flower image with
+  a poison undertone. FLAGGED not auto-included: it's an Assassin creature
+  type, which brushes the earlier no-murder-for-hire cut, but its actual text/
+  title lean court-flower-symbolism, not hitman — Jamie's call.
+
+**⏭ Still open:** Etiquette-adjacent terms (courtesy/honor/respect/protocol —
+not yet searched as their own cluster) and the redundancy audit on
+Nobles/Socialites per the new hard rule (does each card add a scene, or is it
+"Noble #7"?).
 
 ### 🗺️ The Estate Map — lands as SCENES, not just mana (pivot 2026-08-06, Arlo's idea)
 Arlo's reframe, and it's the right one: **don't ask "what are the best Jund
