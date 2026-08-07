@@ -201,6 +201,25 @@ before dinner, glasses raised, every house publicly pledges loyalty — except
 Korvold knows one of them is lying. Both real Gatherer cards, not
 reskinned — the reframe is entirely in how the card is READ, per Rule 16.
 
+**Rule 17 — Every addition must answer ONE question better than anything
+already in the deck (Arlo, 2026-08-06).** Not "is this a good card" but
+"does this depict the BEST accusation / toast / duel / betrayal /
+inheritance / collapse in the pool?" Once a role is filled ("the cutting
+remark" = Mayhem Devil now, permanently), stop searching for that specific
+role — move on to a role that's still empty.
+
+**Rule 17 applied immediately, same session:**
+- **Captive Audience — RE-CLASSIFIED, not a Moment.** It's an Enchantment,
+  so per the taxonomy it's Atmosphere/Mood, not an Instant/Sorcery moment,
+  despite the evocative title. Read correctly: "the curse has been placed
+  on this house — the doors are barred, dinner is no longer voluntary."
+  Passes Rule 17 as the best "cursed household" card in the pool.
+- **Revenge of Ravens — MOVED TO WAITING LIST.** Arlo's catch: it depicts
+  Atmosphere ("the house is cursed"), not a Moment ("someone is accused") —
+  and Grave Betrayal already owns "atmosphere of distrust" in this pool.
+  Redundant Atmosphere, not a distinct one. Fails Rule 17 (doesn't do
+  anything better than what's already seated).
+
 **Claude vs. Arlo, first independent audits (2026-08-06) — reconciled:**
 Both auditions ran independently, then compared. Genuine agreement AND
 genuine disagreement, worked through rather than merged blindly:
@@ -548,8 +567,7 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Extract a Confession | {1}{B} | $0.24 | 9 | 7 | THE accusation scene, literal — an interrogation that forces an opponent's sacrifice, "evidence" = exiling cards from the graveyard to build a case |
 | Oath of Liliana | {2}{B} | $0.42 | 8 | 8 | The oath before dinner — glasses raised, every house publicly pledges loyalty, except Korvold knows one of them is lying. Forces every opponent to sacrifice on entry. |
 | Structural Collapse | {5}{R} | $0.04 | 8 | 7 | Act III literally — the mansion itself begins to fail, forces an opponent to sacrifice BOTH an artifact and a land plus takes damage |
-| Captive Audience | {5}{B}{R} | $4.24 | 9 | 6 | The poisoned toast — a "gift" that curses whoever receives it, unravels their own turn from the inside |
-| Revenge of Ravens | {3}{B} | $0.56 | 7 | 6 | Revenge made mechanical — punishes anyone who dares attack you, real defensive court politics |
+| Captive Audience | {5}{B}{R} | $4.24 | 9 | 6 | RE-CLASSIFIED per the taxonomy: it's an Enchantment, so it's Atmosphere not Moment despite the title. "The curse has been placed on this house" — the doors are barred, dinner is no longer voluntary, that specific house is stuck under this mood for the rest of the game. Passes Rule 17 as the best "cursed household" card in the pool; nothing else does this specific thing. |
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
 | Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
 | Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
