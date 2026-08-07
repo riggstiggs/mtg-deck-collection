@@ -160,6 +160,47 @@ the best Korvold deck. We're now trying to build the best version of this
 movie. Those are not the same objective — and the second one is much more
 interesting."*
 
+**Rule 16 — Every spell should depict a scene. Not an effect (Arlo,
+2026-08-06, after seeing Extract a Confession / Oath of Liliana land).**
+Creatures depict people. Artifacts depict props. Lands depict places.
+Instants/sorceries should depict MOMENTS, not effects — don't care that a
+removal spell says "destroy target creature," care that it's called
+"Extract a Confession." A card's actual rules text doesn't have to change
+for this to work — Marchesa's Decree "isn't an event, it's the political
+climate"; Court of Embereth "isn't a spell, it's the standing order of the
+house"; Grave Betrayal "isn't one betrayal, it's the atmosphere of
+distrust." Enchantments specifically aren't scenes — they're **the mood**,
+what's become permanently true about this world.
+
+**The full production-bible taxonomy (Arlo, 2026-08-06):**
+| Card type | Question it answers |
+|---|---|
+| Creatures | Who? |
+| Lands | Where? |
+| Artifacts | What (object)? |
+| Instants / Sorceries | When (what moment)? |
+| Enchantments | What has become true about this world? |
+
+**TWO searches now, not one:** Character Search ("who belongs?") and Moment
+Search ("what happens?") — these are genuinely different questions and need
+separate passes, not one merged search.
+
+**Concrete beat list for the Moment Search (Arlo, 2026-08-06) — organized
+by Act, to search literally, not just conceptually:**
+- **Act I (arrival):** arrival, announcement, invitation, toast, greeting,
+  presentation, audience, welcome.
+- **Act II (the evening unfolds):** conversation, dance, gift, rumor,
+  confession, whisper, challenge, toast, performance, inheritance, jealousy.
+- **Act III (the collapse):** accusation, betrayal, revenge, inheritance,
+  duel, confession, collapse, panic, escape, fire, mourning.
+
+Two hits already found this way: **Extract a Confession** = the drawing-room
+interrogation ("everyone has left dinner, a few remain, the doors close —
+'now, where were you when the Duke died?'"). **Oath of Liliana** = the oath
+before dinner, glasses raised, every house publicly pledges loyalty — except
+Korvold knows one of them is lying. Both real Gatherer cards, not
+reskinned — the reframe is entirely in how the card is READ, per Rule 16.
+
 **Claude vs. Arlo, first independent audits (2026-08-06) — reconciled:**
 Both auditions ran independently, then compared. Genuine agreement AND
 genuine disagreement, worked through rather than merged blindly:
@@ -505,7 +546,10 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
 | Extract a Confession | {1}{B} | $0.24 | 9 | 7 | THE accusation scene, literal — an interrogation that forces an opponent's sacrifice, "evidence" = exiling cards from the graveyard to build a case |
-| Oath of Liliana | {2}{B} | $0.42 | 8 | 8 | The whole room swears fealty at once — every opponent sacrifices on entry, a real "moment" per Arlo's challenge to audition instants/sorceries/enchantments, not just people |
+| Oath of Liliana | {2}{B} | $0.42 | 8 | 8 | The oath before dinner — glasses raised, every house publicly pledges loyalty, except Korvold knows one of them is lying. Forces every opponent to sacrifice on entry. |
+| Structural Collapse | {5}{R} | $0.04 | 8 | 7 | Act III literally — the mansion itself begins to fail, forces an opponent to sacrifice BOTH an artifact and a land plus takes damage |
+| Captive Audience | {5}{B}{R} | $4.24 | 9 | 6 | The poisoned toast — a "gift" that curses whoever receives it, unravels their own turn from the inside |
+| Revenge of Ravens | {3}{B} | $0.56 | 7 | 6 | Revenge made mechanical — punishes anyone who dares attack you, real defensive court politics |
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
 | Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
 | Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
