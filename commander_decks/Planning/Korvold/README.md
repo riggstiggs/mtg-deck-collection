@@ -561,7 +561,7 @@ else, doesn't get a reserved seat just for being "the service card."
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
 | ~~Havoc Jester~~ | {4}{R} | $0.17 | 9 | 8 | CUT 2026-08-06 — lost the audition to Mayhem Devil (see below): same role, worse mechanics. |
 | Mayhem Devil | {1}{B}{R} | $0.30 | 8 | 9 | ⭐ Arlo's audition, 2026-08-06 — "the guest who keeps making cutting remarks until the room descends into chaos." Triggers on ANY player's sacrifice (not just yours), so he punishes opponents' own fetches/edicts too — half Havoc Jester's cost with strictly better utility. Won the seat. |
-| Bello, Bard of the Brambles | {1}{R}{G} | $1.82 | 8 | 7 | THE bard — hired specifically for nobility, real build-around |
+| ~~Bello, Bard of the Brambles~~ | {1}{R}{G} | $1.82 | 8 | 7 | CUT 2026-08-07 (Jamie) — "a literal trash panda turning trashy artifacts into workhorses. While bard fits, I don't think he does." Right mechanics, wrong character for this room. |
 | Fíli and Kíli, Joyous | {2}{R} | $7.38 | 8 | 5 | A legendary Dwarf Bard DUO, "Joyous" is exactly the entertainer register. From The Hobbit (releases 2026-08-14). Mechanically narrow (Dwarf/Equipment/Saga-only mana), flag as flavor-forward not mechanics-forward. |
 
 ~~Rix Maadi Reveler~~ — cut, generic Ravnica flavor, no ballroom signal.
@@ -578,19 +578,19 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
 | Whispering Snitch | {1}{B} | $0.28 | 9 | 6 | A literal gossip/tattletale, pings opponents on surveil |
-| Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
+| ~~Scandalmonger~~ | {3}{B} | $0.30 | 9 | 5 | CUT 2026-08-07 (Jamie) — "there's no point in me having card draw if people are going to use my own card against me." The shared-activation clause is a real liability, not just flavor. |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
 | Extract a Confession | {1}{B} | $0.24 | 9 | 7 | THE accusation scene, literal — an interrogation that forces an opponent's sacrifice, "evidence" = exiling cards from the graveyard to build a case |
 | Oath of Liliana | {2}{B} | $0.42 | 8 | 8 | The oath before dinner — glasses raised, every house publicly pledges loyalty, except Korvold knows one of them is lying. Forces every opponent to sacrifice on entry. |
-| Structural Collapse | {5}{R} | $0.04 | 8 | 7 | Act III literally — the mansion itself begins to fail, forces an opponent to sacrifice BOTH an artifact and a land plus takes damage |
+| ~~Structural Collapse~~ | {5}{R} | $0.04 | 8 | 7 | CUT 2026-08-07 (Jamie) — "we don't really destroy each other's lands in our pod, it feels like a waste." Was defended as the deck's only land-disruption effect, but that value doesn't exist if the table doesn't play that way. |
 | Captive Audience | {5}{B}{R} | $4.24 | 9 | 6 | RE-CLASSIFIED per the taxonomy: it's an Enchantment, so it's Atmosphere not Moment despite the title. "The curse has been placed on this house" — the doors are barred, dinner is no longer voluntary, that specific house is stuck under this mood for the rest of the game. Passes Rule 17 as the best "cursed household" card in the pool; nothing else does this specific thing. |
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
 | Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
 | Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
 | Popular Egotist | {2}{B} | $0.23 | 8 | 9 | Jamie's ask, 2026-08-06: a card that hurts opponents whenever YOU sacrifice — drains 1 life on EVERY sac (stacks with Korvold's own trigger). "Popular Egotist" is a real socialite-court name too. |
 | Juri, Master of the Revue | {B}{R} | $0.21 | 8 | 9 | Grows a counter on every sacrifice, deals that much damage on death — "Master of the Revue" is genuinely great entertainer-court flavor, and she's a real mechanical upgrade to the sac engine's opponent-facing side. |
-| Coveted Jewel | {6} | $0.24 | 9 | 6 | A literal treasure everyone at the party wants — draws cards, but an opponent can steal it by attacking you unblocked. Court intrigue over a valuable object, made completely mechanical. |
+| ~~Coveted Jewel~~ | {6} | $0.24 | 9 | 6 | CUT 2026-08-07 (Jamie) — "I don't really like the jewel idea." Arlo had defended the steal-risk as a feature, not a bug, but Jamie's own read wins on a card she has to actually play. |
 
 **Considered, flagged not committed:** Gollum, Patient Plotter ({1}{B}, $0.21
 — great "plotter" vocabulary but a specific LotR literary character, may read
@@ -602,7 +602,7 @@ its payoff is Knight-count-gated and this deck has no Knight subtheme yet).
 ### 🎻 Court entertainers + the uninvited guest
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Wolfkin Outcast // **Wedding Crasher** | {5}{G} | $0.26 | 10 | 7 | ✅ KEPT per Jamie 2026-08-06 — refined occasion-guard rule: "Crasher" describes an uninvited guest's BEHAVIOR (fits any party); "Bride"/"Maid of Honor" DECLARES the occasion itself (wedding-specific, cut). 6/5, draws on Wolf/Werewolf death — the guest who reveals their true nature once night falls. |
+| ~~Wolfkin Outcast // Wedding Crasher~~ | {5}{G} | $0.26 | 10 | 7 | CUT 2026-08-07 (Jamie) — "I don't like the wolf." Passed the occasion guard cleanly (see 2026-08-06 note above) but didn't survive the final in-hand review. Simple, no further justification needed. |
 | Totentanz, Swarm Piper | {1}{B}{R} | $0.25 | 8 | 8 | A Pied-Piper entertainer whose music brings out Rats on ANY nontoken death — rhymes directly with Korvold's sac engine |
 | Insufferable Balladeer | {1}{R} | $0.11 | 7 | 5 | A bard whose "Vicious Mockery" goads a rival into a duel of honor |
 
@@ -858,6 +858,14 @@ total.**
 right now. Apologies for the repeated bad counts before this — trust THIS
 number, and recompute by hand (not by script) before quoting a total again.
 
+**✅ RESOLVED, 2026-08-07.** Jamie reviewed the 103-card list by hand,
+cutting anything that would confuse her if drawn or that she just didn't
+want to play — see the final cuts noted at the Plain Text Copy/Paste
+section below (Bello, Scandalmonger, Wolfkin Outcast // Wedding Crasher,
+Structural Collapse, Coveted Jewel — 5 total). **The deck is now legal: 98
+cards + Korvold = 99.** Two cards under the 100-card limit, deliberately,
+for breathing room.
+
 **⚠ DEVIATION FROM TEMPLATE, Korvold-specific (Jamie, 2026-08-06):** "Let's use
 Mark's template as a guide, not a law. Korvold naturally compresses some
 categories because he provides repeatable card advantage and is himself a
@@ -972,8 +980,18 @@ in that set).
 reviewing this exact list by hand and cutting anything that would confuse
 her if drawn ("if this shows up in my hand, will I actually know what to do
 with it"), a real gameplay-clarity filter rather than more abstract
-auditing. Once she returns cuts, update this section to the final 99 + land
-base and rebuild the Card Explanations section to match.
+auditing.
+
+**Final review complete, 2026-08-07.** Five cards cut on this pass — Bello,
+Bard of the Brambles ("a literal trash panda... while bard fits, I don't
+think he does"), Scandalmonger (shared-activation clause is a real
+liability, not just flavor), Wolfkin Outcast // Wedding Crasher ("I don't
+like the wolf" — simple, no further justification needed), Structural
+Collapse ("we don't really destroy each other's lands in our pod, it feels
+like a waste"), and Coveted Jewel ("I don't really like the jewel idea" —
+Arlo's steal-risk-as-feature defense didn't win out against Jamie's own
+read). **103 − 5 = 98 + Korvold = 99, legal.** Two cards under the 99-card
+deck limit, giving breathing room rather than landing exactly on the wire.
 
 COMMANDER:  
 1 Korvold, Fae-Cursed King  
@@ -994,23 +1012,18 @@ DECK:
 1 Goddric, Cloaked Reveler  
 1 Falkenrath Celebrants  
 1 Mayhem Devil  
-1 Bello, Bard of the Brambles  
 1 Whispering Snitch  
-1 Scandalmonger  
 1 Voldaren Duelist  
 1 Grave Betrayal  
 1 Extract a Confession  
 1 Oath of Liliana  
-1 Structural Collapse  
 1 Captive Audience  
 1 Marchesa's Decree  
 1 Tribute to Hunger  
 1 Vicious Offering  
 1 Popular Egotist  
 1 Juri, Master of the Revue  
-1 Coveted Jewel  
 1 Anje, Maid of Dishonor  
-1 Wolfkin Outcast  
 1 Totentanz, Swarm Piper  
 1 Harvester of Souls  
 1 Master of the Feast  
