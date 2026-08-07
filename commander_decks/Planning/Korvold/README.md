@@ -31,6 +31,13 @@ is presence and inevitability, not synergy.
 - **Tier 6 — The Meal:** harvest, food, wine, dessert.
 - **Tier 7 — Chaos:** poison/scandal/fight/the uninvited guest.
 
+**🎬 THE ENDING (Arlo, 2026-08-06):** The deck doesn't actually end with
+Korvold. It ends with **silence.** The ballroom is empty. The candles are
+still burning. The goblets are still on the table. The music has stopped.
+Korvold is the only one left. This is the payoff of the whole arc — the last
+sacrifice trigger of the game IS the final course, and everything before it
+was setting the table for this one image.
+
 **New litmus test — sharper than "who's in the painting":** ***"Who receives an
 invitation?"*** A butcher — no. A random farmer — no. A Duchess — absolutely. A
 famous performer — yes. A visiting ambassador — yes. A social climber —
@@ -414,10 +421,48 @@ good Korvold cards, we're searching for scenes — would this show up if HBO
 filmed this banquet?" Ran Court Politics (tribute/decree/council/audience/
 favor/offering, scheme/plot/conspiracy/alliance/secret) and part of Atmosphere
 (candle/mirror/jewel/mask) — found Marchesa's Decree, Tribute to Hunger,
-Vicious Offering, Coveted Jewel (all added above). **Still untouched from
-Arlo's list:** the Etiquette-adjacent cluster (courtesy/honor/respect/
-ceremony/formality/protocol/invitation) and The Estate location words
-(gallery/library/cellar/hedge/maze/parlor) — worth a future pass.
+Vicious Offering, Coveted Jewel (all added above).
+
+**🎥 Arlo's SECOND breakthrough (2026-08-06, same session): "we're missing the
+room itself."** Everything so far is people-centric. Arlo's ask: imagine a
+camera panning across the ballroom before anyone speaks — the chandelier, the
+fireplace, the portraits, the crystal goblets, the flower arrangements. New
+categories opened: **The Ceremony** (toast/welcome/introductions/speeches —
+the scenes that happen BEFORE the intrigue starts, not a wedding, a state
+banquet), **Spectators** (not everyone at the party is important — the
+watchers, whisperers, onlookers: Observer/Witness/Onlooker/Courtier/Herald),
+and a shift from nouns to **verbs and objects** (toast/welcome/gather/present/
+serve/applaud as search terms; goblet/chalice/candelabra/portrait/crown/
+throne/scepter as physical props).
+
+**⭐ NEW HARD RULE (Arlo): "What scene does this let us depict that we
+couldn't before?"** Prefer one gossip + one rival + one glutton + one drunk +
+one diplomat + one performer over six interchangeable aristocrats. Every new
+card must be one of: 🎭 a new CHARACTER, 🏛️ a new LOCATION, 🎼 a new SCENE, 🎁 a
+new PROP, or 📖 a new PLOT BEAT. If it's just "Noble #7," it doesn't make the
+deck better even if it's mechanically fine. This means the existing 7-8-card
+Nobles/Socialites pile should get a redundancy audit against this rule at some
+point — some of those may be interchangeable and worth trimming.
+
+**Results from this pass (Room/Object/Verb/Spectator searches):**
+| Card | Cost | Price | Role | Note |
+|---|---|---|---|---|
+| Malevolent Chandelier | {6} | $0.11 | 🏛️ Prop | THE chandelier — a literal object from Arlo's ask, and as an artifact CREATURE it can even be part of the cast (a monster hiding in the fixture) |
+| Rotating Fireplace | {3} | $0.40 | 🏛️ Prop | THE fireplace — colorless utility mana |
+| Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
+| Leering Onlooker | {1}{B} | $0.18 | 👀 Spectator | THE onlooker — watching from the corner, converts to flying Bats on death |
+| Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving |
+
+"Herald" was a dead end despite looking promising — almost every hit was a
+5-color-tutor tribal archetype (sac one of each color to fetch a specific
+bomb), nothing to do with actually announcing/heralding anyone.
+
+**⏭ Still untouched from Arlo's full list:** The Ceremony (toast/welcome/
+introductions/speeches as its own category, not yet searched as a set),
+Etiquette-adjacent terms (courtesy/honor/respect/ceremony/protocol), Estate
+location words (gallery/library/cellar/hedge/maze/parlor), remaining Atmosphere
+objects (portrait/painting/fan/bouquet/rose), and the redundancy audit on
+Nobles/Socialites per the new hard rule.
 
 ### 🗺️ The Estate Map — lands as SCENES, not just mana (pivot 2026-08-06, Arlo's idea)
 Arlo's reframe, and it's the right one: **don't ask "what are the best Jund
