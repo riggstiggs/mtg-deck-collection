@@ -202,6 +202,8 @@ is BRG natively. Ramp is fair game if it earns its slot.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
 | **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. Price note: Jamie lifted the $2 ceiling — real options at any price, she draws the line. |
+| Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; the Monarch mechanic itself IS "who holds power at the table right now" — contestable by rivals, politically alive |
+| Court of Embereth | {2}{R}{R} | $6.43 | 7 | 8 | A Monarch enchantment that makes Knights and escalates damage while ruling — the political-power engine of the court made mechanical |
 
 ### 🍸 Nobles / Aristocrats / Socialites (sac-payoff glue)
 All verified live on Scryfall, all Jund-legal, all under $1.10. ❌ = cut (doesn't
@@ -274,14 +276,18 @@ murder-for-hire.
 |---|---|---|---|---|---|
 | Whispering Snitch | {1}{B} | $0.28 | 9 | 6 | A literal gossip/tattletale, pings opponents on surveil |
 | Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
+| Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
+| ~~Anje, Maid of Dishonor~~ | {2}{B}{R} | $0.40 | ❌ | 7 | CUT per occasion guard — "Maid of Dishonor" only makes sense as a maid-of-honor pun, i.e. a wedding joke, even without the literal word "wedding" |
 
 ### 🎻 Court entertainers + the uninvited guest
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Wolfkin Outcast // **Wedding Crasher** | {5}{G} | $0.26 | 10 | 7 | THE find of this pass — literally named Wedding Crasher on its back face (6/5, draws on Wolf/Werewolf death). Front is a 5/4 cost-reducer. Day/night-gated (Werewolf mechanic) so not guaranteed every game, but the flavor payoff is exact: the guest who reveals their true nature once night falls. |
+| ⚠️ Wolfkin Outcast // **Wedding Crasher** | {5}{G} | $0.26 | 10⚠️ | 7 | FLAG FOR JAMIE 2026-08-06: has "Wedding" literally in the name, which the new occasion guard (added after Olivia + Wedding Security cuts) says cut on sight — but this is the "uninvited guest" concept made literal (6/5, draws on Wolf/Werewolf death) and was called the best find of an earlier pass. NOT auto-cut — held for Jamie's call since it's more load-bearing than the other two "wedding" cuts. |
 | Totentanz, Swarm Piper | {1}{B}{R} | $0.25 | 8 | 8 | A Pied-Piper entertainer whose music brings out Rats on ANY nontoken death — rhymes directly with Korvold's sac engine |
-| Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; forces a sacrifice on the way in |
 | Insufferable Balladeer | {1}{R} | $0.11 | 7 | 5 | A bard whose "Vicious Mockery" goads a rival into a duel of honor |
+
+*(Custodi Lich moved to Tier 2 — The Court, above; Monarch is a political-power
+mechanic, not an entertainment one.)*
 
 **Running total: 23 candidates kept (22 + Vraska), most under $0.50, Vraska at
 $6.22 as the one deliberate splurge. No hard price ceiling — Jamie reviews and
