@@ -37,6 +37,13 @@ famous performer — yes. A visiting ambassador — yes. A social climber —
 definitely. This is more restrictive than "could exist at a banquet" — it asks
 whether this specific person would be ON THE GUEST LIST.
 
+**Mechanical-skeleton rule (added 2026-08-06, mid-ramp/removal pass):** the
+guest-list test only applies to cards that DEPICT A PERSON. A ramp/removal
+SPELL with no creature art (Farseek, Terminate, Cultivate) is atmosphere, not
+an attendee — exempt, judged on mechanics alone. A ramp/removal CREATURE still
+has to pass: "Sakura-Tribe **Elder**" passes (an elder is a title, plausibly an
+honored guest); "Ravenous **Chupacabra**" fails (a cryptid monster doesn't sit
+at a formal banquet) even though both are equally good Magic cards.
 **Deck title:** confirmed as **"The Guest List"** (was briefly "Dinner Is
 Served") — chosen because it provokes the exact question that IS the deck's
 reveal: "wait... why is every card a person you'd invite to a banquet?"
@@ -316,6 +323,60 @@ Harvest/Feast search carried this tier instead.
 higher-price picks (Vraska $6.22, Master of the Feast $5.91, Grim Feast $7.77,
 Harvester of Souls $2.57). No hard price ceiling — Jamie reviews and draws the
 line herself; the only rule is no $20 chase cards.**
+
+---
+
+## ⚙️ Mechanical Skeleton (ramp / draw / removal / lands) — started 2026-08-06
+Still needed to become a real 99: this is the first pass. Per Jamie's guest-list
+extension mid-session: **the test only applies to cards that DEPICT A PERSON.**
+A ramp/removal SPELL with no creature art is atmosphere, not an attendee —
+exempt, judged on mechanics alone. A ramp/removal CREATURE still has to pass
+("Elder" = a title, could be an honored guest; "Chupacabra" = a monster, cut).
+
+### 🌱 Ramp
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Sakura-Tribe Elder | {1}{G} | $0.32 | ⭐ Passes the guest test ("Elder" = a title) AND is a free sac outlet feeding Korvold — double duty |
+| Farseek | {1}{G} | $0.71 | Spell, exempt from guest test |
+| Nature's Lore | {1}{G} | $2.50 | Spell, exempt |
+| Cultivate | {2}{G} | $0.27 | Spell, exempt |
+| Rampant Growth | {1}{G} | $0.42 | Spell, exempt |
+| Arcane Signet | {2} | ~$1 | Artifact, exempt |
+| Chromatic Lantern | {3} | $0.98 | Artifact, exempt — also fixes Jund's 3-color mana |
+| Commander's Sphere | {3} | $0.32 | Artifact, exempt, sacs for a card late |
+
+~~Wood Elves~~, ~~Llanowar Elves~~ — cut, generic Elf-tribal bodies, don't read
+as banquet-invitable people the way "Elder" does. ~~Birds of Paradise~~ —
+flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
+
+### 📖 Draw / Value
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Deathgreeter | {B} | $3.49 | A literal "greeter" (welcomes guests) who profits off any death at the party |
+| Village Rites | {B} | $0.38 | Spell, exempt — sac-for-draw, feeds Korvold directly |
+| Deadly Dispute | {1}{B} | $0.34 | Spell, exempt — sac-for-draw+Treasure |
+| Night's Whisper | {1}{B} | $0.29 | Spell, exempt |
+| Read the Bones | {2}{B} | $0.32 | Spell, exempt |
+| Phyrexian Arena | {1}{B}{B} | $3.94 | Enchantment, exempt, steady card advantage |
+
+### ⚔️ Removal
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Terminate | {B}{R} | $0.38 | Spell, exempt |
+| Putrefy | {1}{B}{G} | $0.28 | Spell, exempt |
+| Beast Within | {2}{G} | $0.68 | Spell, exempt, hits anything |
+| Chaos Warp | {2}{R} | $0.58 | Spell, exempt, hits anything incl. problem enchantments |
+| Feed the Swarm | {1}{B} | $0.33 | Spell, exempt |
+| Blasphemous Act | {8}{R} | $0.80 | Spell, exempt, cheap board wipe in a crowded pod |
+
+~~Ravenous Chupacabra~~ — cut per Jamie's own instinct: a cryptid monster
+doesn't sit at a formal banquet, even though the card is mechanically great.
+~~The Meathook Massacre~~ — $27.30, over the "no $20 chase cards" line, cut on
+price alone.
+
+**⏭ Still needed:** the land base itself (hasn't been touched at all), a final
+count once narrative + skeleton are combined, bracket check against Mark's
+rules, and eventually a goldfish simulation once there's a real 100.
 
 ### 👑 Considered for The Court, NOT included
 *   **Wasitora, Nekoru Queen** {2}{B}{R}{G}, $1.03 — full-Jund legendary "Queen,"
