@@ -44,6 +44,34 @@ famous performer — yes. A visiting ambassador — yes. A social climber —
 definitely. This is more restrictive than "could exist at a banquet" — it asks
 whether this specific person would be ON THE GUEST LIST.
 
+**🎭 THE FINAL TEST (Arlo, after the Thorn of the Black Rose correction,
+2026-08-06): "If this character walked into the ballroom, what would everyone
+else do?"** Not "would HBO cast this," not "does this fit the archetype" —
+ask what happens SOCIALLY the moment they enter. If the answer is immediate
+and specific, they have a real role. If the honest answer is "uh, I guess
+they'd stab somebody," that's a different movie.
+
+This is the difference between filtering by ARCHETYPE (Assassin = no) and
+filtering by STORY (why is this person here?). A hired killer creates tension
+by ACTING. **Thorn of the Black Rose creates tension by EXISTING** — nobody
+has to say anything when she walks in, and that's somehow worse. That's the
+whole reason the earlier assassin cuts (Hapatra, Gumdrop Poisoner) were
+right and Thorn is also right: they answered "I'm here to kill someone" (a
+different genre); she answers "half the room goes quiet, one noble mutters
+'they invited her?', another says 'they had to.'" Type line ≠ vibe.
+
+**Rule: every kept card should answer "who is this?" in one sentence.**
+Korvold = the host. Vraska = the Queen Mother. Belligerent Guest = the drunk
+guest who starts the fight. Thorn = the politically unavoidable invitation.
+Malevolent Chandelier = the thing everyone notices right before it falls
+(Chekhov's Chandelier). If you can't answer that in one sentence, the card
+doesn't have a role yet — it's just "Noble #7." **No extra roles.**
+
+**What this deck actually became (Arlo):** Theme Deck → Story Deck → Screenplay
+Deck. Not a commander + theme + win condition — a cast, a setting, props, acts,
+cinematography, and an ending. The opponents don't know they're in the play
+until Act III.
+
 **Mechanical-skeleton rule (added 2026-08-06, mid-ramp/removal pass):** the
 guest-list test only applies to cards that DEPICT A PERSON. A ramp/removal
 SPELL with no creature art (Farseek, Terminate, Cultivate) is atmosphere, not
@@ -251,13 +279,17 @@ All verified live on Scryfall, all Jund-legal, all under $1.10. ❌ = cut (doesn
 read as banquet-flavored despite fitting mechanically).
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Falkenrath Aristocrat | {2}{B}{R} | $0.37 | 7 | 8 | Flying haste, sac-for-indestructible + grows |
-| Falkenrath Noble | {3}{B} | $0.35 | 7 | 8 | Drain on ANY death — best glue in the pool |
-| High-Society Hunter | {3}{B}{B} | $0.33 | 8 | 7 | Name is a bullseye; sac-for-counter + draw-on-death |
-| Indulgent Aristocrat | {B} | $0.29 | 6 | 6 | 1-drop, cheap sac outlet, vampire tribal lean |
-| Vampire Socialite | {B}{R} | $0.30 | 9 | 6 | Exactly what Jamie asked for by name |
-| Bloodcrazed Socialite | {3}{B} | $0.26 | 8 | 6 | Blood-token synergy, socialite flavor |
-| Attended Socialite | {1}{G} | $0.13 | 7 | 4 | Cheap curve-filler, socialite flavor |
+**Redundancy audit against "who is this + what happens when they enter"
+(2026-08-06, per Arlo's final test):**
+| Card | Cost | Price | Flavor | Mech | Role (one sentence) |
+|---|---|---|---|---|---|
+| Falkenrath Aristocrat | {2}{B}{R} | $0.37 | 7 | 8 | ✅ KEPT — the ruthless one; would sacrifice his own kin without hesitation, everyone edges away |
+| Falkenrath Noble | {3}{B} | $0.35 | 7 | 8 | ✅ KEPT — the vulture; he's smiling at the death, why is he smiling |
+| Vampire Socialite | {B}{R} | $0.30 | 9 | 6 | ✅ KEPT — the one who came to be seen; everyone notices her dress before the host |
+| ~~High-Society Hunter~~ | {3}{B}{B} | $0.33 | 8 | 7 | CUT — same role as Falkenrath Aristocrat (predatory noble profiting off death), no new scene |
+| ~~Indulgent Aristocrat~~ | {B} | $0.29 | 6 | 6 | CUT — generic, no distinct one-sentence identity from the two Falkenraths |
+| ~~Bloodcrazed Socialite~~ | {3}{B} | $0.26 | 8 | 6 | CUT — same role as Vampire Socialite (attention-seeking vampire socialite), no new scene |
+| ~~Attended Socialite~~ | {1}{G} | $0.13 | 7 | 4 | CUT — weakest of the three socialites, no distinct role |
 | ~~Crovax the Cursed~~ | {2}{B}{B} | $0.98 | ❌2 | 7 | Jamie: name doesn't read banquet at all — CUT |
 
 **Re-searched 2026-08-06 with the $2 ceiling lifted (Jamie: no hard price cap on
