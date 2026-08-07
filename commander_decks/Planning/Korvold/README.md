@@ -4,7 +4,46 @@ deck_status: main
 
 # Deck Guide: Korvold, Fae-Cursed King ("The Guest List")
 
-## ⭐ Design pivot (2026-08-06) — read this section first
+## ⭐⭐ SEATING CHART pivot (2026-08-06, later same session) — READ THIS FIRST
+The question "who is Korvold's co-host?" was the wrong question. The deck doesn't
+need a second lead — it needs **a host, and then the court.** Korvold must stay
+the ONLY dragon/apex predator in the room; everyone else is trying to survive
+dinner, not compete with him.
+
+**Vraska, Golgari Queen is IN — but as the Queen Mother, not a co-host.** {2}{B}{G},
+$6.22. She is Lady Olenna Tyrell: not the monster, not the spectacle, the person
+at the head table who already won before dinner started. She's the political
+power everyone is trying to impress — quietly smiling while the room argues,
+until her ultimate ("−9: whenever your creatures connect, that player loses")
+lands as pure sovereign authority, not a fight. Chosen over Wasitora, Nekoru
+Queen explicitly BECAUSE she isn't another predator — "two dragons" was
+rejected as a worse story than "one dragon + the woman who was always in
+control." Her +2 (sac-for-value) is a bonus, not the point; her narrative job
+is presence and inevitability, not synergy.
+
+**The hierarchy (seating chart), replaces "narrative roles":**
+- **Tier 1 — The Host:** Korvold. The only apex predator. Unique.
+- **Tier 2 — The Court:** Vraska (Queen Mother), + top nobility/socialites/aristocrats.
+- **Tier 3 — The Guests:** visitors, celebrants, revelers (the "Guest" cards live here).
+- **Tier 4 — The Staff:** ONE butler, ONE chef IF iconic enough, maybe one steward.
+  NO redundancy — one pick per role, full stop.
+- **Tier 5 — Entertainment:** musicians, dancers, jesters — hired for nobility.
+- **Tier 6 — The Meal:** harvest, food, wine, dessert.
+- **Tier 7 — Chaos:** poison/scandal/fight/the uninvited guest.
+
+**New litmus test — sharper than "who's in the painting":** ***"Who receives an
+invitation?"*** A butcher — no. A random farmer — no. A Duchess — absolutely. A
+famous performer — yes. A visiting ambassador — yes. A social climber —
+definitely. This is more restrictive than "could exist at a banquet" — it asks
+whether this specific person would be ON THE GUEST LIST.
+
+**Deck title:** confirmed as **"The Guest List"** (was briefly "Dinner Is
+Served") — chosen because it provokes the exact question that IS the deck's
+reveal: "wait... why is every card a person you'd invite to a banquet?"
+
+---
+
+## Design pivot #1 (2026-08-06, earlier same session)
 The concept evolved mid-session from "Hospitality" to **The Guest List**. This
 supersedes the original "banquet/hospitality" framing below where they conflict —
 kept the original for the origin story, but the litmus test below is the live one.
@@ -152,6 +191,11 @@ is BRG natively. Ramp is fair game if it earns its slot.
     indestructible) — name is a bullseye for the theme but GW, not Jund; needs a
     color-identity workaround (none — cut unless we reconsider color identity).
 
+### 👑 Tier 2 — The Court (head table, incl. the Queen Mother)
+| Card | Cost | Price | Flavor | Mech | Note |
+|---|---|---|---|---|---|
+| **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. Price note: Jamie lifted the $2 ceiling — real options at any price, she draws the line. |
+
 ### 🍸 Nobles / Aristocrats / Socialites (sac-payoff glue)
 All verified live on Scryfall, all Jund-legal, all under $1.10. ❌ = cut (doesn't
 read as banquet-flavored despite fitting mechanically).
@@ -211,9 +255,22 @@ murder-for-hire.
 | Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; forces a sacrifice on the way in |
 | Insufferable Balladeer | {1}{R} | $0.11 | 7 | 5 | A bard whose "Vicious Mockery" goads a rival into a duel of honor |
 
-**Running total: 22 candidates kept, all under $2 (most under $0.50). Jamie's
-note: $1.82 (Bello) is fine — price ceiling is about avoiding $20 chase cards,
-not being cheap on every single slot.**
+**Running total: 23 candidates kept (22 + Vraska), most under $0.50, Vraska at
+$6.22 as the one deliberate splurge. No hard price ceiling — Jamie reviews and
+draws the line herself; the only rule is no $20 chase cards.**
+
+### 👑 Considered for The Court, NOT included
+*   **Wasitora, Nekoru Queen** {2}{B}{R}{G}, $1.03 — full-Jund legendary "Queen,"
+    mechanically clean (forces opponent sacrifice on combat damage — a genuinely
+    different lever than Korvold's own trigger). REJECTED in favor of Vraska:
+    she reads as a second predator/rival dragon at the table, and the deck needs
+    Korvold to stay the ONLY apex predator in the room. "Two dragons" was
+    explicitly judged a worse story than "one dragon + the woman who already won."
+*   **Savra, Queen of the Golgari** {2}{B}{G}, $7.29 — considered as a "quiet
+    manipulator" alternative to Vraska. REJECTED: a fragile 2/2 with no board
+    presence and no self-protection, dies to any removal before contributing;
+    her ability also duplicates Korvold's own sac-trigger rather than adding a
+    new axis, unlike Vraska's ultimate.
 
 **⏭ Still to search:** toasts/wine flavor, re-audit Goddric/Falkenrath
 Celebrants/Rix Maadi Reveler/Merry Bards against the new Bridgerton/GoT register
@@ -241,6 +298,16 @@ in that set).
     King). Design philosophy + narrative-role framework locked in from Jamie's brief.
     Verified the "Guest" trio via Scryfall (Belligerent Guest, Gluttonous Guest,
     Grand Ball Guest) — all three locked in as the deck's origin point.
+*   **2026-08-06:** Pivot from "Hospitality" to "The Guest List" — sharper litmus
+    test, GoT/Bridgerton register, cut medieval-tavern flavor (chef/butcher/
+    innkeeper/tavernkeeper). 22 candidates researched and scored across Guests,
+    Nobles/Socialites, Service, Entertainment, and Intrigue.
+*   **2026-08-06 (later):** SEATING CHART pivot — replaced "who is Korvold's
+    co-host" with "host + court" hierarchy (7 tiers). Added **Vraska, Golgari
+    Queen** as the Queen Mother (Tier 2, head table) — considered and rejected
+    Wasitora, Nekoru Queen (too close to a second predator/rival dragon) and
+    Savra, Queen of the Golgari (too fragile, redundant with Korvold's own
+    trigger). New litmus test: "who receives an invitation?"
 
 ---
 
