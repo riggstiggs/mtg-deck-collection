@@ -210,6 +210,14 @@ read as banquet-flavored despite fitting mechanically).
 | Attended Socialite | {1}{G} | $0.13 | 7 | 4 | Cheap curve-filler, socialite flavor |
 | ~~Crovax the Cursed~~ | {2}{B}{B} | $0.98 | ❌2 | 7 | Jamie: name doesn't read banquet at all — CUT |
 
+**Re-searched 2026-08-06 with the $2 ceiling lifted (Jamie: no hard price cap on
+Tiers 1-4, she draws the line herself):**
+| Card | Cost | Price | Flavor | Mech | Note |
+|---|---|---|---|---|---|
+| Olivia, Crimson Bride | {4}{B}{R} | $8.13 | 10 | 9 | "Crimson Bride" — a wedding-flavored vampire noble whose attack trigger drags dead guests back to keep attacking. Very strong story fit: the collapse of etiquette made literal. |
+| Strefan, Maurer Progenitor | {2}{B}{R} | $6.77 | 8 | 8 | Founding patriarch of a vampire house — Blood on anyone losing life, cheats Vampires into play tapped/attacking |
+| Timothar, Baron of Bats | {4}{B}{B} | $1.68 | 7 | 7 | A proper Baron — turns dying Vampire nobles into recurring bats |
+
 ### 🎩 Service (AT MOST one — everyone else is seated at the table, not staffing it)
 Jamie's correction 2026-08-06: this is a Game of Thrones wedding meets Bridgerton
 ball, not a medieval tavern. Cut tavernkeeper/butcher/innkeeper/chef entirely —
