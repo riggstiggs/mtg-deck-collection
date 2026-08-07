@@ -110,6 +110,51 @@ because another card already owns her seat. This is exactly how the earlier
 nobility redundancy audit worked; the framework just makes it explicit and
 repeatable for the ~17 cuts still ahead.
 
+**Rule 11 — No Protected Seats (Arlo, 2026-08-06).** Nobody is immune —
+not because of perfect flavor, not for being here since version one. Every
+card auditions again, always. Mayhem Devil proved this: he arrived late and
+immediately outperformed several original-cast members. The four "Guest"
+cards that started the whole deck get no exemption from this either.
+
+**Rule 12 — The Camera Can't Follow Everyone (Arlo, 2026-08-06).** A
+screenplay rule: every memorable character needs real screen time. Too many
+memorable characters and none of them land. Every new addition should force
+the question: **whose screen time is this stealing?** This is the honest
+reason the pool needs to shrink from 118 to 100 — not just a card-count
+limit, a narrative-bandwidth limit.
+
+**Vocabulary note (Arlo, 2026-08-06): call it the Waiting List, not cuts.**
+Nobody failed. The ballroom only has so many chairs. Everyone has already
+been invited — some are waiting for the next banquet.
+
+**Claude vs. Arlo, first independent audits (2026-08-06) — reconciled:**
+Both auditions ran independently, then compared. Genuine agreement AND
+genuine disagreement, worked through rather than merged blindly:
+- **Confirmed cuts (both agreed independently):** Grand Ball Guest, Gala
+  Greeters, Fíli and Kíli Joyous, Insufferable Balladeer (redundant with
+  Voldaren Duelist — same "can't block" role, worse body).
+- **Coveted Jewel — DEFENDED, stays a Keep.** Claude flagged the steal-risk
+  as a Performance liability; Arlo's rebuttal: "the fact that someone CAN
+  steal it IS the story" — the downside is a feature, not a bug, and in a
+  real 4-player pod it's a political risk (attack the jewel-holder or
+  don't), not free value for opponents. Claude conceded.
+- **Rotating Fireplace — moved to Audition, not cut.** Arlo's distinction:
+  the Chandelier is "oh no," the Fireplace is "everyone naturally gathers
+  here" — different Camera moments, not competing for the same prop slot.
+  But Claude's mechanical read stands (it's a weak rock with dead text for
+  this list) — replace it if a better mana rock tells an equal-or-better
+  story.
+- **Wolfkin Outcast // Wedding Crasher — TEST IT, don't cut on paper.**
+  Mechanically slow (day/night), but "nobody remembers inviting him" may be
+  strong enough Character to survive mediocre Performance — a real-games
+  question, not a spreadsheet one.
+- **Tromell, Bello, Greater Harvester — Audition Again**, unresolved.
+- **Searched and rejected as replacements:** Mahadi/Pitiless Plunderer
+  (Treasure-on-death, redundant with each other, no real character hook),
+  Bastion of Remembrance (overlaps Falkenrath Noble's role), Disciple of
+  Bolas / Grim Haruspex (mechanically fine, but "Human Wizard" has zero
+  flavor identity — the exact "Noble #7" problem in a different color).
+
 **The mindset shift (Arlo):** the question used to be "can I justify this
 card?" It's now "can I justify CUTTING this card?" Every remaining card has
 already earned an invitation. The estate has reached capacity — this is who
