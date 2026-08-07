@@ -48,6 +48,17 @@ at a formal banquet) even though both are equally good Magic cards.
 Served") — chosen because it provokes the exact question that IS the deck's
 reveal: "wait... why is every card a person you'd invite to a banquet?"
 
+**💰 THE PRICE RULE (stated once, applies everywhere in this doc):** There is
+NO hard per-card price ceiling, anywhere — not for lands, not for any tier.
+Jamie will pay real money for the right card (Vraska $6.22, Grim Feast $7.77,
+Castle Locthwain $4.48 are all fine and don't need re-justifying every time
+they're mentioned). The actual rule is about the LIST AS A WHOLE: she doesn't
+want a deck where every card is expensive — a few pricier picks scattered
+through an otherwise-cheap 99 is exactly right. The only genuinely hard line
+is no true chase cards (~$20+, e.g. The Meathook Massacre at $27.30, cut on
+price alone). Below that, price is a normal design tradeoff like anything
+else, not something to apologize for or flag as an exception.
+
 **⚠ Occasion guard (refined 2026-08-06 across 3 cards — Olivia, Wedding
 Security, Anje):** This is NOT a wedding. "Red Wedding" was shorthand for
 massacre-among-seated-guests energy, never a literal bridal theme.
@@ -219,7 +230,7 @@ is BRG natively. Ramp is fair game if it earns its slot.
 ### 👑 Tier 2 — The Court (head table, incl. the Queen Mother)
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. Price note: Jamie lifted the $2 ceiling — real options at any price, she draws the line. |
+| **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. |
 | Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; the Monarch mechanic itself IS "who holds power at the table right now" — contestable by rivals, politically alive |
 | Court of Embereth | {2}{R}{R} | $6.43 | 7 | 8 | A Monarch enchantment that makes Knights and escalates damage while ruling — the political-power engine of the court made mechanical |
 
@@ -319,10 +330,9 @@ Harvest/Feast search carried this tier instead.
 | Greater Harvester | {2}{B}{B}{B} | $1.72 | 8 | 7 | Sac-upkeep-or-else, punishes combat damage with double sacrifice — the Reaper working the feast |
 | Grim Feast | {1}{B}{G} | $7.77 | 8 | 7 | Gains life whenever ANY creature dies (yours OR opponents') — feasting on the carnage of the whole table, not just your own board |
 
-**Running total: 28 candidates kept, most under $0.50, four deliberate
-higher-price picks (Vraska $6.22, Master of the Feast $5.91, Grim Feast $7.77,
-Harvester of Souls $2.57). No hard price ceiling — Jamie reviews and draws the
-line herself; the only rule is no $20 chase cards.**
+**Running total: 28 candidates kept, most under $0.50, with a handful of
+pricier picks scattered through (Vraska $6.22, Master of the Feast $5.91, Grim
+Feast $7.77, Harvester of Souls $2.57) — see THE PRICE RULE above.**
 
 ---
 
@@ -377,13 +387,11 @@ price alone.
 ### 🗺️ The Estate Map — lands as SCENES, not just mana (pivot 2026-08-06, Arlo's idea)
 Arlo's reframe, and it's the right one: **don't ask "what are the best Jund
 lands" — ask "if I were drawing the map of this estate, what locations would
-appear?"** The creatures are the cast; the lands are the SET. Jamie's price
-note corrected mid-build: there's no hard land-specific ceiling — the actual
-rule (same as everywhere else) is "not a deck where EVERY card is $20+," so an
-occasional deliberate splurge (Castle Locthwain $4.48) is fine the same way
-Vraska ($6.22) and Grim Feast ($7.77) are fine elsewhere in the list. Lands
-are mostly exempt from the literal guest-list test (no person depicted), but
-still shouldn't fight the setting's TONE — "rot" reads as squalor, wrong note
+appear?"** The creatures are the cast; the lands are the SET. Price rule is
+THE PRICE RULE stated once above — no land-specific ceiling, Castle Locthwain
+($4.48) is just a normal pricier pick, same as Vraska or Grim Feast elsewhere.
+Lands are mostly exempt from the literal guest-list test (no person depicted),
+but still shouldn't fight the setting's TONE — "rot" reads as squalor, wrong note
 for a fancy affair, even on an otherwise-fine bounce-land.
 
 **The map, arrival to ballroom to grounds to crypt:**
@@ -421,10 +429,10 @@ house has THAT guy" flavor read from Arlo, but too rich for a support land).
 ~~Savai Triome~~ / ~~Ziatora's Proving Ground~~ / ~~Blood Crypt~~ /
 ~~Overgrown Tomb~~ / ~~Stomping Ground~~ / ~~Haunted Ridge~~ / ~~Luxury
 Suite~~ ($19.76 / $13.57 / $9.22 / $9.10 / $8.56 / $8.33 / $8.80) — real
-premium fixing, cut because paying THAT much repeatedly across the whole land
-base fights the "not everything is $20+" rule, even though a couple (Luxury
-Suite especially) have great flavor. Temple Garden — off-color (GW) despite
-the perfect name, Arlo already flagged this one.
+premium fixing, cut not on any single price but because stacking SEVEN of them
+into one land base would tip the whole list toward expensive, even though a
+couple (Luxury Suite especially) have great flavor. Temple Garden — off-color
+(GW) despite the perfect name, Arlo already flagged this one.
 
 **⏭ Still needed:** a final basic-land split (not yet counted), a full 100-card
 count once narrative + skeleton + lands are combined, bracket check against
