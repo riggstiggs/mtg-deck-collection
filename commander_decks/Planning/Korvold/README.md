@@ -214,7 +214,7 @@ read as banquet-flavored despite fitting mechanically).
 Tiers 1-4, she draws the line herself):**
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Olivia, Crimson Bride | {4}{B}{R} | $8.13 | 10 | 9 | "Crimson Bride" — a wedding-flavored vampire noble whose attack trigger drags dead guests back to keep attacking. Very strong story fit: the collapse of etiquette made literal. |
+| ~~Olivia, Crimson Bride~~ | {4}{B}{R} | $8.13 | ❌ | 9 | CUT per Jamie 2026-08-06 — "bride" pulls the flavor toward an actual wedding occasion. "Red Wedding" meant the people-at-the-table massacre energy, not a literal bridal theme. |
 | Strefan, Maurer Progenitor | {2}{B}{R} | $6.77 | 8 | 8 | Founding patriarch of a vampire house — Blood on anyone losing life, cheats Vampires into play tapped/attacking |
 | Timothar, Baron of Bats | {4}{B}{B} | $1.68 | 7 | 7 | A proper Baron — turns dying Vampire nobles into recurring bats |
 
