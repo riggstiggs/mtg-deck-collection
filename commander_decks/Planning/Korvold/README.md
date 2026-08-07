@@ -291,6 +291,7 @@ else, doesn't get a reserved seat just for being "the service card."
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
 | Havoc Jester | {4}{R} | $0.17 | 9 | 8 | THE jester — explicitly named in Jamie's wanted list, pings on EVERY sacrifice |
 | Bello, Bard of the Brambles | {1}{R}{G} | $1.82 | 8 | 7 | THE bard — hired specifically for nobility, real build-around |
+| Fíli and Kíli, Joyous | {2}{R} | $7.38 | 8 | 5 | A legendary Dwarf Bard DUO, "Joyous" is exactly the entertainer register. From The Hobbit (releases 2026-08-14). Mechanically narrow (Dwarf/Equipment/Saga-only mana), flag as flavor-forward not mechanics-forward. |
 
 ~~Rix Maadi Reveler~~ — cut, generic Ravnica flavor, no ballroom signal.
 ~~Merry Bards~~ — cut, reads as adventuring-party-campfire, not "performer hired
@@ -306,6 +307,7 @@ murder-for-hire.
 | Whispering Snitch | {1}{B} | $0.28 | 9 | 6 | A literal gossip/tattletale, pings opponents on surveil |
 | Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
+| Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
 | ~~Anje, Maid of Dishonor~~ | {2}{B}{R} | $0.40 | ❌ | 7 | CUT per occasion guard — "Maid of Dishonor" only makes sense as a maid-of-honor pun, i.e. a wedding joke, even without the literal word "wedding" |
 
 ### 🎻 Court entertainers + the uninvited guest
@@ -382,7 +384,13 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 ~~Ravenous Chupacabra~~ — cut per Jamie's own instinct: a cryptid monster
 doesn't sit at a formal banquet, even though the card is mechanically great.
 ~~The Meathook Massacre~~ — $27.30, over the "no $20 chase cards" line, cut on
-price alone.
+price alone. ~~Sword of Feast and Famine~~ — $40.11, cut on price alone, well
+past the chase-card line despite being a strong flavor fit.
+
+**✅ ALL 7 TIERS + mechanical skeleton re-checked above their original price
+ceilings (2026-08-06).** Found: Fíli and Kíli Joyous ($7.38, Entertainment),
+Grave Betrayal ($4.58, Intrigue). Confirmed nothing else new cleared the bar
+in Guests, Court/Nobility, Staff, or The Meal at higher price points.
 
 ### 🗺️ The Estate Map — lands as SCENES, not just mana (pivot 2026-08-06, Arlo's idea)
 Arlo's reframe, and it's the right one: **don't ask "what are the best Jund
