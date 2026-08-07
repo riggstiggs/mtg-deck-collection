@@ -824,7 +824,7 @@ added on top — the deck can't exceed 99 nonland cards.
 | Card Advantage | 12 | 6 | **-6** |
 | Targeted Disruption | 12 | 6 | **-6** |
 | Mass Disruption | 6 | 2 (Blasphemous Act, Feast of Succession) | **-4** |
-| Plan Cards | 31 | 42 (real hand count, see correction below) | **+11 OVER** |
+| Plan Cards | 31 | 43 (65 non-land total minus Ramp 8 / Draw 6 / Removal 6 / Mass Disruption 2, see correction below) | **+12 OVER** |
 | Commander | 1 | 1 | ✅ |
 
 **⚠⚠ SECOND, LARGER math correction (Jamie + Claude, 2026-08-06).** Every
@@ -892,11 +892,10 @@ ramp isn't something a commander's text can substitute for.
 8 card advantage + 12 targeted disruption + 2-3 mass disruption + 1 commander
 = ~71-72 non-Plan slots, leaving **~27-28 Plan-card slots** (vs. the
 template's 31 — slightly LOWER here because Korvold's own text is doing plan-
-card work too). Current narrative pile (~60, corrected above) is still
-meaningfully over that number, so a real cut is still coming — just a less
-brutal one than the un-adjusted template implied. Most of tonight's finds
-were meant to be a wide net; final roster selection is a separate future
-pass.
+card work too). Current narrative pile (**43**, hand-verified above) is
+close to that number — only ~15 over, not the dozens once assumed. This
+lines up with the bigger correction: the whole deck is only 3 cards over
+100, not 20, so the remaining edit is small, not a wide cut.
 
 ### 🎭 Enchantment check (Jamie asked 2026-08-06)
 Only **4 real enchantments** currently in the kept list: Grim Feast, Court of
