@@ -824,8 +824,17 @@ added on top — the deck can't exceed 99 nonland cards.
 | Card Advantage | 12 | 6 | **-6** |
 | Targeted Disruption | 12 | 6 | **-6** |
 | Mass Disruption | 6 | 2 (Blasphemous Act, Feast of Succession) | **-4** |
-| Plan Cards | 31 | ~62-64 (everything narrative) | **+31-33 OVER** |
+| Plan Cards | 31 | ~60 (82 non-land total minus Ramp/Card Advantage/Targeted Disruption/Mass Disruption above — CORRECTED 2026-08-06, Jamie caught the row's math wasn't actually subtracting the skeleton categories from the total) | **+29 OVER** |
 | Commander | 1 | 1 | ✅ |
+
+**⚠ Math correction (Jamie, 2026-08-06):** the "~62-64" figure above was
+wrong on two counts — it was stale (calculated when the pool was ~78
+non-land cards, since grown to 82), and it never actually subtracted the
+Ramp/Card Advantage/Targeted Disruption/Mass Disruption rows from the total
+the way the label implied. Corrected to ~60, isolated properly. This number
+will keep drifting as cards get added/moved to the waiting list — treat any
+Plan Card count as a snapshot, recompute before trusting it for a real
+decision.
 
 **⚠ DEVIATION FROM TEMPLATE, Korvold-specific (Jamie, 2026-08-06):** "Let's use
 Mark's template as a guide, not a law. Korvold naturally compresses some
@@ -861,10 +870,11 @@ ramp isn't something a commander's text can substitute for.
 8 card advantage + 12 targeted disruption + 2-3 mass disruption + 1 commander
 = ~71-72 non-Plan slots, leaving **~27-28 Plan-card slots** (vs. the
 template's 31 — slightly LOWER here because Korvold's own text is doing plan-
-card work too). Current narrative pile (~62-64) is still meaningfully over
-that number, so a real cut is still coming — just a less brutal one than the
-un-adjusted template implied. Most of tonight's finds were meant to be a wide
-net; final roster selection is a separate future pass.
+card work too). Current narrative pile (~60, corrected above) is still
+meaningfully over that number, so a real cut is still coming — just a less
+brutal one than the un-adjusted template implied. Most of tonight's finds
+were meant to be a wide net; final roster selection is a separate future
+pass.
 
 ### 🎭 Enchantment check (Jamie asked 2026-08-06)
 Only **4 real enchantments** currently in the kept list: Grim Feast, Court of
