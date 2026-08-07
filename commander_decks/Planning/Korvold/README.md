@@ -400,6 +400,8 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
 | Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
 | Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
+| Popular Egotist | {2}{B} | $0.23 | 8 | 9 | Jamie's ask, 2026-08-06: a card that hurts opponents whenever YOU sacrifice — drains 1 life on EVERY sac (stacks with Korvold's own trigger). "Popular Egotist" is a real socialite-court name too. |
+| Juri, Master of the Revue | {B}{R} | $0.21 | 8 | 9 | Grows a counter on every sacrifice, deals that much damage on death — "Master of the Revue" is genuinely great entertainer-court flavor, and she's a real mechanical upgrade to the sac engine's opponent-facing side. |
 | Coveted Jewel | {6} | $0.24 | 9 | 6 | A literal treasure everyone at the party wants — draws cards, but an opponent can steal it by attacking you unblocked. Court intrigue over a valuable object, made completely mechanical. |
 
 **Considered, flagged not committed:** Gollum, Patient Plotter ({1}{B}, $0.21
