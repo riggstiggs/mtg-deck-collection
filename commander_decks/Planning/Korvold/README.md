@@ -313,6 +313,16 @@ murder-for-hire.
 | Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
+| Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
+| Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
+| Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
+| Coveted Jewel | {6} | $0.24 | 9 | 6 | A literal treasure everyone at the party wants — draws cards, but an opponent can steal it by attacking you unblocked. Court intrigue over a valuable object, made completely mechanical. |
+
+**Considered, flagged not committed:** Gollum, Patient Plotter ({1}{B}, $0.21
+— great "plotter" vocabulary but a specific LotR literary character, may read
+tonally off against the GoT/Bridgerton register); Smitten Swordmaster //
+**Curry Favor** ({1}{B}, $0.29 — the name is a bullseye for court politics, but
+its payoff is Knight-count-gated and this deck has no Knight subtheme yet).
 | Anje, Maid of Dishonor | {2}{B}{R} | $0.40 | 8 | 7 | REINSTATED per Jamie 2026-08-06 — reread "Maid" in the older/cruder sense (a companion, not a bridal-party role): "of Dishonor" describes HER, the scandalous plus-one nobody quite approves of but everyone's talking about. Not a wedding pun after all — a guest, the exact "gossip about who someone brought" energy from the original brief. |
 
 ### 🎻 Court entertainers + the uninvited guest
@@ -396,6 +406,18 @@ past the chase-card line despite being a strong flavor fit.
 ceilings (2026-08-06).** Found: Fíli and Kíli Joyous ($7.38, Entertainment),
 Grave Betrayal ($4.58, Intrigue). Confirmed nothing else new cleared the bar
 in Guests, Court/Nobility, Staff, or The Meal at higher price points.
+
+**🔍 Arlo's structured search-term pass (2026-08-06, same session).** Arlo sent
+a full term list organized by role (Court/Guests/Entertainment/Banquet/Estate/
+Atmosphere/Court Politics/Collapse) with the framing "we're not searching for
+good Korvold cards, we're searching for scenes — would this show up if HBO
+filmed this banquet?" Ran Court Politics (tribute/decree/council/audience/
+favor/offering, scheme/plot/conspiracy/alliance/secret) and part of Atmosphere
+(candle/mirror/jewel/mask) — found Marchesa's Decree, Tribute to Hunger,
+Vicious Offering, Coveted Jewel (all added above). **Still untouched from
+Arlo's list:** the Etiquette-adjacent cluster (courtesy/honor/respect/
+ceremony/formality/protocol/invitation) and The Estate location words
+(gallery/library/cellar/hedge/maze/parlor) — worth a future pass.
 
 ### 🗺️ The Estate Map — lands as SCENES, not just mana (pivot 2026-08-06, Arlo's idea)
 Arlo's reframe, and it's the right one: **don't ask "what are the best Jund
