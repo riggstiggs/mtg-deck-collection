@@ -29,7 +29,10 @@ is presence and inevitability, not synergy.
   NO redundancy — one pick per role, full stop.
 - **Tier 5 — Entertainment:** musicians, dancers, jesters — hired for nobility.
 - **Tier 6 — The Meal:** harvest, food, wine, dessert.
-- **Tier 7 — Chaos:** poison/scandal/fight/the uninvited guest.
+- **Tier 7 — "The Evening Turns" (Chaos & Intrigue):** poison/scandal/fight/
+  the uninvited guest. Renamed per Arlo's review, 2026-08-06 — not just
+  intrigue, this IS Act III: etiquette collapses, whispers become
+  accusations, the duel happens, the chandelier falls, Korvold starts eating.
 
 **🎬 THE ENDING (Arlo, 2026-08-06):** The deck doesn't actually end with
 Korvold. It ends with **silence.** The ballroom is empty. The candles are
@@ -71,6 +74,46 @@ doesn't have a role yet — it's just "Noble #7." **No extra roles.**
 Deck. Not a commander + theme + win condition — a cast, a setting, props, acts,
 cinematography, and an ending. The opponents don't know they're in the play
 until Act III.
+
+**🎬 THE CAMERA (Arlo, 2026-08-06, reviewing the roster document) — an
+invisible 8th consideration, not a tier of cards.** Ask: when does the camera
+linger on this? Korvold: the camera follows him. Malevolent Chandelier: the
+camera pauses, the audience doesn't know why yet. Leering Onlooker: caught in
+the background, then gone three scenes later. Rotating Fireplace: swept past,
+nobody notices, until someone disappears. That's the difference between a
+prop and a MEMORABLE prop.
+
+**⭐⭐⭐ THE CUT METHODOLOGY (Arlo, same review, formalizing where the project
+already was — 116 cards down to 100 is now the task):**
+
+The project has moved through three phases:
+1. **Does it belong in the room?** (narrative only — got the pool from ~30 to
+   70+; this is the guest-list/occasion-guard/HBO-test work already done)
+2. **Does it have a unique role?** (this is where the redundancy audit
+   lives — found and cut the duplicate nobles/socialites)
+3. **The audition** (where we are now — two cards both pass 1 and 2; mechanics
+   is the tiebreaker)
+
+**Every remaining card gets three questions:**
+1. **Narrative** — does this belong at the banquet? Pass/Fail.
+2. **Role** — does it perform a role nothing else already covers? Pass/Fail.
+3. **Performance** — does it actually make the deck play better? 1-5 stars,
+   used ONLY as a tiebreaker between two cards that already passed 1 and 2.
+
+**Jamie + Arlo's framing: "Narrative gets you invited. Mechanics determine
+your seat at the table."** Two characters can both be wonderful; the
+tiebreaker is real gameplay contribution, not flavor depth. Example: Vampire
+Socialite (narrative ★★★★★, role ★★★★★, mechanics ★★★★☆) is an easy keep.
+Bloodcrazed Socialite (narrative ★★★★★, role ★★☆☆☆ — Vampire Socialite
+already owns that job, mechanics ★★★★☆) is a cut — not because she's weak,
+because another card already owns her seat. This is exactly how the earlier
+nobility redundancy audit worked; the framework just makes it explicit and
+repeatable for the ~17 cuts still ahead.
+
+**The mindset shift (Arlo):** the question used to be "can I justify this
+card?" It's now "can I justify CUTTING this card?" Every remaining card has
+already earned an invitation. The estate has reached capacity — this is who
+gets moved to the waiting list, not who gets thrown out for being bad.
 
 **Mechanical-skeleton rule (added 2026-08-06, mid-ramp/removal pass):** the
 guest-list test only applies to cards that DEPICT A PERSON. A ramp/removal
@@ -485,7 +528,7 @@ point — some of those may be interchangeable and worth trimming.
 | Rotating Fireplace | {3} | $0.40 | 🏛️ Prop | THE fireplace — colorless utility mana |
 | Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
 | Leering Onlooker | {1}{B} | $0.18 | 👀 Spectator | THE onlooker — watching from the corner, converts to flying Bats on death |
-| Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving |
+| Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving. ⚠ Arlo's review, 2026-08-06: mechanically fine, doing the right job, but "feels pleasant" next to a cast full of dramatic tension — reads like an NPC. Not cut, but flagged: keep an eye open for someone whose entrance is more memorable, per the Camera test. |
 | Rogues' Gallery | {2}{B} | $0.15 | 🏛️ Location | The estate's gallery — recovers a fallen guest of any color to your hand |
 | Thorn of the Black Rose | {3}{B} | $0.13 | 🎭 Character | ✅ KEPT per Jamie 2026-08-06 — not a hitman, a societal outcast noble who's required at the table for political reasons. The family invites her because NOT inviting her would be its own scandal — "the Thorn" is what they call her behind her back. The Assassin type is flavor irony, not a literal murder card. Becomes Monarch on ETB (she quietly takes the room's attention the moment she arrives). |
 
@@ -536,7 +579,7 @@ for a fancy affair, even on an otherwise-fine bounce-land.
 | The gardens | Rockfall Vale | $1.90 | Approaching through the manicured grounds |
 | The dark fairy-tale garden | Deathcap Glade | $2.18 | The overgrown, slightly sinister corner of the grounds |
 | The estate gates | Blackcleave Cliffs | $2.62 | Arriving at the manor proper |
-| ⭐ THE BALLROOM | **Castle Locthwain** | $4.48 | Deliberate splurge, worth it for the flavor: draws cards for life late-game, literally where the banquet is held |
+| **THE BALLROOM** | **Castle Locthwain** | $4.48 | ⭐⭐⭐ The emotional center of the whole map (Arlo's review, 2026-08-06) — every other location on this list points here. Deliberate splurge, worth it for the flavor: draws cards for life late-game, literally where the banquet is held. |
 | The family crypt | Woodland Cemetery | $0.59 | Every noble house has one |
 | The bog behind the manor | Bojuka Bog | $0.50 | The swampy, unglamorous edge of the property; also graveyard hate |
 
