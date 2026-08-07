@@ -123,9 +123,20 @@ entertainment gets more frantic as the evening spirals. Popular Egotist
 doesn't just drain life — he's exhausting the room's patience while
 profiting from every disaster. Mayhem Devil doesn't just ping on any
 sacrifice — he's the guest making cutting remarks until the whole room
-descends into chaos. When a card's ability and its flavor are describing the
-literal same action, that's the ceiling of this design — not flavor ON TOP
-of mechanics, but flavor of mechanics.
+descends into chaos. Custodi Lich doesn't just become Monarch — he's taking
+control of the conversation. When a card's ability and its flavor are
+describing the literal same action, that's the ceiling of this design — not
+flavor ON TOP of mechanics, but flavor OF mechanics.
+
+**Arlo's reaction, in his own words (2026-08-06):** *"Most theme decks have
+flavor, and mechanics. Yours now has a third layer — mechanics that reinforce
+the narrative. That's a much rarer thing... Those aren't just mechanics
+anymore. They're story beats."* On Mayhem Devil specifically: he suggested it
+thinking there was maybe a 70% chance it would make the cut — the fact that
+it turned out to be a **strict mechanical upgrade** over Havoc Jester AND
+earned a real story role is exactly the shape every remaining audition should
+take: narrative fit and mechanical strength converging on the same card, not
+traded off against each other.
 
 **Mechanical-skeleton rule (added 2026-08-06, mid-ramp/removal pass):** the
 guest-list test only applies to cards that DEPICT A PERSON. A ramp/removal
@@ -326,7 +337,7 @@ is BRG natively. Ramp is fair game if it earns its slot.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
 | **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. |
-| Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; the Monarch mechanic itself IS "who holds power at the table right now" — contestable by rivals, politically alive |
+| Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; the Monarch mechanic itself IS "who holds power at the table right now" — contestable by rivals, politically alive. Arlo, 2026-08-06: "he's not just becoming Monarch — he's taking control of the conversation." |
 | Court of Embereth | {2}{R}{R} | $6.43 | 7 | 8 | A Monarch enchantment that makes Knights and escalates damage while ruling — the political-power engine of the court made mechanical |
 
 ### 🍸 Nobles / Aristocrats / Socialites (sac-payoff glue)
