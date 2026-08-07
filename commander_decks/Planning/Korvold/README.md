@@ -309,11 +309,13 @@ else, doesn't get a reserved seat just for being "the service card."
 ~~Merry Bards~~ — cut, reads as adventuring-party-campfire, not "performer hired
 for nobility."
 
-### 🤫 Intrigue — gossip / scandal (NOT murder — see design pivot above)
-Cut per Jamie 2026-08-06: assassin/poison cards don't fit — "Assassin"/"Poisoner"
-reads as a different genre. ~~Hapatra, Vizier of Poisons~~, ~~Gumdrop Poisoner~~
-— CUT. Replaced with cards where the flavor is whispered secrets/scandal, not
-murder-for-hire.
+### 🤫 Intrigue — gossip / scandal (NOT hired-killer energy — see design pivot above)
+Cut per Jamie 2026-08-06: ~~Hapatra, Vizier of Poisons~~, ~~Gumdrop Poisoner~~
+— these read as hitman-for-hire, wrong genre. **Clarified later (Thorn of the
+Black Rose entry, Tier 7 below): this is NOT a ban on the type line
+"Assassin"** — it's about PERSONALITY. A card can be typed Assassin and still
+belong if it depicts a person (cold, politically necessary, an outcast who has
+to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
 | Whispering Snitch | {1}{B} | $0.28 | 9 | 6 | A literal gossip/tattletale, pings opponents on surveil |
@@ -453,7 +455,7 @@ point — some of those may be interchangeable and worth trimming.
 | Leering Onlooker | {1}{B} | $0.18 | 👀 Spectator | THE onlooker — watching from the corner, converts to flying Bats on death |
 | Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving |
 | Rogues' Gallery | {2}{B} | $0.15 | 🏛️ Location | The estate's gallery — recovers a fallen guest of any color to your hand |
-| Thorn of the Black Rose | {3}{B} | $0.13 | 🎁 Prop (flagged) | Monarch-granting; "Black Rose" is elegant estate-flower imagery w/ a poison undertone — flagged since it's an Assassin type, Jamie's call whether that reads too murder-adjacent |
+| Thorn of the Black Rose | {3}{B} | $0.13 | 🎭 Character | ✅ KEPT per Jamie 2026-08-06 — not a hitman, a societal outcast noble who's required at the table for political reasons. The family invites her because NOT inviting her would be its own scandal — "the Thorn" is what they call her behind her back. The Assassin type is flavor irony, not a literal murder card. Becomes Monarch on ETB (she quietly takes the room's attention the moment she arrives). |
 
 "Herald" was a dead end despite looking promising — almost every hit was a
 5-color-tutor tribal archetype (sac one of each color to fetch a specific
@@ -468,11 +470,13 @@ bomb), nothing to do with actually announcing/heralding anyone.
   Ravnica "Maze" set-mechanic noise, unrelated to the word's meaning here.
   One find: **Rogues' Gallery** {2}{B}, $0.15 — recovers a fallen creature of
   any color, "gallery" flavor fits, flexible recursion.
-- **Black Rose** — found **Thorn of the Black Rose** {3}{B}, $0.13 — Monarch-
-  granting, and "Black Rose" is a genuinely elegant estate-flower image with
-  a poison undertone. FLAGGED not auto-included: it's an Assassin creature
-  type, which brushes the earlier no-murder-for-hire cut, but its actual text/
-  title lean court-flower-symbolism, not hitman — Jamie's call.
+- **Black Rose** — found **Thorn of the Black Rose** {3}{B}, $0.13 — KEPT (see
+  entry above). Clarifies the real rule: the earlier Hapatra/Gumdrop Poisoner
+  cuts were never a ban on the creature type "Assassin" — they were about
+  PERSONALITY. Hired-killer, murder-for-hire energy is the wrong genre. A card
+  can literally be typed Assassin and still be right if what it depicts is a
+  person (cold, isolated, politically necessary) rather than a hitman
+  archetype. Type line ≠ vibe.
 
 **⏭ Still open:** Etiquette-adjacent terms (courtesy/honor/respect/protocol —
 not yet searched as their own cluster) and the redundancy audit on
