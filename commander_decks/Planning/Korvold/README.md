@@ -218,6 +218,19 @@ Tiers 1-4, she draws the line herself):**
 | Strefan, Maurer Progenitor | {2}{B}{R} | $6.77 | 8 | 8 | Founding patriarch of a vampire house — Blood on anyone losing life, cheats Vampires into play tapped/attacking |
 | Timothar, Baron of Bats | {4}{B}{B} | $1.68 | 7 | 7 | A proper Baron — turns dying Vampire nobles into recurring bats |
 
+**Checked against Jamie's own ManaPool API inventory (snapshot 2026-07-31,
+~2,895 rows) as inspiration, not a constraint:**
+| Card | Cost | Price | Flavor | Mech | Note |
+|---|---|---|---|---|---|
+| Wedding Security | {3}{B}{B} | $0.18 | 8 | 7 | ALREADY OWNED. Event security/bodyguard flavor (not bridal-specific despite the name) — sac-Blood-for-counter+draw on attack, on-color sac payoff. |
+
+Confirmed already-owned overlap with existing picks: Bloodcrazed Socialite,
+Gluttonous Guest, Belligerent Guest, Falkenrath Celebrants — good signal the
+research direction was sound. Checked and passed on: Baron, Airship Kingdom
+(UR land, wrong colors, no real baron depicted), Zalto, Fire Giant Duke (generic
+Giant beater, "Duke" is flavor-only), Highborn Vampire / Vampire Interloper
+(generic vampire bodies, no distinct role).
+
 ### 🎩 Service (AT MOST one — everyone else is seated at the table, not staffing it)
 Jamie's correction 2026-08-06: this is a Game of Thrones wedding meets Bridgerton
 ball, not a medieval tavern. Cut tavernkeeper/butcher/innkeeper/chef entirely —
