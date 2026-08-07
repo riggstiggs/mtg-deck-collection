@@ -115,6 +115,18 @@ card?" It's now "can I justify CUTTING this card?" Every remaining card has
 already earned an invitation. The estate has reached capacity — this is who
 gets moved to the waiting list, not who gets thrown out for being bad.
 
+**⭐ MECHANICAL SYMBOLISM (Arlo, 2026-08-06) — the deck's deepest layer.** The
+mechanics and the narrative aren't parallel anymore, they're the SAME event
+described twice. Korvold doesn't just sacrifice permanents — he is literally
+consuming the banquet. Juri doesn't just grow a counter each sacrifice — the
+entertainment gets more frantic as the evening spirals. Popular Egotist
+doesn't just drain life — he's exhausting the room's patience while
+profiting from every disaster. Mayhem Devil doesn't just ping on any
+sacrifice — he's the guest making cutting remarks until the whole room
+descends into chaos. When a card's ability and its flavor are describing the
+literal same action, that's the ceiling of this design — not flavor ON TOP
+of mechanics, but flavor of mechanics.
+
 **Mechanical-skeleton rule (added 2026-08-06, mid-ramp/removal pass):** the
 guest-list test only applies to cards that DEPICT A PERSON. A ramp/removal
 SPELL with no creature art (Farseek, Terminate, Cultivate) is atmosphere, not
@@ -376,7 +388,8 @@ else, doesn't get a reserved seat just for being "the service card."
 |---|---|---|---|---|---|
 | Goddric, Cloaked Reveler | {1}{R}{R} | $0.27 | 8 | 6 | A masked noble at the masquerade, transforms when the party turns — pairs with Grand Ball Guest |
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
-| Havoc Jester | {4}{R} | $0.17 | 9 | 8 | THE jester — explicitly named in Jamie's wanted list, pings on EVERY sacrifice |
+| ~~Havoc Jester~~ | {4}{R} | $0.17 | 9 | 8 | CUT 2026-08-06 — lost the audition to Mayhem Devil (see below): same role, worse mechanics. |
+| Mayhem Devil | {1}{B}{R} | $0.30 | 8 | 9 | ⭐ Arlo's audition, 2026-08-06 — "the guest who keeps making cutting remarks until the room descends into chaos." Triggers on ANY player's sacrifice (not just yours), so he punishes opponents' own fetches/edicts too — half Havoc Jester's cost with strictly better utility. Won the seat. |
 | Bello, Bard of the Brambles | {1}{R}{G} | $1.82 | 8 | 7 | THE bard — hired specifically for nobility, real build-around |
 | Fíli and Kíli, Joyous | {2}{R} | $7.38 | 8 | 5 | A legendary Dwarf Bard DUO, "Joyous" is exactly the entertainer register. From The Hobbit (releases 2026-08-14). Mechanically narrow (Dwarf/Equipment/Saga-only mana), flag as flavor-forward not mechanics-forward. |
 
