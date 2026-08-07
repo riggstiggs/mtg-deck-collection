@@ -824,17 +824,39 @@ added on top — the deck can't exceed 99 nonland cards.
 | Card Advantage | 12 | 6 | **-6** |
 | Targeted Disruption | 12 | 6 | **-6** |
 | Mass Disruption | 6 | 2 (Blasphemous Act, Feast of Succession) | **-4** |
-| Plan Cards | 31 | ~60 (82 non-land total minus Ramp/Card Advantage/Targeted Disruption/Mass Disruption above — CORRECTED 2026-08-06, Jamie caught the row's math wasn't actually subtracting the skeleton categories from the total) | **+29 OVER** |
+| Plan Cards | 31 | 42 (real hand count, see correction below) | **+11 OVER** |
 | Commander | 1 | 1 | ✅ |
 
-**⚠ Math correction (Jamie, 2026-08-06):** the "~62-64" figure above was
-wrong on two counts — it was stale (calculated when the pool was ~78
-non-land cards, since grown to 82), and it never actually subtracted the
-Ramp/Card Advantage/Targeted Disruption/Mass Disruption rows from the total
-the way the label implied. Corrected to ~60, isolated properly. This number
-will keep drifting as cards get added/moved to the waiting list — treat any
-Plan Card count as a snapshot, recompute before trusting it for a real
-decision.
+**⚠⚠ SECOND, LARGER math correction (Jamie + Claude, 2026-08-06).** Every
+non-land count quoted in this doc up to this point (78, then 82) was wrong —
+produced by fragile grep/pattern-matching scripts that double-counted some
+rows and missed others (they'd pick up land-map rows, header rows, or miss
+rows with different Markdown formatting). The real number, verified by
+reading every section of this doc by hand and tallying only genuinely kept
+cards (excluding all struck-through waiting-list entries):
+
+| Section | Kept count |
+|---|---|
+| Guests | 3 (Belligerent, Gluttonous, Rapacious — Grand Ball Guest is waiting-list) |
+| Court | 3 (Vraska, Custodi Lich, Court of Embereth) |
+| Nobles | 3 (Falkenrath Aristocrat, Falkenrath Noble, Vampire Socialite) |
+| Court re-search | 2 (Strefan, Timothar) |
+| Service | 1 (Tromell) |
+| Entertainment | 3 (Goddric, Falkenrath Celebrants, Mayhem Devil, Bello — Fíli/Kíli is waiting-list) |
+| Intrigue | 15 (Whispering Snitch, Scandalmonger, Voldaren Duelist, Grave Betrayal, Extract a Confession, Oath of Liliana, Structural Collapse, Captive Audience, Marchesa's Decree, Tribute to Hunger, Vicious Offering, Popular Egotist, Juri, Coveted Jewel, Anje) |
+| Court entertainers | 2 (Wolfkin Outcast, Totentanz — Insufferable Balladeer is waiting-list) |
+| The Meal | 5 (Harvester of Souls, Master of the Feast, Feast of Succession, Greater Harvester, Grim Feast) |
+| Ramp | 8 |
+| Draw | 6 |
+| Removal | 6 |
+| Room/Object/Spectator | 7 (Malevolent Chandelier, Rotating Fireplace, Crown of Doom, Leering Onlooker, Gala Greeters, Rogues' Gallery, Thorn of the Black Rose) |
+
+**Total: 65 non-land cards kept. 65 + 17 nonbasic lands + 21 basics = 103
+total.**
+
+**We are 3 cards over 100, not 20.** This is the actual state of the deck
+right now. Apologies for the repeated bad counts before this — trust THIS
+number, and recompute by hand (not by script) before quoting a total again.
 
 **⚠ DEVIATION FROM TEMPLATE, Korvold-specific (Jamie, 2026-08-06):** "Let's use
 Mark's template as a guide, not a law. Korvold naturally compresses some
