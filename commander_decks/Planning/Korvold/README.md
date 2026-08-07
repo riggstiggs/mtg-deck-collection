@@ -41,6 +41,13 @@ whether this specific person would be ON THE GUEST LIST.
 Served") — chosen because it provokes the exact question that IS the deck's
 reveal: "wait... why is every card a person you'd invite to a banquet?"
 
+**⚠ Occasion guard (learned 2026-08-06, twice — Olivia AND Wedding Security):**
+This is NOT a wedding. "Red Wedding" was shorthand for massacre-among-seated-
+guests energy, never a literal bridal theme. ANY card whose entire hook is
+"wedding" — no matter how generic or fitting the actual ability is otherwise —
+gets cut on sight. Don't re-litigate this; it's a hard no on the occasion, not
+a case-by-case flavor judgment.
+
 ---
 
 ## Design pivot #1 (2026-08-06, earlier same session)
@@ -222,7 +229,7 @@ Tiers 1-4, she draws the line herself):**
 ~2,895 rows) as inspiration, not a constraint:**
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Wedding Security | {3}{B}{B} | $0.18 | 8 | 7 | ALREADY OWNED. Event security/bodyguard flavor (not bridal-specific despite the name) — sac-Blood-for-counter+draw on attack, on-color sac payoff. |
+| ~~Wedding Security~~ | {3}{B}{B} | $0.18 | ❌ | 7 | CUT per Jamie 2026-08-06 — this deck is not a wedding, period. Any card whose entire hook is "wedding" imports an occasion that doesn't belong here, regardless of how generic the actual mechanic is. |
 
 Confirmed already-owned overlap with existing picks: Bloodcrazed Socialite,
 Gluttonous Guest, Belligerent Guest, Falkenrath Celebrants — good signal the
