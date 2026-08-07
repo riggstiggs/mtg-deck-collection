@@ -565,9 +565,59 @@ into one land base would tip the whole list toward expensive, even though a
 couple (Luxury Suite especially) have great flavor. Temple Garden — off-color
 (GW) despite the perfect name, Arlo already flagged this one.
 
-**⏭ Still needed:** a final basic-land split (not yet counted), a full 100-card
-count once narrative + skeleton + lands are combined, bracket check against
-Mark's rules, and eventually a goldfish simulation once there's a real 100.
+### 🎯 Basic-Land Split (calculated 2026-08-06)
+Real pip count across all kept cards: ~57% B / ~25% R / ~18% G. With 17
+nonbasic lands confirmed, Mark's 38-land template needs **21 basics**. Raw
+pip-weighted math gives only 4 Forests, which is too thin — **Nature's Lore
+can ONLY fetch a Forest**, and Sakura-Tribe Elder/Farseek/Cultivate all want
+reliable green in the first few turns to function as ramp. Floored Forest
+higher and took the difference from black's surplus (black can absorb it,
+it's overrepresented):
+
+**10 Swamp, 4 Mountain, 7 Forest** = 21 basics. **17 + 21 = 38 total lands,
+right at Mark's template number.**
+
+### 📐 Comparison to Mark's "New Era" Template (COMMANDER_TEMPLATE.md)
+Real category counts against the required ratios — this deck is currently
+**top-heavy on narrative/flavor and light on every "boring but necessary"
+category.** That's normal for a theme-first build at this stage, but it means
+future cuts need to come FROM the narrative pile to make room, not just get
+added on top — the deck can't exceed 99 nonland cards.
+
+| Category | Target | Current | Gap |
+|---|---|---|---|
+| Lands | 38 | 38 | ✅ ON TARGET |
+| Ramp | 10 | 8 | -2 |
+| Card Advantage | 12 | 6 | **-6** |
+| Targeted Disruption | 12 | 6 | **-6** |
+| Mass Disruption | 6 | 2 (Blasphemous Act, Feast of Succession) | **-4** |
+| Plan Cards | 31 | ~62-64 (everything narrative) | **+31-33 OVER** |
+| Commander | 1 | 1 | ✅ |
+
+**The real work ahead:** Card Advantage, Targeted Disruption, and Mass
+Disruption are all significantly short — these are mostly exempt SPELLS (per
+the mechanical-skeleton rule), so filling them doesn't cost narrative
+integrity, it just needs more searching. The Plan-card pile is roughly double
+where it should be, meaning the eventual final cut will be brutal: most of
+the ~62 narrative candidates found tonight will NOT make the final 99, and
+that's expected — this was meant to be a wide net, not a final roster.
+
+### 🎭 Enchantment check (Jamie asked 2026-08-06)
+Only **4 real enchantments** currently in the kept list: Grim Feast, Court of
+Embereth, Marchesa's Decree, Master of the Feast (an Enchantment Creature, so
+it double-counts as a body too). Feast of Succession is a Sorcery, not an
+enchantment (earlier miscategorization corrected here). 4 is thin but not
+alarming at this stage — Jund doesn't lean enchantment-heavy the way GW/mono-W
+decks do, and this deck's identity is creature/sacrifice-driven, not
+enchantment-driven. Worth another look during the Card Advantage/Mass
+Disruption fill pass (some enchantment-based value engines could cover both
+gaps at once — e.g. an enchantment that also draws cards or wipes the board).
+
+**⏭ Still needed:** fill the Card Advantage / Targeted Disruption / Mass
+Disruption gaps (spells, exempt from the guest-list test — easier to add than
+narrative cards), THEN cut the narrative pile down toward ~31 Plan cards,
+bracket check against Mark's rules, and eventually a goldfish simulation once
+there's a real 100.
 
 ### 👑 Considered for The Court, NOT included
 *   **Wasitora, Nekoru Queen** {2}{B}{R}{G}, $1.03 — full-Jund legendary "Queen,"
