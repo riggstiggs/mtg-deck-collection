@@ -594,13 +594,44 @@ added on top — the deck can't exceed 99 nonland cards.
 | Plan Cards | 31 | ~62-64 (everything narrative) | **+31-33 OVER** |
 | Commander | 1 | 1 | ✅ |
 
-**The real work ahead:** Card Advantage, Targeted Disruption, and Mass
-Disruption are all significantly short — these are mostly exempt SPELLS (per
-the mechanical-skeleton rule), so filling them doesn't cost narrative
-integrity, it just needs more searching. The Plan-card pile is roughly double
-where it should be, meaning the eventual final cut will be brutal: most of
-the ~62 narrative candidates found tonight will NOT make the final 99, and
-that's expected — this was meant to be a wide net, not a final roster.
+**⚠ DEVIATION FROM TEMPLATE, Korvold-specific (Jamie, 2026-08-06):** "Let's use
+Mark's template as a guide, not a law. Korvold naturally compresses some
+categories because he provides repeatable card advantage and is himself a
+primary win condition." This is a call for THIS deck only, not a change to the
+template itself (see COMMANDER_TEMPLATE.md's own "Flexibility" note — decks
+with a strong repeatable engine are explicitly meant to deviate, with the
+deviation explained here).
+
+**Why this holds up:** Korvold draws a card on EVERY sacrifice trigger — that
+is real, repeatable card advantage baked into the commander, not a bonus on
+top of a separate draw package. Counting the dedicated Card Advantage
+category at the full template number of 12 would effectively double-count the
+deck's actual draw engine. Similarly, Korvold himself (plus Vraska's
+ultimate) are real win conditions, reducing how many pure Mass Disruption
+answers are needed to simply survive to a late game.
+
+**Adjusted targets for THIS deck:**
+| Category | Template | Adjusted target | Current | Gap |
+|---|---|---|---|---|
+| Ramp | 10 | 10 (unchanged — still needs real ramp regardless of Korvold) | 8 | -2 |
+| Card Advantage | 12 | ~8 (Korvold's own trigger covers ~4 of the template's slots) | 6 | -2 |
+| Targeted Disruption | 12 | 12 (unchanged — still needs real interaction) | 6 | **-6** |
+| Mass Disruption | 6 | 2-3 (Jamie's explicit ask — test lean, not template-forced) | 2 | 0 to -1 |
+
+Targeted Disruption stays the one real gap that isn't explained away by
+Korvold's engine — the deck still needs actual removal for problem permanents
+regardless of how much card advantage or win-con power Korvold provides. That
+category should still get filled. Ramp also holds at the template number;
+ramp isn't something a commander's text can substitute for.
+
+**Plan Cards, recalculated with the adjusted targets:** 38 lands + 10 ramp +
+8 card advantage + 12 targeted disruption + 2-3 mass disruption + 1 commander
+= ~71-72 non-Plan slots, leaving **~27-28 Plan-card slots** (vs. the
+template's 31 — slightly LOWER here because Korvold's own text is doing plan-
+card work too). Current narrative pile (~62-64) is still meaningfully over
+that number, so a real cut is still coming — just a less brutal one than the
+un-adjusted template implied. Most of tonight's finds were meant to be a wide
+net; final roster selection is a separate future pass.
 
 ### 🎭 Enchantment check (Jamie asked 2026-08-06)
 Only **4 real enchantments** currently in the kept list: Grim Feast, Court of
@@ -613,11 +644,12 @@ enchantment-driven. Worth another look during the Card Advantage/Mass
 Disruption fill pass (some enchantment-based value engines could cover both
 gaps at once — e.g. an enchantment that also draws cards or wipes the board).
 
-**⏭ Still needed:** fill the Card Advantage / Targeted Disruption / Mass
-Disruption gaps (spells, exempt from the guest-list test — easier to add than
-narrative cards), THEN cut the narrative pile down toward ~31 Plan cards,
-bracket check against Mark's rules, and eventually a goldfish simulation once
-there's a real 100.
+**⏭ Still needed:** fill Ramp (-2) and Targeted Disruption (-6, the real
+priority gap) with more exempt spells, decide on Mass Disruption at 2-3
+(Jamie's lean-test target, may already be close to done), THEN cut the
+narrative pile down toward ~27-28 Plan cards (adjusted target, not the raw
+template's 31), bracket check against Mark's rules, and eventually a goldfish
+simulation once there's a real 100.
 
 ### 👑 Considered for The Court, NOT included
 *   **Wasitora, Nekoru Queen** {2}{B}{R}{G}, $1.03 — full-Jund legendary "Queen,"
