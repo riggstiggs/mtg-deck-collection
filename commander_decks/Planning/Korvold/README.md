@@ -166,28 +166,32 @@ read as banquet-flavored despite fitting mechanically).
 | Attended Socialite | {1}{G} | $0.13 | 7 | 4 | Cheap curve-filler, socialite flavor |
 | ~~Crovax the Cursed~~ | {2}{B}{B} | $0.98 | ❌2 | 7 | Jamie: name doesn't read banquet at all — CUT |
 
-### 🎩 Service (ONE pick only — everyone else is seated at the table, not staffing it)
+### 🎩 Service (AT MOST one — everyone else is seated at the table, not staffing it)
 Jamie's correction 2026-08-06: this is a Game of Thrones wedding meets Bridgerton
 ball, not a medieval tavern. Cut tavernkeeper/butcher/innkeeper/chef entirely —
-those read as "inn," not "grand hall." Butler survives as the single service role
-because "the butler" is a fixture of a Bridgerton-style estate scene.
+those read as "inn," not "grand hall." Butler is the one candidate for the estate
+register, but per Jamie 2026-08-06 ("don't force the butler if he doesn't fit")
+this slot is OPTIONAL, not locked — Tromell competes on final cuts like anything
+else, doesn't get a reserved seat just for being "the service card."
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Tromell, Seymour's Butler | {2}{G} | $0.38 | 9 | 7 | THE ONE service card — counters + proliferate |
+| Tromell, Seymour's Butler | {2}{G} | $0.38 | 9 | 7 | Candidate only — counters + proliferate, cut freely if the final list doesn't need him |
 
 ~~Gyome, Master Chef~~, ~~Duchess, Wayward Tavernkeep~~, ~~Lord Skitter's Butcher~~,
 ~~Dockside Chef~~, ~~Undead Butler~~, ~~Feasting Troll King~~ — CUT, wrong venue
 (kitchen/tavern, not ballroom).
 
-### 🎭 Entertainment / Revelers / Celebration
+### 🎭 Entertainment / Revelers / Celebration — RE-AUDITED against Bridgerton/GoT register
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Goddric, Cloaked Reveler | {1}{R}{R} | $0.27 | 8 | 6 | Celebration payoff, pairs with Grand Ball Guest |
-| Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire party, 2 Blood tokens on ETB |
-| Rix Maadi Reveler | {1}{R} | $0.22 | 7 | 6 | Cheap looter, "reveler" flavor |
-| Havoc Jester | {4}{R} | $0.17 | 9 | 8 | Literal jester + pings on EVERY sacrifice (huge Korvold synergy) |
-| Merry Bards | {2}{R} | $0.11 | 7 | 5 | Cheap bard |
-| Bello, Bard of the Brambles | {1}{R}{G} | $1.82 | 8 | 7 | Literal bard, real build-around — pricier, flag for later |
+| Goddric, Cloaked Reveler | {1}{R}{R} | $0.27 | 8 | 6 | A masked noble at the masquerade, transforms when the party turns — pairs with Grand Ball Guest |
+| Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
+| Havoc Jester | {4}{R} | $0.17 | 9 | 8 | THE jester — explicitly named in Jamie's wanted list, pings on EVERY sacrifice |
+| Bello, Bard of the Brambles | {1}{R}{G} | $1.82 | 8 | 7 | THE bard — hired specifically for nobility, real build-around |
+
+~~Rix Maadi Reveler~~ — cut, generic Ravnica flavor, no ballroom signal.
+~~Merry Bards~~ — cut, reads as adventuring-party-campfire, not "performer hired
+for nobility."
 
 ### 🤫 Intrigue — gossip / scandal (NOT murder — see design pivot above)
 Cut per Jamie 2026-08-06: assassin/poison cards don't fit — "Assassin"/"Poisoner"
@@ -199,16 +203,24 @@ murder-for-hire.
 | Whispering Snitch | {1}{B} | $0.28 | 9 | 6 | A literal gossip/tattletale, pings opponents on surveil |
 | Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
 
-**Running total: 18 candidates kept, all under $2 (most under $0.50). Jamie's
+### 🎻 Court entertainers + the uninvited guest
+| Card | Cost | Price | Flavor | Mech | Note |
+|---|---|---|---|---|---|
+| Wolfkin Outcast // **Wedding Crasher** | {5}{G} | $0.26 | 10 | 7 | THE find of this pass — literally named Wedding Crasher on its back face (6/5, draws on Wolf/Werewolf death). Front is a 5/4 cost-reducer. Day/night-gated (Werewolf mechanic) so not guaranteed every game, but the flavor payoff is exact: the guest who reveals their true nature once night falls. |
+| Totentanz, Swarm Piper | {1}{B}{R} | $0.25 | 8 | 8 | A Pied-Piper entertainer whose music brings out Rats on ANY nontoken death — rhymes directly with Korvold's sac engine |
+| Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; forces a sacrifice on the way in |
+| Insufferable Balladeer | {1}{R} | $0.11 | 7 | 5 | A bard whose "Vicious Mockery" goads a rival into a duel of honor |
+
+**Running total: 22 candidates kept, all under $2 (most under $0.50). Jamie's
 note: $1.82 (Bello) is fine — price ceiling is about avoiding $20 chase cards,
 not being cheap on every single slot.**
 
-**⏭ Still to search:** court entertainers proper (musicians/dancers, elevated —
-not "random tavern bard"), duels of honor, the uninvited/forgotten guest as a
-chaos card, toasts/wine flavor, re-audit Goddric/Falkenrath Celebrants/Rix Maadi
-Reveler/Merry Bards against the new Bridgerton/GoT register (some may read too
-tavern-adjacent now). Also watching **The Hobbit** (releases next Friday,
-2026-08-14 — plenty of common/uncommon fantasy-court flavor likely to fit).
+**⏭ Still to search:** toasts/wine flavor, re-audit Goddric/Falkenrath
+Celebrants/Rix Maadi Reveler/Merry Bards against the new Bridgerton/GoT register
+(some may read too tavern-adjacent now — Merry Bards especially). Also watching
+**The Hobbit** (releases next Friday, 2026-08-14 — Bombur/Bothersome
+Noisemaker/Stony-Voiced Goblins already spotted as on-theme bard-adjacent cards
+in that set).
 
 ---
 
