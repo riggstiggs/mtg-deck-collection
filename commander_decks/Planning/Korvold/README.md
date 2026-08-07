@@ -374,38 +374,57 @@ doesn't sit at a formal banquet, even though the card is mechanically great.
 ~~The Meathook Massacre~~ — $27.30, over the "no $20 chase cards" line, cut on
 price alone.
 
-### 🗺️ Land Base
-Jamie's price calibration for LANDS specifically: ~$4 ceiling, not the looser
-"no $20 chase cards" rule used elsewhere — she'll pay real money for the right
-narrative card, but fixing lands should stay cheap. Lands are mostly exempt
-from the guest-list test (no person depicted = atmosphere, not an attendee),
-but per Jamie: **they still shouldn't fight the setting's TONE.** "Rot Farm"
-was cut on this basis even though bounce-lands are otherwise fine mechanically
-— "rot" reads as squalor/decay, wrong note for a fancy affair, not the theme
-police, just don't contradict the vibe.
+### 🗺️ The Estate Map — lands as SCENES, not just mana (pivot 2026-08-06, Arlo's idea)
+Arlo's reframe, and it's the right one: **don't ask "what are the best Jund
+lands" — ask "if I were drawing the map of this estate, what locations would
+appear?"** The creatures are the cast; the lands are the SET. Jamie's price
+note corrected mid-build: there's no hard land-specific ceiling — the actual
+rule (same as everywhere else) is "not a deck where EVERY card is $20+," so an
+occasional deliberate splurge (Castle Locthwain $4.48) is fine the same way
+Vraska ($6.22) and Grim Feast ($7.77) are fine elsewhere in the list. Lands
+are mostly exempt from the literal guest-list test (no person depicted), but
+still shouldn't fight the setting's TONE — "rot" reads as squalor, wrong note
+for a fancy affair, even on an otherwise-fine bounce-land.
+
+**The map, arrival to ballroom to grounds to crypt:**
+| Location | Card | Price | Scene |
+|---|---|---|---|
+| The town | High Market | $0.37 | Where the estate's business gets done — also a free sac outlet for life, feeds Korvold |
+| The road in | Shadowblood Ridge | $0.35 | The route to the estate |
+| The carriage ride | Dragonskull Summit | $0.43 | Arriving at the grounds |
+| The bridge onto the grounds | Mosswort Bridge | $0.35 | Crossing onto the property |
+| The servants' secret entrance | Rogue's Passage | $0.58 | A guest — or something worse — slips in unseen; makes a creature unblockable |
+| The gardens | Rockfall Vale | $1.90 | Approaching through the manicured grounds |
+| The dark fairy-tale garden | Deathcap Glade | $2.18 | The overgrown, slightly sinister corner of the grounds |
+| The estate gates | Blackcleave Cliffs | $2.62 | Arriving at the manor proper |
+| ⭐ THE BALLROOM | **Castle Locthwain** | $4.48 | Deliberate splurge, worth it for the flavor: draws cards for life late-game, literally where the banquet is held |
+| The family crypt | Woodland Cemetery | $0.59 | Every noble house has one |
+| The bog behind the manor | Bojuka Bog | $0.50 | The swampy, unglamorous edge of the property; also graveyard hate |
+
+**Utility / atmosphere, not on the direct path but still fixtures of the estate:**
 | Card | Price | Note |
 |---|---|---|
-| Command Tower | $0.24 | Any-color-in-identity, auto-include tier |
-| Path of Ancestry | ~$0.20 | Any-color-in-identity + scry on tribal synergy |
-| Exotic Orchard | ~$0.20 | Mirrors opponents' fixing |
-| Cascading Cataracts | $2.35 | Colorless fixing at 5+ lands |
-| Deathcap Glade (BG slowland) | $2.18 | Checkland-style, untapped by turn 3 in practice |
-| Rockfall Vale (RG slowland) | $1.90 | Same cycle, RG |
-| Blackcleave Cliffs (BR fastland) | $2.62 | Untapped early game, taxed late |
-| Dragonskull Summit (BR checkland) | $0.43 | Untapped if you already have a Swamp/Mountain |
-| Jungle Hollow (BG tapland+lifegain) | $0.18 | Cheap fixing filler |
-| Foreboding Ruins (BR tapland, reveal-to-untap) | $0.22 | Cheap fixing filler |
-| Karplusan Forest (RG painland) | $0.40 | Untapped, costs life — Jamie generally dislikes painlands per her deck-identity notes, flagged not auto-included |
+| Command Tower | $0.24 | Auto-include tier, no real "scene" but foundational |
+| Path of Ancestry | ~$0.20 | Any-color-in-identity + scry |
+| Exotic Orchard | ~$0.20 | An elegant estate garden (Arlo's read) |
+| Cascading Cataracts | $2.35 | A decorative fountain — colorless fixing at 5+ lands |
+| Jungle Hollow | $0.18 | Cheap fixing filler |
+| Foreboding Ruins | $0.22 | Cheap fixing filler |
+| Karplusan Forest (painland) | $0.40 | Flagged not auto-included — Jamie dislikes painlands generally per her deck-identity notes |
 
-~~Golgari Rot Farm~~ — cut, "rot" contradicts a fancy-affair tone even though
-bounce-lands are mechanically fine; also a real tempo cost most players skip.
-~~Savai Triome~~ ($19.76), ~~Ziatora's Proving Ground~~ ($13.57),
-~~Blood Crypt~~ ($9.22), ~~Overgrown Tomb~~ ($9.10), ~~Stomping Ground~~
-($8.56), ~~Haunted Ridge~~ ($8.33), ~~Luxury Suite~~ ($8.80, name is a great
-tonal fit but still over the $4 land ceiling) — all real premium fixing, all
-CUT on price alone, well above the ~$4 land ceiling. Consistent with Jamie's
-established MTG identity: dislikes overpaying for fixing generally (no ~$200
-fetches either).
+**Considered and cut — wrong colors or the price genuinely didn't earn it:**
+~~Golgari Rot Farm~~ (tone: "rot" = squalor, wrong note even mechanically-fine).
+~~Vault of Champions~~ (WB, wrong colors). ~~Reflecting Pool~~ ($13.74, weak
+payoff for the cost). ~~Plaza of Heroes~~ ($3.45, legendary-only benefit is too
+narrow). ~~Hall of the Bandit Lord~~ ($22.14 — genuinely funny "every noble
+house has THAT guy" flavor read from Arlo, but too rich for a support land).
+~~Savai Triome~~ / ~~Ziatora's Proving Ground~~ / ~~Blood Crypt~~ /
+~~Overgrown Tomb~~ / ~~Stomping Ground~~ / ~~Haunted Ridge~~ / ~~Luxury
+Suite~~ ($19.76 / $13.57 / $9.22 / $9.10 / $8.56 / $8.33 / $8.80) — real
+premium fixing, cut because paying THAT much repeatedly across the whole land
+base fights the "not everything is $20+" rule, even though a couple (Luxury
+Suite especially) have great flavor. Temple Garden — off-color (GW) despite
+the perfect name, Arlo already flagged this one.
 
 **⏭ Still needed:** a final basic-land split (not yet counted), a full 100-card
 count once narrative + skeleton + lands are combined, bracket check against
