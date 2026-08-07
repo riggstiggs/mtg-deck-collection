@@ -300,9 +300,22 @@ murder-for-hire.
 *(Custodi Lich moved to Tier 2 — The Court, above; Monarch is a political-power
 mechanic, not an entertainment one.)*
 
-**Running total: 23 candidates kept (22 + Vraska), most under $0.50, Vraska at
-$6.22 as the one deliberate splurge. No hard price ceiling — Jamie reviews and
-draws the line herself; the only rule is no $20 chase cards.**
+### 🍷 Tier 6 — The Meal (harvest / feast / dessert)
+Wine/goblet/chalice/toast searched separately — thin (mostly generic mana
+rocks and a "Swine" tribal false-positive flood), nothing cleared the bar. The
+Harvest/Feast search carried this tier instead.
+| Card | Cost | Price | Flavor | Mech | Note |
+|---|---|---|---|---|---|
+| Harvester of Souls | {4}{B}{B} | $2.57 | 9 | 8 | A Demon who reaps the feast's dead for cards — draws on ANY nontoken death, strong Korvold-adjacent payoff |
+| Master of the Feast | {1}{B}{B} | $5.91 | 10 | 6 | 5/5 flier literally titled "Master of the Feast" — real downside (opponents draw too) but the flavor is dead center |
+| Feast of Succession | {4}{B}{B} | $0.25 | 8 | 7 | Board wipe + become Monarch — the old order dies, new power rises at the table |
+| Greater Harvester | {2}{B}{B}{B} | $1.72 | 8 | 7 | Sac-upkeep-or-else, punishes combat damage with double sacrifice — the Reaper working the feast |
+| Grim Feast | {1}{B}{G} | $7.77 | 8 | 7 | Gains life whenever ANY creature dies (yours OR opponents') — feasting on the carnage of the whole table, not just your own board |
+
+**Running total: 28 candidates kept, most under $0.50, four deliberate
+higher-price picks (Vraska $6.22, Master of the Feast $5.91, Grim Feast $7.77,
+Harvester of Souls $2.57). No hard price ceiling — Jamie reviews and draws the
+line herself; the only rule is no $20 chase cards.**
 
 ### 👑 Considered for The Court, NOT included
 *   **Wasitora, Nekoru Queen** {2}{B}{R}{G}, $1.03 — full-Jund legendary "Queen,"
