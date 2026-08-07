@@ -41,12 +41,23 @@ whether this specific person would be ON THE GUEST LIST.
 Served") — chosen because it provokes the exact question that IS the deck's
 reveal: "wait... why is every card a person you'd invite to a banquet?"
 
-**⚠ Occasion guard (learned 2026-08-06, twice — Olivia AND Wedding Security):**
-This is NOT a wedding. "Red Wedding" was shorthand for massacre-among-seated-
-guests energy, never a literal bridal theme. ANY card whose entire hook is
-"wedding" — no matter how generic or fitting the actual ability is otherwise —
-gets cut on sight. Don't re-litigate this; it's a hard no on the occasion, not
-a case-by-case flavor judgment.
+**⚠ Occasion guard (refined 2026-08-06 across 3 cards — Olivia, Wedding
+Security, Anje):** This is NOT a wedding. "Red Wedding" was shorthand for
+massacre-among-seated-guests energy, never a literal bridal theme.
+
+**The actual rule (Jamie's test):** does the card declare the occasion, or just
+describe a behavior that fits any gathering? A **Bride** requires a groom, a
+ring, vows — it drags in a whole specific scene and gets niche fast. A
+**Crasher** just means "a party exists and someone wasn't invited," which is
+true of ANY banquet, including this one. So:
+- ❌ CUT: Olivia, Crimson **Bride** (declares the occasion). Wedding Security
+  (literal word). Anje, Maid of **Dishonor** (a maid-of-honor pun — still
+  declares a wedding-party role even without the word).
+- ✅ KEPT: Wolfkin Outcast // **Wedding Crasher** (describes uninvited-guest
+  behavior, not the occasion — "Crasher" works at this banquet same as any).
+
+Test any future edge case against this, don't just pattern-match the word
+"wedding."
 
 ---
 
@@ -282,7 +293,7 @@ murder-for-hire.
 ### 🎻 Court entertainers + the uninvited guest
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| ⚠️ Wolfkin Outcast // **Wedding Crasher** | {5}{G} | $0.26 | 10⚠️ | 7 | FLAG FOR JAMIE 2026-08-06: has "Wedding" literally in the name, which the new occasion guard (added after Olivia + Wedding Security cuts) says cut on sight — but this is the "uninvited guest" concept made literal (6/5, draws on Wolf/Werewolf death) and was called the best find of an earlier pass. NOT auto-cut — held for Jamie's call since it's more load-bearing than the other two "wedding" cuts. |
+| Wolfkin Outcast // **Wedding Crasher** | {5}{G} | $0.26 | 10 | 7 | ✅ KEPT per Jamie 2026-08-06 — refined occasion-guard rule: "Crasher" describes an uninvited guest's BEHAVIOR (fits any party); "Bride"/"Maid of Honor" DECLARES the occasion itself (wedding-specific, cut). 6/5, draws on Wolf/Werewolf death — the guest who reveals their true nature once night falls. |
 | Totentanz, Swarm Piper | {1}{B}{R} | $0.25 | 8 | 8 | A Pied-Piper entertainer whose music brings out Rats on ANY nontoken death — rhymes directly with Korvold's sac engine |
 | Insufferable Balladeer | {1}{R} | $0.11 | 7 | 5 | A bard whose "Vicious Mockery" goads a rival into a duel of honor |
 
