@@ -127,6 +127,39 @@ limit, a narrative-bandwidth limit.
 Nobody failed. The ballroom only has so many chairs. Everyone has already
 been invited — some are waiting for the next banquet.
 
+**Rule 13 — Never defend a card. Defend the role.** This is what happened
+with Greater Harvester: Jamie never argued "the card is good," she said "he's
+stealing fries off everyone's plate" — suddenly the whole table understood
+him, and the role (which was real) survived along with the card. If you
+can't defend the ROLE, the card dies regardless of how good the mechanics are.
+
+**Rule 14 — A replacement must improve the role OR the performance. Not
+both. Either.** Mayhem Devil: same-ish role, way better mechanics — win.
+Greater Harvester: same mechanics, way better role once reframed — win.
+Tromell: neither improves — lose.
+
+**Rule 15 — Search for replacements BY ROLE, not by card type or mechanic.**
+Don't search "better butler" — search "who knows every secret?" Don't
+search "better entertainer" — search "who changes the mood of the room?"
+That's how Mayhem Devil actually got found.
+
+**The bigger reframe (Arlo, 2026-08-06): stop hunting cuts, hunt
+replacements.** Every real replacement naturally creates a cut — that's
+psychologically easier than asking "who dies," because the question becomes
+"who just got outperformed?" That's how movies get edited.
+
+**Next horizon: audition MOMENTS, not just people (Arlo, 2026-08-06).**
+Instants, sorceries, and enchantments haven't been evaluated through the
+same lens — not "removal spell," but "what scene does this depict?" The
+toast. The accusation. The duel. The inheritance. The whispered rumor. The
+stolen invitation. This is likely where the next real jump in quality comes
+from, not more creature auditions.
+
+**The real shift, in Arlo's words:** *"We've finally stopped trying to build
+the best Korvold deck. We're now trying to build the best version of this
+movie. Those are not the same objective — and the second one is much more
+interesting."*
+
 **Claude vs. Arlo, first independent audits (2026-08-06) — reconciled:**
 Both auditions ran independently, then compared. Genuine agreement AND
 genuine disagreement, worked through rather than merged blindly:
@@ -138,22 +171,27 @@ genuine disagreement, worked through rather than merged blindly:
   steal it IS the story" — the downside is a feature, not a bug, and in a
   real 4-player pod it's a political risk (attack the jewel-holder or
   don't), not free value for opponents. Claude conceded.
-- **Rotating Fireplace — moved to Audition, not cut.** Arlo's distinction:
-  the Chandelier is "oh no," the Fireplace is "everyone naturally gathers
-  here" — different Camera moments, not competing for the same prop slot.
-  But Claude's mechanical read stands (it's a weak rock with dead text for
-  this list) — replace it if a better mana rock tells an equal-or-better
-  story.
+- **Rotating Fireplace — status upgraded to REPLACEMENT SEARCH (a category
+  above Audition), 2026-08-06.** Both Claude and Arlo agreed the real
+  question isn't "is this card good enough" — it's "is this the best
+  fireplace in Magic?" The role isn't "mana rock," it's "the hearth everyone
+  gathers around without noticing." If another card can tell that exact
+  story while also being a stronger Korvold piece, swap immediately.
 - **Wolfkin Outcast // Wedding Crasher — TEST IT, don't cut on paper.**
   Mechanically slow (day/night), but "nobody remembers inviting him" may be
   strong enough Character to survive mediocre Performance — a real-games
   question, not a spreadsheet one.
 - **Tromell, Bello, Greater Harvester — Audition Again**, unresolved.
-- **Searched and rejected as replacements:** Mahadi/Pitiless Plunderer
-  (Treasure-on-death, redundant with each other, no real character hook),
-  Bastion of Remembrance (overlaps Falkenrath Noble's role), Disciple of
-  Bolas / Grim Haruspex (mechanically fine, but "Human Wizard" has zero
-  flavor identity — the exact "Noble #7" problem in a different color).
+- **Searched and rejected as replacements:** Pitiless Plunderer (Treasure-
+  on-death, redundant with Mahadi, no real character hook), Bastion of
+  Remembrance (overlaps Falkenrath Noble's role), Disciple of Bolas / Grim
+  Haruspex (mechanically fine, but "Human Wizard" has zero flavor identity —
+  the exact "Noble #7" problem in a different color).
+- **Mahadi, Emporium Master — open disagreement, not resolved.** Claude
+  read "Emporium Master" as generic-merchant, no real hook. Arlo's rebuttal:
+  "I hear Master of Coin — the one quietly paying everyone. That has a
+  role." Not confirmed in, just flagged as having more Character than
+  Claude's first pass credited — worth a second look.
 
 **The mindset shift (Arlo):** the question used to be "can I justify this
 card?" It's now "can I justify CUTTING this card?" Every remaining card has
@@ -466,6 +504,8 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Scandalmonger | {3}{B} | $0.30 | 9 | 5 | Name is a bullseye, forces discard (the cost of a scandal) |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
+| Extract a Confession | {1}{B} | $0.24 | 9 | 7 | THE accusation scene, literal — an interrogation that forces an opponent's sacrifice, "evidence" = exiling cards from the graveyard to build a case |
+| Oath of Liliana | {2}{B} | $0.42 | 8 | 8 | The whole room swears fealty at once — every opponent sacrifices on entry, a real "moment" per Arlo's challenge to audition instants/sorceries/enchantments, not just people |
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
 | Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
 | Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
