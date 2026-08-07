@@ -842,14 +842,14 @@ cards (excluding all struck-through waiting-list entries):
 | Nobles | 3 (Falkenrath Aristocrat, Falkenrath Noble, Vampire Socialite) |
 | Court re-search | 2 (Strefan, Timothar) |
 | Service | 1 (Tromell) |
-| Entertainment | 3 (Goddric, Falkenrath Celebrants, Mayhem Devil, Bello — Fíli/Kíli is waiting-list) |
+| Entertainment | 4 (Goddric, Falkenrath Celebrants, Mayhem Devil, Bello — Fíli/Kíli is waiting-list) |
 | Intrigue | 15 (Whispering Snitch, Scandalmonger, Voldaren Duelist, Grave Betrayal, Extract a Confession, Oath of Liliana, Structural Collapse, Captive Audience, Marchesa's Decree, Tribute to Hunger, Vicious Offering, Popular Egotist, Juri, Coveted Jewel, Anje) |
 | Court entertainers | 2 (Wolfkin Outcast, Totentanz — Insufferable Balladeer is waiting-list) |
 | The Meal | 5 (Harvester of Souls, Master of the Feast, Feast of Succession, Greater Harvester, Grim Feast) |
 | Ramp | 8 |
 | Draw | 6 |
 | Removal | 6 |
-| Room/Object/Spectator | 7 (Malevolent Chandelier, Rotating Fireplace, Crown of Doom, Leering Onlooker, Gala Greeters, Rogues' Gallery, Thorn of the Black Rose) |
+| Room/Object/Spectator | 6 (Malevolent Chandelier, Rotating Fireplace, Crown of Doom, Leering Onlooker, Rogues' Gallery, Thorn of the Black Rose — Gala Greeters is waiting-list, was wrongly counted here) |
 
 **Total: 65 non-land cards kept. 65 + 17 nonbasic lands + 21 basics = 103
 total.**
