@@ -374,9 +374,42 @@ doesn't sit at a formal banquet, even though the card is mechanically great.
 ~~The Meathook Massacre~~ — $27.30, over the "no $20 chase cards" line, cut on
 price alone.
 
-**⏭ Still needed:** the land base itself (hasn't been touched at all), a final
-count once narrative + skeleton are combined, bracket check against Mark's
-rules, and eventually a goldfish simulation once there's a real 100.
+### 🗺️ Land Base
+Jamie's price calibration for LANDS specifically: ~$4 ceiling, not the looser
+"no $20 chase cards" rule used elsewhere — she'll pay real money for the right
+narrative card, but fixing lands should stay cheap. Lands are mostly exempt
+from the guest-list test (no person depicted = atmosphere, not an attendee),
+but per Jamie: **they still shouldn't fight the setting's TONE.** "Rot Farm"
+was cut on this basis even though bounce-lands are otherwise fine mechanically
+— "rot" reads as squalor/decay, wrong note for a fancy affair, not the theme
+police, just don't contradict the vibe.
+| Card | Price | Note |
+|---|---|---|
+| Command Tower | $0.24 | Any-color-in-identity, auto-include tier |
+| Path of Ancestry | ~$0.20 | Any-color-in-identity + scry on tribal synergy |
+| Exotic Orchard | ~$0.20 | Mirrors opponents' fixing |
+| Cascading Cataracts | $2.35 | Colorless fixing at 5+ lands |
+| Deathcap Glade (BG slowland) | $2.18 | Checkland-style, untapped by turn 3 in practice |
+| Rockfall Vale (RG slowland) | $1.90 | Same cycle, RG |
+| Blackcleave Cliffs (BR fastland) | $2.62 | Untapped early game, taxed late |
+| Dragonskull Summit (BR checkland) | $0.43 | Untapped if you already have a Swamp/Mountain |
+| Jungle Hollow (BG tapland+lifegain) | $0.18 | Cheap fixing filler |
+| Foreboding Ruins (BR tapland, reveal-to-untap) | $0.22 | Cheap fixing filler |
+| Karplusan Forest (RG painland) | $0.40 | Untapped, costs life — Jamie generally dislikes painlands per her deck-identity notes, flagged not auto-included |
+
+~~Golgari Rot Farm~~ — cut, "rot" contradicts a fancy-affair tone even though
+bounce-lands are mechanically fine; also a real tempo cost most players skip.
+~~Savai Triome~~ ($19.76), ~~Ziatora's Proving Ground~~ ($13.57),
+~~Blood Crypt~~ ($9.22), ~~Overgrown Tomb~~ ($9.10), ~~Stomping Ground~~
+($8.56), ~~Haunted Ridge~~ ($8.33), ~~Luxury Suite~~ ($8.80, name is a great
+tonal fit but still over the $4 land ceiling) — all real premium fixing, all
+CUT on price alone, well above the ~$4 land ceiling. Consistent with Jamie's
+established MTG identity: dislikes overpaying for fixing generally (no ~$200
+fetches either).
+
+**⏭ Still needed:** a final basic-land split (not yet counted), a full 100-card
+count once narrative + skeleton + lands are combined, bracket check against
+Mark's rules, and eventually a goldfish simulation once there's a real 100.
 
 ### 👑 Considered for The Court, NOT included
 *   **Wasitora, Nekoru Queen** {2}{B}{R}{G}, $1.03 — full-Jund legendary "Queen,"
