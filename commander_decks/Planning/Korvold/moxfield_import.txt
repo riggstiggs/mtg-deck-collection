@@ -1,0 +1,85 @@
+COMMANDER:
+1 Korvold, Fae-Cursed King
+
+DECK:
+1 Belligerent Guest
+1 Gluttonous Guest
+1 Rapacious Guest
+1 Vraska, Golgari Queen
+1 Custodi Lich
+1 Court of Embereth
+1 Court of Locthwain
+1 Falkenrath Aristocrat
+1 Falkenrath Noble
+1 Vampire Socialite
+1 Strefan, Maurer Progenitor
+1 Timothar, Baron of Bats
+1 Goddric, Cloaked Reveler
+1 Falkenrath Celebrants
+1 Ayara, First of Locthwain
+1 Stensia Masquerade
+1 Mayhem Devil
+1 Whispering Snitch
+1 Grave Betrayal
+1 Extract a Confession
+1 Captive Audience
+1 Marchesa's Decree
+1 Tribute to Hunger
+1 Vicious Offering
+1 Popular Egotist
+1 Juri, Master of the Revue
+1 Anje, Maid of Dishonor
+1 Totentanz, Swarm Piper
+1 Harvester of Souls
+1 Feast of Succession
+1 Greater Harvester
+1 Grim Feast
+1 Sakura-Tribe Elder
+1 Farseek
+1 Nature's Lore
+1 Cultivate
+1 Rampant Growth
+1 Arcane Signet
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Deathgreeter
+1 Village Rites
+1 Deadly Dispute
+1 Night's Whisper
+1 Phyrexian Arena
+1 Dash Hopes
+1 Terminate
+1 Putrefy
+1 Skyfisher Spider
+1 Chaos Warp
+1 Feed the Swarm
+1 Blasphemous Act
+1 Taste of Death
+1 Rings of Brighthearth
+1 Crown of Doom
+1 Leering Onlooker
+1 Thorn of the Black Rose
+1 High-Society Hunter
+1 Old Flitterfang
+1 Vampire Gourmand
+1 High Market
+1 Shadowblood Ridge
+1 Dragonskull Summit
+1 Mosswort Bridge
+1 Rogue's Passage
+1 Rockfall Vale
+1 Deathcap Glade
+1 Blackcleave Cliffs
+1 Castle Locthwain
+1 Castle Embereth
+1 Woodland Cemetery
+1 Bojuka Bog
+1 Command Tower
+1 Path of Ancestry
+1 Exotic Orchard
+1 Cascading Cataracts
+1 Jungle Hollow
+1 Foreboding Ruins
+10 Swamp
+4 Mountain
+7 Forest

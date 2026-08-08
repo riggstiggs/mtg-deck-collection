@@ -269,6 +269,19 @@ genuine disagreement, worked through rather than merged blindly:
   "I hear Master of Coin — the one quietly paying everyone. That has a
   role." Not confirmed in, just flagged as having more Character than
   Claude's first pass credited — worth a second look.
+- **Voracious Fell Beast — considered, REJECTED, 2026-08-08.** Real removal
+  (forces opponent sac) + real Food generation, but Jamie's question cut
+  right to it: "would a dragon have a drake pop in to do its bidding?"
+  Tried framing it as the house's own hunting beast (an enforcer, not a
+  rival), but Jamie held the line: even as a servant creature, it's still a
+  big flying monster stealing scenes from Korvold. Protects the "only one
+  apex predator" rule established night one — correctly prioritized over a
+  mechanically strong card.
+- **Locthwain Lancer — considered, REJECTED, 2026-08-08.** A Locthwain
+  knight who benefits from Court of Embereth's Knight tokens — good
+  cross-house connective tissue on paper, but "no" from Jamie: the deck has
+  no real Knight sub-thread, so his trigger is thin without more support
+  that doesn't exist here.
 
 **The mindset shift (Arlo):** the question used to be "can I justify this
 card?" It's now "can I justify CUTTING this card?" Every remaining card has
@@ -518,6 +531,7 @@ read as banquet-flavored despite fitting mechanically).
 | ~~Bloodcrazed Socialite~~ | {3}{B} | $0.26 | 8 | 6 | CUT — same role as Vampire Socialite (attention-seeking vampire socialite), no new scene |
 | ~~Attended Socialite~~ | {1}{G} | $0.13 | 7 | 4 | CUT — weakest of the three socialites, no distinct role |
 | ~~Crovax the Cursed~~ | {2}{B}{B} | $0.98 | ❌2 | 7 | Jamie: name doesn't read banquet at all — CUT |
+| Vampire Gourmand | {1}{B} | $0.31 | 8 | 7 | ADDED 2026-08-08 — a minor courtier quietly eyeing the other guests all night; when she finally moves, she doesn't fight in the open, she picks off someone smaller while the room's distracted and slips out unseen (unblockable), leaving with a card she wasn't supposed to have. Small, mean, social predation rather than a monster attack — sharper vampire version of the Deathgreeter job. |
 
 **Re-searched 2026-08-06 with the $2 ceiling lifted (Jamie: no hard price cap on
 Tiers 1-4, she draws the line herself):**
@@ -560,11 +574,13 @@ else, doesn't get a reserved seat just for being "the service card."
 |---|---|---|---|---|---|
 | Goddric, Cloaked Reveler | {1}{R}{R} | $0.27 | 8 | 6 | A masked noble at the masquerade, transforms when the party turns — pairs with Grand Ball Guest |
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
+| High-Society Hunter | {3}{B}{B} | $0.33 | 9 | 8 | ADDED 2026-08-08 (Jamie's session, real-vampire check) — "feels like they would be at the table much more than the others." A guest hunting other guests socially and literally, seated at the table itself, not a background watcher. Draws on any nontoken death — Vampire-flavored version of the Deathgreeter/Harvester of Souls job, but a sharper character. |
+| Old Flitterfang | {4}{B} | $0.37 | 9 | 7 | ADDED 2026-08-08 — "he's eating a cherry pie in his card picture." A rat-faerie scavenger who follows the party around, quietly picking up scraps after every death — makes Food whenever any creature at the table dies. A real Spectator, matches Leering Onlooker's register. |
 | Ayara, First of Locthwain | {B}{B}{B} | $9.85 | 9 | 9 | ADDED 2026-08-08 (Jamie's catch) — literally "First of Locthwain," ruler of the same house as Castle Locthwain and Court of Locthwain already in the deck. Drains 1 life on every black creature ETB (this deck runs many), sac-a-black-creature-for-a-card is a cheap repeatable draw engine feeding Korvold's sac plan directly. Fills the true final slot: 98 + Court of Locthwain + Ayara = 100 exactly, no cut needed. |
 | ~~Havoc Jester~~ | {4}{R} | $0.17 | 9 | 8 | CUT 2026-08-06 — lost the audition to Mayhem Devil (see below): same role, worse mechanics. |
 | Mayhem Devil | {1}{B}{R} | $0.30 | 8 | 9 | ⭐ Arlo's audition, 2026-08-06 — "the guest who keeps making cutting remarks until the room descends into chaos." Triggers on ANY player's sacrifice (not just yours), so he punishes opponents' own fetches/edicts too — half Havoc Jester's cost with strictly better utility. Won the seat. |
 | ~~Bello, Bard of the Brambles~~ | {1}{R}{G} | $1.82 | 8 | 7 | CUT 2026-08-07 (Jamie) — "a literal trash panda turning trashy artifacts into workhorses. While bard fits, I don't think he does." Right mechanics, wrong character for this room. |
-| Fíli and Kíli, Joyous | {2}{R} | $7.38 | 8 | 5 | A legendary Dwarf Bard DUO, "Joyous" is exactly the entertainer register. From The Hobbit (releases 2026-08-14). Mechanically narrow (Dwarf/Equipment/Saga-only mana), flag as flavor-forward not mechanics-forward. |
+| ~~Fíli and Kíli, Joyous~~ | {2}{R} | $7.38 | 8 | 5 | CUT 2026-08-06 — confirmed cut in both Claude's and Arlo's independent audits (see line 244 above); this row was stale/still showing live in error, corrected 2026-08-08. Mechanically narrow (Dwarf/Equipment/Saga-only mana), flavor-forward not mechanics-forward, never actually in the 98-card list. |
 
 ~~Rix Maadi Reveler~~ — cut, generic Ravnica flavor, no ballroom signal.
 ~~Merry Bards~~ — cut, reads as adventuring-party-campfire, not "performer hired
@@ -606,7 +622,7 @@ its payoff is Knight-count-gated and this deck has no Knight subtheme yet).
 |---|---|---|---|---|---|
 | ~~Wolfkin Outcast // Wedding Crasher~~ | {5}{G} | $0.26 | 10 | 7 | CUT 2026-08-07 (Jamie) — "I don't like the wolf." Passed the occasion guard cleanly (see 2026-08-06 note above) but didn't survive the final in-hand review. Simple, no further justification needed. |
 | Totentanz, Swarm Piper | {1}{B}{R} | $0.25 | 8 | 8 | A Pied-Piper entertainer whose music brings out Rats on ANY nontoken death — rhymes directly with Korvold's sac engine |
-| Insufferable Balladeer | {1}{R} | $0.11 | 7 | 5 | A bard whose "Vicious Mockery" goads a rival into a duel of honor |
+| ~~Insufferable Balladeer~~ | {1}{R} | $0.11 | 7 | 5 | CUT 2026-08-06 — confirmed cut in both Claude's and Arlo's independent audits (redundant with Voldaren Duelist, same "can't block" role, worse body; see line 244 above). This row was stale/still showing live in error, corrected 2026-08-08. Never actually in the 98-card list. |
 
 *(Custodi Lich moved to Tier 2 — The Court, above; Monarch is a political-power
 mechanic, not an entertainment one.)*
@@ -673,6 +689,8 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 | Chaos Warp | {2}{R} | $0.58 | Spell, exempt, hits anything incl. problem enchantments |
 | Feed the Swarm | {1}{B} | $0.33 | Spell, exempt |
 | Blasphemous Act | {8}{R} | $0.80 | REFRAMED 2026-08-08 (Jamie asked for a more thematic take) — this one didn't need swapping, just naming. A Sorcery, per Rule 16 it's "what just happened": THE fire. The chandelier finally falls, the whole hall catches, 13 damage to everything at the table at once. The name itself already carries a scandalous, taboo-act-in-a-sacred-space register — exactly this deck's tone. Checked alternatives (Inferno, Fire Tempest, Bloodfire Colossus); none beat its cost efficiency (as low as {R} in a full board) or its existing name. |
+| Taste of Death | {4}{B}{B} | $0.38 | ADDED 2026-08-08 — Spell, exempt, but a real scene per Rule 16: something happens at the banquet that forces every house to offer up three of their own attendants as a blood price, and what's left becomes the next course (3 Food). Symmetrical, shared-table horror rather than a one-sided wipe — fills the Mass Disruption gap (template target 6, deck sat at 2-3 before this). |
+| Dash Hopes | {B}{B} | $1.05 | ADDED 2026-08-08 (Jamie's ask — "a quick counterspell type thing but in the colors, we don't have blue") — Spell, exempt. The King's temper made mechanical: Korvold slams a hand on the table and the spell just stops existing, unless whoever cast it is willing to bleed 5 life to defy him and keep going. B/R/G has no true hard counter (that's blue's exclusive job) — this is the closest real thing, and the escape valve is thematically perfect: the host's word is law unless you're desperate enough to pay for it. |
 
 ~~Ravenous Chupacabra~~ — cut per Jamie's own instinct: a cryptid monster
 doesn't sit at a formal banquet, even though the card is mechanically great.
@@ -776,6 +794,7 @@ for a fancy affair, even on an otherwise-fine bounce-land.
 | The gardens | Rockfall Vale | $1.90 | Approaching through the manicured grounds |
 | The dark fairy-tale garden | Deathcap Glade | $2.18 | The overgrown, slightly sinister corner of the grounds |
 | The estate gates | Blackcleave Cliffs | $2.62 | Arriving at the manor proper |
+| The sister house | Castle Embereth | $0.29 | ADDED 2026-08-08 — the Embereth wing of the estate, sister house to Castle Locthwain. Real found location: Court of Embereth already has a castle counterpart just waiting to be added to the map. |
 | **THE BALLROOM** | **Castle Locthwain** | $4.48 | ⭐⭐⭐ The emotional center of the whole map (Arlo's review, 2026-08-06) — every other location on this list points here. Deliberate splurge, worth it for the flavor: draws cards for life late-game, literally where the banquet is held. |
 | The family crypt | Woodland Cemetery | $0.59 | Every noble house has one |
 | The bog behind the manor | Bojuka Bog | $0.50 | The swampy, unglamorous edge of the property; also graveyard hate |
@@ -953,14 +972,139 @@ in that set).
 ---
 
 ## 🚀 Future Roadmap: Upgrades & Considerations
+Added 2026-08-08, after the deck was finalized at 100 cards. These are real,
+Scryfall-verified candidates for later passes — nothing here is added to the
+deck yet, this is a shopping list for "if price/power were pushed further,"
+per Jamie's earlier question about upgrading without compromising theme.
+None of these break Bracket 3 — all are commons/uncommons-in-power-level
+except where noted, no Game Changers among them.
 
 ### 💡 High-Impact Tech to Consider
-*TBD once the initial list is built.*
+
+**Mass Disruption (the real gap — 3/6 vs. template, biggest opportunity):**
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Toxic Deluge | {2}{B} | $4.02 | A real wipe, scalable (pay X life for -X/-X) — the host clearing the room himself, at his own cost. Passes the guest-test as an event, not a person. |
+| The Meathook Massacre | {X}{B}{B} | $27.43 | Previously cut on price alone (over the $20 "no chase cards" line) — the single best aristocrats payoff in black, worth reconsidering only if the price rule is ever relaxed. Flagging, not recommending yet. |
+
+**Targeted Disruption upgrades (efficiency, not new roles):**
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Fatal Push | {B} | $0.77 | Cheapest real removal in the pool — would let a slower piece (Vicious Offering, Feed the Swarm) rotate out for a strict efficiency upgrade. |
+| Bloodchief's Thirst | {B} | $0.25 | Kicker removal, scales into the late game — same slot logic as Fatal Push. |
+| Damn | {B}{B} | $1.97 | Unconditional creature kill at instant... sorcery speed with upside if ever a W splash happened (it won't) — still a clean black removal upgrade on its own. |
+
+**Aristocrats payoffs (more "the room reacts when someone dies" bodies):**
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Blood Artist | {1}{B} | $2.90 | THE aristocrats namesake — a court painter documenting every death for a fee. Direct upgrade candidate for Whispering Snitch's slot (weakest fit per the ranking pass). |
+| Zulaport Cutthroat | {1}{B} | $1.37 | Same drain-on-any-death effect as Blood Artist, different character — "the assassin who takes a cut no matter whose blade did the work." |
+| Vindictive Vampire | {3}{B} | $0.34 | A real Vampire, same drain-on-death job with a body that can also block — worth a look against Greater Harvester's self-punishing upkeep cost. |
+
+**Mana base upgrades (if pure power, not budget, becomes the goal):**
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| Bloodstained Mire | Fetch | $17.74 | Fetches Swamp or Mountain — real shuffle-effect fixing, upgrade over any tapped dual. |
+| Verdant Catacombs | Fetch | $27.62 | Fetches Swamp or Forest — same logic, pricier. |
+| Deathrite Shaman | {B/G} | $7.66 | A real 1-mana value engine (graveyard hate + mana + drain), but changes the deck's speed meaningfully — flag for a "goldfish it first" conversation, not a drop-in. |
+
+**Flagged, not confirmed (from earlier sessions, still genuinely undecided):**
+| Card | Cost | Price | Note |
+|---|---|---|---|
+| The Golden Throne | {4} | $9.81 | A King's throne (not a god's) — sac-a-creature-for-3-mana, real ramp AND ties directly to Korvold's own sacrifice plan. Never formally rejected, just parked. |
+| Sword of Feast and Famine | {3} | $40.11 | Cut on price alone originally — strong flavor fit (an equipment that untaps lands on hit, feeds right back into the sac plan), only relevant if the price rule is ever pushed past chase-card territory. |
 
 ### 🛒 Active Acquisition List (Priority Swaps)
 | **New Card (In)** | **Card to Remove (Out)** | **Category** | **Status** |
 | :--- | :--- | :--- | :--- |
-| | | | |
+| Blood Artist | Whispering Snitch | Plan Cards | Candidate — Snitch ranked weakest-fit in the 2026-08-08 pass |
+| Toxic Deluge | Grim Feast | Mass Disruption swap | Candidate — closes the Mass Disruption template gap (3→4) |
+| Fatal Push | Vicious Offering | Targeted Disruption | Candidate — pure efficiency upgrade, same role |
+
+---
+
+## 🛍️ Cards to Purchase (not yet in Jamie's collection)
+Cross-referenced the finalized 100-card list against `collection.csv`
+(2026-08-08). **11 of 79 unique nonbasic cards are already owned** (Castle
+Embereth, Command Tower, Commander's Sphere, Dragonskull Summit, Exotic
+Orchard, Foreboding Ruins, Jungle Hollow, Nature's Lore, Night's Whisper,
+Path of Ancestry, Rogue's Passage). Basics (Forest/Mountain/Swamp) assumed
+already on hand, not priced.
+
+**68 cards still needed.** Live Manapool pricing pulled via
+`scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
+2026-08-08) — **total: $76.64.** All 68 confirmed in stock, nothing missing.
+
+| Price | Condition | Card | Manapool Link |
+|---|---|---|---|
+| $7.88 | NM | Ayara, First of Locthwain | https://manapool.com/card/eld/75/ayara-first-of-locthwain |
+| $7.30 | NM | Grim Feast | https://manapool.com/card/mir/265/grim-feast |
+| $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
+| $5.80 | NM (Foil) | Rings of Brighthearth | https://manapool.com/card/cmr/335/rings-of-brighthearth |
+| $5.75 | NM | Court of Embereth | https://manapool.com/card/woc/24/court-of-embereth |
+| $4.90 | NM | Crown of Doom | https://manapool.com/card/c14/55/crown-of-doom |
+| $4.25 | NM | Captive Audience | https://manapool.com/card/rna/160/captive-audience |
+| $3.75 | NM | Vraska, Golgari Queen | https://manapool.com/card/grn/213/vraska-golgari-queen |
+| $3.48 | NM | Phyrexian Arena | https://manapool.com/card/fdn/180/phyrexian-arena |
+| $3.30 | NM | Castle Locthwain | https://manapool.com/card/eld/241/castle-locthwain |
+| $2.75 | NM | Rockfall Vale | https://manapool.com/card/tdc/387/rockfall-vale |
+| $2.00 | NM | Grave Betrayal | https://manapool.com/card/rtr/67/grave-betrayal |
+| $1.69 | NM | Greater Harvester | https://manapool.com/card/dst/44/greater-harvester |
+| $1.58 | NM | Deathcap Glade | https://manapool.com/card/sos/253/deathcap-glade |
+| $1.50 | NM | Cascading Cataracts | https://manapool.com/card/eos/5/cascading-cataracts |
+| $0.99 | NM | Bojuka Bog | https://manapool.com/card/tdc/341/bojuka-bog |
+| $0.80 | NM | Blackcleave Cliffs | https://manapool.com/card/one/248/blackcleave-cliffs |
+| $0.73 | NM | Dash Hopes | https://manapool.com/card/plc/68/dash-hopes |
+| $0.62 | NM | Blasphemous Act | https://manapool.com/card/blc/114/blasphemous-act |
+| $0.62 | NM | Harvester of Souls | https://manapool.com/card/j25/453/harvester-of-souls |
+| $0.58 | NM | Marchesa's Decree | https://manapool.com/card/plst/cn2-44/marchesas-decree |
+| $0.50 | NM | Chromatic Lantern | https://manapool.com/card/tmc/58/chromatic-lantern |
+| $0.43 | NM | Rapacious Guest | https://manapool.com/card/ltc/28/rapacious-guest |
+| $0.41 | NM | Woodland Cemetery | https://manapool.com/card/dsc/326/woodland-cemetery |
+| $0.40 | NM (Foil) | Strefan, Maurer Progenitor | https://manapool.com/card/voc/2/strefan-maurer-progenitor |
+| $0.38 | NM | Falkenrath Aristocrat | https://manapool.com/card/2xm/195/falkenrath-aristocrat |
+| $0.35 | NM | Custodi Lich | https://manapool.com/card/ncc/244/custodi-lich |
+| $0.35 | NM | Old Flitterfang | https://manapool.com/card/woe/316/old-flitterfang |
+| $0.34 | NM | High Market | https://manapool.com/card/fic/402/high-market |
+| $0.32 | NM | Farseek | https://manapool.com/card/msc/173/farseek |
+| $0.32 | NM | Taste of Death | https://manapool.com/card/c21/156/taste-of-death |
+| $0.31 | NM | Anje, Maid of Dishonor | https://manapool.com/card/vow/231/anje-maid-of-dishonor |
+| $0.28 | NM | Cultivate | https://manapool.com/card/msc/172/cultivate |
+| $0.25 | NM | Arcane Signet | https://manapool.com/card/voc/159/arcane-signet |
+| $0.25 | NM | Chaos Warp | https://manapool.com/card/drc/48/chaos-warp |
+| $0.23 | NM | Mosswort Bridge | https://manapool.com/card/dsc/288/mosswort-bridge |
+| $0.23 | NM | Vampire Socialite | https://manapool.com/card/mid/249/vampire-socialite |
+| $0.22 | NM | Korvold, Fae-Cursed King | https://manapool.com/card/eoc/120/korvold-fae-cursed-king |
+| $0.21 | NM | Deathgreeter | https://manapool.com/card/plst/ddd-33/deathgreeter |
+| $0.19 | NM | Sakura-Tribe Elder | https://manapool.com/card/c19/177/sakura-tribe-elder |
+| $0.15 | NM (Foil) | Belligerent Guest | https://manapool.com/card/vow/144/belligerent-guest |
+| $0.15 | NM | Deadly Dispute | https://manapool.com/card/afr/94/deadly-dispute |
+| $0.15 | NM (Foil) | Extract a Confession | https://manapool.com/card/mkm/84/extract-a-confession |
+| $0.15 | NM | Falkenrath Celebrants | https://manapool.com/card/plst/vow-156/falkenrath-celebrants |
+| $0.15 | NM | Falkenrath Noble | https://manapool.com/card/lcc/196/falkenrath-noble |
+| $0.15 | NM | Feast of Succession | https://manapool.com/card/cmm/158/feast-of-succession |
+| $0.15 | NM | Feed the Swarm | https://manapool.com/card/tle/257/feed-the-swarm |
+| $0.15 | NM (Foil) | Gluttonous Guest | https://manapool.com/card/vow/114/gluttonous-guest |
+| $0.15 | NM | Goddric, Cloaked Reveler | https://manapool.com/card/woe/347/goddric-cloaked-reveler |
+| $0.15 | NM (Foil) | High-Society Hunter | https://manapool.com/card/fdn/61/high-society-hunter |
+| $0.15 | NM | Juri, Master of the Revue | https://manapool.com/card/eoc/119/juri-master-of-the-revue |
+| $0.15 | NM (Foil) | Leering Onlooker | https://manapool.com/card/mkm/91/leering-onlooker |
+| $0.15 | NM | Mayhem Devil | https://manapool.com/card/plst/war-204/mayhem-devil |
+| $0.15 | NM (Foil) | Popular Egotist | https://manapool.com/card/dsk/114/popular-egotist |
+| $0.15 | NM | Putrefy | https://manapool.com/card/dgm/93/putrefy |
+| $0.15 | NM (Foil) | Rampant Growth | https://manapool.com/card/sos/162/studious-first-year-rampant-growth |
+| $0.15 | NM | Shadowblood Ridge | https://manapool.com/card/m3c/373/shadowblood-ridge |
+| $0.15 | NM | Skyfisher Spider | https://manapool.com/card/bro/221/skyfisher-spider |
+| $0.15 | NM | Stensia Masquerade | https://manapool.com/card/voc/150/stensia-masquerade |
+| $0.15 | NM | Terminate | https://manapool.com/card/ecc/134/terminate |
+| $0.15 | NM | Thorn of the Black Rose | https://manapool.com/card/cmr/154/thorn-of-the-black-rose |
+| $0.15 | NM | Timothar, Baron of Bats | https://manapool.com/card/lcc/210/timothar-baron-of-bats |
+| $0.15 | NM (Foil) | Totentanz, Swarm Piper | https://manapool.com/card/woe/216/totentanz-swarm-piper |
+| $0.15 | NM | Tribute to Hunger | https://manapool.com/card/fdn/614/tribute-to-hunger |
+| $0.15 | NM (Foil) | Vampire Gourmand | https://manapool.com/card/fdn/74/vampire-gourmand |
+| $0.15 | NM (Foil) | Vicious Offering | https://manapool.com/card/dom/110/vicious-offering |
+| $0.15 | NM | Village Rites | https://manapool.com/card/khm/117/village-rites |
+| $0.15 | NM | Whispering Snitch | https://manapool.com/card/mkc/144/whispering-snitch |
 
 ---
 
@@ -979,6 +1123,40 @@ in that set).
     Wasitora, Nekoru Queen (too close to a second predator/rival dragon) and
     Savra, Queen of the Golgari (too fragile, redundant with Korvold's own
     trigger). New litmus test: "who receives an invitation?"
+*   **2026-08-08:** Final reconciliation to exactly 100 cards, legal. Ran full
+    ranking pass (combined flavor + mechanics score) against the whole list,
+    then cross-checked every narrative-table row against the actual DECK list
+    to catch stale entries (Fíli and Kíli, Joyous and Insufferable Balladeer
+    were both already-confirmed 2026-08-06 cuts still shown live in error —
+    corrected).
+    - **In:** High-Society Hunter, Old Flitterfang, Castle Embereth, Vampire
+      Gourmand, Taste of Death, Dash Hopes.
+    - **Out:** Tromell, Seymour's Butler (optional/non-locked, counters+proliferate
+      never touched the sac/drain plan); Voldaren Duelist (one-shot combat
+      trick, no engine recursion); Rogues' Gallery (rarely-live in a 3-color
+      deck); Read the Bones (redundant with Night's Whisper/Phyrexian Arena);
+      Malevolent Chandelier ("we got rid of the fire so having one piece
+      doesn't make sense" — Jamie, after Blasphemous Act's fire-themed reframe
+      made a lone chandelier a scene with nothing left to belong to).
+    - **Reason:** Get to exactly 100/legal while keeping every engine piece;
+      cuts targeted redundant/thin mechanics, adds filled real gaps (Mass
+      Disruption via Taste of Death, a Vampire-flavored counter-effect via
+      Dash Hopes since B/R/G has no true hard counter).
+    - Ran full Mark's-checklist battery: 100-card singleton ✅, all cards
+      verified via `scripts/scryfall_lookup.py` ✅, color identity clean
+      (zero W/U symbols in cost or oracle text anywhere) ✅, 0 Game Changers
+      (cap 3) ✅, 0 banned cards ✅, no MLD/extra-turns/2-card infinites ✅.
+      **Bracket: 3 — Upgraded.** Category ratios vs. template: Lands 39/38
+      (+1, from Castle Embereth, accepted deviation), Ramp 8/10, Card
+      Advantage 8/12 (deliberate — Korvold's own sac-draw loop covers part
+      of this), Targeted Disruption 9/12, Mass Disruption 3/6 (still the
+      biggest real gap), Plan Cards 32/31, Commander 1/1.
+    - Triple Update completed: README DECK list + Plain Text section
+      rewritten and verified at exactly 100; `moxfield_import.txt` created
+      standalone for the first time.
+    - **Still open:** Goldfish simulation (20 sims/10 turns) not yet run
+      against the finalized list; land count sits 1 over the 38 template
+      target and has not been trimmed.
 
 ---
 
@@ -1000,6 +1178,17 @@ Arlo's steal-risk-as-feature defense didn't win out against Jamie's own
 read). **103 − 5 = 98 + Korvold = 99, legal.** Two cards under the 99-card
 deck limit, giving breathing room rather than landing exactly on the wire.
 
+**RECONCILED 2026-08-08 — final 100, verified.** Jamie's own final Forge
+review, plus this session's cuts (Tromell, Voldaren Duelist, Rogues'
+Gallery, Read the Bones, Malevolent Chandelier — all mechanically
+redundant or thematically thin per the ranking pass) and adds
+(High-Society Hunter, Old Flitterfang, Castle Embereth, Vampire Gourmand,
+Taste of Death, Dash Hopes). Every card verified via `scripts/scryfall_lookup.py`,
+zero white/blue mana symbols anywhere (clean Jund color identity), zero
+Game Changers, zero banned cards. Bracket 3 — Upgraded. 39 lands (1 over
+the 38 template target, from Castle Embereth — accepted deviation, not
+yet trimmed).
+
 COMMANDER:  
 1 Korvold, Fae-Cursed King  
 
@@ -1016,14 +1205,12 @@ DECK:
 1 Vampire Socialite  
 1 Strefan, Maurer Progenitor  
 1 Timothar, Baron of Bats  
-1 Tromell, Seymour's Butler  
 1 Goddric, Cloaked Reveler  
 1 Falkenrath Celebrants  
 1 Ayara, First of Locthwain  
 1 Stensia Masquerade  
 1 Mayhem Devil  
 1 Whispering Snitch  
-1 Voldaren Duelist  
 1 Grave Betrayal  
 1 Extract a Confession  
 1 Captive Audience  
@@ -1050,20 +1237,22 @@ DECK:
 1 Village Rites  
 1 Deadly Dispute  
 1 Night's Whisper  
-1 Read the Bones  
 1 Phyrexian Arena  
+1 Dash Hopes  
 1 Terminate  
 1 Putrefy  
 1 Skyfisher Spider  
 1 Chaos Warp  
 1 Feed the Swarm  
 1 Blasphemous Act  
-1 Malevolent Chandelier  
+1 Taste of Death  
 1 Rings of Brighthearth  
 1 Crown of Doom  
 1 Leering Onlooker  
-1 Rogues' Gallery  
 1 Thorn of the Black Rose  
+1 High-Society Hunter  
+1 Old Flitterfang  
+1 Vampire Gourmand  
 1 High Market  
 1 Shadowblood Ridge  
 1 Dragonskull Summit  
@@ -1073,6 +1262,7 @@ DECK:
 1 Deathcap Glade  
 1 Blackcleave Cliffs  
 1 Castle Locthwain  
+1 Castle Embereth  
 1 Woodland Cemetery  
 1 Bojuka Bog  
 1 Command Tower  
