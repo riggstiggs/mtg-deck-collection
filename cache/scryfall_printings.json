@@ -2709,5 +2709,51 @@
       "3c409d1e-f634-44a2-8fcf-dcdcb0babc3f"
     ],
     "cached_at": 1786199162.3346987
+  },
+  "sengir, the dark baron": {
+    "ids": [
+      "4e44b5ff-450b-4345-902e-5721af142cdb",
+      "24d6256a-42b5-40f8-92e6-878d7002768f",
+      "4d51a22e-74fc-442e-945a-56d02ca12713"
+    ],
+    "cached_at": 1786202626.1201508
+  },
+  "bloodtithe harvester": {
+    "ids": [
+      "13c555ad-44c9-458c-8f65-6b7b4b5d70ea",
+      "5d0fb1bd-5020-45b7-8046-c586e3056058",
+      "01182501-2b50-4b87-835a-fea3c5e6e330",
+      "ae4aec0d-c853-44e6-9f51-cbecf413ea14",
+      "f0192cf7-3391-4720-b9c8-72dec5dde01e",
+      "0c95e4b1-2fa8-420d-8c55-f74badb2bafa"
+    ],
+    "cached_at": 1786202628.023982
+  },
+  "champion of dusk": {
+    "ids": [
+      "a0009f87-532b-4b75-b9ce-fb9d93c7671f",
+      "507a4fb1-d27b-4393-9eed-48fe05b367d8",
+      "24961417-0a22-4eb3-8b90-e26cd2b738ba",
+      "5fa1674a-86cc-4fdf-8671-860b2bf5043d"
+    ],
+    "cached_at": 1786202629.067311
+  },
+  "indulgent aristocrat": {
+    "ids": [
+      "37f6200d-caaf-49ca-b021-48186e404ace",
+      "07015524-874f-4856-a5c1-3148bd126886",
+      "296e4dc6-6997-4c4a-8137-c0835b44a1c9",
+      "fc9ea34e-0a89-42e7-a1b2-575c201a837b",
+      "f24200d4-cd98-424c-bc2f-69f8b361d8fc"
+    ],
+    "cached_at": 1786202630.058571
+  },
+  "patron of the vein": {
+    "ids": [
+      "0a403dbd-c127-4e3f-892f-f0950d92228a",
+      "a70d7b65-77d0-41d3-9735-d64b9288fde1",
+      "e27db39c-c4b8-46b9-afe6-1737841bdad6"
+    ],
+    "cached_at": 1786202631.5001771
   }
 }

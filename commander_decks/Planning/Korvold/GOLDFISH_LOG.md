@@ -72,3 +72,46 @@ AGGREGATE
   intended bracket. Land count (39, +1 over the 38 template target from
   Castle Embereth) did not appear to cause any observable stall pattern in
   this run.
+
+## 2026-08-08 (later) — Post mechanical/thematic upgrade pass (5 swaps, 20 sims, T10 turns)
+
+**Context:** Ran after swapping Timothar/Goddric/Whispering Snitch/Grim
+Feast/Leering Onlooker for Sengir the Dark Baron/Bloodtithe
+Harvester/Champion of Dusk/Indulgent Aristocrat/Patron of the Vein. Also
+ran a manual pip-count check first: 61 of 86 total colored pips (71%) are
+black, against 26 black sources (lands + rocks) out of 39 lands — flagged
+as a real ratio concern given several new/existing double-black costs
+(Ayara {B}{B}{B}, Sengir {B}{B}, Patron {B}{B}, Champion {B}{B}, Custodi
+Lich/Harvester of Souls/Feast of Succession/Greater Harvester all BB+).
+Goldfished to see if it shows up as an actual stall pattern.
+
+**Command:**
+```
+python3 scripts/multiplayer_goldfish.py <temp moxfield file, 5-swap list> --sims 20 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 76/80 (95%)
+Range: T2 - T10
+Average: T4.7
+Distribution: T2(2) T3(10) T4(30) T5(20) T6(6) T7(3) T8(3) T9(1) T10(1)
+Avg creatures per seat (end T10): 4.6
+```
+
+**Notes:**
+- Statistically unchanged from the pre-swap run (96%/T4.8 -> 95%/T4.7,
+  within simulation noise). The five swaps did not introduce an observable
+  regression in commander deployment speed or mana stability at this
+  sample size.
+- The black-heavy pip ratio (0.43 black sources per black pip demanded,
+  vs. 1.12 for red and 2.38 for green) is a real structural imbalance that
+  this simulator's model isn't sensitive enough to flag directly — it
+  checks land-drop consistency and color availability in aggregate, not
+  specifically whether double-black costs (BB/BBB) come together on
+  curve. Treat this goldfish result as reassuring on overall mana
+  stability, not as a complete answer to the double-black-cost question.
+  If real games show black-mana stumbles turns 4-6, the fix is likely
+  more Swamps relative to Mountain/Forest (green in particular is very
+  light on actual demand at only 8 pips total across the 100-card list).
+- No other red flags.

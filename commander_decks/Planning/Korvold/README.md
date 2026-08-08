@@ -539,7 +539,8 @@ Tiers 1-4, she draws the line herself):**
 |---|---|---|---|---|---|
 | ~~Olivia, Crimson Bride~~ | {4}{B}{R} | $8.13 | ❌ | 9 | CUT per Jamie 2026-08-06 — "bride" pulls the flavor toward an actual wedding occasion. "Red Wedding" meant the people-at-the-table massacre energy, not a literal bridal theme. |
 | Strefan, Maurer Progenitor | {2}{B}{R} | $6.77 | 8 | 8 | Founding patriarch of a vampire house — Blood on anyone losing life, cheats Vampires into play tapped/attacking |
-| Timothar, Baron of Bats | {4}{B}{B} | $1.68 | 7 | 7 | A proper Baron — turns dying Vampire nobles into recurring bats |
+| ~~Timothar, Baron of Bats~~ | {4}{B}{B} | $1.68 | 7 | 7 | SWAPPED 2026-08-08 (upgrade pass) — thin payoff, only triggers on Vampires specifically dying. |
+| Sengir, the Dark Baron | {4}{B}{B} | $0.33 | 8 | 9 | ADDED 2026-08-08 (replacing Timothar) — same "Baron" title, same vampire-noble register, one of Magic's oldest vampire lords. Grows +2/+2 on ANY creature death (not just his own kills), real flying body, big late-game payoff on an opponent's elimination. |
 
 **Checked against Jamie's own ManaPool API inventory (snapshot 2026-07-31,
 ~2,895 rows) as inspiration, not a constraint:**
@@ -572,7 +573,8 @@ else, doesn't get a reserved seat just for being "the service card."
 ### 🎭 Entertainment / Revelers / Celebration — RE-AUDITED against Bridgerton/GoT register
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Goddric, Cloaked Reveler | {1}{R}{R} | $0.27 | 8 | 6 | A masked noble at the masquerade, transforms when the party turns — pairs with Grand Ball Guest |
+| ~~Goddric, Cloaked Reveler~~ | {1}{R}{R} | $0.27 | 8 | 6 | SWAPPED 2026-08-08 (upgrade pass) — transform condition (2+ nonland permanents same turn) rarely lines up in a sac-heavy deck. |
+| Bloodtithe Harvester | {B}{R} | $0.25 | 8 | 8 | ADDED 2026-08-08 (replacing Goddric) — a court tax-collector who shows up right when blood's already being spilled. Cheap curve-filler, makes a Blood token (direct Korvold sac fuel), and can later sac itself for scalable removal. |
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
 | High-Society Hunter | {3}{B}{B} | $0.33 | 9 | 8 | ADDED 2026-08-08 (Jamie's session, real-vampire check) — "feels like they would be at the table much more than the others." A guest hunting other guests socially and literally, seated at the table itself, not a background watcher. Draws on any nontoken death — Vampire-flavored version of the Deathgreeter/Harvester of Souls job, but a sharper character. |
 | Old Flitterfang | {4}{B} | $0.37 | 9 | 7 | ADDED 2026-08-08 — "he's eating a cherry pie in his card picture." A rat-faerie scavenger who follows the party around, quietly picking up scraps after every death — makes Food whenever any creature at the table dies. A real Spectator, matches Leering Onlooker's register. |
@@ -595,7 +597,8 @@ belong if it depicts a person (cold, politically necessary, an outcast who has
 to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
-| Whispering Snitch | {1}{B} | $0.28 | 9 | 6 | A literal gossip/tattletale, pings opponents on surveil |
+| ~~Whispering Snitch~~ | {1}{B} | $0.28 | 9 | 6 | SWAPPED 2026-08-08 (upgrade pass) — slowest incremental damage source in the deck, no real synergy. |
+| Champion of Dusk | {3}{B}{B} | $0.27 | 9 | 8 | ADDED 2026-08-08 (replacing Whispering Snitch) — a Vampire Knight who reads the room on arrival: draws a card for every Vampire already seated (a big cluster in this deck), at the cost of some life. A real burst-draw spike from a named tribal character, not a slow ping. |
 | ~~Scandalmonger~~ | {3}{B} | $0.30 | 9 | 5 | CUT 2026-08-07 (Jamie) — "there's no point in me having card draw if people are going to use my own card against me." The shared-activation clause is a real liability, not just flavor. |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
@@ -638,7 +641,8 @@ Harvest/Feast search carried this tier instead.
 | Stensia Masquerade | {2}{R} | $0.32 | 10 | 8 | ADDED 2026-08-08 (Jamie's find) — Stensia is literally the vampire homeland/region in Innistrad's lore, so this isn't just vampire-flavored, it's THE vampire court's own masquerade ball. Grants all attackers first strike (real combat value) and grows any Vampire that connects — direct payoff for the deck's real Vampire cluster (Belligerent/Gluttonous Guest, Vampire Socialite, both Falkenraths, Strefan, Anje, Ayara). No drawback, unlike Master of the Feast. |
 | Feast of Succession | {4}{B}{B} | $0.25 | 8 | 7 | Board wipe + become Monarch — the old order dies, new power rises at the table |
 | Greater Harvester | {2}{B}{B}{B} | $1.72 | 8 | 7 | Sac-upkeep-or-else, punishes combat damage with double sacrifice — the Reaper working the feast |
-| Grim Feast | {1}{B}{G} | $7.77 | 8 | 7 | Gains life whenever ANY creature dies (yours OR opponents') — feasting on the carnage of the whole table, not just your own board |
+| ~~Grim Feast~~ | {1}{B}{G} | $7.77 | 8 | 7 | SWAPPED 2026-08-08 (upgrade pass) — real lifegain, but no feedback into the sac engine, a nice-to-have without a hook. |
+| Indulgent Aristocrat | {B} | $0.29 | 6 | 6 | ADDED 2026-08-08 (replacing Grim Feast) — a Vampire Noble, lifelink, sac-a-creature-for-counters-on-every-Vampire. Previously cut on 2026-08-06 as redundant with the two Falkenraths, but re-added here for a different job (cheap counter-feeder, not aristocrat-payoff) — Jamie's call. |
 
 **Running total: 28 candidates kept, most under $0.50, with a handful of
 pricier picks scattered through (Vraska $6.22, Master of the Feast $5.91, Grim
@@ -743,7 +747,8 @@ point — some of those may be interchangeable and worth trimming.
 | ~~Throne of the God-Pharaoh~~ | {2} | $6.80 | 🏛️ Prop, MAYBE | Considered, not decided. Ruled OUT specifically as a god's throne (Korvold isn't a god), the one throne genuinely wrong for this seat. Drains life equal to tapped creatures each end step — cheap, real reach if reconsidered. |
 | The Golden Throne | {4} | $9.81 | 🏛️ Prop, MAYBE | Considered, not decided — a King's throne (not a god's), so the earlier objection doesn't apply. Genuinely regal + grim: a game-saving life-total safety net, and a sac-outlet mana rock feeding Korvold directly. |
 | Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
-| Leering Onlooker | {1}{B} | $0.18 | 👀 Spectator | THE onlooker — watching from the corner, converts to flying Bats on death |
+| ~~Leering Onlooker~~ | {1}{B} | $0.18 | 👀 Spectator | SWAPPED 2026-08-08 (upgrade pass) — slow, expensive one-shot graveyard ability, thin value. |
+| Patron of the Vein | {4}{B}{B} | $0.34 | 👑 Court | ADDED 2026-08-08 (replacing Leering Onlooker) — a wealthy court sponsor who grows stronger backing the family as rivals fall. Real ETB removal (destroy target opponent creature), then every opponent-creature death afterward buffs the whole Vampire cluster with permanent counters. A promotion in standing, not just stats. |
 | Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving. ⚠ Arlo's review, 2026-08-06: mechanically fine, doing the right job, but "feels pleasant" next to a cast full of dramatic tension — reads like an NPC. Not cut, but flagged: keep an eye open for someone whose entrance is more memorable, per the Camera test. |
 | Rogues' Gallery | {2}{B} | $0.15 | 🏛️ Location | The estate's gallery — recovers a fallen guest of any color to your hand |
 | Thorn of the Black Rose | {3}{B} | $0.13 | 🎭 Character | ✅ KEPT per Jamie 2026-08-06 — not a hitman, a societal outcast noble who's required at the table for political reasons. The family invites her because NOT inviting her would be its own scandal — "the Thorn" is what they call her behind her back. The Assassin type is flavor irony, not a literal murder card. Becomes Monarch on ETB (she quietly takes the room's attention the moment she arrives). |
@@ -1051,19 +1056,18 @@ already flagged as needed if it's a recent set.
 > (still legal Jund mana, still 39 total lands, basics now 9 Swamp/4
 > Mountain/6 Forest = 19, nonbasics now 20).
 
-**68 cards still needed.** Live Manapool pricing pulled via
+**66 cards still needed.** Live Manapool pricing pulled via
 `scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $90.24** (updated after the full land-tax audit
-plus the Phyrexian Arena → Dark Prophecy swap: removed Rockfall
-Vale/Deathcap Glade/Shadowblood Ridge/Jungle Hollow/Phyrexian Arena, added
-Necroblossom Snarl/Turbulent Fen/Cinder Glade/Luxury Suite/Dark Prophecy).
-All confirmed in stock.
+2026-08-08) — **total: $83.11** (updated after the mechanical/thematic
+upgrade pass: removed Timothar/Goddric/Whispering Snitch/Grim
+Feast/Leering Onlooker, added Sengir the Dark Baron/Bloodtithe
+Harvester/Champion of Dusk/Indulgent Aristocrat/Patron of the Vein — all
+five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
 | $8.36 | NM | Luxury Suite | https://manapool.com/card/msc/252/luxury-suite |
 | $7.88 | NM | Ayara, First of Locthwain | https://manapool.com/card/eld/75/ayara-first-of-locthwain |
-| $7.30 | NM | Grim Feast | https://manapool.com/card/mir/265/grim-feast |
 | $6.51 | NM | Turbulent Fen | https://manapool.com/card/sos/419/turbulent-fen |
 | $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
 | $6.17 | NM | Dark Prophecy | https://manapool.com/card/m14/93/dark-prophecy |
@@ -1111,10 +1115,13 @@ All confirmed in stock.
 | $0.15 | NM | Feast of Succession | https://manapool.com/card/cmm/158/feast-of-succession |
 | $0.15 | NM | Feed the Swarm | https://manapool.com/card/tle/257/feed-the-swarm |
 | $0.15 | NM (Foil) | Gluttonous Guest | https://manapool.com/card/vow/114/gluttonous-guest |
-| $0.15 | NM | Goddric, Cloaked Reveler | https://manapool.com/card/woe/347/goddric-cloaked-reveler |
+| $0.17 | NM | Patron of the Vein | https://manapool.com/card/voc/135/patron-of-the-vein |
 | $0.15 | NM (Foil) | High-Society Hunter | https://manapool.com/card/fdn/61/high-society-hunter |
 | $0.15 | NM | Juri, Master of the Revue | https://manapool.com/card/eoc/119/juri-master-of-the-revue |
-| $0.15 | NM (Foil) | Leering Onlooker | https://manapool.com/card/mkm/91/leering-onlooker |
+| $0.15 | NM (Foil) | Sengir, the Dark Baron | https://manapool.com/card/cmr/722/sengir-the-dark-baron |
+| $0.15 | NM | Bloodtithe Harvester | https://manapool.com/card/vow/310/bloodtithe-harvester |
+| $0.15 | NM | Champion of Dusk | https://manapool.com/card/voc/124/champion-of-dusk |
+| $0.15 | NM (Foil) | Indulgent Aristocrat | https://manapool.com/card/inr/118/indulgent-aristocrat |
 | $0.15 | NM | Mayhem Devil | https://manapool.com/card/plst/war-204/mayhem-devil |
 | $0.15 | NM (Foil) | Popular Egotist | https://manapool.com/card/dsk/114/popular-egotist |
 | $0.15 | NM | Putrefy | https://manapool.com/card/dgm/93/putrefy |
@@ -1123,13 +1130,11 @@ All confirmed in stock.
 | $0.15 | NM | Stensia Masquerade | https://manapool.com/card/voc/150/stensia-masquerade |
 | $0.15 | NM | Terminate | https://manapool.com/card/ecc/134/terminate |
 | $0.15 | NM | Thorn of the Black Rose | https://manapool.com/card/cmr/154/thorn-of-the-black-rose |
-| $0.15 | NM | Timothar, Baron of Bats | https://manapool.com/card/lcc/210/timothar-baron-of-bats |
 | $0.15 | NM (Foil) | Totentanz, Swarm Piper | https://manapool.com/card/woe/216/totentanz-swarm-piper |
 | $0.15 | NM | Tribute to Hunger | https://manapool.com/card/fdn/614/tribute-to-hunger |
 | $0.15 | NM (Foil) | Vampire Gourmand | https://manapool.com/card/fdn/74/vampire-gourmand |
 | $0.15 | NM (Foil) | Vicious Offering | https://manapool.com/card/dom/110/vicious-offering |
 | $0.15 | NM | Village Rites | https://manapool.com/card/khm/117/village-rites |
-| $0.15 | NM | Whispering Snitch | https://manapool.com/card/mkc/144/whispering-snitch |
 
 ---
 
@@ -1237,6 +1242,40 @@ All confirmed in stock.
       but was still showing live in the Draw/Value table — struck through
       and corrected.
     - Cards to Purchase total updated: $87.55 → $90.24.
+*   **2026-08-08 (mechanical/thematic upgrade pass):** Jamie asked for
+    specific upgrade ideas that had to pass BOTH tests — mechanically
+    better AND a real named character, not an abstract force/title (two
+    earlier proposals, Braids/Arbiter of Woe/Crossway Troublemakers, were
+    rejected on exactly this point: "these don't feel like names that
+    would be invited to the table"). Re-searched with that constraint
+    explicit and found five clean swaps, all real named nobility/court
+    figures.
+    - **In:** Sengir, the Dark Baron (replacing Timothar — same Baron
+      title/register, grows on ANY creature death not just his own kills,
+      cheaper); Bloodtithe Harvester (replacing Goddric — cheap curve
+      Vampire, Blood token feeds Korvold's sac plan, scalable removal
+      later); Champion of Dusk (replacing Whispering Snitch — burst draw
+      scaling with the deck's real Vampire cluster); Indulgent Aristocrat
+      (replacing Grim Feast — cheap Vampire body, sac-for-counters;
+      previously cut 2026-08-06 as redundant with the two Falkenraths, but
+      re-added for a different job this time); Patron of the Vein
+      (replacing Leering Onlooker — real ETB removal, then permanent
+      counter-buff to the whole Vampire cluster on every opponent death
+      after).
+    - **Out:** Timothar Baron of Bats, Goddric Cloaked Reveler, Whispering
+      Snitch, Grim Feast, Leering Onlooker — all previously flagged as
+      weakest-fit in the 2026-08-08 ranking pass.
+    - Ran a manual pip-count check before goldfishing: 71% of the deck's
+      colored pips are black against only 26 of 39 lands producing it —
+      flagged as a real structural concern (several BB/BBB costs) but not
+      yet acted on; goldfish showed no observable regression (95%/T4.7 vs.
+      the prior 96%/T4.8, within noise) — see GOLDFISH_LOG.md for full
+      analysis and caveats on what the simulator can/can't catch here.
+    - Verified against Jamie's own Forge paste again — README DECK list,
+      Plain Text section, and `moxfield_import.txt` all byte-for-byte
+      identical to her pasted 100-card list, zero differences.
+    - Cards to Purchase total updated: $90.24 → $83.11 (all five new adds
+      are $0.15-$0.17 each).
 
 ---
 
@@ -1284,13 +1323,13 @@ DECK:
 1 Falkenrath Noble  
 1 Vampire Socialite  
 1 Strefan, Maurer Progenitor  
-1 Timothar, Baron of Bats  
-1 Goddric, Cloaked Reveler  
+1 Sengir, the Dark Baron  
+1 Bloodtithe Harvester  
 1 Falkenrath Celebrants  
 1 Ayara, First of Locthwain  
 1 Stensia Masquerade  
 1 Mayhem Devil  
-1 Whispering Snitch  
+1 Champion of Dusk  
 1 Grave Betrayal  
 1 Extract a Confession  
 1 Captive Audience  
@@ -1304,7 +1343,7 @@ DECK:
 1 Harvester of Souls  
 1 Feast of Succession  
 1 Greater Harvester  
-1 Grim Feast  
+1 Indulgent Aristocrat  
 1 Sakura-Tribe Elder  
 1 Farseek  
 1 Nature's Lore  
@@ -1328,7 +1367,7 @@ DECK:
 1 Taste of Death  
 1 Rings of Brighthearth  
 1 Crown of Doom  
-1 Leering Onlooker  
+1 Patron of the Vein  
 1 Thorn of the Black Rose  
 1 High-Society Hunter  
 1 Old Flitterfang  

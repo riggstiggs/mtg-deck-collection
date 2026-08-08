@@ -13,13 +13,13 @@ DECK:
 1 Falkenrath Noble
 1 Vampire Socialite
 1 Strefan, Maurer Progenitor
-1 Timothar, Baron of Bats
-1 Goddric, Cloaked Reveler
+1 Sengir, the Dark Baron
+1 Bloodtithe Harvester
 1 Falkenrath Celebrants
 1 Ayara, First of Locthwain
 1 Stensia Masquerade
 1 Mayhem Devil
-1 Whispering Snitch
+1 Champion of Dusk
 1 Grave Betrayal
 1 Extract a Confession
 1 Captive Audience
@@ -33,7 +33,7 @@ DECK:
 1 Harvester of Souls
 1 Feast of Succession
 1 Greater Harvester
-1 Grim Feast
+1 Indulgent Aristocrat
 1 Sakura-Tribe Elder
 1 Farseek
 1 Nature's Lore
@@ -57,7 +57,7 @@ DECK:
 1 Taste of Death
 1 Rings of Brighthearth
 1 Crown of Doom
-1 Leering Onlooker
+1 Patron of the Vein
 1 Thorn of the Black Rose
 1 High-Society Hunter
 1 Old Flitterfang
