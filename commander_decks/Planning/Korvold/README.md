@@ -787,12 +787,12 @@ for a fancy affair, even on an otherwise-fine bounce-land.
 | Location | Card | Price | Scene |
 |---|---|---|---|
 | The town | High Market | $0.37 | Where the estate's business gets done — also a free sac outlet for life, feeds Korvold |
-| The road in | Shadowblood Ridge | $0.35 | The route to the estate |
+| The road in | Smoldering Marsh | $0.30 | SWAPPED 2026-08-08 (was Shadowblood Ridge) — Jamie: "I don't want to pay mana to use mana." Shadowblood Ridge cost {1} just to tap for its own colors; Smoldering Marsh is a real Swamp Mountain typed land Jamie already owns, taps free forever, no ongoing tax. The route to the estate. |
 | The carriage ride | Dragonskull Summit | $0.43 | Arriving at the grounds |
 | The bridge onto the grounds | Mosswort Bridge | $0.35 | Crossing onto the property |
 | The servants' secret entrance | Rogue's Passage | $0.58 | A guest — or something worse — slips in unseen; makes a creature unblockable |
-| The gardens | Rockfall Vale | $1.90 | Approaching through the manicured grounds |
-| The dark fairy-tale garden | Deathcap Glade | $2.18 | The overgrown, slightly sinister corner of the grounds |
+| The gardens | Highland Forest | $0.46 | SWAPPED 2026-08-08 (was Rockfall Vale) — same land-tax audit; Highland Forest is a real Mountain Forest typed land Jamie already owns, no ongoing cost. Approaching through the manicured grounds. |
+| The dark fairy-tale garden | Necroblossom Snarl | $0.37 | SWAPPED 2026-08-08 (was Deathcap Glade, then Haunted Mire) — same audit; Necroblossom Snarl is a real Swamp Forest typed land (reveal a Swamp/Forest to enter untapped, same family as Foreboding Ruins already in the deck), no ongoing tax. The overgrown, slightly sinister corner of the grounds. |
 | The estate gates | Blackcleave Cliffs | $2.62 | Arriving at the manor proper |
 | The sister house | Castle Embereth | $0.29 | ADDED 2026-08-08 — the Embereth wing of the estate, sister house to Castle Locthwain. Real found location: Court of Embereth already has a castle counterpart just waiting to be added to the map. |
 | **THE BALLROOM** | **Castle Locthwain** | $4.48 | ⭐⭐⭐ The emotional center of the whole map (Arlo's review, 2026-08-06) — every other location on this list points here. Deliberate splurge, worth it for the flavor: draws cards for life late-game, literally where the banquet is held. |
@@ -1025,15 +1025,28 @@ except where noted, no Game Changers among them.
 
 ## 🛍️ Cards to Purchase (not yet in Jamie's collection)
 Cross-referenced the finalized 100-card list against `collection.csv`
-(2026-08-08). **11 of 79 unique nonbasic cards are already owned** (Castle
+(2026-08-08). **13 of 79 unique nonbasic cards are already owned** (Castle
 Embereth, Command Tower, Commander's Sphere, Dragonskull Summit, Exotic
-Orchard, Foreboding Ruins, Jungle Hollow, Nature's Lore, Night's Whisper,
-Path of Ancestry, Rogue's Passage). Basics (Forest/Mountain/Swamp) assumed
-already on hand, not priced.
+Orchard, Foreboding Ruins, Highland Forest, Jungle Hollow, Nature's Lore,
+Night's Whisper, Path of Ancestry, Rogue's Passage, Smoldering Marsh).
+Basics (Forest/Mountain/Swamp) assumed already on hand, not priced.
+**Note:** `collection.csv` may lag Jamie's actual physical binder for
+recent Strixhaven pulls — verify against the binder before buying anything
+already flagged as needed if it's a recent set.
 
-**68 cards still needed.** Live Manapool pricing pulled via
+> **Land-tax audit, 2026-08-08:** Jamie flagged "I don't want to pay mana
+> to use mana" — Shadowblood Ridge ({1}, {T}: Add {B}{R}) was the only land
+> in the deck with that problem, swapped for Smoldering Marsh (owned). Two
+> more lands were swapped at the same time for real basic-typed duals with
+> no ongoing tax: Rockfall Vale → Highland Forest (owned), Deathcap Glade →
+> Necroblossom Snarl (not yet confirmed owned, cheap either way). All three
+> are same-color swaps, no color identity change, no net card-count change.
+
+**65 cards still needed.** Live Manapool pricing pulled via
 `scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $76.64.** All 68 confirmed in stock, nothing missing.
+2026-08-08) — **total: $72.53** (updated after the land-tax swap removed
+Rockfall Vale/Deathcap Glade/Shadowblood Ridge from this list and added
+Necroblossom Snarl). All confirmed in stock, nothing missing.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
@@ -1047,10 +1060,8 @@ already on hand, not priced.
 | $3.75 | NM | Vraska, Golgari Queen | https://manapool.com/card/grn/213/vraska-golgari-queen |
 | $3.48 | NM | Phyrexian Arena | https://manapool.com/card/fdn/180/phyrexian-arena |
 | $3.30 | NM | Castle Locthwain | https://manapool.com/card/eld/241/castle-locthwain |
-| $2.75 | NM | Rockfall Vale | https://manapool.com/card/tdc/387/rockfall-vale |
 | $2.00 | NM | Grave Betrayal | https://manapool.com/card/rtr/67/grave-betrayal |
 | $1.69 | NM | Greater Harvester | https://manapool.com/card/dst/44/greater-harvester |
-| $1.58 | NM | Deathcap Glade | https://manapool.com/card/sos/253/deathcap-glade |
 | $1.50 | NM | Cascading Cataracts | https://manapool.com/card/eos/5/cascading-cataracts |
 | $0.99 | NM | Bojuka Bog | https://manapool.com/card/tdc/341/bojuka-bog |
 | $0.80 | NM | Blackcleave Cliffs | https://manapool.com/card/one/248/blackcleave-cliffs |
@@ -1063,6 +1074,7 @@ already on hand, not priced.
 | $0.41 | NM | Woodland Cemetery | https://manapool.com/card/dsc/326/woodland-cemetery |
 | $0.40 | NM (Foil) | Strefan, Maurer Progenitor | https://manapool.com/card/voc/2/strefan-maurer-progenitor |
 | $0.38 | NM | Falkenrath Aristocrat | https://manapool.com/card/2xm/195/falkenrath-aristocrat |
+| $0.37 | NM | Necroblossom Snarl | https://manapool.com/card/sos/389/necroblossom-snarl |
 | $0.35 | NM | Custodi Lich | https://manapool.com/card/ncc/244/custodi-lich |
 | $0.35 | NM | Old Flitterfang | https://manapool.com/card/woe/316/old-flitterfang |
 | $0.34 | NM | High Market | https://manapool.com/card/fic/402/high-market |
@@ -1093,7 +1105,6 @@ already on hand, not priced.
 | $0.15 | NM (Foil) | Popular Egotist | https://manapool.com/card/dsk/114/popular-egotist |
 | $0.15 | NM | Putrefy | https://manapool.com/card/dgm/93/putrefy |
 | $0.15 | NM (Foil) | Rampant Growth | https://manapool.com/card/sos/162/studious-first-year-rampant-growth |
-| $0.15 | NM | Shadowblood Ridge | https://manapool.com/card/m3c/373/shadowblood-ridge |
 | $0.15 | NM | Skyfisher Spider | https://manapool.com/card/bro/221/skyfisher-spider |
 | $0.15 | NM | Stensia Masquerade | https://manapool.com/card/voc/150/stensia-masquerade |
 | $0.15 | NM | Terminate | https://manapool.com/card/ecc/134/terminate |
@@ -1157,6 +1168,28 @@ already on hand, not priced.
     - **Still open:** Goldfish simulation (20 sims/10 turns) not yet run
       against the finalized list; land count sits 1 over the 38 template
       target and has not been trimmed.
+*   **2026-08-08 (later):** Land-tax audit. Jamie: "I don't want to pay mana
+    to use mana." Shadowblood Ridge ({1}, {T}: Add {B}{R}) was the only land
+    in the deck with an ongoing activation cost — every other land just taps
+    for mana directly. Audited all 18 nonbasic lands to confirm it was the
+    only offender, then found real basic-typed dual lands already in Jamie's
+    collection to replace it and two other plain-typed lands in the same
+    color pairs.
+    - **In:** Smoldering Marsh (Swamp Mountain, owned), Highland Forest
+      (Mountain Forest, owned), Necroblossom Snarl (Swamp Forest, price
+      $0.37, ownership unconfirmed but cheap either way).
+    - **Out:** Shadowblood Ridge (Swamp Mountain), Rockfall Vale (plain,
+      R/G), Deathcap Glade (plain, B/G) — all previously in the 100-card
+      list.
+    - **Reason:** Removes the one true mana-tax land; upgrades two more
+      plain duals to real basic-typed lands (useful for Farseek and any
+      future basic-type-matters cards) at zero net cost, since two of the
+      three are already owned. No color identity change, no land-count
+      change (still 39 lands, 1 over the 38 template target). Deck remains
+      at exactly 100/legal.
+    - Cards to Purchase total updated: $76.64 → $72.53 (removed
+      Rockfall Vale/Deathcap Glade/Shadowblood Ridge, added Necroblossom
+      Snarl). Owned-card count: 11 → 13 of 79 unique nonbasics.
 
 ---
 
@@ -1254,12 +1287,12 @@ DECK:
 1 Old Flitterfang  
 1 Vampire Gourmand  
 1 High Market  
-1 Shadowblood Ridge  
+1 Smoldering Marsh  
 1 Dragonskull Summit  
 1 Mosswort Bridge  
 1 Rogue's Passage  
-1 Rockfall Vale  
-1 Deathcap Glade  
+1 Highland Forest  
+1 Necroblossom Snarl  
 1 Blackcleave Cliffs  
 1 Castle Locthwain  
 1 Castle Embereth  
