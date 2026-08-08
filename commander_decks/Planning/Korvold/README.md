@@ -806,7 +806,7 @@ for a fancy affair, even on an otherwise-fine bounce-land.
 | Path of Ancestry | ~$0.20 | Any-color-in-identity + scry |
 | Exotic Orchard | ~$0.20 | An elegant estate garden (Arlo's read) |
 | Cascading Cataracts | $2.35 | A decorative fountain — colorless fixing at 5+ lands |
-| Jungle Hollow | $0.18 | Cheap fixing filler |
+| Turbulent Fen | $6.51 | SWAPPED 2026-08-08 (was Jungle Hollow) — same land-tax/typed-dual audit; Turbulent Fen is a real Swamp Forest typed land, same B/G colors, effectively untapped by the time it matters in a 4-player pod (needs opponents at 8+ combined lands). |
 | Foreboding Ruins | $0.22 | Cheap fixing filler |
 | Karplusan Forest (painland) | $0.40 | Flagged not auto-included — Jamie dislikes painlands generally per her deck-identity notes |
 
@@ -1025,10 +1025,11 @@ except where noted, no Game Changers among them.
 
 ## 🛍️ Cards to Purchase (not yet in Jamie's collection)
 Cross-referenced the finalized 100-card list against `collection.csv`
-(2026-08-08). **13 of 79 unique nonbasic cards are already owned** (Castle
+(2026-08-08). **12 of 79 unique nonbasic cards are already owned** (Castle
 Embereth, Command Tower, Commander's Sphere, Dragonskull Summit, Exotic
-Orchard, Foreboding Ruins, Highland Forest, Jungle Hollow, Nature's Lore,
-Night's Whisper, Path of Ancestry, Rogue's Passage, Smoldering Marsh).
+Orchard, Foreboding Ruins, Highland Forest, Nature's Lore, Night's Whisper,
+Path of Ancestry, Rogue's Passage, Smoldering Marsh — Jungle Hollow dropped
+off this list, swapped out below).
 Basics (Forest/Mountain/Swamp) assumed already on hand, not priced.
 **Note:** `collection.csv` may lag Jamie's actual physical binder for
 recent Strixhaven pulls — verify against the binder before buying anything
@@ -1036,22 +1037,32 @@ already flagged as needed if it's a recent set.
 
 > **Land-tax audit, 2026-08-08:** Jamie flagged "I don't want to pay mana
 > to use mana" — Shadowblood Ridge ({1}, {T}: Add {B}{R}) was the only land
-> in the deck with that problem, swapped for Smoldering Marsh (owned). Two
-> more lands were swapped at the same time for real basic-typed duals with
-> no ongoing tax: Rockfall Vale → Highland Forest (owned), Deathcap Glade →
-> Necroblossom Snarl (not yet confirmed owned, cheap either way). All three
-> are same-color swaps, no color identity change, no net card-count change.
+> in the deck with that problem, swapped for Smoldering Marsh (owned). A
+> follow-up pass then upgraded every remaining plain (untyped) dual to a
+> real basic-typed dual with no ongoing tax, since Jamie confirmed
+> "turbulent"/reveal-style lands are fine: Rockfall Vale → Highland Forest
+> (owned), Deathcap Glade → Necroblossom Snarl (Swamp Forest, cheap),
+> Jungle Hollow → Turbulent Fen (Swamp Forest). Jamie then approved
+> replacing basics directly to make room for two more: Cinder Glade
+> (Mountain Forest) in for 1 Forest, Luxury Suite ("just b/c of the name" —
+> a private room at the manor for honored guests, real banquet fit) in for
+> 1 Swamp. All same-color-pair swaps except the two basic replacements
+> (still legal Jund mana, still 39 total lands, basics now 9 Swamp/4
+> Mountain/6 Forest = 19, nonbasics now 20).
 
-**65 cards still needed.** Live Manapool pricing pulled via
+**68 cards still needed.** Live Manapool pricing pulled via
 `scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $72.53** (updated after the land-tax swap removed
-Rockfall Vale/Deathcap Glade/Shadowblood Ridge from this list and added
-Necroblossom Snarl). All confirmed in stock, nothing missing.
+2026-08-08) — **total: $87.55** (updated after the full land-tax audit:
+removed Rockfall Vale/Deathcap Glade/Shadowblood Ridge/Jungle Hollow, added
+Necroblossom Snarl/Turbulent Fen/Cinder Glade/Luxury Suite). All confirmed
+in stock.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
+| $8.36 | NM | Luxury Suite | https://manapool.com/card/msc/252/luxury-suite |
 | $7.88 | NM | Ayara, First of Locthwain | https://manapool.com/card/eld/75/ayara-first-of-locthwain |
 | $7.30 | NM | Grim Feast | https://manapool.com/card/mir/265/grim-feast |
+| $6.51 | NM | Turbulent Fen | https://manapool.com/card/sos/419/turbulent-fen |
 | $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
 | $5.80 | NM (Foil) | Rings of Brighthearth | https://manapool.com/card/cmr/335/rings-of-brighthearth |
 | $5.75 | NM | Court of Embereth | https://manapool.com/card/woc/24/court-of-embereth |
@@ -1089,6 +1100,7 @@ Necroblossom Snarl). All confirmed in stock, nothing missing.
 | $0.22 | NM | Korvold, Fae-Cursed King | https://manapool.com/card/eoc/120/korvold-fae-cursed-king |
 | $0.21 | NM | Deathgreeter | https://manapool.com/card/plst/ddd-33/deathgreeter |
 | $0.19 | NM | Sakura-Tribe Elder | https://manapool.com/card/c19/177/sakura-tribe-elder |
+| $0.15 | NM | Cinder Glade | https://manapool.com/card/ecc/146/cinder-glade |
 | $0.15 | NM (Foil) | Belligerent Guest | https://manapool.com/card/vow/144/belligerent-guest |
 | $0.15 | NM | Deadly Dispute | https://manapool.com/card/afr/94/deadly-dispute |
 | $0.15 | NM (Foil) | Extract a Confession | https://manapool.com/card/mkm/84/extract-a-confession |
@@ -1190,6 +1202,25 @@ Necroblossom Snarl). All confirmed in stock, nothing missing.
     - Cards to Purchase total updated: $76.64 → $72.53 (removed
       Rockfall Vale/Deathcap Glade/Shadowblood Ridge, added Necroblossom
       Snarl). Owned-card count: 11 → 13 of 79 unique nonbasics.
+*   **2026-08-08 (land-tax audit, part 2):** Follow-up pass — Jungle Hollow
+    → Turbulent Fen (Swamp Forest typed, same B/G colors, $6.51). Jamie then
+    confirmed it's fine to replace basics directly (not just other
+    nonbasics) to make room for two more thematic/typed picks: Cinder Glade
+    (Mountain Forest, $0.15) in for 1 Forest, Luxury Suite ("just b/c of the
+    name" — a private room at the manor, real banquet fit; B/R, $8.36) in
+    for 1 Swamp.
+    - **In:** Turbulent Fen, Cinder Glade, Luxury Suite.
+    - **Out:** Jungle Hollow, 1 Forest, 1 Swamp.
+    - Verified against Jamie's own Forge paste (99 + Korvold = 100, 39
+      lands, zero duplicates) — README DECK list, Plain Text section, and
+      `moxfield_import.txt` all reconciled to match exactly, byte-for-byte
+      diffed against her pasted list with zero differences.
+    - Basics now 9 Swamp / 4 Mountain / 6 Forest = 19; nonbasics now 20;
+      lands still 39 total, still 1 over the 38 template target (unchanged
+      deviation, not yet addressed).
+    - Cards to Purchase total updated: $72.53 → $87.55 (added Turbulent
+      Fen/Cinder Glade/Luxury Suite, Jungle Hollow dropped off the owned
+      list since it's no longer in the deck).
 
 ---
 
@@ -1302,10 +1333,12 @@ DECK:
 1 Path of Ancestry  
 1 Exotic Orchard  
 1 Cascading Cataracts  
-1 Jungle Hollow  
+1 Turbulent Fen  
 1 Foreboding Ruins  
-10 Swamp  
+1 Cinder Glade  
+1 Luxury Suite  
+9 Swamp  
 4 Mountain  
-7 Forest  
+6 Forest  
 
 SIDEBOARD:  

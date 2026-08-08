@@ -78,8 +78,10 @@ DECK:
 1 Path of Ancestry
 1 Exotic Orchard
 1 Cascading Cataracts
-1 Jungle Hollow
+1 Turbulent Fen
 1 Foreboding Ruins
-10 Swamp
+1 Cinder Glade
+1 Luxury Suite
+9 Swamp
 4 Mountain
-7 Forest
+6 Forest
