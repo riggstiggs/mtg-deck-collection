@@ -669,7 +669,7 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 | Skyfisher Spider | {2}{B}{G} | $0.25 | 8 | 8 | A real character — the spider watching quietly from the rafters, disposing of problems. Sac a creature to destroy any nonland permanent, gains life on death. Double duty: real removal that also feeds Korvold's sac engine. Passes the Character test on its own where Beast Within couldn't. |
 | Chaos Warp | {2}{R} | $0.58 | Spell, exempt, hits anything incl. problem enchantments |
 | Feed the Swarm | {1}{B} | $0.33 | Spell, exempt |
-| Blasphemous Act | {8}{R} | $0.80 | Spell, exempt, cheap board wipe in a crowded pod |
+| Blasphemous Act | {8}{R} | $0.80 | REFRAMED 2026-08-08 (Jamie asked for a more thematic take) — this one didn't need swapping, just naming. A Sorcery, per Rule 16 it's "what just happened": THE fire. The chandelier finally falls, the whole hall catches, 13 damage to everything at the table at once. The name itself already carries a scandalous, taboo-act-in-a-sacred-space register — exactly this deck's tone. Checked alternatives (Inferno, Fire Tempest, Bloodfire Colossus); none beat its cost efficiency (as low as {R} in a full board) or its existing name. |
 
 ~~Ravenous Chupacabra~~ — cut per Jamie's own instinct: a cryptid monster
 doesn't sit at a formal banquet, even though the card is mechanically great.
