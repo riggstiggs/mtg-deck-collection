@@ -50,12 +50,12 @@ DECK:
 1 Dash Hopes
 1 Terminate
 1 Putrefy
-1 Skyfisher Spider
+1 Tireless Provisioner
 1 Chaos Warp
 1 Feed the Swarm
 1 Blasphemous Act
 1 Taste of Death
-1 Rings of Brighthearth
+1 Peregrin Took
 1 Crown of Doom
 1 Patron of the Vein
 1 Thorn of the Black Rose

@@ -33,7 +33,7 @@
       },
       "mana_cost": "{2}{B}{R}{G}",
       "cmc": 5.0,
-      "type_line": "Legendary Creature \u2014 Dragon Noble",
+      "type_line": "Legendary Creature — Dragon Noble",
       "oracle_text": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
       "power": "4",
       "toughness": "4",
@@ -183,7 +183,7 @@
       },
       "mana_cost": "{2}{B}{R}",
       "cmc": 4.0,
-      "type_line": "Legendary Creature \u2014 Vampire",
+      "type_line": "Legendary Creature — Vampire",
       "oracle_text": "Whenever Anje and/or one or more other Vampires you control enter, create a Blood token. This ability triggers only once each turn. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\n{2}, Sacrifice another creature or a Blood token: Each opponent loses 2 life and you gain 2 life.",
       "power": "4",
       "toughness": "5",
@@ -202,7 +202,7 @@
           "id": "a6f374bc-cd29-469f-808a-6a6c004ee8aa",
           "component": "token",
           "name": "Blood",
-          "type_line": "Token Artifact \u2014 Blood",
+          "type_line": "Token Artifact — Blood",
           "uri": "https://api.scryfall.com/cards/a6f374bc-cd29-469f-808a-6a6c004ee8aa"
         },
         {
@@ -210,7 +210,7 @@
           "id": "d4dd1ee6-a9da-4c89-a3b8-b293ac28467f",
           "component": "combo_piece",
           "name": "Anje, Maid of Dishonor",
-          "type_line": "Legendary Creature \u2014 Vampire",
+          "type_line": "Legendary Creature — Vampire",
           "uri": "https://api.scryfall.com/cards/d4dd1ee6-a9da-4c89-a3b8-b293ac28467f"
         }
       ],
@@ -486,7 +486,7 @@
       },
       "mana_cost": "{B}{B}{B}",
       "cmc": 3.0,
-      "type_line": "Legendary Creature \u2014 Elf Noble",
+      "type_line": "Legendary Creature — Elf Noble",
       "oracle_text": "Whenever Ayara or another black creature you control enters, each opponent loses 1 life and you gain 1 life.\n{T}, Sacrifice another black creature: Draw a card.",
       "power": "2",
       "toughness": "3",
@@ -633,7 +633,7 @@
       },
       "mana_cost": "{2}{R}",
       "cmc": 3.0,
-      "type_line": "Creature \u2014 Vampire",
+      "type_line": "Creature — Vampire",
       "oracle_text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever this creature deals combat damage to a player, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")",
       "power": "3",
       "toughness": "2",
@@ -652,7 +652,7 @@
           "id": "a6f374bc-cd29-469f-808a-6a6c004ee8aa",
           "component": "token",
           "name": "Blood",
-          "type_line": "Token Artifact \u2014 Blood",
+          "type_line": "Token Artifact — Blood",
           "uri": "https://api.scryfall.com/cards/a6f374bc-cd29-469f-808a-6a6c004ee8aa"
         },
         {
@@ -660,7 +660,7 @@
           "id": "924b1c15-811a-4d11-a481-f904002a6740",
           "component": "combo_piece",
           "name": "Belligerent Guest",
-          "type_line": "Creature \u2014 Vampire",
+          "type_line": "Creature — Vampire",
           "uri": "https://api.scryfall.com/cards/924b1c15-811a-4d11-a481-f904002a6740"
         }
       ],
@@ -991,7 +991,7 @@
       "collector_number": "163",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"Now watch as I do what you could not.\"\n\u2014Namor the Sub-Mariner",
+      "flavor_text": "\"Now watch as I do what you could not.\"\n—Namor the Sub-Mariner",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Immanuela Crovius",
       "artist_ids": [
@@ -1067,7 +1067,7 @@
       },
       "mana_cost": "{B}{R}",
       "cmc": 2.0,
-      "type_line": "Creature \u2014 Vampire",
+      "type_line": "Creature — Vampire",
       "oracle_text": "When this creature enters, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\n{T}, Sacrifice this creature: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery.",
       "power": "3",
       "toughness": "2",
@@ -1086,7 +1086,7 @@
           "id": "92a3afe7-bd9f-43f9-adc3-4819e60dc7a5",
           "component": "token",
           "name": "Blood",
-          "type_line": "Token Artifact \u2014 Blood",
+          "type_line": "Token Artifact — Blood",
           "uri": "https://api.scryfall.com/cards/92a3afe7-bd9f-43f9-adc3-4819e60dc7a5"
         },
         {
@@ -1094,7 +1094,7 @@
           "id": "5d0fb1bd-5020-45b7-8046-c586e3056058",
           "component": "combo_piece",
           "name": "Bloodtithe Harvester",
-          "type_line": "Creature \u2014 Vampire",
+          "type_line": "Creature — Vampire",
           "uri": "https://api.scryfall.com/cards/5d0fb1bd-5020-45b7-8046-c586e3056058"
         }
       ],
@@ -1359,7 +1359,7 @@
       "mana_cost": "{5}{B}{R}",
       "cmc": 7.0,
       "type_line": "Enchantment",
-      "oracle_text": "This enchantment enters under the control of an opponent of your choice.\nAt the beginning of your upkeep, choose one that hasn't been chosen \u2014\n\u2022 Your life total becomes 4.\n\u2022 Discard your hand.\n\u2022 Each opponent creates five 2/2 black Zombie creature tokens.",
+      "oracle_text": "This enchantment enters under the control of an opponent of your choice.\nAt the beginning of your upkeep, choose one that hasn't been chosen —\n• Your life total becomes 4.\n• Discard your hand.\n• Each opponent creates five 2/2 black Zombie creature tokens.",
       "colors": [
         "B",
         "R"
@@ -1375,7 +1375,7 @@
           "id": "27b69e52-f394-4863-943b-239e96b5cc95",
           "component": "token",
           "name": "Zombie",
-          "type_line": "Token Creature \u2014 Zombie",
+          "type_line": "Token Creature — Zombie",
           "uri": "https://api.scryfall.com/cards/27b69e52-f394-4863-943b-239e96b5cc95"
         },
         {
@@ -1586,7 +1586,7 @@
       "collector_number": "202",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"The rushing water is as the God-Pharaoh. It encompasses all. It nurtures all.\"\n\u2014Temmet, vizier of Naktamun",
+      "flavor_text": "\"The rushing water is as the God-Pharaoh. It encompasses all. It nurtures all.\"\n—Temmet, vizier of Naktamun",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Paul Scott Canavan",
       "artist_ids": [
@@ -1933,7 +1933,7 @@
       },
       "mana_cost": "{3}{B}{B}",
       "cmc": 5.0,
-      "type_line": "Creature \u2014 Vampire Knight",
+      "type_line": "Creature — Vampire Knight",
       "oracle_text": "When this creature enters, you draw X cards and you lose X life, where X is the number of Vampires you control.",
       "power": "4",
       "toughness": "4",
@@ -2325,7 +2325,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Land \u2014 Mountain Forest",
+      "type_line": "Land — Mountain Forest",
       "oracle_text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands.",
       "colors": [],
       "color_identity": [
@@ -2490,7 +2490,7 @@
           "id": "ad03209f-568a-40f5-8470-a083080e6831",
           "component": "combo_piece",
           "name": "Tower Winder",
-          "type_line": "Creature \u2014 Snake",
+          "type_line": "Creature — Snake",
           "uri": "https://api.scryfall.com/cards/ad03209f-568a-40f5-8470-a083080e6831"
         }
       ],
@@ -2547,7 +2547,7 @@
       "collector_number": "233",
       "digital": false,
       "rarity": "common",
-      "flavor_text": "\"Of course the Triskelion is a big gaudy target. And anyone who's confident enough to think about taking it out is someone we want on our radar.\"\n\u2014Nick Fury, director of S.H.I.E.L.D.",
+      "flavor_text": "\"Of course the Triskelion is a big gaudy target. And anyone who's confident enough to think about taking it out is someone we want on our radar.\"\n—Nick Fury, director of S.H.I.E.L.D.",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Leon Tukker",
       "artist_ids": [
@@ -3258,7 +3258,7 @@
       "collector_number": "172",
       "digital": false,
       "rarity": "common",
-      "flavor_text": "\"Don't get so caught up in the science that you forget to embrace the wonder in front of you.\"\n\u2014Reed Richards, to Valeria Richards",
+      "flavor_text": "\"Don't get so caught up in the science that you forget to embrace the wonder in front of you.\"\n—Reed Richards, to Valeria Richards",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Darius Zablockis",
       "artist_ids": [
@@ -3332,7 +3332,7 @@
       },
       "mana_cost": "{3}{B}{B}",
       "cmc": 5.0,
-      "type_line": "Creature \u2014 Zombie Cleric",
+      "type_line": "Creature — Zombie Cleric",
       "oracle_text": "When this creature enters, you become the monarch.\nWhenever you become the monarch, target player sacrifices a creature of their choice.",
       "power": "4",
       "toughness": "2",
@@ -3349,7 +3349,7 @@
           "id": "5d77f50f-f63d-47bd-8bf9-01febee315fd",
           "component": "combo_piece",
           "name": "Custodi Lich",
-          "type_line": "Creature \u2014 Zombie Cleric",
+          "type_line": "Creature — Zombie Cleric",
           "uri": "https://api.scryfall.com/cards/5d77f50f-f63d-47bd-8bf9-01febee315fd"
         },
         {
@@ -3412,7 +3412,7 @@
       "collector_number": "244",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"Keeping order is a task too important to relinquish in death.\"\n\u2014Abrado, Custodi priest",
+      "flavor_text": "\"Keeping order is a task too important to relinquish in death.\"\n—Abrado, Custodi priest",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Bastien L. Deharme",
       "artist_ids": [
@@ -3683,7 +3683,7 @@
       "collector_number": "68",
       "digital": false,
       "rarity": "common",
-      "flavor_text": "\"Focus an enemy's mind on what's already gone, and it's easier to take away more.\"\n\u2014Holux, stronghold racketeer",
+      "flavor_text": "\"Focus an enemy's mind on what's already gone, and it's easier to take away more.\"\n—Holux, stronghold racketeer",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Zoltan Boros & Gabor Szikszai",
       "artist_ids": [
@@ -3780,7 +3780,7 @@
           "id": "cec5cc8b-bc15-415a-bde6-6c783f8d0b0b",
           "component": "token",
           "name": "Treasure",
-          "type_line": "Token Artifact \u2014 Treasure",
+          "type_line": "Token Artifact — Treasure",
           "uri": "https://api.scryfall.com/cards/cec5cc8b-bc15-415a-bde6-6c783f8d0b0b"
         },
         {
@@ -3846,7 +3846,7 @@
       "collector_number": "794",
       "digital": false,
       "rarity": "common",
-      "flavor_text": "\"Ain't you heard a' honor among thieves?\"\n\u2014Tombstone, to Anaconda",
+      "flavor_text": "\"Ain't you heard a' honor among thieves?\"\n—Tombstone, to Anaconda",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "John Thacker",
       "artist_ids": [
@@ -3919,7 +3919,7 @@
       },
       "mana_cost": "{B}",
       "cmc": 1.0,
-      "type_line": "Creature \u2014 Human Shaman",
+      "type_line": "Creature — Human Shaman",
       "oracle_text": "Whenever another creature dies, you may gain 1 life.",
       "power": "1",
       "toughness": "1",
@@ -4117,7 +4117,7 @@
       "collector_number": "238",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"I . . . have . . . awakened! After countless centuries, I live again!\"\n\u2014Fin Fang Foom",
+      "flavor_text": "\"I . . . have . . . awakened! After countless centuries, I live again!\"\n—Fin Fang Foom",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Jonas De Ro",
       "artist_ids": [
@@ -4253,7 +4253,7 @@
       "collector_number": "79",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"When you can't find your way home, find home where you can.\"\n\u2014Rho, veteran hero",
+      "flavor_text": "\"When you can't find your way home, find home where you can.\"\n—Rho, veteran hero",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Ron Spears",
       "artist_ids": [
@@ -4461,7 +4461,7 @@
       },
       "mana_cost": "{2}{B}{R}",
       "cmc": 4.0,
-      "type_line": "Creature \u2014 Vampire Noble",
+      "type_line": "Creature — Vampire Noble",
       "oracle_text": "Flying, haste\nSacrifice a creature: This creature gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on this creature.",
       "power": "4",
       "toughness": "1",
@@ -4609,7 +4609,7 @@
       },
       "mana_cost": "{4}{R}",
       "cmc": 5.0,
-      "type_line": "Creature \u2014 Vampire",
+      "type_line": "Creature — Vampire",
       "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, create two Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")",
       "power": "4",
       "toughness": "4",
@@ -4628,7 +4628,7 @@
           "id": "a6f374bc-cd29-469f-808a-6a6c004ee8aa",
           "component": "token",
           "name": "Blood",
-          "type_line": "Token Artifact \u2014 Blood",
+          "type_line": "Token Artifact — Blood",
           "uri": "https://api.scryfall.com/cards/a6f374bc-cd29-469f-808a-6a6c004ee8aa"
         },
         {
@@ -4636,7 +4636,7 @@
           "id": "6aacc8fa-9440-494b-a3d9-7b1678c5a9f6",
           "component": "combo_piece",
           "name": "Falkenrath Celebrants",
-          "type_line": "Creature \u2014 Vampire",
+          "type_line": "Creature — Vampire",
           "uri": "https://api.scryfall.com/cards/6aacc8fa-9440-494b-a3d9-7b1678c5a9f6"
         }
       ],
@@ -4770,7 +4770,7 @@
       },
       "mana_cost": "{3}{B}",
       "cmc": 4.0,
-      "type_line": "Creature \u2014 Vampire Noble",
+      "type_line": "Creature — Vampire Noble",
       "oracle_text": "Flying\nWhenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
       "power": "2",
       "toughness": "2",
@@ -5123,7 +5123,7 @@
       "collector_number": "158",
       "digital": false,
       "rarity": "uncommon",
-      "flavor_text": "\"Beware the eager host.\"\n\u2014Eligeth, crossroads augur",
+      "flavor_text": "\"Beware the eager host.\"\n—Eligeth, crossroads augur",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Seb McKinnon",
       "artist_ids": [
@@ -5465,7 +5465,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Basic Land \u2014 Forest",
+      "type_line": "Basic Land — Forest",
       "oracle_text": "({T}: Add {G}.)",
       "colors": [],
       "color_identity": [
@@ -5481,7 +5481,7 @@
           "id": "4fae200d-5757-4924-8cf4-ab2a5ef2ccc0",
           "component": "combo_piece",
           "name": "Forest",
-          "type_line": "Basic Land \u2014 Forest",
+          "type_line": "Basic Land — Forest",
           "uri": "https://api.scryfall.com/cards/4fae200d-5757-4924-8cf4-ab2a5ef2ccc0"
         },
         {
@@ -5489,7 +5489,7 @@
           "id": "aed8ae06-ae54-4a16-8830-6547164ce6ae",
           "component": "combo_piece",
           "name": "Gilt-Leaf Alchemist",
-          "type_line": "Creature \u2014 Elf Druid",
+          "type_line": "Creature — Elf Druid",
           "uri": "https://api.scryfall.com/cards/aed8ae06-ae54-4a16-8830-6547164ce6ae"
         }
       ],
@@ -5615,7 +5615,7 @@
       },
       "mana_cost": "{2}{B}",
       "cmc": 3.0,
-      "type_line": "Creature \u2014 Vampire",
+      "type_line": "Creature — Vampire",
       "oracle_text": "When this creature enters, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Blood token, you gain 1 life.",
       "power": "1",
       "toughness": "4",
@@ -5632,7 +5632,7 @@
           "id": "92a3afe7-bd9f-43f9-adc3-4819e60dc7a5",
           "component": "token",
           "name": "Blood",
-          "type_line": "Token Artifact \u2014 Blood",
+          "type_line": "Token Artifact — Blood",
           "uri": "https://api.scryfall.com/cards/92a3afe7-bd9f-43f9-adc3-4819e60dc7a5"
         },
         {
@@ -5640,7 +5640,7 @@
           "id": "25e98125-6c36-4571-afc5-2d018750eb57",
           "component": "combo_piece",
           "name": "Gluttonous Guest",
-          "type_line": "Creature \u2014 Vampire",
+          "type_line": "Creature — Vampire",
           "uri": "https://api.scryfall.com/cards/25e98125-6c36-4571-afc5-2d018750eb57"
         }
       ],
@@ -5902,7 +5902,7 @@
       },
       "mana_cost": "{2}{B}{B}{B}",
       "cmc": 5.0,
-      "type_line": "Creature \u2014 Horror",
+      "type_line": "Creature — Horror",
       "oracle_text": "At the beginning of your upkeep, sacrifice a permanent.\nWhenever this creature deals combat damage to a player, that player sacrifices two permanents of their choice.",
       "power": "5",
       "toughness": "6",
@@ -6037,7 +6037,7 @@
       },
       "mana_cost": "{4}{B}{B}",
       "cmc": 6.0,
-      "type_line": "Creature \u2014 Demon",
+      "type_line": "Creature — Demon",
       "oracle_text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhenever another nontoken creature dies, you may draw a card.",
       "power": "5",
       "toughness": "5",
@@ -6102,7 +6102,7 @@
       "collector_number": "243",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"He is judge, jury, and executioner because he killed them all.\"\n\u2014Bishop Cawle of Elgaud",
+      "flavor_text": "\"He is judge, jury, and executioner because he killed them all.\"\n—Bishop Cawle of Elgaud",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Slawomir Maniak",
       "artist_ids": [
@@ -6312,7 +6312,7 @@
       },
       "mana_cost": "{3}{B}{B}",
       "cmc": 5.0,
-      "type_line": "Creature \u2014 Vampire Noble",
+      "type_line": "Creature — Vampire Noble",
       "oracle_text": "Flying\nWhenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.\nWhenever another nontoken creature dies, draw a card.",
       "power": "5",
       "toughness": "3",
@@ -6456,7 +6456,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Snow Land \u2014 Mountain Forest",
+      "type_line": "Snow Land — Mountain Forest",
       "oracle_text": "({T}: Add {R} or {G}.)\nThis land enters tapped.",
       "colors": [],
       "color_identity": [
@@ -6520,7 +6520,7 @@
       "collector_number": "896",
       "digital": false,
       "rarity": "common",
-      "flavor_text": "\"Tread carefully! The last time I walked this path, half the snowdrifts were, in fact, sleeping trolls. I've never run so fast in my life!\"\n\u2014Iskene, Kannah storyteller",
+      "flavor_text": "\"Tread carefully! The last time I walked this path, half the snowdrifts were, in fact, sleeping trolls. I've never run so fast in my life!\"\n—Iskene, Kannah storyteller",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Alayna Danner",
       "artist_ids": [
@@ -6595,7 +6595,7 @@
       },
       "mana_cost": "{B}",
       "cmc": 1.0,
-      "type_line": "Creature \u2014 Vampire Noble",
+      "type_line": "Creature — Vampire Noble",
       "oracle_text": "Lifelink\n{2}, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control.",
       "power": "1",
       "toughness": "1",
@@ -6661,7 +6661,7 @@
       "collector_number": "118",
       "digital": false,
       "rarity": "uncommon",
-      "flavor_text": "\"If you're not surrounded by decadence, my question to you is\u2014why not?\"",
+      "flavor_text": "\"If you're not surrounded by decadence, my question to you is—why not?\"",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Anna Steinbauer",
       "artist_ids": [
@@ -6732,7 +6732,7 @@
       },
       "mana_cost": "{B}{R}",
       "cmc": 2.0,
-      "type_line": "Legendary Creature \u2014 Human Shaman",
+      "type_line": "Legendary Creature — Human Shaman",
       "oracle_text": "Whenever you sacrifice a permanent, put a +1/+1 counter on Juri.\nWhen Juri dies, it deals damage equal to its power to any target.",
       "power": "1",
       "toughness": "1",
@@ -6939,7 +6939,7 @@
       "collector_number": "252",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"Doom doesn't demand adulation! The people simply take it upon themselves to recognize greatness.\"\n\u2014Doctor Doom",
+      "flavor_text": "\"Doom doesn't demand adulation! The people simply take it upon themselves to recognize greatness.\"\n—Doctor Doom",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Leon Tukker",
       "artist_ids": [
@@ -7092,7 +7092,7 @@
       "collector_number": "44",
       "digital": false,
       "rarity": "uncommon",
-      "flavor_text": "\"Those who seize power must have the means to hold it.\"\n\u2014Queen Marchesa",
+      "flavor_text": "\"Those who seize power must have the means to hold it.\"\n—Queen Marchesa",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Chris Rallis",
       "artist_ids": [
@@ -7163,7 +7163,7 @@
       },
       "mana_cost": "{1}{B}{R}",
       "cmc": 3.0,
-      "type_line": "Creature \u2014 Devil",
+      "type_line": "Creature — Devil",
       "oracle_text": "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target.",
       "power": "3",
       "toughness": "3",
@@ -7435,7 +7435,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Basic Land \u2014 Mountain",
+      "type_line": "Basic Land — Mountain",
       "oracle_text": "({T}: Add {R}.)",
       "colors": [],
       "color_identity": [
@@ -7628,7 +7628,7 @@
       "collector_number": "177",
       "digital": false,
       "rarity": "common",
-      "flavor_text": "\"How can you build a better future without first looking to the past?\"\n\u2014Queen Mother Ramonda",
+      "flavor_text": "\"How can you build a better future without first looking to the past?\"\n—Queen Mother Ramonda",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Mateus Manhanini",
       "artist_ids": [
@@ -7973,7 +7973,7 @@
       },
       "mana_cost": "{4}{B}",
       "cmc": 5.0,
-      "type_line": "Legendary Creature \u2014 Rat Faerie",
+      "type_line": "Legendary Creature — Rat Faerie",
       "oracle_text": "Flying\nAt the beginning of each end step, if a creature died this turn, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}{B}, Sacrifice another creature or artifact: Old Flitterfang gets +2/+2 until end of turn.",
       "power": "3",
       "toughness": "4",
@@ -7993,7 +7993,7 @@
           "id": "f67727b7-819c-4e96-aa8e-1e01ecaf9f33",
           "component": "token",
           "name": "Food",
-          "type_line": "Token Artifact \u2014 Food",
+          "type_line": "Token Artifact — Food",
           "uri": "https://api.scryfall.com/cards/f67727b7-819c-4e96-aa8e-1e01ecaf9f33"
         },
         {
@@ -8001,7 +8001,7 @@
           "id": "67c77d6f-de14-423c-bf55-0fb289171004",
           "component": "combo_piece",
           "name": "Old Flitterfang",
-          "type_line": "Legendary Creature \u2014 Rat Faerie",
+          "type_line": "Legendary Creature — Rat Faerie",
           "uri": "https://api.scryfall.com/cards/67c77d6f-de14-423c-bf55-0fb289171004"
         }
       ],
@@ -8269,7 +8269,7 @@
       },
       "mana_cost": "{4}{B}{B}",
       "cmc": 6.0,
-      "type_line": "Creature \u2014 Vampire Shaman",
+      "type_line": "Creature — Vampire Shaman",
       "oracle_text": "Flying\nWhen this creature enters, destroy target creature an opponent controls.\nWhenever a creature an opponent controls dies, exile it and put a +1/+1 counter on each Vampire you control.",
       "power": "4",
       "toughness": "4",
@@ -8406,7 +8406,7 @@
       },
       "mana_cost": "{2}{B}",
       "cmc": 3.0,
-      "type_line": "Creature \u2014 Human Rogue",
+      "type_line": "Creature — Human Rogue",
       "oracle_text": "{1}{B}, Sacrifice another creature or enchantment: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy it.)\nWhenever you sacrifice a permanent, target opponent loses 1 life and you gain 1 life.",
       "power": "3",
       "toughness": "2",
@@ -8610,7 +8610,7 @@
       "collector_number": "131",
       "digital": false,
       "rarity": "uncommon",
-      "flavor_text": "\"We are all decaying, always in a state of near-death. One moment without breath and we begin to break down.\"\n\u2014Cevraya, Golgari shaman",
+      "flavor_text": "\"We are all decaying, always in a state of near-death. One moment without breath and we begin to break down.\"\n—Cevraya, Golgari shaman",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Igor Kieryluk",
       "artist_ids": [
@@ -8814,7 +8814,7 @@
       },
       "mana_cost": "{2}{B}",
       "cmc": 3.0,
-      "type_line": "Creature \u2014 Halfling Citizen",
+      "type_line": "Creature — Halfling Citizen",
       "oracle_text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Food token.\nWhenever you sacrifice a Food, put a +1/+1 counter on this creature.\nWhen this creature leaves the battlefield, target opponent loses life equal to its power.",
       "power": "2",
       "toughness": "2",
@@ -8834,7 +8834,7 @@
           "id": "685c72fb-ebb8-4474-bd73-bcbbbc38c496",
           "component": "combo_piece",
           "name": "Rapacious Guest",
-          "type_line": "Creature \u2014 Halfling Citizen",
+          "type_line": "Creature — Halfling Citizen",
           "uri": "https://api.scryfall.com/cards/685c72fb-ebb8-4474-bd73-bcbbbc38c496"
         },
         {
@@ -8842,7 +8842,7 @@
           "id": "4a029bdc-92e3-4d85-8af5-e33429a5f017",
           "component": "token",
           "name": "Food",
-          "type_line": "Token Artifact \u2014 Food",
+          "type_line": "Token Artifact — Food",
           "uri": "https://api.scryfall.com/cards/4a029bdc-92e3-4d85-8af5-e33429a5f017"
         }
       ],
@@ -8899,7 +8899,7 @@
       "digital": false,
       "rarity": "rare",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
-      "artist": "Bart\u0142omiej Gawe\u0142",
+      "artist": "Bartłomiej Gaweł",
       "artist_ids": [
         "85ce2dbb-ec19-4037-85d0-274ef9de81ad"
       ],
@@ -9030,7 +9030,7 @@
       "collector_number": "335",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"Without flame, there would be no iron tools, no cooked meals, no purge of old growth to make room for new.\"\n\u2014Brighthearth creed",
+      "flavor_text": "\"Without flame, there would be no iron tools, no cooked meals, no purge of old growth to make room for new.\"\n—Brighthearth creed",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Howard Lyon",
       "artist_ids": [
@@ -9167,7 +9167,7 @@
       "collector_number": "212",
       "digital": false,
       "rarity": "uncommon",
-      "flavor_text": "\"I'm leaving; for somewhere where I can finish my book, perhaps. I have thought of a nice ending for it: 'And he lived happily ever after to the end of his days.'\"\n\u2014Bilbo",
+      "flavor_text": "\"I'm leaving; for somewhere where I can finish my book, perhaps. I have thought of a nice ending for it: 'And he lived happily ever after to the end of his days.'\"\n—Bilbo",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "David Frasheski",
       "artist_ids": [
@@ -9240,7 +9240,7 @@
       },
       "mana_cost": "{1}{G}",
       "cmc": 2.0,
-      "type_line": "Creature \u2014 Snake Shaman",
+      "type_line": "Creature — Snake Shaman",
       "oracle_text": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
       "power": "1",
       "toughness": "1",
@@ -9373,7 +9373,7 @@
       },
       "mana_cost": "{4}{B}{B}",
       "cmc": 6.0,
-      "type_line": "Legendary Creature \u2014 Vampire Noble",
+      "type_line": "Legendary Creature — Vampire Noble",
       "oracle_text": "Flying\nWhenever another creature dies, put two +1/+1 counters on Sengir.\nWhenever another player loses the game, you gain life equal to that player's life total as the turn began.\nPartner (You can have two commanders if both have partner.)",
       "power": "4",
       "toughness": "4",
@@ -9520,7 +9520,7 @@
       },
       "mana_cost": "{2}{B}{G}",
       "cmc": 4.0,
-      "type_line": "Creature \u2014 Spider",
+      "type_line": "Creature — Spider",
       "oracle_text": "Reach\nWhen this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent.\nWhen this creature dies, you may gain 1 life for each creature card in your graveyard. If you do, exile this card from your graveyard.",
       "power": "3",
       "toughness": "3",
@@ -9664,7 +9664,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Land \u2014 Swamp Mountain",
+      "type_line": "Land — Swamp Mountain",
       "oracle_text": "({T}: Add {B} or {R}.)\nThis land enters tapped unless you control two or more basic lands.",
       "colors": [],
       "color_identity": [
@@ -9943,7 +9943,7 @@
       },
       "mana_cost": "{2}{B}{R}",
       "cmc": 4.0,
-      "type_line": "Legendary Creature \u2014 Vampire Noble",
+      "type_line": "Legendary Creature — Vampire Noble",
       "oracle_text": "Flying\nAt the beginning of your end step, create a Blood token for each player who lost life this turn.\nWhenever Strefan attacks, you may sacrifice two Blood tokens. If you do, you may put a Vampire card from your hand onto the battlefield tapped and attacking. It gains indestructible until end of turn.",
       "power": "3",
       "toughness": "2",
@@ -9964,7 +9964,7 @@
           "id": "a6f374bc-cd29-469f-808a-6a6c004ee8aa",
           "component": "token",
           "name": "Blood",
-          "type_line": "Token Artifact \u2014 Blood",
+          "type_line": "Token Artifact — Blood",
           "uri": "https://api.scryfall.com/cards/a6f374bc-cd29-469f-808a-6a6c004ee8aa"
         },
         {
@@ -9972,7 +9972,7 @@
           "id": "6d37e626-1f2e-4c26-a6a3-93eaddee1233",
           "component": "combo_piece",
           "name": "Strefan, Maurer Progenitor",
-          "type_line": "Legendary Creature \u2014 Vampire Noble",
+          "type_line": "Legendary Creature — Vampire Noble",
           "uri": "https://api.scryfall.com/cards/6d37e626-1f2e-4c26-a6a3-93eaddee1233"
         }
       ],
@@ -10103,7 +10103,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Basic Land \u2014 Swamp",
+      "type_line": "Basic Land — Swamp",
       "oracle_text": "({T}: Add {B}.)",
       "colors": [],
       "color_identity": [
@@ -10252,7 +10252,7 @@
           "id": "965bef73-eb93-4512-91b4-bf2ce7d27d42",
           "component": "token",
           "name": "Food",
-          "type_line": "Token Artifact \u2014 Food",
+          "type_line": "Token Artifact — Food",
           "uri": "https://api.scryfall.com/cards/965bef73-eb93-4512-91b4-bf2ce7d27d42"
         },
         {
@@ -10316,7 +10316,7 @@
       "collector_number": "156",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"Hone the knife and mourn the least. Three chimes to sound the sweet, grim feast.\"\n\u2014Barrow witch incantation",
+      "flavor_text": "\"Hone the knife and mourn the least. Three chimes to sound the sweet, grim feast.\"\n—Barrow witch incantation",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Chris Rallis",
       "artist_ids": [
@@ -10526,7 +10526,7 @@
       },
       "mana_cost": "{3}{B}",
       "cmc": 4.0,
-      "type_line": "Creature \u2014 Human Assassin",
+      "type_line": "Creature — Human Assassin",
       "oracle_text": "Deathtouch\nWhen this creature enters, you become the monarch.",
       "power": "1",
       "toughness": "3",
@@ -10553,7 +10553,7 @@
           "id": "b4b266e2-1cad-40df-bc0e-3e1464b299b3",
           "component": "combo_piece",
           "name": "Thorn of the Black Rose",
-          "type_line": "Creature \u2014 Human Assassin",
+          "type_line": "Creature — Human Assassin",
           "uri": "https://api.scryfall.com/cards/b4b266e2-1cad-40df-bc0e-3e1464b299b3"
         }
       ],
@@ -10682,7 +10682,7 @@
       },
       "mana_cost": "{1}{B}{R}",
       "cmc": 3.0,
-      "type_line": "Legendary Creature \u2014 Human Warlock Bard",
+      "type_line": "Legendary Creature — Human Warlock Bard",
       "oracle_text": "Whenever Totentanz or another nontoken creature you control dies, create a 1/1 black Rat creature token with \"This token can't block.\"\n{1}{B}: Target attacking Rat you control gains deathtouch until end of turn.",
       "power": "2",
       "toughness": "3",
@@ -10701,7 +10701,7 @@
           "id": "1e0205f2-25c1-403b-b408-56e3f2d63b4d",
           "component": "token",
           "name": "Rat",
-          "type_line": "Token Creature \u2014 Rat",
+          "type_line": "Token Creature — Rat",
           "uri": "https://api.scryfall.com/cards/1e0205f2-25c1-403b-b408-56e3f2d63b4d"
         },
         {
@@ -10709,7 +10709,7 @@
           "id": "1422d6db-fe5b-4a89-951a-fbd7985a29fc",
           "component": "combo_piece",
           "name": "Totentanz, Swarm Piper",
-          "type_line": "Legendary Creature \u2014 Human Warlock Bard",
+          "type_line": "Legendary Creature — Human Warlock Bard",
           "uri": "https://api.scryfall.com/cards/1422d6db-fe5b-4a89-951a-fbd7985a29fc"
         }
       ],
@@ -10910,7 +10910,7 @@
       "collector_number": "614",
       "digital": false,
       "rarity": "uncommon",
-      "flavor_text": "\"Secluded park. Dual puncture wounds. I told you these aren't random murders. Get the stakes ready.\"\n\u2014Rem Karolus, monster slayer",
+      "flavor_text": "\"Secluded park. Dual puncture wounds. I told you these aren't random murders. Get the stakes ready.\"\n—Rem Karolus, monster slayer",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Dave Kendall",
       "artist_ids": [
@@ -10984,7 +10984,7 @@
       },
       "mana_cost": "",
       "cmc": 0.0,
-      "type_line": "Land \u2014 Swamp Forest",
+      "type_line": "Land — Swamp Forest",
       "oracle_text": "({T}: Add {B} or {G}.)\nThis land enters tapped unless your opponents control eight or more lands.",
       "colors": [],
       "color_identity": [
@@ -11049,7 +11049,7 @@
       "digital": false,
       "rarity": "rare",
       "watermark": "witherbloom",
-      "flavor_text": "\"Life is beauty and cruelty. Pain and joy. It is the promise of certain death at the end of a glorious journey.\"\n\u2014Beledros Witherbloom",
+      "flavor_text": "\"Life is beauty and cruelty. Pain and joy. It is the promise of certain death at the end of a glorious journey.\"\n—Beledros Witherbloom",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Sergey Glushakov",
       "artist_ids": [
@@ -11121,7 +11121,7 @@
       },
       "mana_cost": "{1}{B}",
       "cmc": 2.0,
-      "type_line": "Creature \u2014 Vampire",
+      "type_line": "Creature — Vampire",
       "oracle_text": "Whenever this creature attacks, you may sacrifice another creature. If you do, draw a card and this creature can't be blocked this turn.",
       "power": "2",
       "toughness": "2",
@@ -11263,7 +11263,7 @@
       },
       "mana_cost": "{B}{R}",
       "cmc": 2.0,
-      "type_line": "Creature \u2014 Vampire Noble",
+      "type_line": "Creature — Vampire Noble",
       "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, if an opponent lost life this turn, put a +1/+1 counter on each other Vampire you control.\nAs long as an opponent lost life this turn, each other Vampire you control enters with an additional +1/+1 counter on it.",
       "power": "2",
       "toughness": "2",
@@ -11410,7 +11410,7 @@
       "mana_cost": "{1}{B}",
       "cmc": 2.0,
       "type_line": "Instant",
-      "oracle_text": "Kicker\u2014Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)\nTarget creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.",
+      "oracle_text": "Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)\nTarget creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.",
       "colors": [
         "B"
       ],
@@ -11680,8 +11680,8 @@
       },
       "mana_cost": "{2}{B}{G}",
       "cmc": 4.0,
-      "type_line": "Legendary Planeswalker \u2014 Vraska",
-      "oracle_text": "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n\u22123: Destroy target nonland permanent with mana value 3 or less.\n\u22129: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
+      "type_line": "Legendary Planeswalker — Vraska",
+      "oracle_text": "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n−3: Destroy target nonland permanent with mana value 3 or less.\n−9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
       "loyalty": "4",
       "colors": [
         "B",
@@ -11698,7 +11698,7 @@
           "id": "a36d3ea7-0f18-4865-b47b-755673db065e",
           "component": "combo_piece",
           "name": "Vraska, Golgari Queen",
-          "type_line": "Legendary Planeswalker \u2014 Vraska",
+          "type_line": "Legendary Planeswalker — Vraska",
           "uri": "https://api.scryfall.com/cards/a36d3ea7-0f18-4865-b47b-755673db065e"
         },
         {
@@ -11706,7 +11706,7 @@
           "id": "d81478ee-1ddf-44f5-98a0-df6d4eecad7e",
           "component": "combo_piece",
           "name": "Vraska, Golgari Queen Emblem",
-          "type_line": "Emblem \u2014 Vraska",
+          "type_line": "Emblem — Vraska",
           "uri": "https://api.scryfall.com/cards/d81478ee-1ddf-44f5-98a0-df6d4eecad7e"
         }
       ],
@@ -11899,7 +11899,7 @@
       "collector_number": "424",
       "digital": false,
       "rarity": "rare",
-      "flavor_text": "\"They never found the body of young Josu, or that of his murderous sister.\"\n\u2014\"The Fall of the House of Vess\"",
+      "flavor_text": "\"They never found the body of young Josu, or that of his murderous sister.\"\n—\"The Fall of the House of Vess\"",
       "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
       "artist": "Christine Choi",
       "artist_ids": [
@@ -11935,5 +11935,340 @@
       }
     },
     "cached_at": 1786202499.157299
+  },
+  "tireless provisioner": {
+    "data": {
+      "object": "card",
+      "id": "a1e048e0-19d2-4076-892d-f8b3104dee37",
+      "oracle_id": "ab8d5f5c-1976-4f77-8ed2-8d28ee666741",
+      "multiverse_ids": [
+        612561
+      ],
+      "mtgo_id": 111082,
+      "tcgplayer_id": 491647,
+      "cardmarket_id": 705845,
+      "name": "Tireless Provisioner",
+      "lang": "en",
+      "released_at": "2023-04-21",
+      "uri": "https://api.scryfall.com/cards/a1e048e0-19d2-4076-892d-f8b3104dee37",
+      "scryfall_uri": "https://scryfall.com/card/moc/313/tireless-provisioner?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-13T04:32:15Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+        "normal": "https://cards.scryfall.io/normal/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+        "large": "https://cards.scryfall.io/large/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+        "png": "https://cards.scryfall.io/png/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.png?1783917135",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+        "thumb": "https://cards.scryfall.io/thumb/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.webp?1783917135",
+        "grid": "https://cards.scryfall.io/grid/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.webp?1783917135",
+        "display": "https://cards.scryfall.io/display/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.webp?1783917135",
+        "art": "https://cards.scryfall.io/art/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.webp?1783917135",
+        "crop": "https://cards.scryfall.io/crop/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.webp?1783917135"
+      },
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Creature — Elf Scout",
+      "oracle_text": "Landfall — Whenever a land you control enters, create a Food token or a Treasure token. (Food is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\" Treasure is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "power": "3",
+      "toughness": "2",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [
+        "Treasure",
+        "Food",
+        "Landfall"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "1728ad2d-c8a6-49e4-85bb-29934fa26208",
+          "component": "token",
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "uri": "https://api.scryfall.com/cards/1728ad2d-c8a6-49e4-85bb-29934fa26208"
+        },
+        {
+          "object": "related_card",
+          "id": "95a625ba-330c-4677-a9b3-9c471225b204",
+          "component": "token",
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "uri": "https://api.scryfall.com/cards/95a625ba-330c-4677-a9b3-9c471225b204"
+        },
+        {
+          "object": "related_card",
+          "id": "a1e048e0-19d2-4076-892d-f8b3104dee37",
+          "component": "combo_piece",
+          "name": "Tireless Provisioner",
+          "type_line": "Creature — Elf Scout",
+          "uri": "https://api.scryfall.com/cards/a1e048e0-19d2-4076-892d-f8b3104dee37"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": false,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": true,
+      "variation": false,
+      "set_id": "6bba5de9-5afb-42af-a7eb-24ac854bf671",
+      "set": "moc",
+      "set_name": "March of the Machine Commander",
+      "set_type": "commander",
+      "set_uri": "https://api.scryfall.com/sets/6bba5de9-5afb-42af-a7eb-24ac854bf671",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amoc&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/moc?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/a1e048e0-19d2-4076-892d-f8b3104dee37/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab8d5f5c-1976-4f77-8ed2-8d28ee666741&unique=prints",
+      "collector_number": "313",
+      "digital": false,
+      "rarity": "uncommon",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Josu Hernaiz",
+      "artist_ids": [
+        "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+      ],
+      "illustration_id": "a2da3244-bfe6-44b8-a19e-67872b369813",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "edhrec_rank": 185,
+      "penny_rank": 2132,
+      "prices": {
+        "usd": "4.29",
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": "2.34",
+        "eur_foil": null,
+        "tix": "0.13"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=612561&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTireless%2BProvisioner",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTireless%2BProvisioner",
+        "edhrec": "https://edhrec.com/route/?cc=Tireless+Provisioner"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491647%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=705845&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/111082?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1786206602.9664218
+  },
+  "peregrin took": {
+    "data": {
+      "object": "card",
+      "id": "f5baee8d-88e7-4468-94a9-66ca8e2caf15",
+      "oracle_id": "188da0ad-8524-4fb2-915e-1876dc9df89f",
+      "multiverse_ids": [
+        617011
+      ],
+      "mtgo_id": 112272,
+      "arena_id": 84873,
+      "tcgplayer_id": 498369,
+      "cardmarket_id": 715949,
+      "name": "Peregrin Took",
+      "lang": "en",
+      "released_at": "2023-06-23",
+      "uri": "https://api.scryfall.com/cards/f5baee8d-88e7-4468-94a9-66ca8e2caf15",
+      "scryfall_uri": "https://scryfall.com/card/ltr/181/peregrin-took?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-13T04:17:43Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+        "normal": "https://cards.scryfall.io/normal/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+        "large": "https://cards.scryfall.io/large/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+        "png": "https://cards.scryfall.io/png/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.png?1783916263",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+        "thumb": "https://cards.scryfall.io/thumb/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.webp?1783916263",
+        "grid": "https://cards.scryfall.io/grid/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.webp?1783916263",
+        "display": "https://cards.scryfall.io/display/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.webp?1783916263",
+        "art": "https://cards.scryfall.io/art/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.webp?1783916263",
+        "crop": "https://cards.scryfall.io/crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.webp?1783916263"
+      },
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Legendary Creature — Halfling Citizen",
+      "oracle_text": "If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Draw a card.",
+      "power": "2",
+      "toughness": "3",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [
+        "Food"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "3c8b8eef-d150-4610-8428-d8ea75eeb80a",
+          "component": "combo_piece",
+          "name": "Peregrin Took",
+          "type_line": "Legendary Creature — Halfling Citizen",
+          "uri": "https://api.scryfall.com/cards/3c8b8eef-d150-4610-8428-d8ea75eeb80a"
+        },
+        {
+          "object": "related_card",
+          "id": "4a029bdc-92e3-4d85-8af5-e33429a5f017",
+          "component": "token",
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "uri": "https://api.scryfall.com/cards/4a029bdc-92e3-4d85-8af5-e33429a5f017"
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "not_legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+      "set": "ltr",
+      "set_name": "The Lord of the Rings: Tales of Middle-earth",
+      "set_type": "draft_innovation",
+      "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/f5baee8d-88e7-4468-94a9-66ca8e2caf15/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A188da0ad-8524-4fb2-915e-1876dc9df89f&unique=prints",
+      "collector_number": "181",
+      "digital": false,
+      "rarity": "uncommon",
+      "flavor_text": "\"Sam! Get breakfast ready for half-past nine!\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Campbell White",
+      "artist_ids": [
+        "d281eab4-463a-4ba8-9039-8943737960a0"
+      ],
+      "illustration_id": "1e24cb02-4ed0-4fc5-a394-6683878c0f8c",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary"
+      ],
+      "security_stamp": "triangle",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 783,
+      "prices": {
+        "usd": "1.31",
+        "usd_foil": "1.19",
+        "usd_etched": null,
+        "eur": "0.17",
+        "eur_foil": "0.27",
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617011&printed=false",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPeregrin%2BTook",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPeregrin%2BTook",
+        "edhrec": "https://edhrec.com/route/?cc=Peregrin+Took"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F498369%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=715949&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/112272?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    "cached_at": 1786206603.7593637
   }
 }

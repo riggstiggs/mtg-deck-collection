@@ -690,7 +690,8 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 | Terminate | {B}{R} | $0.38 | Spell, exempt |
 | Putrefy | {1}{B}{G} | $0.28 | Spell, exempt |
 | ~~Beast Within~~ | {2}{G} | $0.68 | SWAPPED 2026-08-08 — pure mechanics, no thematic hook; handing an opponent a free 3/3 doesn't read as anything at this banquet. |
-| Skyfisher Spider | {2}{B}{G} | $0.25 | 8 | 8 | A real character — the spider watching quietly from the rafters, disposing of problems. Sac a creature to destroy any nonland permanent, gains life on death. Double duty: real removal that also feeds Korvold's sac engine. Passes the Character test on its own where Beast Within couldn't. |
+| ~~Skyfisher Spider~~ | {2}{B}{G} | $0.25 | 8 | 8 | SWAPPED 2026-08-08 (Jamie) — clean upgrade for what the deck actually needs. |
+| Tireless Provisioner | {2}{G} | $4.29 | 9 | 8 | ADDED 2026-08-08 (replacing Skyfisher Spider, Jamie's find) — the Provisioner, keeping the banquet supplied: landfall makes a Food or Treasure off every land drop, so ramp spells become "deliveries to the estate." Real, ongoing acceleration/lifegain flexibility with an actual reason to be working this party. |
 | Chaos Warp | {2}{R} | $0.58 | Spell, exempt, hits anything incl. problem enchantments |
 | Feed the Swarm | {1}{B} | $0.33 | Spell, exempt |
 | Blasphemous Act | {8}{R} | $0.80 | REFRAMED 2026-08-08 (Jamie asked for a more thematic take) — this one didn't need swapping, just naming. A Sorcery, per Rule 16 it's "what just happened": THE fire. The chandelier finally falls, the whole hall catches, 13 damage to everything at the table at once. The name itself already carries a scandalous, taboo-act-in-a-sacred-space register — exactly this deck's tone. Checked alternatives (Inferno, Fire Tempest, Bloodfire Colossus); none beat its cost efficiency (as low as {R} in a full board) or its existing name. |
@@ -743,7 +744,8 @@ point — some of those may be interchangeable and worth trimming.
 |---|---|---|---|---|
 | Malevolent Chandelier | {6} | $0.11 | 🏛️ Prop | THE chandelier — a literal object from Arlo's ask, and as an artifact CREATURE it can even be part of the cast (a monster hiding in the fixture) |
 | ~~Rotating Fireplace~~ | {3} | $0.40 | 🏛️ Prop | CUT 2026-08-08 — right concept (the room itself as a prop), wrong card: costs {4} + a sorcery-speed activation just to improve from taping for {C} to {C}{C}, a genuinely bad rate with no real payoff in this deck. |
-| Rings of Brighthearth | {3} | $5.94 | 🏛️ Prop | ADDED 2026-08-08 (Jamie's read) — ruled out Throne of the God-Pharaoh specifically because Korvold isn't a god demanding worship, NOT a rejection of thrones as a category (a King can absolutely have one — see below). The twin heirloom rings sitting quietly at the estate instead — copies any non-mana activated ability, doubling up Vraska's loyalty abilities, Monarch triggers, and Ayara's sac-for-card. |
+| ~~Rings of Brighthearth~~ | {3} | $5.94 | 🏛️ Prop | SWAPPED 2026-08-08 (Jamie) — sneakier upgrade than it looks; see Peregrin Took below. |
+| Peregrin Took | {2}{G} | $1.31 | 👤 Guest | ADDED 2026-08-08 (replacing Rings of Brighthearth, Jamie's find) — a halfling who quietly makes sure nobody at this party goes hungry: whenever ANY token is created (his own Food, but also every Blood token from the deck's Vampire cluster), an extra Food comes with it. Simultaneously fodder amplification (more sac material for Korvold) and card advantage (sac three Food to draw). Real named character with an obvious reason to be at a feast. |
 | ~~Throne of the God-Pharaoh~~ | {2} | $6.80 | 🏛️ Prop, MAYBE | Considered, not decided. Ruled OUT specifically as a god's throne (Korvold isn't a god), the one throne genuinely wrong for this seat. Drains life equal to tapped creatures each end step — cheap, real reach if reconsidered. |
 | The Golden Throne | {4} | $9.81 | 🏛️ Prop, MAYBE | Considered, not decided — a King's throne (not a god's), so the earlier objection doesn't apply. Genuinely regal + grim: a game-saving life-total safety net, and a sac-outlet mana rock feeding Korvold directly. |
 | Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
@@ -1058,11 +1060,9 @@ already flagged as needed if it's a recent set.
 
 **66 cards still needed.** Live Manapool pricing pulled via
 `scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $83.11** (updated after the mechanical/thematic
-upgrade pass: removed Timothar/Goddric/Whispering Snitch/Grim
-Feast/Leering Onlooker, added Sengir the Dark Baron/Bloodtithe
-Harvester/Champion of Dusk/Indulgent Aristocrat/Patron of the Vein — all
-five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
+2026-08-08) — **total: $78.91** (updated after Jamie's own Food-package
+swap: removed Skyfisher Spider/Rings of Brighthearth, added Tireless
+Provisioner/Peregrin Took). All confirmed in stock.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
@@ -1071,7 +1071,6 @@ five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
 | $6.51 | NM | Turbulent Fen | https://manapool.com/card/sos/419/turbulent-fen |
 | $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
 | $6.17 | NM | Dark Prophecy | https://manapool.com/card/m14/93/dark-prophecy |
-| $5.80 | NM (Foil) | Rings of Brighthearth | https://manapool.com/card/cmr/335/rings-of-brighthearth |
 | $5.75 | NM | Court of Embereth | https://manapool.com/card/woc/24/court-of-embereth |
 | $4.90 | NM | Crown of Doom | https://manapool.com/card/c14/55/crown-of-doom |
 | $4.25 | NM | Captive Audience | https://manapool.com/card/rna/160/captive-audience |
@@ -1079,6 +1078,7 @@ five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
 | $3.30 | NM | Castle Locthwain | https://manapool.com/card/eld/241/castle-locthwain |
 | $2.00 | NM | Grave Betrayal | https://manapool.com/card/rtr/67/grave-betrayal |
 | $1.69 | NM | Greater Harvester | https://manapool.com/card/dst/44/greater-harvester |
+| $1.50 | NM | Tireless Provisioner | https://manapool.com/card/plst/mh2-180/tireless-provisioner |
 | $1.50 | NM | Cascading Cataracts | https://manapool.com/card/eos/5/cascading-cataracts |
 | $0.99 | NM | Bojuka Bog | https://manapool.com/card/tdc/341/bojuka-bog |
 | $0.80 | NM | Blackcleave Cliffs | https://manapool.com/card/one/248/blackcleave-cliffs |
@@ -1105,6 +1105,7 @@ five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
 | $0.23 | NM | Vampire Socialite | https://manapool.com/card/mid/249/vampire-socialite |
 | $0.22 | NM | Korvold, Fae-Cursed King | https://manapool.com/card/eoc/120/korvold-fae-cursed-king |
 | $0.21 | NM | Deathgreeter | https://manapool.com/card/plst/ddd-33/deathgreeter |
+| $0.25 | NM | Peregrin Took | https://manapool.com/card/ltr/315/peregrin-took |
 | $0.19 | NM | Sakura-Tribe Elder | https://manapool.com/card/c19/177/sakura-tribe-elder |
 | $0.15 | NM | Cinder Glade | https://manapool.com/card/ecc/146/cinder-glade |
 | $0.15 | NM (Foil) | Belligerent Guest | https://manapool.com/card/vow/144/belligerent-guest |
@@ -1126,7 +1127,6 @@ five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
 | $0.15 | NM (Foil) | Popular Egotist | https://manapool.com/card/dsk/114/popular-egotist |
 | $0.15 | NM | Putrefy | https://manapool.com/card/dgm/93/putrefy |
 | $0.15 | NM (Foil) | Rampant Growth | https://manapool.com/card/sos/162/studious-first-year-rampant-growth |
-| $0.15 | NM | Skyfisher Spider | https://manapool.com/card/bro/221/skyfisher-spider |
 | $0.15 | NM | Stensia Masquerade | https://manapool.com/card/voc/150/stensia-masquerade |
 | $0.15 | NM | Terminate | https://manapool.com/card/ecc/134/terminate |
 | $0.15 | NM | Thorn of the Black Rose | https://manapool.com/card/cmr/154/thorn-of-the-black-rose |
@@ -1276,6 +1276,27 @@ five new adds are cheap, $0.15-$0.17 each). All confirmed in stock.
       identical to her pasted 100-card list, zero differences.
     - Cards to Purchase total updated: $90.24 → $83.11 (all five new adds
       are $0.15-$0.17 each).
+*   **2026-08-08 (Jamie's Food package):** Two swaps proposed and locked in
+    directly by Jamie, no back-and-forth needed.
+    - **In:** Tireless Provisioner ({2}{G}) — landfall makes a Food or
+      Treasure off every land drop, so ramp spells become "deliveries to
+      the estate"; a real character reason to be at the party (they keep
+      the banquet supplied).
+    - **Out:** Skyfisher Spider — real removal, but Provisioner is a
+      cleaner fit for what the deck's Food sub-theme actually needs.
+    - **In:** Peregrin Took ({2}{G}) — whenever ANY token is created
+      (including the Blood tokens the Vampire cluster already makes), an
+      extra Food comes with it; sac three Food to draw. Fodder
+      amplification + card advantage in one card. Initially flagged as a
+      possible cross-IP mismatch (Lord of the Rings) given the earlier
+      Fíli/Kíli cut, but Jamie clarified that cut was about those specific
+      characters, not a blanket rule against other franchises — corrected
+      the earlier overgeneralization.
+    - **Out:** Rings of Brighthearth — real but narrow ability-doubling
+      with thin actual payoff density in this exact 100; Took does more
+      real work for the same slot.
+    - Verified against Jamie's own Forge paste again — zero differences.
+    - Cards to Purchase total updated: $83.11 → $78.91.
 
 ---
 
@@ -1360,12 +1381,12 @@ DECK:
 1 Dash Hopes  
 1 Terminate  
 1 Putrefy  
-1 Skyfisher Spider  
+1 Tireless Provisioner  
 1 Chaos Warp  
 1 Feed the Swarm  
 1 Blasphemous Act  
 1 Taste of Death  
-1 Rings of Brighthearth  
+1 Peregrin Took  
 1 Crown of Doom  
 1 Patron of the Vein  
 1 Thorn of the Black Rose  
