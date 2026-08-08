@@ -676,8 +676,9 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 | Village Rites | {B} | $0.38 | Spell, exempt — sac-for-draw, feeds Korvold directly |
 | Deadly Dispute | {1}{B} | $0.34 | Spell, exempt — sac-for-draw+Treasure |
 | Night's Whisper | {1}{B} | $0.29 | Spell, exempt |
-| Read the Bones | {2}{B} | $0.32 | Spell, exempt |
-| Phyrexian Arena | {1}{B}{B} | $3.94 | Enchantment, exempt, steady card advantage |
+| ~~Read the Bones~~ | {2}{B} | $0.32 | CUT 2026-08-08 — redundant with Night's Whisper/Phyrexian Arena (see changelog); this row was stale/still showing live in error, corrected. |
+| ~~Phyrexian Arena~~ | {1}{B}{B} | $3.94 | SWAPPED 2026-08-08 (Jamie) — "Arena" reads as gladiatorial combat, wrong venue for a banquet. Enchantment, exempt from the guest-test, but the name itself clashed. |
+| Dark Prophecy | {B}{B}{B} | $6.17 | ADDED 2026-08-08 (replacing Phyrexian Arena) — same card-advantage job, but a real scene: whoever this represents profits every time a guest dies at the table, not on an abstract clock. Triggers far more often than Arena's flat once-per-turn in a deck this sacrifice-heavy — a mechanical upgrade, not just a reskin. Enchantment, exempt from the guest-test. |
 
 ### ⚔️ Removal
 | Card | Cost | Price | Note |
@@ -1052,10 +1053,11 @@ already flagged as needed if it's a recent set.
 
 **68 cards still needed.** Live Manapool pricing pulled via
 `scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $87.55** (updated after the full land-tax audit:
-removed Rockfall Vale/Deathcap Glade/Shadowblood Ridge/Jungle Hollow, added
-Necroblossom Snarl/Turbulent Fen/Cinder Glade/Luxury Suite). All confirmed
-in stock.
+2026-08-08) — **total: $90.24** (updated after the full land-tax audit
+plus the Phyrexian Arena → Dark Prophecy swap: removed Rockfall
+Vale/Deathcap Glade/Shadowblood Ridge/Jungle Hollow/Phyrexian Arena, added
+Necroblossom Snarl/Turbulent Fen/Cinder Glade/Luxury Suite/Dark Prophecy).
+All confirmed in stock.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
@@ -1064,12 +1066,12 @@ in stock.
 | $7.30 | NM | Grim Feast | https://manapool.com/card/mir/265/grim-feast |
 | $6.51 | NM | Turbulent Fen | https://manapool.com/card/sos/419/turbulent-fen |
 | $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
+| $6.17 | NM | Dark Prophecy | https://manapool.com/card/m14/93/dark-prophecy |
 | $5.80 | NM (Foil) | Rings of Brighthearth | https://manapool.com/card/cmr/335/rings-of-brighthearth |
 | $5.75 | NM | Court of Embereth | https://manapool.com/card/woc/24/court-of-embereth |
 | $4.90 | NM | Crown of Doom | https://manapool.com/card/c14/55/crown-of-doom |
 | $4.25 | NM | Captive Audience | https://manapool.com/card/rna/160/captive-audience |
 | $3.75 | NM | Vraska, Golgari Queen | https://manapool.com/card/grn/213/vraska-golgari-queen |
-| $3.48 | NM | Phyrexian Arena | https://manapool.com/card/fdn/180/phyrexian-arena |
 | $3.30 | NM | Castle Locthwain | https://manapool.com/card/eld/241/castle-locthwain |
 | $2.00 | NM | Grave Betrayal | https://manapool.com/card/rtr/67/grave-betrayal |
 | $1.69 | NM | Greater Harvester | https://manapool.com/card/dst/44/greater-harvester |
@@ -1221,6 +1223,20 @@ in stock.
     - Cards to Purchase total updated: $72.53 → $87.55 (added Turbulent
       Fen/Cinder Glade/Luxury Suite, Jungle Hollow dropped off the owned
       list since it's no longer in the deck).
+*   **2026-08-08 (later):** Phyrexian Arena → Dark Prophecy. Jamie: "Arena"
+    reads as gladiatorial combat, wrong venue for a banquet. Same
+    card-advantage job (draw a card, lose life) but a real scene instead of
+    an abstract clock — whoever this represents profits every time a guest
+    dies at the table. Also mechanically stronger in this specific deck:
+    Dark Prophecy triggers on every creature death (this deck sacrifices
+    constantly), not a flat once-per-turn like Arena.
+    - **In:** Dark Prophecy ({B}{B}{B}, $6.17).
+    - **Out:** Phyrexian Arena ({1}{B}{B}, $3.94).
+    - Also caught another stale narrative-table row while in this section:
+      Read the Bones was already cut back in the earlier redundancy pass
+      but was still showing live in the Draw/Value table — struck through
+      and corrected.
+    - Cards to Purchase total updated: $87.55 → $90.24.
 
 ---
 
@@ -1301,7 +1317,7 @@ DECK:
 1 Village Rites  
 1 Deadly Dispute  
 1 Night's Whisper  
-1 Phyrexian Arena  
+1 Dark Prophecy  
 1 Dash Hopes  
 1 Terminate  
 1 Putrefy  

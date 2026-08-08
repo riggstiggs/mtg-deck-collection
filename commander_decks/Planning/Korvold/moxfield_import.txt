@@ -46,7 +46,7 @@ DECK:
 1 Village Rites
 1 Deadly Dispute
 1 Night's Whisper
-1 Phyrexian Arena
+1 Dark Prophecy
 1 Dash Hopes
 1 Terminate
 1 Putrefy
