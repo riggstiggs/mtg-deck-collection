@@ -115,3 +115,69 @@ Avg creatures per seat (end T10): 4.6
   more Swamps relative to Mountain/Forest (green in particular is very
   light on actual demand at only 8 pips total across the 100-card list).
 - No other red flags.
+
+## 2026-08-08 (later still) — Post Food-package swap (Tireless Provisioner/Peregrin Took, 20 sims, T10 turns)
+
+**Context:** Jamie swapped Skyfisher Spider -> Tireless Provisioner and
+Rings of Brighthearth -> Peregrin Took (both {2}{G}, same cost as what
+they replaced). Re-ran the standard validation against `moxfield_import.txt`
+directly (now the reconciled file, no temp file needed).
+
+**Command:**
+```
+python3 scripts/multiplayer_goldfish.py "commander_decks/Planning/Korvold/moxfield_import.txt" --sims 20 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 77/80 (96%)
+Range: T3 - T10
+Average: T4.8
+Distribution: T3(8) T4(32) T5(20) T6(10) T7(2) T8(2) T9(1) T10(2)
+Avg creatures per seat (end T10): 4.4
+```
+
+**Notes:**
+- Statistically identical to both prior runs (96%/T4.8, matching the very
+  first post-finalization run; the intermediate 5-swap run was 95%/T4.7,
+  within noise of all three). Same-cost swaps ({2}{G} for {2}{G} and {2}{G}
+  for {3}) don't meaningfully shift the curve, as expected.
+- Distribution still clusters T3-T5 (60/80 seats), on pace for Bracket 3.
+- No red flags. The black-pip-density concern flagged in the previous
+  entry is unchanged by this swap (neither new card is black) and remains
+  an open watch-item for real games, not something this simulator
+  fully validates.
+
+## 2026-08-08 (large sample) — 100 sims, T10 turns, same final list
+
+**Context:** Jamie asked for a 100-sim run (5x the standard protocol) to
+get a tighter confidence interval on the Food-package-swap deck. 400 seats
+total instead of 80.
+
+**Command:**
+```
+python3 scripts/multiplayer_goldfish.py "commander_decks/Planning/Korvold/moxfield_import.txt" --sims 100 --turns 10
+```
+
+**Results:**
+```
+Commander cast rate: 391/400 (98%)
+Range: T2 - T10
+Average: T4.6
+Distribution: T2(11) T3(69) T4(149) T5(91) T6(28) T7(18) T8(11) T9(7) T10(7)
+Avg creatures per seat (end T10): 4.7
+```
+
+**Notes:**
+- Larger sample tightens the read: 98%/T4.6, slightly better than the
+  95-96%/T4.7-4.8 seen across the three 20-sim runs — those were within
+  normal sampling noise around this true rate, not a real trend.
+- Distribution still clusters T3-T5 (309/400 seats, 77%), same shape as
+  every prior run, confirming the deck reliably beats the Bracket 3
+  turn-7 floor.
+- No red flags at this larger sample either. The black-pip-density
+  concern (71% of colored pips are black vs. 26/39 black sources) remains
+  unvalidated by this simulator regardless of sample size, since it
+  checks aggregate color availability, not specifically whether BB/BBB
+  costs come together — still an open watch-item for real games, not
+  something more sims will resolve.
