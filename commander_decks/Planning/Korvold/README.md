@@ -584,7 +584,7 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
 | Extract a Confession | {1}{B} | $0.24 | 9 | 7 | THE accusation scene, literal — an interrogation that forces an opponent's sacrifice, "evidence" = exiling cards from the graveyard to build a case |
-| Oath of Liliana | {2}{B} | $0.42 | 8 | 8 | The oath before dinner — glasses raised, every house publicly pledges loyalty, except Korvold knows one of them is lying. Forces every opponent to sacrifice on entry. |
+| ~~Oath of Liliana~~ | {2}{B} | $0.42 | 8 | 8 | CUT 2026-08-08 (Jamie) — "feels out of place because Liliana isn't in the deck." Right instinct: a card built entirely around a named Planeswalker who doesn't otherwise exist in this story fails "who is this and why are they here." Also redundant with Extract a Confession and Tribute to Hunger (same opponent-sacrifice effect) — no real loss. |
 | ~~Structural Collapse~~ | {5}{R} | $0.04 | 8 | 7 | CUT 2026-08-07 (Jamie) — "we don't really destroy each other's lands in our pod, it feels like a waste." Was defended as the deck's only land-disruption effect, but that value doesn't exist if the table doesn't play that way. |
 | Captive Audience | {5}{B}{R} | $4.24 | 9 | 6 | RE-CLASSIFIED per the taxonomy: it's an Enchantment, so it's Atmosphere not Moment despite the title. "The curse has been placed on this house" — the doors are barred, dinner is no longer voluntary, that specific house is stuck under this mood for the rest of the game. Passes Rule 17 as the best "cursed household" card in the pool; nothing else does this specific thing. |
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
@@ -719,7 +719,8 @@ point — some of those may be interchangeable and worth trimming.
 | Card | Cost | Price | Role | Note |
 |---|---|---|---|---|
 | Malevolent Chandelier | {6} | $0.11 | 🏛️ Prop | THE chandelier — a literal object from Arlo's ask, and as an artifact CREATURE it can even be part of the cast (a monster hiding in the fixture) |
-| Rotating Fireplace | {3} | $0.40 | 🏛️ Prop | THE fireplace — colorless utility mana |
+| ~~Rotating Fireplace~~ | {3} | $0.40 | 🏛️ Prop | CUT 2026-08-08 — right concept (the room itself as a prop), wrong card: costs {4} + a sorcery-speed activation just to improve from taping for {C} to {C}{C}, a genuinely bad rate with no real payoff in this deck. |
+| Rings of Brighthearth | {3} | $5.94 | 🏛️ Prop | ADDED 2026-08-08 (Jamie's read) — "if Korvold was a god and not a king, I think the throne makes sense" (ruled out Throne of the God-Pharaoh on that basis — a King has a COURT, not a throne asserting divine authority, and this deck already has one: Vraska, Custodi Lich, Court of Embereth, Court of Locthwain). The twin heirloom rings sitting quietly at the estate instead — copies any non-mana activated ability, doubling up Vraska's loyalty abilities, Monarch triggers, and Ayara's sac-for-card. |
 | Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
 | Leering Onlooker | {1}{B} | $0.18 | 👀 Spectator | THE onlooker — watching from the corner, converts to flying Bats on death |
 | Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving. ⚠ Arlo's review, 2026-08-06: mechanically fine, doing the right job, but "feels pleasant" next to a cast full of dramatic tension — reads like an NPC. Not cut, but flagged: keep an eye open for someone whose entrance is more memorable, per the Camera test. |
@@ -1023,7 +1024,6 @@ DECK:
 1 Voldaren Duelist  
 1 Grave Betrayal  
 1 Extract a Confession  
-1 Oath of Liliana  
 1 Captive Audience  
 1 Marchesa's Decree  
 1 Tribute to Hunger  
@@ -1057,7 +1057,7 @@ DECK:
 1 Feed the Swarm  
 1 Blasphemous Act  
 1 Malevolent Chandelier  
-1 Rotating Fireplace  
+1 Rings of Brighthearth  
 1 Crown of Doom  
 1 Leering Onlooker  
 1 Rogues' Gallery  
