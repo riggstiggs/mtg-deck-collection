@@ -665,7 +665,8 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 |---|---|---|---|
 | Terminate | {B}{R} | $0.38 | Spell, exempt |
 | Putrefy | {1}{B}{G} | $0.28 | Spell, exempt |
-| Beast Within | {2}{G} | $0.68 | Spell, exempt, hits anything |
+| ~~Beast Within~~ | {2}{G} | $0.68 | SWAPPED 2026-08-08 — pure mechanics, no thematic hook; handing an opponent a free 3/3 doesn't read as anything at this banquet. |
+| Skyfisher Spider | {2}{B}{G} | $0.25 | 8 | 8 | A real character — the spider watching quietly from the rafters, disposing of problems. Sac a creature to destroy any nonland permanent, gains life on death. Double duty: real removal that also feeds Korvold's sac engine. Passes the Character test on its own where Beast Within couldn't. |
 | Chaos Warp | {2}{R} | $0.58 | Spell, exempt, hits anything incl. problem enchantments |
 | Feed the Swarm | {1}{B} | $0.33 | Spell, exempt |
 | Blasphemous Act | {8}{R} | $0.80 | Spell, exempt, cheap board wipe in a crowded pod |
@@ -1046,7 +1047,7 @@ DECK:
 1 Phyrexian Arena  
 1 Terminate  
 1 Putrefy  
-1 Beast Within  
+1 Skyfisher Spider  
 1 Chaos Warp  
 1 Feed the Swarm  
 1 Blasphemous Act  
