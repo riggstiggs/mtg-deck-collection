@@ -499,6 +499,7 @@ is BRG natively. Ramp is fair game if it earns its slot.
 | **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. |
 | Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; the Monarch mechanic itself IS "who holds power at the table right now" — contestable by rivals, politically alive. Arlo, 2026-08-06: "he's not just becoming Monarch — he's taking control of the conversation." |
 | Court of Embereth | {2}{R}{R} | $6.43 | 7 | 8 | A Monarch enchantment that makes Knights and escalates damage while ruling — the political-power engine of the court made mechanical |
+| Court of Locthwain | {2}{B}{B} | $6.68 | 9 | 9 | ADDED 2026-08-08 (Jamie's catch) — we're already in the castle (Castle Locthwain IS "The Ballroom" on the estate map); this is the literal court that resides there, claiming the crown. Enchantment = "what is now true" per Rule 16. Monarch + repeatable card-advantage engine (exile and cast an opponent's card each turn) — the best Card Advantage piece the deck has, and the deck genuinely needs it. |
 
 ### 🍸 Nobles / Aristocrats / Socialites (sac-payoff glue)
 All verified live on Scryfall, all Jund-legal, all under $1.10. ❌ = cut (doesn't
@@ -559,6 +560,7 @@ else, doesn't get a reserved seat just for being "the service card."
 |---|---|---|---|---|---|
 | Goddric, Cloaked Reveler | {1}{R}{R} | $0.27 | 8 | 6 | A masked noble at the masquerade, transforms when the party turns — pairs with Grand Ball Guest |
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
+| Ayara, First of Locthwain | {B}{B}{B} | $9.85 | 9 | 9 | ADDED 2026-08-08 (Jamie's catch) — literally "First of Locthwain," ruler of the same house as Castle Locthwain and Court of Locthwain already in the deck. Drains 1 life on every black creature ETB (this deck runs many), sac-a-black-creature-for-a-card is a cheap repeatable draw engine feeding Korvold's sac plan directly. Fills the true final slot: 98 + Court of Locthwain + Ayara = 100 exactly, no cut needed. |
 | ~~Havoc Jester~~ | {4}{R} | $0.17 | 9 | 8 | CUT 2026-08-06 — lost the audition to Mayhem Devil (see below): same role, worse mechanics. |
 | Mayhem Devil | {1}{B}{R} | $0.30 | 8 | 9 | ⭐ Arlo's audition, 2026-08-06 — "the guest who keeps making cutting remarks until the room descends into chaos." Triggers on ANY player's sacrifice (not just yours), so he punishes opponents' own fetches/edicts too — half Havoc Jester's cost with strictly better utility. Won the seat. |
 | ~~Bello, Bard of the Brambles~~ | {1}{R}{G} | $1.82 | 8 | 7 | CUT 2026-08-07 (Jamie) — "a literal trash panda turning trashy artifacts into workhorses. While bard fits, I don't think he does." Right mechanics, wrong character for this room. |
@@ -616,7 +618,8 @@ Harvest/Feast search carried this tier instead.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
 | Harvester of Souls | {4}{B}{B} | $2.57 | 9 | 8 | A Demon who reaps the feast's dead for cards — draws on ANY nontoken death, strong Korvold-adjacent payoff |
-| Master of the Feast | {1}{B}{B} | $5.91 | 10 | 6 | 5/5 flier literally titled "Master of the Feast" — real downside (opponents draw too) but the flavor is dead center |
+| ~~Master of the Feast~~ | {1}{B}{B} | $5.91 | 10 | 6 | CUT 2026-08-08 (Jamie) — "thematically awesome but I don't want to give my opponents card advantage." Real, mounting cost every upkeep, and this deck is already short on Card Advantage per the template gap — handing opponents exactly what you're missing is a bad trade regardless of how perfect the name is. |
+| Stensia Masquerade | {2}{R} | $0.32 | 10 | 8 | ADDED 2026-08-08 (Jamie's find) — Stensia is literally the vampire homeland/region in Innistrad's lore, so this isn't just vampire-flavored, it's THE vampire court's own masquerade ball. Grants all attackers first strike (real combat value) and grows any Vampire that connects — direct payoff for the deck's real Vampire cluster (Belligerent/Gluttonous Guest, Vampire Socialite, both Falkenraths, Strefan, Anje, Ayara). No drawback, unlike Master of the Feast. |
 | Feast of Succession | {4}{B}{B} | $0.25 | 8 | 7 | Board wipe + become Monarch — the old order dies, new power rises at the table |
 | Greater Harvester | {2}{B}{B}{B} | $1.72 | 8 | 7 | Sac-upkeep-or-else, punishes combat damage with double sacrifice — the Reaper working the feast |
 | Grim Feast | {1}{B}{G} | $7.77 | 8 | 7 | Gains life whenever ANY creature dies (yours OR opponents') — feasting on the carnage of the whole table, not just your own board |
@@ -1004,6 +1007,7 @@ DECK:
 1 Vraska, Golgari Queen  
 1 Custodi Lich  
 1 Court of Embereth  
+1 Court of Locthwain  
 1 Falkenrath Aristocrat  
 1 Falkenrath Noble  
 1 Vampire Socialite  
@@ -1012,6 +1016,8 @@ DECK:
 1 Tromell, Seymour's Butler  
 1 Goddric, Cloaked Reveler  
 1 Falkenrath Celebrants  
+1 Ayara, First of Locthwain  
+1 Stensia Masquerade  
 1 Mayhem Devil  
 1 Whispering Snitch  
 1 Voldaren Duelist  
@@ -1027,7 +1033,6 @@ DECK:
 1 Anje, Maid of Dishonor  
 1 Totentanz, Swarm Piper  
 1 Harvester of Souls  
-1 Master of the Feast  
 1 Feast of Succession  
 1 Greater Harvester  
 1 Grim Feast  
