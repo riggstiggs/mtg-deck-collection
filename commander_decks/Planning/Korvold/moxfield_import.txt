@@ -19,7 +19,7 @@ DECK:
 1 Ayara, First of Locthwain
 1 Stensia Masquerade
 1 Mayhem Devil
-1 Champion of Dusk
+1 Voldaren Epicure
 1 Grave Betrayal
 1 Extract a Confession
 1 Captive Audience
@@ -32,7 +32,7 @@ DECK:
 1 Totentanz, Swarm Piper
 1 Harvester of Souls
 1 Feast of Succession
-1 Greater Harvester
+1 Gilded Goose
 1 Indulgent Aristocrat
 1 Sakura-Tribe Elder
 1 Farseek
@@ -47,7 +47,7 @@ DECK:
 1 Deadly Dispute
 1 Night's Whisper
 1 Dark Prophecy
-1 Dash Hopes
+1 Greta, Sweettooth Scourge
 1 Terminate
 1 Putrefy
 1 Tireless Provisioner

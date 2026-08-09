@@ -598,7 +598,8 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Card | Cost | Price | Flavor | Mech | Note |
 |---|---|---|---|---|---|
 | ~~Whispering Snitch~~ | {1}{B} | $0.28 | 9 | 6 | SWAPPED 2026-08-08 (upgrade pass) — slowest incremental damage source in the deck, no real synergy. |
-| Champion of Dusk | {3}{B}{B} | $0.27 | 9 | 8 | ADDED 2026-08-08 (replacing Whispering Snitch) — a Vampire Knight who reads the room on arrival: draws a card for every Vampire already seated (a big cluster in this deck), at the cost of some life. A real burst-draw spike from a named tribal character, not a slow ping. |
+| ~~Champion of Dusk~~ | {3}{B}{B} | $0.27 | 9 | 8 | SWAPPED 2026-08-08 (Jamie, after real Forge games exposed a structural problem — Korvold stalls turn 1-3 with no fodder, then loses blockers sac'ing for value) — 5 mana is Act II/III when the deck needs Act I. |
+| Voldaren Epicure | {R} | $0.31 | 9 | 9 | ADDED 2026-08-08 (replacing Champion of Dusk, Jamie's find) — an epicure who arrives already indulging: 1 mana, pings every opponent on arrival (tastes the whole table before dinner's served), leaves behind a Blood token AND a body that can block. Not here because she's a Vampire — here because she's a connoisseur of the feast who happens to be one. |
 | ~~Scandalmonger~~ | {3}{B} | $0.30 | 9 | 5 | CUT 2026-08-07 (Jamie) — "there's no point in me having card draw if people are going to use my own card against me." The shared-activation clause is a real liability, not just flavor. |
 | Voldaren Duelist | {3}{R} | $0.10 | 8 | 6 | A real "duel of honor" card — disables blocking, a proper Vampire Warrior duelist |
 | Grave Betrayal | {5}{B}{B} | $4.58 | 9 | 8 | Political betrayal made literal — steals opponents' dead creatures at the table, turning against another house's fallen |
@@ -640,7 +641,8 @@ Harvest/Feast search carried this tier instead.
 | ~~Master of the Feast~~ | {1}{B}{B} | $5.91 | 10 | 6 | CUT 2026-08-08 (Jamie) — "thematically awesome but I don't want to give my opponents card advantage." Real, mounting cost every upkeep, and this deck is already short on Card Advantage per the template gap — handing opponents exactly what you're missing is a bad trade regardless of how perfect the name is. |
 | Stensia Masquerade | {2}{R} | $0.32 | 10 | 8 | ADDED 2026-08-08 (Jamie's find) — Stensia is literally the vampire homeland/region in Innistrad's lore, so this isn't just vampire-flavored, it's THE vampire court's own masquerade ball. Grants all attackers first strike (real combat value) and grows any Vampire that connects — direct payoff for the deck's real Vampire cluster (Belligerent/Gluttonous Guest, Vampire Socialite, both Falkenraths, Strefan, Anje, Ayara). No drawback, unlike Master of the Feast. |
 | Feast of Succession | {4}{B}{B} | $0.25 | 8 | 7 | Board wipe + become Monarch — the old order dies, new power rises at the table |
-| Greater Harvester | {2}{B}{B}{B} | $1.72 | 8 | 7 | Sac-upkeep-or-else, punishes combat damage with double sacrifice — the Reaper working the feast |
+| ~~Greater Harvester~~ | {2}{B}{B}{B} | $1.72 | 8 | 7 | SWAPPED 2026-08-08 (Jamie) — Fries Guy is beloved, but 5 mana doesn't stock the table, and opponents' forced sacrifices don't even trigger Korvold. |
+| Gilded Goose | {G} | $0.41 | 8 | 9 | ADDED 2026-08-08 (replacing Greater Harvester, Jamie's find) — the estate's ridiculous ornamental exotic bird, somehow always supplying the kitchen. 1 mana, Food on arrival, can keep making more, can turn Food into any color of mana. The Food exists independent of the Goose — if the bird dies, the dinner doesn't disappear with it. |
 | ~~Grim Feast~~ | {1}{B}{G} | $7.77 | 8 | 7 | SWAPPED 2026-08-08 (upgrade pass) — real lifegain, but no feedback into the sac engine, a nice-to-have without a hook. |
 | Indulgent Aristocrat | {B} | $0.29 | 6 | 6 | ADDED 2026-08-08 (replacing Grim Feast) — a Vampire Noble, lifelink, sac-a-creature-for-counters-on-every-Vampire. Previously cut on 2026-08-06 as redundant with the two Falkenraths, but re-added here for a different job (cheap counter-feeder, not aristocrat-payoff) — Jamie's call. |
 
@@ -696,7 +698,8 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 | Feed the Swarm | {1}{B} | $0.33 | Spell, exempt |
 | Blasphemous Act | {8}{R} | $0.80 | REFRAMED 2026-08-08 (Jamie asked for a more thematic take) — this one didn't need swapping, just naming. A Sorcery, per Rule 16 it's "what just happened": THE fire. The chandelier finally falls, the whole hall catches, 13 damage to everything at the table at once. The name itself already carries a scandalous, taboo-act-in-a-sacred-space register — exactly this deck's tone. Checked alternatives (Inferno, Fire Tempest, Bloodfire Colossus); none beat its cost efficiency (as low as {R} in a full board) or its existing name. |
 | Taste of Death | {4}{B}{B} | $0.38 | ADDED 2026-08-08 — Spell, exempt, but a real scene per Rule 16: something happens at the banquet that forces every house to offer up three of their own attendants as a blood price, and what's left becomes the next course (3 Food). Symmetrical, shared-table horror rather than a one-sided wipe — fills the Mass Disruption gap (template target 6, deck sat at 2-3 before this). |
-| Dash Hopes | {B}{B} | $1.05 | ADDED 2026-08-08 (Jamie's ask — "a quick counterspell type thing but in the colors, we don't have blue") — Spell, exempt. The King's temper made mechanical: Korvold slams a hand on the table and the spell just stops existing, unless whoever cast it is willing to bleed 5 life to defy him and keep going. B/R/G has no true hard counter (that's blue's exclusive job) — this is the closest real thing, and the escape valve is thematically perfect: the host's word is law unless you're desperate enough to pay for it. |
+| ~~Dash Hopes~~ | {B}{B} | $1.05 | SWAPPED 2026-08-08 (Jamie) — unreliable interaction: opponents get to choose whether it actually counters anything (pay 5 life to defy it). A deck already struggling to establish itself doesn't need a coin-flip answer, it needs something proactive. The King's-temper flavor was fun but the reliability cost was real. |
+| Greta, Sweettooth Scourge | {1}{B}{G} | $0.33 | 8 | 9 | ADDED 2026-08-08 (replacing Dash Hopes, Jamie's find) — the guest absolutely demolishing the dessert table. 3 mana, Food on arrival (self-contained — if Korvold isn't out yet, the Food isn't stranded), can sac Food for a counter or to draw a card. Real proactive value where Dash Hopes was a coin-flip. |
 
 ~~Ravenous Chupacabra~~ — cut per Jamie's own instinct: a cryptid monster
 doesn't sit at a formal banquet, even though the card is mechanically great.
@@ -1060,9 +1063,10 @@ already flagged as needed if it's a recent set.
 
 **66 cards still needed.** Live Manapool pricing pulled via
 `scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $78.91** (updated after Jamie's own Food-package
-swap: removed Skyfisher Spider/Rings of Brighthearth, added Tireless
-Provisioner/Peregrin Took). All confirmed in stock.
+2026-08-08) — **total: $76.79** (updated after the curve-fix pass with
+Arlo: removed Greater Harvester/Champion of Dusk/Dash Hopes, added Gilded
+Goose/Voldaren Epicure/Greta Sweettooth Scourge — three new adds are all
+$0.15 each). All confirmed in stock.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
@@ -1077,12 +1081,10 @@ Provisioner/Peregrin Took). All confirmed in stock.
 | $3.75 | NM | Vraska, Golgari Queen | https://manapool.com/card/grn/213/vraska-golgari-queen |
 | $3.30 | NM | Castle Locthwain | https://manapool.com/card/eld/241/castle-locthwain |
 | $2.00 | NM | Grave Betrayal | https://manapool.com/card/rtr/67/grave-betrayal |
-| $1.69 | NM | Greater Harvester | https://manapool.com/card/dst/44/greater-harvester |
 | $1.50 | NM | Tireless Provisioner | https://manapool.com/card/plst/mh2-180/tireless-provisioner |
 | $1.50 | NM | Cascading Cataracts | https://manapool.com/card/eos/5/cascading-cataracts |
 | $0.99 | NM | Bojuka Bog | https://manapool.com/card/tdc/341/bojuka-bog |
 | $0.80 | NM | Blackcleave Cliffs | https://manapool.com/card/one/248/blackcleave-cliffs |
-| $0.73 | NM | Dash Hopes | https://manapool.com/card/plc/68/dash-hopes |
 | $0.62 | NM | Blasphemous Act | https://manapool.com/card/blc/114/blasphemous-act |
 | $0.62 | NM | Harvester of Souls | https://manapool.com/card/j25/453/harvester-of-souls |
 | $0.58 | NM | Marchesa's Decree | https://manapool.com/card/plst/cn2-44/marchesas-decree |
@@ -1121,7 +1123,9 @@ Provisioner/Peregrin Took). All confirmed in stock.
 | $0.15 | NM | Juri, Master of the Revue | https://manapool.com/card/eoc/119/juri-master-of-the-revue |
 | $0.15 | NM (Foil) | Sengir, the Dark Baron | https://manapool.com/card/cmr/722/sengir-the-dark-baron |
 | $0.15 | NM | Bloodtithe Harvester | https://manapool.com/card/vow/310/bloodtithe-harvester |
-| $0.15 | NM | Champion of Dusk | https://manapool.com/card/voc/124/champion-of-dusk |
+| $0.15 | NM | Voldaren Epicure | https://manapool.com/card/vow/182/voldaren-epicure |
+| $0.15 | NM | Gilded Goose | https://manapool.com/card/soc/269/gilded-goose |
+| $0.15 | NM | Greta, Sweettooth Scourge | https://manapool.com/card/woe/205/greta-sweettooth-scourge |
 | $0.15 | NM (Foil) | Indulgent Aristocrat | https://manapool.com/card/inr/118/indulgent-aristocrat |
 | $0.15 | NM | Mayhem Devil | https://manapool.com/card/plst/war-204/mayhem-devil |
 | $0.15 | NM (Foil) | Popular Egotist | https://manapool.com/card/dsk/114/popular-egotist |
@@ -1297,6 +1301,55 @@ Provisioner/Peregrin Took). All confirmed in stock.
       real work for the same slot.
     - Verified against Jamie's own Forge paste again — zero differences.
     - Cards to Purchase total updated: $83.11 → $78.91.
+*   **2026-08-08 (curve-fix pass, driven by real games):** Jamie played
+    actual Forge games and reported a structural failure: Korvold stalls
+    turn 1-3 with nothing to feed him (almost every existing fodder
+    generator needs combat or a death to already have happened first),
+    and when the engine finally gets going, a big sacrifice turn (killing
+    an opposing 20+ Scute Swarm board) leaves no blockers behind — lost
+    to 21 commander damage from an unanswered Rafiq voltron with no way
+    to stop it. Ran this past Arlo for a second pass; his first batch of
+    candidates (Nest Invader, Goblin Instigator, Wily Goblin) was
+    correctly rejected as "searching for cheap ETB token creature" rather
+    than "searching for our deck" — generic goblins wearing the right
+    mana cost, not real guests. Re-searched specifically within
+    Innistrad/Eldraine estate vocabulary and found three that actually
+    fit, tested via Forge auditions rather than declared permanent:
+    - **In:** Gilded Goose ({G}) — the estate's absurd ornamental exotic
+      bird, somehow always supplying the kitchen; Food on arrival,
+      repeatable, and the Food survives even if the Goose doesn't.
+    - **Out:** Greater Harvester ({2}{B}{B}{B}) — "Fries Guy" is beloved
+      but 5 mana doesn't stock the table, and forced opponent sacrifices
+      don't even trigger Korvold.
+    - **In:** Voldaren Epicure ({R}) — an epicure who arrives already
+      tasting the whole table before dinner's served (pings every
+      opponent on ETB); 1 mana, Blood token, and the body stays behind to
+      block. Not here for being a Vampire — here for being a connoisseur
+      of the feast who happens to be one.
+    - **Out:** Champion of Dusk ({3}{B}{B}) — real burst draw, but 5 mana
+      is Act II/III when the deck is starving for Act I.
+    - **In:** Greta, Sweettooth Scourge ({1}{B}{G}) — the guest absolutely
+      demolishing the dessert table; Food on arrival (self-contained — if
+      Korvold isn't out yet, the Food isn't stranded), sac Food for a
+      counter or a card. Beat out Vampire Gourmand for a Food-package
+      seat, per Jamie's correction: "overlapping seat doesn't matter if
+      they're never pulled" — the narrative-role redundancy rule that
+      trimmed the original ~120-card pool down to 100 doesn't automatically
+      apply anymore now that actual gameplay data is the deciding factor.
+    - **Out:** Dash Hopes ({B}{B}) — unreliable interaction (opponent
+      chooses whether it actually counters anything); the deck needs
+      proactive value more than a coin-flip answer right now.
+    - Net effect: two 5-drops and one 2-drop reactive spell replaced by
+      three 1-3 mana proactive pieces, all producing an artifact token
+      (not a creature) so future Korvold-feeding doesn't have to come out
+      of the creature board that's needed to block. Curve shifted toward
+      turn 1-2, directly targeting the observed stall.
+    - Still auditioning, not locked: Experimental Confectioner (Food→Rat
+      engine, flagged as pulling toward kitchen-story territory) and
+      Vampire Gourmand (survives this round, may still be cut later if
+      Greta's slot proves it isn't needed).
+    - Verified against Jamie's own Forge paste (v3) — zero differences.
+    - Cards to Purchase total updated: $78.91 → $76.79.
 
 ---
 
@@ -1350,7 +1403,7 @@ DECK:
 1 Ayara, First of Locthwain  
 1 Stensia Masquerade  
 1 Mayhem Devil  
-1 Champion of Dusk  
+1 Voldaren Epicure  
 1 Grave Betrayal  
 1 Extract a Confession  
 1 Captive Audience  
@@ -1363,7 +1416,7 @@ DECK:
 1 Totentanz, Swarm Piper  
 1 Harvester of Souls  
 1 Feast of Succession  
-1 Greater Harvester  
+1 Gilded Goose  
 1 Indulgent Aristocrat  
 1 Sakura-Tribe Elder  
 1 Farseek  
@@ -1378,7 +1431,7 @@ DECK:
 1 Deadly Dispute  
 1 Night's Whisper  
 1 Dark Prophecy  
-1 Dash Hopes  
+1 Greta, Sweettooth Scourge  
 1 Terminate  
 1 Putrefy  
 1 Tireless Provisioner  
