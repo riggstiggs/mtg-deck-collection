@@ -17,12 +17,12 @@ DECK:
 1 Bloodtithe Harvester
 1 Falkenrath Celebrants
 1 Ayara, First of Locthwain
-1 Stensia Masquerade
+1 Trail of Crumbs
 1 Mayhem Devil
 1 Voldaren Epicure
 1 Grave Betrayal
 1 Extract a Confession
-1 Captive Audience
+1 Blood Fountain
 1 Marchesa's Decree
 1 Tribute to Hunger
 1 Vicious Offering
@@ -56,8 +56,8 @@ DECK:
 1 Blasphemous Act
 1 Taste of Death
 1 Peregrin Took
-1 Crown of Doom
-1 Patron of the Vein
+1 Sol Ring
+1 The Underworld Cookbook
 1 Thorn of the Black Rose
 1 High-Society Hunter
 1 Old Flitterfang

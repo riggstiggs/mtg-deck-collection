@@ -606,7 +606,8 @@ to be seated) rather than a murder-for-hire archetype. Type line ≠ vibe.
 | Extract a Confession | {1}{B} | $0.24 | 9 | 7 | THE accusation scene, literal — an interrogation that forces an opponent's sacrifice, "evidence" = exiling cards from the graveyard to build a case |
 | ~~Oath of Liliana~~ | {2}{B} | $0.42 | 8 | 8 | CUT 2026-08-08 (Jamie) — "feels out of place because Liliana isn't in the deck." Right instinct: a card built entirely around a named Planeswalker who doesn't otherwise exist in this story fails "who is this and why are they here." Also redundant with Extract a Confession and Tribute to Hunger (same opponent-sacrifice effect) — no real loss. |
 | ~~Structural Collapse~~ | {5}{R} | $0.04 | 8 | 7 | CUT 2026-08-07 (Jamie) — "we don't really destroy each other's lands in our pod, it feels like a waste." Was defended as the deck's only land-disruption effect, but that value doesn't exist if the table doesn't play that way. |
-| Captive Audience | {5}{B}{R} | $4.24 | 9 | 6 | RE-CLASSIFIED per the taxonomy: it's an Enchantment, so it's Atmosphere not Moment despite the title. "The curse has been placed on this house" — the doors are barred, dinner is no longer voluntary, that specific house is stuck under this mood for the rest of the game. Passes Rule 17 as the best "cursed household" card in the pool; nothing else does this specific thing. |
+| ~~Captive Audience~~ | {5}{B}{R} | $4.24 | 9 | 6 | SWAPPED (real games) — 6 mana, never once mentioned doing real work across five real games, and it sits on an OPPONENT'S board, not yours — high cost for something you don't even control. |
+| Blood Fountain | {B} | $0.33 | 9 | 9 | ADDED (replacing Captive Audience) — there is a Blood Fountain at the vampire dinner party. 1 mana, Blood immediately, no creature attached (nothing to lose as a blocker). Later, sacrifice it to return two creatures from the graveyard to hand — real late-game value once the aristocrats inevitably become dinner themselves. |
 | Marchesa's Decree | {3}{B} | $3.91 | 8 | 8 | Becomes Monarch, punishes anyone who attacks you — a political-power card for Tier 2's court |
 | Tribute to Hunger | {2}{B} | $0.18 | 8 | 8 | Forces an opponent to sacrifice + gain life — "Tribute" is direct court-politics vocabulary, and it's a real sac-payoff removal spell |
 | Vicious Offering | {1}{B} | $0.09 | 7 | 7 | Cheap sac-kicker removal, "Offering" flavor fits sacrifice-at-the-feast |
@@ -639,7 +640,8 @@ Harvest/Feast search carried this tier instead.
 |---|---|---|---|---|---|
 | Harvester of Souls | {4}{B}{B} | $2.57 | 9 | 8 | A Demon who reaps the feast's dead for cards — draws on ANY nontoken death, strong Korvold-adjacent payoff |
 | ~~Master of the Feast~~ | {1}{B}{B} | $5.91 | 10 | 6 | CUT 2026-08-08 (Jamie) — "thematically awesome but I don't want to give my opponents card advantage." Real, mounting cost every upkeep, and this deck is already short on Card Advantage per the template gap — handing opponents exactly what you're missing is a bad trade regardless of how perfect the name is. |
-| Stensia Masquerade | {2}{R} | $0.32 | 10 | 8 | ADDED 2026-08-08 (Jamie's find) — Stensia is literally the vampire homeland/region in Innistrad's lore, so this isn't just vampire-flavored, it's THE vampire court's own masquerade ball. Grants all attackers first strike (real combat value) and grows any Vampire that connects — direct payoff for the deck's real Vampire cluster (Belligerent/Gluttonous Guest, Vampire Socialite, both Falkenraths, Strefan, Anje, Ayara). No drawback, unlike Master of the Feast. |
+| ~~Stensia Masquerade~~ | {2}{R} | $0.32 | 10 | 8 | SWAPPED (real games) — real Vampire payoff, but the deck's structural problem is getting fodder onto the table BEFORE combat, not rewarding combat once it's already happening. |
+| Trail of Crumbs | {1}{G} | $0.38 | 9 | 9 | ADDED (replacing Stensia Masquerade) — someone has been leaving a path of treats through the increasingly fucked-up estate. Food immediately on ETB, no combat needed; then every Food sacrificed afterward can dig two cards deep for a permanent — directly answers the "found dinner but not the NEXT piece of the engine" problem. |
 | Feast of Succession | {4}{B}{B} | $0.25 | 8 | 7 | Board wipe + become Monarch — the old order dies, new power rises at the table |
 | ~~Greater Harvester~~ | {2}{B}{B}{B} | $1.72 | 8 | 7 | SWAPPED 2026-08-08 (Jamie) — Fries Guy is beloved, but 5 mana doesn't stock the table, and opponents' forced sacrifices don't even trigger Korvold. |
 | Gilded Goose | {G} | $0.41 | 8 | 9 | ADDED 2026-08-08 (replacing Greater Harvester, Jamie's find) — the estate's ridiculous ornamental exotic bird, somehow always supplying the kitchen. 1 mana, Food on arrival, can keep making more, can turn Food into any color of mana. The Food exists independent of the Goose — if the bird dies, the dinner doesn't disappear with it. |
@@ -751,9 +753,11 @@ point — some of those may be interchangeable and worth trimming.
 | Peregrin Took | {2}{G} | $1.31 | 👤 Guest | ADDED 2026-08-08 (replacing Rings of Brighthearth, Jamie's find) — a halfling who quietly makes sure nobody at this party goes hungry: whenever ANY token is created (his own Food, but also every Blood token from the deck's Vampire cluster), an extra Food comes with it. Simultaneously fodder amplification (more sac material for Korvold) and card advantage (sac three Food to draw). Real named character with an obvious reason to be at a feast. |
 | ~~Throne of the God-Pharaoh~~ | {2} | $6.80 | 🏛️ Prop, MAYBE | Considered, not decided. Ruled OUT specifically as a god's throne (Korvold isn't a god), the one throne genuinely wrong for this seat. Drains life equal to tapped creatures each end step — cheap, real reach if reconsidered. |
 | The Golden Throne | {4} | $9.81 | 🏛️ Prop, MAYBE | Considered, not decided — a King's throne (not a god's), so the earlier objection doesn't apply. Genuinely regal + grim: a game-saving life-total safety net, and a sac-outlet mana rock feeding Korvold directly. |
-| Crown of Doom | {3} | $4.29 | 🎁 Prop/plot beat | A crown that corrupts and changes hands violently — court intrigue made completely literal |
+| ~~Crown of Doom~~ | {3} | $4.29 | 🎁 Prop/plot beat | SWAPPED (real games) — in the 58-turn game it got stolen by an opponent and just sat on their board as their problem, not ours. Real downside risk, never once the card doing work. |
+| Sol Ring | {1} | $2.15 | ⚙️ Ramp | ADDED (replacing Crown of Doom) — one of the format's best ramp pieces, colorless, no downside. Not a character or a scene, just the estate's own vault of easy money — exempt from the guest-test as a pure mechanical piece. |
 | ~~Leering Onlooker~~ | {1}{B} | $0.18 | 👀 Spectator | SWAPPED 2026-08-08 (upgrade pass) — slow, expensive one-shot graveyard ability, thin value. |
-| Patron of the Vein | {4}{B}{B} | $0.34 | 👑 Court | ADDED 2026-08-08 (replacing Leering Onlooker) — a wealthy court sponsor who grows stronger backing the family as rivals fall. Real ETB removal (destroy target opponent creature), then every opponent-creature death afterward buffs the whole Vampire cluster with permanent counters. A promotion in standing, not just stats. |
+| ~~Patron of the Vein~~ | {4}{B}{B} | $0.34 | 👑 Court | SWAPPED (real games) — real removal and a real payoff, but 6 mana is expensive weight relative to what the deck actually needs right now: cheap, early, unconditional fodder. |
+| The Underworld Cookbook | {1} | $0.37 | 🍳 Prop | ADDED (replacing Patron of the Vein) — the estate's own book of dark recipes, sitting in the kitchen. 1 mana, repeatable Food any turn you can spare a card from hand (turns a useless extra land late into something Korvold can eat), plus a late-game graveyard-recursion sac ability. |
 | Gala Greeters | {1}{G} | $1.66 | 🎭 Character | A literal greeter at the door, ties to other guests arriving. ⚠ Arlo's review, 2026-08-06: mechanically fine, doing the right job, but "feels pleasant" next to a cast full of dramatic tension — reads like an NPC. Not cut, but flagged: keep an eye open for someone whose entrance is more memorable, per the Camera test. |
 | Rogues' Gallery | {2}{B} | $0.15 | 🏛️ Location | The estate's gallery — recovers a fallen guest of any color to your hand |
 | Thorn of the Black Rose | {3}{B} | $0.13 | 🎭 Character | ✅ KEPT per Jamie 2026-08-06 — not a hitman, a societal outcast noble who's required at the table for political reasons. The family invites her because NOT inviting her would be its own scandal — "the Thorn" is what they call her behind her back. The Assassin type is flavor irony, not a literal murder card. Becomes Monarch on ETB (she quietly takes the room's attention the moment she arrives). |
@@ -1061,12 +1065,25 @@ already flagged as needed if it's a recent set.
 > (still legal Jund mana, still 39 total lands, basics now 9 Swamp/4
 > Mountain/6 Forest = 19, nonbasics now 20).
 
-**66 cards still needed.** Live Manapool pricing pulled via
-`scripts/manapool_price_deck.py` (cheapest in-stock NM/Foil condition,
-2026-08-08) — **total: $76.79** (updated after the curve-fix pass with
-Arlo: removed Greater Harvester/Champion of Dusk/Dash Hopes, added Gilded
-Goose/Voldaren Epicure/Greta Sweettooth Scourge — three new adds are all
-$0.15 each). All confirmed in stock.
+**Live Manapool pricing pulled via `scripts/manapool_price_deck.py`
+(cheapest in-stock NM/Foil, 2026-08-09) — total for cards priced below:
+$67.93.** Updated after: (1) Crown of Doom → Sol Ring (Sol Ring already
+owned per live seller inventory, no purchase needed); (2) the Food/Blood
+producer pass — Captive Audience → Blood Fountain, Stensia Masquerade →
+Trail of Crumbs, Patron of the Vein → The Underworld Cookbook.
+
+> **⚠️ Ownership data caveat, 2026-08-09:** The "already owned" list
+> earlier in this section was built from `collection.csv`, which proved
+> stale (confirmed wrong on Foreboding Ruins and Nature's Lore — Jamie had
+> sold them from her Manapool store, csv didn't reflect it). The correct
+> method going forward is pulling Jamie's LIVE Manapool seller inventory
+> directly via the `/seller/inventory` API (credentials in
+> `thefourthpaw/.env`, `FOURTHPAW_MANAPOOL_EMAIL`/`FOURTHPAW_MANAPOOL_TOKEN`
+> — that repo has the real seller-API connection, this repo does not).
+> The full owned-vs-needed list below has NOT yet been re-verified
+> against live inventory in one pass — only the newest swaps have been
+> checked this way. Treat older rows in this table with caution until a
+> full re-check is done.
 
 | Price | Condition | Card | Manapool Link |
 |---|---|---|---|
@@ -1076,8 +1093,6 @@ $0.15 each). All confirmed in stock.
 | $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
 | $6.17 | NM | Dark Prophecy | https://manapool.com/card/m14/93/dark-prophecy |
 | $5.75 | NM | Court of Embereth | https://manapool.com/card/woc/24/court-of-embereth |
-| $4.90 | NM | Crown of Doom | https://manapool.com/card/c14/55/crown-of-doom |
-| $4.25 | NM | Captive Audience | https://manapool.com/card/rna/160/captive-audience |
 | $3.75 | NM | Vraska, Golgari Queen | https://manapool.com/card/grn/213/vraska-golgari-queen |
 | $3.30 | NM | Castle Locthwain | https://manapool.com/card/eld/241/castle-locthwain |
 | $2.00 | NM | Grave Betrayal | https://manapool.com/card/rtr/67/grave-betrayal |
@@ -1118,7 +1133,8 @@ $0.15 each). All confirmed in stock.
 | $0.15 | NM | Feast of Succession | https://manapool.com/card/cmm/158/feast-of-succession |
 | $0.15 | NM | Feed the Swarm | https://manapool.com/card/tle/257/feed-the-swarm |
 | $0.15 | NM (Foil) | Gluttonous Guest | https://manapool.com/card/vow/114/gluttonous-guest |
-| $0.17 | NM | Patron of the Vein | https://manapool.com/card/voc/135/patron-of-the-vein |
+| $0.24 | NM | Trail of Crumbs | https://manapool.com/card/eld/179/trail-of-crumbs |
+| $0.22 | NM | The Underworld Cookbook | https://manapool.com/card/mh2/240/the-underworld-cookbook |
 | $0.15 | NM (Foil) | High-Society Hunter | https://manapool.com/card/fdn/61/high-society-hunter |
 | $0.15 | NM | Juri, Master of the Revue | https://manapool.com/card/eoc/119/juri-master-of-the-revue |
 | $0.15 | NM (Foil) | Sengir, the Dark Baron | https://manapool.com/card/cmr/722/sengir-the-dark-baron |
@@ -1131,7 +1147,7 @@ $0.15 each). All confirmed in stock.
 | $0.15 | NM (Foil) | Popular Egotist | https://manapool.com/card/dsk/114/popular-egotist |
 | $0.15 | NM | Putrefy | https://manapool.com/card/dgm/93/putrefy |
 | $0.15 | NM (Foil) | Rampant Growth | https://manapool.com/card/sos/162/studious-first-year-rampant-growth |
-| $0.15 | NM | Stensia Masquerade | https://manapool.com/card/voc/150/stensia-masquerade |
+| $0.15 | NM | Blood Fountain | https://manapool.com/card/j25/407/blood-fountain |
 | $0.15 | NM | Terminate | https://manapool.com/card/ecc/134/terminate |
 | $0.15 | NM | Thorn of the Black Rose | https://manapool.com/card/cmr/154/thorn-of-the-black-rose |
 | $0.15 | NM (Foil) | Totentanz, Swarm Piper | https://manapool.com/card/woe/216/totentanz-swarm-piper |
@@ -1350,6 +1366,59 @@ $0.15 each). All confirmed in stock.
       Greta's slot proves it isn't needed).
     - Verified against Jamie's own Forge paste (v3) — zero differences.
     - Cards to Purchase total updated: $78.91 → $76.79.
+*   **2026-08-09:** Crown of Doom → Sol Ring. Crown got stolen by an
+    opponent in the 58-turn game and just sat on their board — real
+    downside, never once the card doing work. Sol Ring is colorless,
+    one of the format's best ramp pieces, no drawback.
+*   **2026-08-09 (Food/Blood producer pass, real-game evidence):** Five
+    straight wins post curve-fix, but the recurring pattern across those
+    games was still "draw aristocrats and sac payoffs, but not enough
+    dinner" — Jamie and Arlo identified a distinct problem from the
+    original stall: even once the engine's running, opponents' board
+    wipes/removal leave zero fodder banked, and finding the NEXT engine
+    piece (not just A piece) was the gap. Set a tight brief for the next
+    search: Jund, MV 1-3, immediate or repeatable Food/Blood/Treasure, no
+    combat/death dependency, noncreature-preferred so the token survives
+    even if its source doesn't, still fits a decadent gothic estate.
+    Found four real candidates (Blood Fountain, Trail of Crumbs, The
+    Underworld Cookbook, Prized Statue); Arlo ranked Prized Statue lowest
+    (Treasure once on ETB, once on death, but no real ongoing engine) and
+    it was benched. Locked in three:
+    - **In:** Blood Fountain ({B}) — a literal Blood Fountain at the
+      vampire dinner party. 1 mana, Blood immediately, no creature
+      attached to risk as a blocker later; sacrifice it for 2 creatures
+      back from the graveyard once the aristocrats inevitably become
+      dinner themselves.
+    - **Out:** Captive Audience ({5}{B}{R}) — 6 mana, never once
+      mentioned doing real work across five real games, and it sits on
+      an OPPONENT'S board, not Jamie's.
+    - **In:** Trail of Crumbs ({1}{G}) — someone's been leaving a path of
+      treats through the increasingly fucked-up estate. Food on ETB, then
+      every Food sacrificed afterward can dig two cards for a permanent —
+      directly answers "found dinner, but not the next engine piece."
+    - **Out:** Stensia Masquerade ({2}{R}) — real Vampire payoff, but
+      rewards combat that's already happening rather than solving the
+      get-fodder-onto-the-table-first problem.
+    - **In:** The Underworld Cookbook ({1}) — the estate's own book of
+      dark recipes. Repeatable Food any turn a card can be spared from
+      hand (turns a dead extra land late into something Korvold can eat).
+    - **Out:** Patron of the Vein ({4}{B}{B}) — real removal and payoff,
+      but 6 mana is expensive weight the deck doesn't need right now.
+    - Explicitly reconsidered and KEPT Sengir, the Dark Baron (an earlier
+      cut candidate) after watching him close a 58-turn game as a 27-power
+      attacker — "he has an audition tape, Captive Audience doesn't."
+    - Midnight Snack and The Underworld Cookbook's runner-up status both
+      stay on the bench: Midnight Snack solves a DIFFERENT problem
+      (keeping Korvold fed turn-after-turn once he's already out, not
+      getting him out in the first place) and doesn't get called up
+      unless V4 still shows the aristocrats-with-nothing-to-eat pattern.
+    - Net curve effect: −12 total mana value across the three outs
+      (7+3+6=16) replaced by three 1-2 mana ins (1+2+1=4).
+    - Cross-checked ownership against Jamie's LIVE Manapool seller
+      inventory (not collection.csv, which proved stale — see the
+      ownership-data caveat in the Cards to Purchase section below). Sol
+      Ring confirmed already owned; Blood Fountain, Trail of Crumbs, and
+      The Underworld Cookbook all confirmed not owned, ~$0.20-0.25 each.
 
 ---
 
@@ -1401,12 +1470,12 @@ DECK:
 1 Bloodtithe Harvester  
 1 Falkenrath Celebrants  
 1 Ayara, First of Locthwain  
-1 Stensia Masquerade  
+1 Trail of Crumbs  
 1 Mayhem Devil  
 1 Voldaren Epicure  
 1 Grave Betrayal  
 1 Extract a Confession  
-1 Captive Audience  
+1 Blood Fountain  
 1 Marchesa's Decree  
 1 Tribute to Hunger  
 1 Vicious Offering  
@@ -1440,8 +1509,8 @@ DECK:
 1 Blasphemous Act  
 1 Taste of Death  
 1 Peregrin Took  
-1 Crown of Doom  
-1 Patron of the Vein  
+1 Sol Ring  
+1 The Underworld Cookbook  
 1 Thorn of the Black Rose  
 1 High-Society Hunter  
 1 Old Flitterfang  
