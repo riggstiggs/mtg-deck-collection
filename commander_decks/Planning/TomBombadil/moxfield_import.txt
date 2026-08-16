@@ -1,0 +1,114 @@
+COMMANDER:
+1 Tom Bombadil
+
+DECK:
+1 The Huntsman's Redemption
+1 The Princess Takes Flight
+1 The Witch's Vanity
+1 Three Blind Mice
+1 Korvold and the Noble Thief
+1 The Apprentice's Folly
+1 Welcome to Sweettooth
+1 Tale of Tinúviel
+1 Gadwick's First Duel
+1 The Mountain-king's Return
+1 Battle of Frost and Fire
+1 Ruby, Daring Tracker
+1 Gilded Goose
+1 Wicked Wolf
+1 Fierce Witchstalker
+1 Sweettooth Witch
+1 Greta, Sweettooth Scourge
+1 Eriette of the Charmed Apple
+1 Edgewall Innkeeper
+1 Rankle, Master of Pranks
+1 Beanstalk Giant
+1 Realm-Cloaked Giant
+1 Gruff Triplets
+1 Voja, Jaws of the Conclave
+1 Yenna, Redtooth Regent
+1 Faeburrow Elder
+1 Sun Titan
+1 Korvold, Fae-Cursed King
+1 Chulane, Teller of Tales
+1 Oko, Thief of Crowns
+1 Syr Armont, the Redeemer
+1 Gingerbrute
+1 Cursed Courtier
+1 Witch's Oven
+1 Golden Egg
+1 Arcane Signet
+1 Chromatic Lantern
+1 Swiftfoot Boots
+1 Three Bowls of Porridge
+1 Glass Casket
+1 Once Upon a Time
+1 Swords to Plowshares
+1 Path to Exile
+1 Stroke of Midnight
+1 Feed the Cauldron
+1 Bake into a Pie
+1 Epic Downfall
+1 The End
+1 Chaos Warp
+1 Toxic Deluge
+1 Farewell
+1 Krosan Grip
+1 Beseech the Mirror
+1 Three Visits
+1 Nature's Lore
+1 Heroic Intervention
+1 Eternal Witness
+1 Land Tax
+1 Kenrith's Transformation
+1 Charmed Sleep
+1 The Great Henge
+1 Trail of Crumbs
+1 Happily Ever After
+1 Greater Auramancy
+1 Command Tower
+1 Mana Confluence
+1 City of Brass
+1 Cavern of Souls
+1 Fabled Passage
+1 Indatha Triome
+1 Ketria Triome
+1 Raugrin Triome
+1 Savai Triome
+1 Zagoth Triome
+1 Glacial Floodplain
+1 Rimewood Falls
+1 Ice Tunnel
+1 Sulfurous Mire
+1 Woodland Chasm
+1 Highland Forest
+1 Snowfield Sinkhole
+1 Volatile Fjord
+1 Arctic Treeline
+1 Witch's Cottage
+1 Gingerbread Cabin
+1 Idyllic Grange
+1 Restless Cottage
+1 Restless Bivouac
+1 Restless Vinestalk
+3 Forest
+2 Plains
+2 Swamp
+1 Island
+2 Mountain
+
+SIDEBOARD:
+1 Fall of Gil-galad
+1 History of Benalia
+1 The Mending of Dominaria
+1 Urza's Saga
+1 Song of Freyalise
+1 Charming Prince
+1 Grumgully, the Generous
+1 Beanstalk Wurm
+1 Eladamri's Call
+1 Storyteller Pixie
+1 Talion, the Kindly Lord
+1 Fierce Guardianship
+1 Teferi's Protection
+1 Regrowth

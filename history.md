@@ -1,5 +1,16 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ August 2026: Tom Bombadil — "Once Upon a Time"
+
+### 2026-08-16: Tom Bombadil — New Five-Color Storybook Deck Added to Planning
+*   **New Deck:** Added `commander_decks/Planning/TomBombadil/` with a full 100-card V2 list. Built with Claude across a Draft 1 → full research audit → V2 rebuild arc, all in one extended session.
+*   **Source / concept:** Tom Bombadil (LTR commander, WUBRG) as "the Storyteller" — an anthology of fairy tales that appear separate at first, then reveal they all take place in the same Woods as Sagas (the stories) advance and Tom cheats a new Saga onto the battlefield whenever another one's final chapter resolves. Built around three tiers of representation ("Finding Neverland" rule): full Scenes (multiple cards, e.g. the Hansel & Gretel cluster), Cameos (one strong card, e.g. Stroke of Midnight for Cinderella), and Nods (a single object/effect that only counts if it's mechanically pulling weight, e.g. Three Bowls of Porridge for Goldilocks). A Same Woods layer (Korvold, Oko, Rankle, Voja, Sun Titan, Faeburrow Elder, Chulane, Yenna) provides the shared cast/geography connecting every scene.
+*   **Draft 1 → Audit → V2 arc:** Draft 1 (13 Sagas incl. Urza's Saga as a land, 37-land manabase) was followed by a three-round research audit (Scryfall-verified oracle text across the full Saga pool, Wilds of Eldraine's ten fairy-tale color archetypes, the Enchanting Tales/WOT bonus sheet, and the Throne of Eldraine legacy pool) that flagged Urza's Saga, Fall of Gil-galad, History of Benalia, and The Mending of Dominaria as thematic stretches with no real fairy-tale content, and found that neither of Draft 1's "tutors" (Once Upon a Time, Eladamri's Call) could ever find a Saga — a real gap against the commander's own thesis. V2 replaced all four flagged Sagas, added Beseech the Mirror (a magic-mirror card that can actually tutor a Saga), and rebuilt the manabase since ~43% of Draft 1's lands were tapped or functionally tapped in the exact early-game window that mattered most.
+*   **Manabase:** Rebuilt around 5 Triomes + 9 typed snow duals (24 of 35 lands carry real basic land types, making Three Visits/Nature's Lore double as color fixing) plus unconditional 5c fixing (Command Tower, Mana Confluence, City of Brass, Cavern of Souls). Castles and check-lands trimmed hard from Draft 1 as confirmed functionally-tapped-early.
+*   **Key includes:** Ruby Daring Tracker, Gruff Triplets, Korvold Fae-Cursed King, Oko Thief of Crowns, Sun Titan, Beanstalk Giant // Fertile Footsteps, Stroke of Midnight, Beseech the Mirror, Glass Casket, Happily Ever After (incidental alt-win, explicitly not built around).
+*   **Validation:** 20-sim goldfish — 95% commander cast rate, avg T4.9, 3.1 creatures/seat by T10 (see deck `GOLDFISH_LOG.md`) — a strong result for a full 5-color commander.
+*   **Bracket:** 3 — zero Game Changers (checked against the full list in `COMMANDER_DECKBUILDING_RULES.md`), no infinite combos, no MLD, no extra turns.
+
 ## 🗓️ July 2026: The Fantastic Four (Jamie's first solo build)
 
 ### 2026-07-19: The Fantastic Four — New Four-Color "Cast 4s" Deck Added to Planning

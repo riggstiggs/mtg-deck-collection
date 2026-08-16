@@ -50,6 +50,7 @@ Decks under development, research, or being optimized.
 *   **Ulamog Ramp:** Colorless high-power ramp.
 *   **Zimone Engine:** Simic Landfall for **Christina**.
 *   **Ramses, Assassin Lord:** Dimir Assassin Tribal alt-win condition (Shadow Brotherhood).
+*   **Tom Bombadil ("Once Upon a Time"):** 5-Color Saga/storybook value for **Jamie** — fairy tales told as Sagas, revealed to share one Woods. Bracket 3.
 
 ### 🎮 `/arena_decks`
 Optimized lists for MTG Arena formats (Standard, Brawl, Timeless).
