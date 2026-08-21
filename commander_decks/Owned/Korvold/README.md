@@ -7,6 +7,10 @@ deck_status: main
 (Arlo, 2026-08-06). Jamie: showrunner & exec producer deciding the theatrical
 cut. Arlo: director/cinematographer. Claude: head writer.*
 
+**Status: physically complete (2026-08-20) — all 100 cards owned.** This is
+now a live, piloted deck, not a planning-stage list; see 🎓 Playtesting
+Conclusions below for what real games have taught since it hit the table.
+
 ## ⭐⭐ SEATING CHART pivot (2026-08-06, later same session) — READ THIS FIRST
 The question "who is Korvold's co-host?" was the wrong question. The deck doesn't
 need a second lead — it needs **a host, and then the court.** Korvold must stay
@@ -85,6 +89,122 @@ camera pauses, the audience doesn't know why yet. Leering Onlooker: caught in
 the background, then gone three scenes later. Rotating Fireplace: swept past,
 nobody notices, until someone disappears. That's the difference between a
 prop and a MEMORABLE prop.
+
+## 🎓 PLAYTESTING CONCLUSIONS (2026-08-20 — the deck is fully purchased and
+piloted now; this is institutional memory, not a swap log)
+
+**The physical deck is complete.** All 100 cards have arrived. Everything
+below is what real games taught Jamie and Arlo about how this deck actually
+wants to be played — recorded here so it survives independent of any single
+card swap, per the standing rule that a card can change six paragraphs
+before an old narrative catches up to it.
+
+**Korvold is not required for the deck to function or win.** This is the
+big one, confirmed after the most recent game: the deck has won through the
+Aristocrat/Celebrants/Socialite/Old Flitterfang value layer *after Korvold
+was removed from the board.* He amplifies the engine — he is not the
+engine. Treat any future note that implies the 99 "needs" Korvold to
+function as a bug in the writing, not a fact about the deck.
+
+**Piloting principle: don't auto-cast Korvold on curve.** Casting him the
+turn he's available is not correct by default. If fodder isn't ready yet,
+or a wipe needs to resolve first, holding him in the command zone is the
+right play. He goes down when the table is set, not just when the mana is.
+
+**"Dessert Phase" / Act III is a deck STATE, not a Korvold trigger.** The
+lethal turn is the point where accumulated fodder + payoffs convert into
+damage/value in a short window. Korvold can mark that escalation when he's
+out, but the deck can enter Dessert Phase without him on the battlefield.
+
+**Threat-profile: play under the radar, then explode.** The intended shape
+of a game is quietly assembling innocuous-looking pieces (Court of
+Embereth, Marchesa's Decree, Food, Trail of Crumbs) that don't read as "the
+lethal engine" to the table, rather than tabling every aristocrat/payoff
+piece as early as possible and inviting removal.
+
+**The fodder/token problem was a real, now-solved design flaw, not a
+permanent deck weakness.** Early versions of the deck stalled because
+Korvold arrived before there was anything expendable on the board to feed
+him. The Food/Blood/Treasure layer built afterward (Gilded Goose, Greta,
+Blood Fountain, The Underworld Cookbook, Trail of Crumbs, Tireless
+Provisioner, the fetch-and-sac lands) exists specifically to give the deck
+disposable resources that aren't its actual blockers or Guests. Don't read
+any lingering "Korvold stalls without fodder" language elsewhere in this
+file as a current problem — it's the historical record of the thing that
+got fixed.
+
+**Sacrificing lands is intentional, not a desperation misplay.** Evolving
+Wilds, Terramorphic Expanse, Fabled Passage, and the same-family fetches
+are valuable specifically because they later become BOTH color fixing AND
+a Korvold sacrifice trigger (+1/+1 counter, draw a card). If Jamie is going
+to crack a fetch anyway once it's stopped mattering for fixing, the deck
+should get something for doing it.
+
+**Mana consistency is infrastructure, not redundancy.** Multiple
+overlapping ramp/fixing pieces (Sakura-Tribe Elder, Farseek, Nature's Lore,
+Cultivate, Rampant Growth, Arcane Signet, Chromatic Lantern, Commander's
+Sphere, Sol Ring, Gilded Goose, Tireless Provisioner) are not excess —
+this was a major lesson from real Forge games. The deck needs to reliably
+establish "the pantry" (a stable board and mana base) BEFORE exposing its
+actual dangerous pieces. Do not treat a future audit's "cut redundant
+ramp" instinct as automatically correct here without re-checking against
+this note.
+
+**Mulligan rule, learned the hard way:** a two-land hand is generally a
+mulligan UNLESS it also has a green mana source plus an immediately usable
+fixing/ramp line (or equivalent reliable acceleration). Repeated games were
+lost to gorgeous two-land hands full of token engines that never got there.
+
+**Card draw is abundant once the deck is online** — this is exactly why
+Praetor's Counsel (graveyard recovery + no maximum hand size, see below)
+matters, and why future template-driven passes should be cautious about
+adding MORE generic draw just because a category count says to. The
+deck's problem by the midgame is rarely "not enough cards," it's "too many
+cards and not enough hand size" and "important cards stuck in the
+graveyard." Solve those two problems specifically, don't just add draw.
+
+**Proven performers — cards with a real audition tape, not just a slot:**
+*   **Court of Embereth** is not merely "a monarch/card-advantage
+    enchantment." Playtesting showed the recurring 3/1 Knight token is
+    excellent fodder/blocking material on its own, and the monarch upkeep
+    damage trigger quietly becomes a real win condition — opponents
+    routinely underestimate how much passive damage it's actually doing
+    over a long game. This is the proven half of the "Court pair"; see
+    Court of Locthwain immediately below for the half that didn't survive.
+*   **Rapacious Guest** has earned tenure outright. Multiple games showed
+    the combat-damage Food production doing exactly the job it was drafted
+    for, and — most recently — her leaves-the-battlefield damage trigger
+    landed the actual kill on an opponent (Brody) after combat had already
+    happened. If this file ever grows a "locked in, don't re-audit"
+    section, she belongs in it alongside the original Guest cards.
+*   **Marchesa's Decree** has proven itself as structural, not just
+    flavorful monarchy support. Its attack tax has directly killed players
+    and materially changed opponents' combat math in real games — not a
+    "nice monarch flavor piece," a real deterrent.
+*   **Feast of Succession** and **Taste of Death** are proven structural
+    mass-disruption pieces, not merely thematic ones. Both have repeatedly
+    cleared boards while simultaneously advancing the deck's own
+    engine/monarchy/Food plan — they pull double duty in practice, not just
+    on paper.
+*   **Old Flitterfang's verdict, after finally showing up in real games:
+    "useful, not sacred."** He performed adequately (Food generation, a
+    body, some combat), but he is not an untouchable engine piece. Useful
+    institutional memory if a future cut pass needs a seat back.
+
+**Court of Locthwain explicitly failed its audition** (see the full
+Deck Changelog entry and the struck-through card-explanation row below for
+the complete reasoning) — it was repeatedly discarded rather than cast, and
+the deck stopped needing the two Courts to be a matched pair once that
+became clear.
+
+**Specific printings/art are intentional cinematography, not incidental.**
+Choices like which printing of Rampant Growth, Cultivate, Terminate, or
+the showcase Guest cards to use, and which specific basic-land arts are in
+the mix, were made because the illustration belongs on the castle grounds
+or in the dining hall — part of the story, not a placeholder. If this repo
+ever gains pricing/printing-optimization tooling, it should NOT silently
+swap these for the cheapest available printing of the same card name
+without flagging the change — that would quietly undo real creative work.
 
 **⭐⭐⭐ THE CUT METHODOLOGY (Arlo, same review, formalizing where the project
 already was — 116 cards down to 100 is now the task):**
@@ -512,7 +632,7 @@ is BRG natively. Ramp is fair game if it earns its slot.
 | **Vraska, Golgari Queen** | {2}{B}{G} | $6.22 | 10 | 7 | ⭐ THE QUEEN MOTHER — Lady Olenna Tyrell, not a co-host. Already won before dinner started; ultimate ("that player loses") is pure sovereign authority, not a fight. Chosen explicitly over Wasitora to keep Korvold the ONLY predator in the room. |
 | Custodi Lich | {3}{B}{B} | $0.36 | 8 | 8 | Becomes Monarch = literally holding court; the Monarch mechanic itself IS "who holds power at the table right now" — contestable by rivals, politically alive. Arlo, 2026-08-06: "he's not just becoming Monarch — he's taking control of the conversation." |
 | Court of Embereth | {2}{R}{R} | $6.43 | 7 | 8 | A Monarch enchantment that makes Knights and escalates damage while ruling — the political-power engine of the court made mechanical |
-| Court of Locthwain | {2}{B}{B} | $6.68 | 9 | 9 | ADDED 2026-08-08 (Jamie's catch) — we're already in the castle (Castle Locthwain IS "The Ballroom" on the estate map); this is the literal court that resides there, claiming the crown. Enchantment = "what is now true" per Rule 16. Monarch + repeatable card-advantage engine (exile and cast an opponent's card each turn) — the best Card Advantage piece the deck has, and the deck genuinely needs it. |
+| ~~Court of Locthwain~~ | {2}{B}{B} | $6.68 | 9 | 9 | CUT 2026-08-20 — routinely discarded rather than cast across repeated playtesting; not earning its seat as card advantage next to the deck's other draw engines (Night's Whisper, Dark Prophecy, Harvester of Souls). The Courts don't need to be a pair — Court of Embereth kept proving out, this one didn't. See Praetor's Counsel below for its replacement. |
 
 ### 🍸 Nobles / Aristocrats / Socialites (sac-payoff glue)
 All verified live on Scryfall, all Jund-legal, all under $1.10. ❌ = cut (doesn't
@@ -578,7 +698,7 @@ else, doesn't get a reserved seat just for being "the service card."
 | Falkenrath Celebrants | {4}{R} | $0.20 | 8 | 6 | Vampire-court party guests, 2 Blood tokens on ETB |
 | High-Society Hunter | {3}{B}{B} | $0.33 | 9 | 8 | ADDED 2026-08-08 (Jamie's session, real-vampire check) — "feels like they would be at the table much more than the others." A guest hunting other guests socially and literally, seated at the table itself, not a background watcher. Draws on any nontoken death — Vampire-flavored version of the Deathgreeter/Harvester of Souls job, but a sharper character. |
 | Old Flitterfang | {4}{B} | $0.37 | 9 | 7 | ADDED 2026-08-08 — "he's eating a cherry pie in his card picture." A rat-faerie scavenger who follows the party around, quietly picking up scraps after every death — makes Food whenever any creature at the table dies. A real Spectator, matches Leering Onlooker's register. |
-| Ayara, First of Locthwain | {B}{B}{B} | $9.85 | 9 | 9 | ADDED 2026-08-08 (Jamie's catch) — literally "First of Locthwain," ruler of the same house as Castle Locthwain and Court of Locthwain already in the deck. Drains 1 life on every black creature ETB (this deck runs many), sac-a-black-creature-for-a-card is a cheap repeatable draw engine feeding Korvold's sac plan directly. Fills the true final slot: 98 + Court of Locthwain + Ayara = 100 exactly, no cut needed. |
+| Ayara, First of Locthwain | {B}{B}{B} | $9.85 | 9 | 9 | ADDED 2026-08-08 (Jamie's catch) — literally "First of Locthwain," ruler of the same house as Castle Locthwain (Court of Locthwain has since been cut 2026-08-20, see Praetor's Counsel note). Drains 1 life on every black creature ETB (this deck runs many), sac-a-black-creature-for-a-card is a cheap repeatable draw engine feeding Korvold's sac plan directly. |
 | ~~Havoc Jester~~ | {4}{R} | $0.17 | 9 | 8 | CUT 2026-08-06 — lost the audition to Mayhem Devil (see below): same role, worse mechanics. |
 | Mayhem Devil | {1}{B}{R} | $0.30 | 8 | 9 | ⭐ Arlo's audition, 2026-08-06 — "the guest who keeps making cutting remarks until the room descends into chaos." Triggers on ANY player's sacrifice (not just yours), so he punishes opponents' own fetches/edicts too — half Havoc Jester's cost with strictly better utility. Won the seat. |
 | ~~Bello, Bard of the Brambles~~ | {1}{R}{G} | $1.82 | 8 | 7 | CUT 2026-08-07 (Jamie) — "a literal trash panda turning trashy artifacts into workhorses. While bard fits, I don't think he does." Right mechanics, wrong character for this room. |
@@ -687,6 +807,7 @@ flagged not cut, $14.38 is a real jump, Jamie's call if wanted.
 | ~~Read the Bones~~ | {2}{B} | $0.32 | CUT 2026-08-08 — redundant with Night's Whisper/Phyrexian Arena (see changelog); this row was stale/still showing live in error, corrected. |
 | ~~Phyrexian Arena~~ | {1}{B}{B} | $3.94 | SWAPPED 2026-08-08 (Jamie) — "Arena" reads as gladiatorial combat, wrong venue for a banquet. Enchantment, exempt from the guest-test, but the name itself clashed. |
 | Dark Prophecy | {B}{B}{B} | $6.17 | ADDED 2026-08-08 (replacing Phyrexian Arena) — same card-advantage job, but a real scene: whoever this represents profits every time a guest dies at the table, not on an abstract clock. Triggers far more often than Arena's flat once-per-turn in a deck this sacrifice-heavy — a mechanical upgrade, not just a reskin. Enchantment, exempt from the guest-test. |
+| Praetor's Counsel | {5}{G}{G}{G} | $2.28 | ADDED 2026-08-20 (replacing Court of Locthwain) — repeated playtesting surfaced two real late-game problems: the deck generates more cards than Jamie can keep (repeated cleanup-step discards once Korvold/monarch/sac-draw engines get rolling), and important pieces pile up in the graveyard through sacrifice, wipes, discard, and occasional mill. Praetor's Counsel solves both in one card: the whole graveyard returns to hand, and no maximum hand size for the rest of the game. The 8-mana cost is fine on purpose — this is an Act III recovery/reset card, not something the deck wants early; by the time it's cast the graveyard should already hold enough to justify it. Narratively, the Court doesn't need a matching black counterpart — this reads as the council reconvening after the banquet's gone wrong, the lost guests and resources returning for the final act. Spell, exempt from the guest-test. |
 
 ### ⚔️ Removal
 | Card | Cost | Price | Note |
@@ -806,7 +927,7 @@ for a fancy affair, even on an otherwise-fine bounce-land.
 | The carriage ride | Dragonskull Summit | $0.43 | Arriving at the grounds |
 | The bridge onto the grounds | Mosswort Bridge | $0.35 | Crossing onto the property |
 | The servants' secret entrance | Rogue's Passage | $0.58 | A guest — or something worse — slips in unseen; makes a creature unblockable |
-| The gardens | Highland Forest | $0.46 | SWAPPED 2026-08-08 (was Rockfall Vale) — same land-tax audit; Highland Forest is a real Mountain Forest typed land Jamie already owns, no ongoing cost. Approaching through the manicured grounds. |
+| The gardens | Rootbound Crag | $0.28 | SWAPPED 2026-08-09 (was Highland Forest — Jamie's own Forge swap) — real Mountain/Forest check land, same job. Approaching through the manicured grounds. |
 | The dark fairy-tale garden | Necroblossom Snarl | $0.37 | SWAPPED 2026-08-08 (was Deathcap Glade, then Haunted Mire) — same audit; Necroblossom Snarl is a real Swamp Forest typed land (reveal a Swamp/Forest to enter untapped, same family as Foreboding Ruins already in the deck), no ongoing tax. The overgrown, slightly sinister corner of the grounds. |
 | The estate gates | Blackcleave Cliffs | $2.62 | Arriving at the manor proper |
 | The sister house | Castle Embereth | $0.29 | ADDED 2026-08-08 — the Embereth wing of the estate, sister house to Castle Locthwain. Real found location: Court of Embereth already has a castle counterpart just waiting to be added to the map. |
@@ -818,11 +939,16 @@ for a fancy affair, even on an otherwise-fine bounce-land.
 | Card | Price | Note |
 |---|---|---|
 | Command Tower | $0.24 | Auto-include tier, no real "scene" but foundational |
-| Path of Ancestry | ~$0.20 | Any-color-in-identity + scry |
+| ~~Path of Ancestry~~ | ~$0.20 | CUT 2026-08-09 (Jamie's own Forge swap) — any-color fixing, but lost its slot to real Korvold-synergy fetch/typed lands. |
 | Exotic Orchard | ~$0.20 | An elegant estate garden (Arlo's read) |
 | Cascading Cataracts | $2.35 | A decorative fountain — colorless fixing at 5+ lands |
 | Turbulent Fen | $6.51 | SWAPPED 2026-08-08 (was Jungle Hollow) — same land-tax/typed-dual audit; Turbulent Fen is a real Swamp Forest typed land, same B/G colors, effectively untapped by the time it matters in a 4-player pod (needs opponents at 8+ combined lands). |
 | Foreboding Ruins | $0.22 | Cheap fixing filler |
+| Evolving Wilds | $0.24 | ADDED 2026-08-09 (Jamie's ask — "wouldn't we want Evolving Wilds or Terramorphic in here? that's sac-ing something") — the estate's boundary shifting; sac to fetch a basic AND feed Korvold directly (+1/+1 counter, draw a card) on the sacrifice, unlike most ramp spells which just tutor a land with no trigger. |
+| Terramorphic Expanse | $0.24 | ADDED 2026-08-09 — same job as Evolving Wilds, same Korvold-synergy sac trigger; a second copy of the effect for redundancy. |
+| Fabled Passage | $1.03 | ADDED 2026-08-09 — the upgrade version: same fetch-and-feed-Korvold effect, but comes in UNTAPPED once you control 4+ other lands. |
+| Boiling Rock Prison | $0.20 | ADDED 2026-08-09 (Jamie's own Forge swap) — B/R, enters tapped, taps for two colors, and late-game can sac itself for a card at {4} — real Korvold fodder with a late-game upside mode. |
+| Omashu City | $0.19 | ADDED 2026-08-09 (Jamie's own Forge swap) — R/G sibling of Boiling Rock Prison, same job, same late-game sac-for-a-card mode. |
 | Karplusan Forest (painland) | $0.40 | Flagged not auto-included — Jamie dislikes painlands generally per her deck-identity notes |
 
 **Considered and cut — wrong colors or the price genuinely didn't earn it:**
@@ -1090,7 +1216,6 @@ Trail of Crumbs, Patron of the Vein → The Underworld Cookbook.
 | $8.36 | NM | Luxury Suite | https://manapool.com/card/msc/252/luxury-suite |
 | $7.88 | NM | Ayara, First of Locthwain | https://manapool.com/card/eld/75/ayara-first-of-locthwain |
 | $6.51 | NM | Turbulent Fen | https://manapool.com/card/sos/419/turbulent-fen |
-| $6.20 | NM | Court of Locthwain | https://manapool.com/card/woc/23/court-of-locthwain |
 | $6.17 | NM | Dark Prophecy | https://manapool.com/card/m14/93/dark-prophecy |
 | $5.75 | NM | Court of Embereth | https://manapool.com/card/woc/24/court-of-embereth |
 | $3.75 | NM | Vraska, Golgari Queen | https://manapool.com/card/grn/213/vraska-golgari-queen |
@@ -1419,6 +1544,39 @@ Trail of Crumbs, Patron of the Vein → The Underworld Cookbook.
       ownership-data caveat in the Cards to Purchase section below). Sol
       Ring confirmed already owned; Blood Fountain, Trail of Crumbs, and
       The Underworld Cookbook all confirmed not owned, ~$0.20-0.25 each.
+*   **2026-08-09 (Jamie's own Forge swap, manabase):** Five land changes made
+    directly in Forge during play, reconciled back into the deck record:
+    *   **Out:** Highland Forest, Path of Ancestry.
+    *   **In:** Rootbound Crag (same Mountain/Forest check-land job as
+        Highland Forest, no ongoing cost), Foggy Bottom Swamp, Boiling Rock
+        Prison (B/R, taps for two colors, late-game sac-for-a-card mode),
+        Omashu City (R/G sibling of Boiling Rock Prison, same job).
+    *   **In (Jamie's ask — "wouldn't we want Evolving Wilds or Terramorphic
+        in here? that's sac-ing something"):** Evolving Wilds, Terramorphic
+        Expanse, Fabled Passage — all three fetch-and-feed-Korvold directly
+        (+1/+1 counter, draw a card, on the sacrifice trigger), unlike a
+        plain tutor-a-land effect. Fabled Passage is the upgrade of the
+        three: comes in untapped once 4+ other lands are in play.
+    *   Basic split rebalanced 9/4/6 (Swamp/Mountain/Forest) → 8/3/3 to make
+        room for the five new nonbasic slots without cutting spells.
+*   **2026-08-20:** Court of Locthwain → Praetor's Counsel. Court of
+    Locthwain repeatedly failed its playtest audition — Jamie found herself
+    discarding it rather than wanting to cast it, while Court of Embereth
+    consistently proved valuable. No need to preserve the Courts as a pair.
+    Real games also exposed two problems Court of Locthwain didn't solve:
+    the deck generates more cards than Jamie can keep (repeated
+    cleanup-step discards once Korvold/monarch/sac-draw engines get
+    rolling), and important engine pieces accumulate in the graveyard
+    through sacrifice, wipes, discard, and occasional mill. Praetor's
+    Counsel solves both in one late-game card — full graveyard back to
+    hand, no maximum hand size for the rest of the game. The 8-mana cost
+    is intentional: this is an Act III recovery/reset card, not something
+    wanted early. Narratively, the Court doesn't need a matching black
+    counterpart — this reads as the council reconvening after the banquet
+    has gone wrong, the lost guests/resources returning for the final act.
+    **Status note:** the physical deck is now fully purchased — all cards
+    have arrived. This is a live 100-card update to an owned deck, not a
+    planning-stage swap.
 
 ---
 
@@ -1461,7 +1619,7 @@ DECK:
 1 Vraska, Golgari Queen  
 1 Custodi Lich  
 1 Court of Embereth  
-1 Court of Locthwain  
+1 Praetor's Counsel  
 1 Falkenrath Aristocrat  
 1 Falkenrath Noble  
 1 Vampire Socialite  
@@ -1520,7 +1678,8 @@ DECK:
 1 Dragonskull Summit  
 1 Mosswort Bridge  
 1 Rogue's Passage  
-1 Highland Forest  
+1 Rootbound Crag  
+1 Foggy Bottom Swamp  
 1 Necroblossom Snarl  
 1 Blackcleave Cliffs  
 1 Castle Locthwain  
@@ -1528,15 +1687,19 @@ DECK:
 1 Woodland Cemetery  
 1 Bojuka Bog  
 1 Command Tower  
-1 Path of Ancestry  
 1 Exotic Orchard  
 1 Cascading Cataracts  
 1 Turbulent Fen  
 1 Foreboding Ruins  
 1 Cinder Glade  
 1 Luxury Suite  
-9 Swamp  
-4 Mountain  
-6 Forest  
+1 Evolving Wilds  
+1 Terramorphic Expanse  
+1 Fabled Passage  
+1 Boiling Rock Prison  
+1 Omashu City  
+8 Swamp  
+3 Mountain  
+3 Forest  
 
 SIDEBOARD:  

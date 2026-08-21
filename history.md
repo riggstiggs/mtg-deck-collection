@@ -1,5 +1,14 @@
 # Project History: MTG Deck Collection
 
+## 🗓️ August 2026: Korvold ("The Guest List") — Physically Complete & Promoted to Owned
+
+### 2026-08-20: Korvold, Fae-Cursed King — Promoted to Owned (all 100 cards received)
+*   **Promotion:** Moved `commander_decks/Planning/Korvold/` → `commander_decks/Owned/Korvold/`. All 100 physical cards are in hand; this is now a live, piloted deck rather than a planning-stage list.
+*   **Reconciled a pending manabase overhaul that had never been committed:** Jamie made five land swaps directly in Forge across recent games (Highland Forest → Rootbound Crag, Path of Ancestry cut, Foggy Bottom Swamp/Boiling Rock Prison/Omashu City added, plus Evolving Wilds/Terramorphic Expanse/Fabled Passage added specifically so cracking a fetch also feeds Korvold's sacrifice trigger) — these existed only as an uncommitted local diff since 2026-08-09 and are now captured in git.
+*   **Card swap:** Court of Locthwain → Praetor's Counsel. Court of Locthwain was repeatedly discarded rather than cast across playtesting and never earned its card-advantage seat; the deck stopped needing the two Courts to be a matched pair once that was clear. Praetor's Counsel solves two problems real games surfaced instead: cards outpacing hand size (repeated cleanup-step discards) and important pieces getting stuck in the graveyard (sacrifice/wipes/discard/mill) — full graveyard back to hand plus no maximum hand size, intentionally an Act III recovery card, not an early play.
+*   **Recorded a full "Playtesting Conclusions" section** in the deck's README capturing institutional knowledge that piloting real games produced and that a card-swap log alone would have let quietly go stale: Korvold is not required for the deck to function or win (it has closed games through the aristocrats/Guests layer alone after he left the board); don't auto-cast him on curve — hold him until fodder is actually ready; "Dessert Phase"/Act III is a deck state, not a Korvold-specific trigger; the deck's intended shape is quietly assembling innocuous pieces then exploding, not tabling every payoff early; sacrificing fetch lands late is intentional (fixing now, Korvold value later), not a misplay; overlapping ramp/fixing pieces are infrastructure, not redundancy; a two-land hand is generally a mulligan unless it also has green plus an immediately usable ramp/fix line; card draw is abundant once online, which is why the deck needed graveyard recovery and more hand size rather than more raw draw. Also logged proven-performer status for Court of Embereth, Rapacious Guest, Marchesa's Decree, Feast of Succession, and Taste of Death, and a "useful, not sacred" verdict on Old Flitterfang.
+*   **Bracket:** 3 — unchanged, no Game Changers introduced by the swap (checked against `COMMANDER_DECKBUILDING_RULES.md`).
+
 ## 🗓️ August 2026: Tom Bombadil — "Once Upon a Time"
 
 ### 2026-08-16: Tom Bombadil — New Five-Color Storybook Deck Added to Planning

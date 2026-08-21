@@ -181,3 +181,75 @@ Avg creatures per seat (end T10): 4.7
   checks aggregate color availability, not specifically whether BB/BBB
   costs come together — still an open watch-item for real games, not
   something more sims will resolve.
+
+## 2026-08-20 — Post manabase overhaul + Court of Locthwain → Praetor's Counsel (20 sims, T10 turns)
+
+**Command:**
+```
+python3 scripts/multiplayer_goldfish.py "commander_decks/Owned/Korvold/moxfield_import.txt" --sims 20 --turns 10
+```
+
+**Results:**
+```
+====================================================================
+RUNNING 20 x 4-PLAYER SIMULATIONS
+Commander: Korvold, Fae-Cursed King (CMC 5)
+====================================================================
+
+  Sim 1: Commander cast 4/4  |  Earliest: T3    |  Turns: [5, 4, 5, 3]  |  Avg creatures: 4.2
+  Sim 2: Commander cast 4/4  |  Earliest: T4    |  Turns: [8, 5, 6, 4]  |  Avg creatures: 4.0
+  Sim 3: Commander cast 4/4  |  Earliest: T5    |  Turns: [5, 5, 6, 5]  |  Avg creatures: 4.8
+  Sim 4: Commander cast 4/4  |  Earliest: T4    |  Turns: [6, 5, 7, 4]  |  Avg creatures: 4.5
+  Sim 5: Commander cast 4/4  |  Earliest: T4    |  Turns: [4, 4, 4, 5]  |  Avg creatures: 3.2
+  Sim 6: Commander cast 4/4  |  Earliest: T2    |  Turns: [5, 2, 3, 4]  |  Avg creatures: 4.8
+  Sim 7: Commander cast 4/4  |  Earliest: T2    |  Turns: [2, 4, 5, 3]  |  Avg creatures: 5.8
+  Sim 8: Commander cast 4/4  |  Earliest: T4    |  Turns: [5, 4, 9, 4]  |  Avg creatures: 4.5
+  Sim 9: Commander cast 4/4  |  Earliest: T3    |  Turns: [4, 3, 3, 4]  |  Avg creatures: 4.8
+  Sim 10: Commander cast 4/4  |  Earliest: T2    |  Turns: [2, 3, 3, 4]  |  Avg creatures: 4.2
+  Sim 11: Commander cast 2/4  |  Earliest: T4    |  Turns: [5, 4]  |  Avg creatures: 3.8
+  Sim 12: Commander cast 4/4  |  Earliest: T3    |  Turns: [4, 4, 4, 3]  |  Avg creatures: 5.2
+  Sim 13: Commander cast 4/4  |  Earliest: T3    |  Turns: [3, 3, 4, 5]  |  Avg creatures: 4.0
+  Sim 14: Commander cast 4/4  |  Earliest: T4    |  Turns: [5, 4, 4, 5]  |  Avg creatures: 3.5
+  Sim 15: Commander cast 4/4  |  Earliest: T4    |  Turns: [5, 8, 5, 4]  |  Avg creatures: 5.8
+  Sim 16: Commander cast 4/4  |  Earliest: T4    |  Turns: [5, 4, 5, 8]  |  Avg creatures: 5.2
+  Sim 17: Commander cast 4/4  |  Earliest: T3    |  Turns: [5, 5, 7, 3]  |  Avg creatures: 4.0
+  Sim 18: Commander cast 4/4  |  Earliest: T4    |  Turns: [4, 4, 9, 4]  |  Avg creatures: 5.0
+  Sim 19: Commander cast 3/4  |  Earliest: T4    |  Turns: [5, 6, 4]  |  Avg creatures: 3.5
+  Sim 20: Commander cast 4/4  |  Earliest: T3    |  Turns: [6, 4, 3, 4]  |  Avg creatures: 6.2
+
+--------------------------------------------------------------------
+AGGREGATE
+--------------------------------------------------------------------
+  Commander cast rate: 77/80 (96%)
+  Range:     T2 - T9
+  Average:   T4.5
+  Distribution:
+    T 2: ### (3)
+    T 3: ############ (12)
+    T 4: ############################ (28)
+    T 5: ###################### (22)
+    T 6: ##### (5)
+    T 7: ## (2)
+    T 8: ### (3)
+    T 9: ## (2)
+
+  Avg creatures per seat (end T10): 4.5
+```
+
+**Notes:**
+- Re-validation after two changes since the last logged run: (1) reconciling
+  Jamie's own in-Forge manabase swaps (Highland Forest → Rootbound Crag,
+  Path of Ancestry cut, Foggy Bottom Swamp/Boiling Rock Prison/Omashu City
+  added, Evolving Wilds/Terramorphic Expanse/Fabled Passage added for the
+  fetch-feeds-Korvold synergy), and (2) Court of Locthwain → Praetor's
+  Counsel (an 8-mana spell, not a land, so no manabase impact from this
+  swap specifically).
+- 96%/T4.5 is consistent with (in fact marginally better than) the prior
+  95-98%/T4.6-4.8 range across every earlier run — the manabase changes
+  read as neutral-to-positive for consistency, not a regression, and
+  Praetor's Counsel's added mana value doesn't show up here since this
+  simulator measures commander deployment, not late-game spell casting.
+- This run also coincides with the deck's promotion to Owned — all 100
+  physical cards have arrived. Treat this as the validated baseline for
+  the physically-built version of the deck going forward.
+

@@ -30,6 +30,7 @@ Decks physically built and ready for play.
 *   **Meren Reanimator:** Golgari graveyard value.
 *   **Sauron Midrange:** Grixis Amass and Ring Temptation.
 *   **Incredible Hulk (Gamma Smash):** Temur +1/+1 counters / Gamma Tribal (Bruce Banner // The Incredible Hulk). Bracket 3.
+*   **Korvold, Fae-Cursed King ("The Guest List"):** Jund aristocrats/sacrifice as a banquet screenplay — a cast, a setting, and an ending, not just a theme. Bracket 3.
 *   **The Ur-Dragon (Kibler's Flight):** 5-Color Dragon Tribal. Bracket 2 Mid-Budget version.
 *   **Preconstructed Decks:** Original and modified PreCons (Ashling, Bello, Disa, Ulalek, etc.).
 

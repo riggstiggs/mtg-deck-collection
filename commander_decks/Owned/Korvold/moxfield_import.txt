@@ -67,7 +67,8 @@ DECK:
 1 Dragonskull Summit
 1 Mosswort Bridge
 1 Rogue's Passage
-1 Highland Forest
+1 Rootbound Crag
+1 Foggy Bottom Swamp
 1 Necroblossom Snarl
 1 Blackcleave Cliffs
 1 Castle Locthwain
@@ -75,13 +76,17 @@ DECK:
 1 Woodland Cemetery
 1 Bojuka Bog
 1 Command Tower
-1 Path of Ancestry
 1 Exotic Orchard
 1 Cascading Cataracts
 1 Turbulent Fen
 1 Foreboding Ruins
 1 Cinder Glade
 1 Luxury Suite
-9 Swamp
-4 Mountain
-6 Forest
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Fabled Passage
+1 Boiling Rock Prison
+1 Omashu City
+8 Swamp
+3 Mountain
+3 Forest
